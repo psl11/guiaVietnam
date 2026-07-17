@@ -1,0 +1,43 @@
+slug: vietnam-artes-vivas
+trip: vietnam
+part: vietnam
+order: 7
+emblem: loto
+kicker: Vietnam · artes del delta
+title: Vietnam en vivo — marionetas, ca trù y trance
+epithet: >-
+  Tres artes vivas del delta del río Rojo que no están en ningún museo: se ven de noche, en salas
+  pequeñas, y son lo más parecido a viajar mil años sin salir de Hanoi.
+sections:
+  - heading: Las marionetas de agua
+    body: |
+      El *múa rối nước* nació hace un milenio en los arrozales inundados del delta: los titiriteros,
+      ocultos tras una cortina y metidos hasta la cintura en el agua, manejan con varas largas unas
+      marionetas de madera lacada que **bailan sobre la superficie de una piscina**, entre dragones
+      que escupen fuego y campesinos que plantan arroz. El **Teatro Thăng Long** (57 Đinh Tiên Hoàng,
+      junto al lago Hoàn Kiếm) es el histórico: 50 minutos, orquesta en vivo con el **đàn bầu** —la
+      cítara de una sola cuerda—. Es turístico por definición (un arte de aldea llevado a teatro),
+      pero no es una trampa: es la forma realista de ver este arte milenario. Reservar; filas
+      delanteras laterales para las fotos.
+  - heading: El ca trù — la gema
+    body: |
+      Canto de cámara de la corte y las casas de té, **declarado por la UNESCO patrimonio «en
+      peligro»**: una cantante que marca el ritmo con unas castañuelas de bambú (*phách*), un laúd de
+      tres cuerdas y un tambor de elogio que el público toca para aprobar un verso. Es lo contrario
+      del espectáculo para autobuses: público de 20–40 personas, en una casa comunal. **Esto sí es
+      una gema.** Se oye en el **Ca Trù Hanoi Club** (Đình Kim Ngân, 42–44 Hàng Bạc) y en el **Ca Trù
+      Thăng Long**; confirmad los días, que rotan.
+  - heading: El trance — hầu đồng / Đạo Mẫu
+    body: |
+      El ritual del culto a las Diosas Madres (ver *el tam giáo*): una médium entra en trance y
+      **encarna, uno tras otro, a una galería de espíritus** —mandarines, princesas, generales—,
+      cambiándose de traje para cada uno y bailando con música ceremonial hipnótica (*chầu văn*). La
+      ceremonia real ocurre en templos como el Phủ Tây Hồ sin calendario público; la versión escénica
+      digna es **«Tứ Phủ» (Cuatro Palacios)** — comprobad si sigue en cartel. Perseguido como
+      superstición hasta los años 80, hoy es patrimonio UNESCO: de lo más extraordinario que ofrece
+      el país.
+seenIn:
+  - ref: '#teatro-thang-long'
+    label: Teatro Thăng Long
+  - ref: '#ca-tru-hang-bac'
+    label: Ca Trù · Hàng Bạc
