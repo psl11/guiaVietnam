@@ -1,33 +1,44 @@
+/* Tokens de color — paleta "Sơn mài" (laca vietnamita + índigo).
+   Diferencia con Roma: papel más frío (arroz/seda cruda, no crema amarilla), rojo desplazado a
+   CINABRIO de laca, e ÍNDIGO CHÀM como segundo polo real (el tinte que se ve teñir en Lung Tam).
+   El oro es pan de oro de Angkor. El tema oscuro es una "caja de laca". Validado en el mockup. */
 :root {
-  --bg: #f5f0e8;
-  --bg-elev: #fbf7f0;
-  --bg-soft: #ede5d7;
-  --ink: #2a2520;
-  --ink-soft: #5c534a;
-  --ink-faint: #8a8074;
-  --accent: #8b3a3a;
-  --accent-soft: #b85c5c;
-  --gold: #a07c4a;
-  --gold-soft: #c4a373;
-  --line: #d4c8b3;
-  --line-soft: #e5dccb;
-  --shadow: 0 1px 3px rgba(60,40,20,.08), 0 12px 32px rgba(60,40,20,.06);
-  --shadow-elev: 0 2px 8px rgba(60,40,20,.12), 0 24px 48px rgba(60,40,20,.10);
+  --bg:         #ece7db; /* papel de arroz / seda cruda */
+  --bg-elev:    #f5f1e8; /* ficha elevada */
+  --bg-soft:    #e1dacb; /* hundido */
+  --ink:        #24272b; /* tinta china, sesgo frío (NO el marrón de Roma) */
+  --ink-soft:   #55585c;
+  --ink-faint:  #8a887f;
+  --accent:     #9c3a2a; /* cinabrio de laca — narrativa */
+  --accent-soft:#bd5541;
+  --indigo:     #2f4858; /* chàm — consulta */
+  --indigo-soft:#4a6274;
+  --gold:       #a67c3d; /* pan de oro */
+  --gold-soft:  #c6a25f;
+  --line:       #cec6b4;
+  --line-soft:  #e0d9c9;
+  --shadow:     0 1px 3px rgba(40,32,20,.07), 0 12px 32px rgba(40,32,20,.06);
+  --shadow-elev:0 2px 8px rgba(40,32,20,.11), 0 24px 48px rgba(40,32,20,.09);
+
+  /* Relleno índigo fijo de las cabeceras de ficha (mismo en ambos temas: es su propio mundo). */
+  --ficha-fill: #2b4756;
 }
 
 [data-theme="dark"] {
-  --bg: #1a1612;
-  --bg-elev: #221d18;
-  --bg-soft: #2a241e;
-  --ink: #e8dfd0;
-  --ink-soft: #b8aa95;
-  --ink-faint: #7a6f5e;
-  --accent: #c4665a;
-  --accent-soft: #a04545;
-  --gold: #c4a373;
-  --gold-soft: #d4b88a;
-  --line: #3a3027;
-  --line-soft: #2e2820;
-  --shadow: 0 1px 3px rgba(0,0,0,.4), 0 12px 32px rgba(0,0,0,.3);
-  --shadow-elev: 0 2px 8px rgba(0,0,0,.5), 0 24px 48px rgba(0,0,0,.4);
+  --bg:         #15171a; /* laca negra */
+  --bg-elev:    #1e2124;
+  --bg-soft:    #262a2e;
+  --ink:        #e7e2d6;
+  --ink-soft:   #b1ab9b;
+  --ink-faint:  #756e5f;
+  --accent:     #d06a52;
+  --accent-soft:#b04a38;
+  --indigo:     #86a1b0;
+  --indigo-soft:#6a8494;
+  --gold:       #c9a768;
+  --gold-soft:  #dcc08d;
+  --line:       #353a3e;
+  --line-soft:  #282c30;
+  --shadow:     0 1px 3px rgba(0,0,0,.4), 0 12px 32px rgba(0,0,0,.32);
+  --shadow-elev:0 2px 8px rgba(0,0,0,.5), 0 24px 48px rgba(0,0,0,.42);
 }

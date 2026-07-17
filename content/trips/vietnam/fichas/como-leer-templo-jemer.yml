@@ -1,0 +1,67 @@
+slug: como-leer-templo-jemer
+trip: vietnam
+part: camboya
+order: 1
+emblem: templo
+kicker: Camboya · cómo mirar
+title: Cómo leer un templo jemer
+epithet: >-
+  Todo templo jemer es un mapa del universo hindú, y caminar hacia su santuario es viajar del mundo
+  de los hombres al mundo de los dioses.
+sections:
+  - heading: El templo-montaña es el monte Meru
+    body: |
+      En la cosmología hindú —heredada después por el budismo— el universo se ordena en torno al
+      **monte Meru**: una montaña dorada de cinco picos que es el *eje del mundo* y la morada de los
+      dioses, rodeada por cadenas de montañas concéntricas y por el océano primordial. No era una
+      metáfora lejana: para el jemer medieval, esa era la geografía literal del cosmos.
+
+      Y aquí está la clave que lo cambia todo. Un templo de estado no *representa* el Meru: *es* el
+      Meru, replicado en piedra para **anclar el orden del universo en el reino**. El rey que lo
+      levanta —el *devarāja*, el «dios-rey», la idea de que el monarca es una encarnación terrenal de
+      la divinidad— se funde con el dios del santuario central. Construir la montaña sagrada era, a
+      la vez, un acto religioso y la afirmación de que su poder formaba parte del cosmos.
+
+      Sobre el terreno se lee así: las **cinco torres en quincunce** de Angkor Wat son los cinco
+      picos (solo se ven las cinco a la vez desde ciertos ángulos —por eso los estanques de la
+      explanada); las **tres terrazas concéntricas**, los niveles ascendentes del cosmos; y el
+      **foso de 190 metros** no es defensa militar sino el **océano primordial**, con la muralla como
+      las cordilleras que cierran el mundo. Por eso cruzar la calzada sobre el foso es, literalmente,
+      pasar del mundo de los hombres al de los dioses.
+  - heading: La orientación y el enigma de Angkor Wat
+    body: |
+      Casi todos los templos jemeres miran al **este**, al sol naciente. Angkor Wat mira al
+      **oeste**, y esa anomalía alimenta un debate clásico: la lectura funeraria (el oeste es la
+      dirección de la muerte, y los bajorrelieves se recorren en sentido antihorario, propio de los
+      ritos fúnebres) frente a la vaishnava (el oeste es la dirección de **Vishnu**, a quien el
+      templo está dedicado). Probablemente ambas a la vez, porque el rey difunto se fundía con
+      Vishnu. Consecuencia práctica: Angkor Wat es el único gran templo que se **ilumina de frente al
+      atardecer**, y el famoso amanecer se ve a contraluz, con el sol saliendo *detrás* de las torres.
+  - heading: El vocabulario de piedra
+    body: |
+      Las **nāgas** —serpientes de siete cabezas— flanquean calzadas y puentes: son el arcoíris que
+      une el mundo de los hombres con el de los dioses. Las **devatās** son las deidades femeninas
+      que custodian los muros *de pie*; las **apsarās**, las que *danzan*. En Angkor Wat hay 1.796
+      catalogadas, y ninguna es exactamente igual a otra: fijaos en los treinta y tantos peinados
+      distintos. Y aprended a mirar el **dintel** (sobre cada puerta, casi siempre con el monstruo
+      *kāla* devorador del tiempo) y el **frontón** (el tímpano triangular encima, con escenas
+      mitológicas completas — los de Banteay Srei son los mejores de todo Angkor).
+  - heading: Las tres capas — y cómo detectarlas
+    body: |
+      Primera: **hinduismo** (siglos IX–XII), templos de Shiva (el *linga*) o Vishnu. Segunda:
+      **budismo mahayana** de Jayavarman VII (finales del XII), con el bodhisattva **Lokeshvara**.
+      Tercera: el **theravada** que llega en el XIII y sigue vivo hoy (los budas envueltos en telas
+      naranjas son culto actual, no arqueología). Y entre medias, la cicatriz: bajo Jayavarman VIII,
+      la reacción hinduista **raspó a cincel miles de budas** de Ta Prohm, Preah Khan y el propio
+      Bayon. Juego de observación: buscad **hornacinas vacías o rectángulos de piedra picoteada**
+      donde debería haber un Buda. Cada muesca es un episodio de guerra ideológica del siglo XIII
+      congelado en la piedra.
+seenIn:
+  - ref: '#angkor-wat'
+    label: Angkor Wat
+  - ref: '#bayon'
+    label: el Bayon
+  - ref: '#ta-prohm'
+    label: Ta Prohm
+  - ref: '#banteay-srei'
+    label: Banteay Srei

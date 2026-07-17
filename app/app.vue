@@ -24,10 +24,10 @@ useHead({
 //    aquí a mano. Ambos se conservan.
 useHead({
   htmlAttrs: { lang: 'es' },
-  title: 'Roma · 19—23 giugno 2026',
+  title: 'Vietnam + Camboya · 11—26 septiembre 2026',
   meta: [
-    { name: 'theme-color', content: '#1a1612', media: '(prefers-color-scheme: dark)' },
-    { name: 'theme-color', content: '#f5f0e8', media: '(prefers-color-scheme: light)' },
+    { name: 'theme-color', content: '#15171a', media: '(prefers-color-scheme: dark)' },
+    { name: 'theme-color', content: '#ece7db', media: '(prefers-color-scheme: light)' },
   ],
 })
 </script>

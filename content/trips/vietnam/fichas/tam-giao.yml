@@ -1,0 +1,62 @@
+slug: tam-giao
+trip: vietnam
+part: vietnam
+order: 1
+emblem: incienso
+kicker: Vietnam · cómo mirar
+title: El tam giáo y la religión vietnamita
+epithet: >-
+  La religión vietnamita no es una afiliación sino una práctica: un vietnamita os dirá que no tiene
+  religión, y a la vez tendrá un altar en casa y quemará incienso el día 1 del mes lunar.
+sections:
+  - heading: Las tres enseñanzas
+    body: |
+      Su matriz se llama **tam giáo**, «las tres enseñanzas»: budismo mahayana, confucianismo y
+      taoísmo, llegadas las tres vía China y fundidas durante siglos con un sustrato aún más
+      antiguo, el **culto a los ancestros**, que es el verdadero cimiento de todo. No compiten: se
+      reparten el trabajo. El **budismo** se ocupa del sufrimiento, la muerte y el más allá; el
+      **confucianismo**, del orden social —la piedad filial, el respeto al mayor, el valor del
+      estudio—; el **taoísmo**, de la fortuna, la salud, los espíritus y lo inexplicable. Un mismo
+      templo puede tener un Buda al fondo, un general deificado en una sala lateral y una diosa
+      madre en la trastienda, y a nadie le parece incoherente.
+  - heading: Tres edificios que las guías traducen todos como «templo»
+    body: |
+      - **Chùa** (pagoda): templo *budista*. Budas, bodhisattvas —sobre todo Quan Âm, la femenina
+        «diosa de la misericordia»—, monjes, incienso. Ejemplos: la pagoda Trấn Quốc en Hanoi,
+        Bích Động en Ninh Bình.
+      - **Đền** (templo): dedicado a un *espíritu o héroe deificado* —Trần Hưng Đạo, las hermanas
+        Trưng, las diosas madres—. El templo Ngọc Sơn del lago Hoàn Kiếm es un đền.
+      - **Đình** (casa comunal): el edificio cívico-religioso de cada pueblo, donde reside el
+        espíritu tutelar local. Es el ayuntamiento sagrado del Vietnam rural.
+  - heading: El altar de los ancestros
+    body: |
+      Es la institución religiosa más universal: una repisa alta en el mejor lugar de cada casa
+      —también en tiendas, restaurantes y hasta en el salpicadero de los taxis— con fotos de los
+      muertos, incienso, fruta, a veces los cigarrillos o el licor que le gustaban al abuelo. Los
+      muertos no se van: se les informa de las bodas, se les ofrece comida en el aniversario de su
+      muerte (el *giỗ*, más importante que el cumpleaños) y se les quema **dinero votivo de papel**
+      —y hoy, iPhones y motos de cartón— para que no pasen estrecheces en el otro mundo. Esos fajos
+      de billetes falsos ardiendo en las aceras de Hanoi son eso.
+  - heading: Đạo Mẫu y el trance
+    body: |
+      Lo más vistoso es el **Đạo Mẫu**, el culto a las Diosas Madres, religión indígena anterior y
+      paralela al tam giáo, con su ritual estrella: el **hầu đồng** o **lên đồng**. Una médium entra
+      en trance y encarna sucesivamente a una galería de espíritus —mandarines, princesas,
+      generales—, cambiándose de traje para cada uno, bailando con espadas, repartiendo dinero de la
+      suerte, todo con música ceremonial (*chầu văn*) hipnótica. Perseguido como superstición hasta
+      los años 80, la UNESCO lo inscribió en 2016 como patrimonio inmaterial. Si tenéis ocasión de
+      ver uno, es de lo más extraordinario que ofrece el país.
+  - heading: Cómo comportarse en un templo
+    body: |
+      Hombros y rodillas cubiertos; descalzarse donde se descalcen los locales (umbral con zapatos
+      amontonados = señal inequívoca); **no pisar el travesaño de madera de los umbrales** (se pasa
+      por encima: detiene a los malos espíritus); no señalar a las imágenes con el dedo ni darles la
+      espalda para un selfie; fotografiar sin flash y nunca a alguien rezando sin permiso. A un
+      extranjero nadie le pedirá liturgia: le pedirán respeto, que es más fácil.
+seenIn:
+  - ref: '#pagoda-tran-quoc'
+    label: Pagoda Trấn Quốc
+  - ref: '#templo-ngoc-son'
+    label: Templo Ngọc Sơn
+  - ref: '#phu-tay-ho'
+    label: Phủ Tây Hồ
