@@ -63,6 +63,8 @@ export const FichaSchema = z.object({
   title: z.string(), // 'Cómo leer un templo jemer'
   epithet: Md.optional(), // la frase-tesis en cursiva bajo el título
   sections: z.array(Section),
+  curiosidades: z.array(Md).optional(), // "Curiosidades": los detalles memorables (anécdotas, cifras
+  // deliciosas, el dato que se queda grabado). Cada uno un markdown, con el gancho en **negrita**.
   seenIn: z.array(Link).optional(), // "dónde lo veréis" → chips
 })
 

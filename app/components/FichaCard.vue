@@ -76,6 +76,23 @@ const EMBLEMS: Record<string, string> = {
       </div>
 
       <div
+        v-if="ficha.curiosidades?.length"
+        class="curiosidades"
+      >
+        <div class="curiosidades-label">
+          Curiosidades
+        </div>
+        <ul>
+          <li
+            v-for="(c, i) in ficha.curiosidades"
+            :key="i"
+          >
+            <MDC :value="c" />
+          </li>
+        </ul>
+      </div>
+
+      <div
         v-if="ficha.seenIn?.length"
         class="seen-in"
       >
