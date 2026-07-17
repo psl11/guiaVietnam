@@ -185,15 +185,13 @@ body {
   display: grid; grid-template-columns: auto 1fr; column-gap: 1.35rem;
   align-items: start; margin-bottom: .4rem;
 }
-/* El numeral es un SVG que ESCALA con la altura del bloque kicker+título (celda del grid que abarca
-   las 2 filas). Así queda igual de fino con 1, 2 o 3 líneas de título, en desktop y en móvil. */
+/* Numeral de tamaño FIJO (idéntico en todos los actos), en su columna. Texto plano contenido: nunca
+   desborda ni invade el título (col 2, separada por column-gap). Se centra vertical contra el bloque
+   kicker+título, así queda equilibrado con 1, 2 o 3 líneas sin escalar ni colisionar. */
 .acto-num {
-  grid-column: 1; grid-row: 1 / span 2; align-self: stretch;
-  height: 100%; width: auto; display: block; overflow: visible;
-}
-.acto-num text {
+  grid-column: 1; grid-row: 1 / span 2; align-self: center;
   font-family: 'Cormorant Garamond', serif; font-style: italic; font-weight: 500;
-  font-size: 88px; fill: var(--accent);
+  font-size: clamp(3.1rem, 4.6vw, 4.1rem); line-height: 1; color: var(--accent);
 }
 .acto-kicker {
   grid-column: 2; grid-row: 1; align-self: end; padding-bottom: .35rem;
@@ -403,7 +401,7 @@ a.chip:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; }
      bucle (título estrecho → más líneas → número más alto → título aún más estrecho → 240px de
      número). Tamaño fijo, numeral + kicker en la fila 1, y el TÍTULO a todo el ancho en la 2. */
   .acto-head { column-gap: .9rem; align-items: center; }
-  .acto-num { grid-row: 1; align-self: center; height: 3.1rem; }
+  .acto-num { grid-row: 1; align-self: center; font-size: 2.9rem; }
   .acto-kicker { align-self: center; padding-bottom: 0; }
   .acto h2 { grid-column: 1 / -1; grid-row: 2; margin-top: .55rem; }
   .hero { padding-top: 2.5rem; }

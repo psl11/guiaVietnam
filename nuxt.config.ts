@@ -91,4 +91,24 @@ export default defineNuxtConfig({
       { name: 'JetBrains Mono', provider: 'none' },
     ],
   },
+
+  // Enlaces EXTERNOS del markdown (Goodreads, Filmaffinity…) → PESTAÑA NUEVA, para no sacar al
+  // lector de la guía y obligarle a volver atrás. MDC ya aplica rehype-external-links (de ahí el
+  // rel="nofollow"); aquí solo le pasamos las opciones target + rel. El parser hace `defu` profundo
+  // con sus defaults, así que la instancia del plugin se conserva. Los enlaces internos (#ancla) no
+  // son "external" para el plugin → se quedan en la misma pestaña (índice, saltos internos).
+  content: {
+    build: {
+      markdown: {
+        rehypePlugins: {
+          'rehype-external-links': {
+            options: {
+              target: '_blank',
+              rel: ['nofollow', 'noopener', 'noreferrer'],
+            },
+          },
+        },
+      },
+    },
+  },
 })

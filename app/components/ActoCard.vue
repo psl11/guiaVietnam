@@ -17,21 +17,15 @@ defineProps<{ acto: Acto }>()
          izquierda; en móvil (ver base.css) numeral+kicker arriba y el título a todo el ancho
          debajo, para que no quede arrinconado en una columna estrecha. -->
     <div class="acto-head">
-      <!-- El numeral va en SVG para que ESCALE con la altura del bloque (kicker + título): con
-           height:100% rellena la celda del grid, así que con 1, 2 o 3 líneas de título siempre
-           abarca de la línea del kicker a la base del título. Sin JS, sin parpadeo. -->
-      <svg
+      <!-- Numeral de TAMAÑO FIJO (mismo en todos los actos = serie coherente), en su propia columna
+           del grid. Texto plano, no SVG: así el glyph nunca desborda su caja ni invade la columna del
+           título. Se centra vertical contra el bloque kicker+título, robusto con 1, 2 o 3 líneas. -->
+      <div
         class="acto-num"
-        viewBox="0 0 60 76"
-        preserveAspectRatio="xMidYMid meet"
         aria-hidden="true"
       >
-        <text
-          x="30"
-          y="70"
-          text-anchor="middle"
-        >{{ acto.numeral }}</text>
-      </svg>
+        {{ acto.numeral }}
+      </div>
       <div class="acto-kicker">
         {{ acto.kicker }}
       </div>
