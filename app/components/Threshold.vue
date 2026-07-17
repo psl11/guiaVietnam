@@ -3,6 +3,7 @@
 // futuro). Tratamiento de revista: aire generoso, filete con estrella dorada, sobrelínea a
 // versalitas, título display grande y una bajada (dek) evocadora en cursiva. Reutilizable por props.
 defineProps<{
+  id?: string // ancla opcional para que el índice flotante salte a este umbral
   overline: string
   title: string // Markdown-inline: la *cursiva* sale en cinabrio
   dek?: string
@@ -10,7 +11,10 @@ defineProps<{
 </script>
 
 <template>
-  <section class="threshold">
+  <section
+    :id="id"
+    class="threshold"
+  >
     <div
       class="threshold-ornament"
       aria-hidden="true"

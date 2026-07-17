@@ -46,6 +46,7 @@ export const ActoSchema = z.object({
   numeral: z.string(), // '4' (árabe; NO romano, NO vietnamita — decisión del mockup)
   kicker: z.string(), // 'Historia de Vietnam · acto cuarto de cinco'
   title: Md, // 'La guerra que aquí llaman *«americana»*' (la cursiva va en cinabrio)
+  navLabel: z.string().optional(), // etiqueta corta para el índice flotante (si falta, se deriva del title)
   lead: Md, // primer párrafo — recibe la capitular
   body: Md, // resto de la prosa (multi-párrafo; las `> citas` se estilan como pull-quotes)
   connect: z.object({ label: z.string(), body: Md }).optional(), // caja "lo veréis sobre el terreno"
@@ -61,6 +62,7 @@ export const FichaSchema = z.object({
   emblem: z.string().default('loto'), // clave del SVG del emblema (ver EMBLEMS en FichaCard)
   kicker: z.string(), // 'Camboya · cómo mirar'
   title: z.string(), // 'Cómo leer un templo jemer'
+  navLabel: z.string().optional(), // etiqueta corta para el índice flotante (si falta, se usa el title)
   epithet: Md.optional(), // la frase-tesis en cursiva bajo el título
   sections: z.array(Section),
   curiosidades: z.array(Md).optional(), // "Curiosidades": los detalles memorables (anécdotas, cifras
@@ -77,6 +79,7 @@ export const InversionSchema = z.object({
   order: z.number(),
   kicker: z.string(), // "Reservar en julio" / "Decisión de dinero"
   title: Md, // "Los vuelos internos"
+  navLabel: z.string().optional(), // etiqueta corta para el índice flotante (si falta, se deriva del title)
   verdict: z.enum(['imprescindible', 'merece', 'solo-si', 'prescindible']), // color del badge
   verdictLabel: z.string(), // texto del badge ("Merece la pena", "Prescindible — y peor"…)
   lede: Md, // la decisión en una frase

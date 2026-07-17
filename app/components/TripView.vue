@@ -15,15 +15,78 @@ const vietnamFichas = computed(() => fichas.value.filter(f => f.part === 'vietna
 const camboyaActos = computed(() => actos.value.filter(a => a.part === 'camboya'))
 const camboyaFichas = computed(() => fichas.value.filter(f => f.part === 'camboya'))
 const hayCamboya = computed(() => camboyaActos.value.length + camboyaFichas.value.length > 0)
+
+// Índice flotante ─────────────────────────────────────────────────────────────
+// Etiqueta corta del índice: navLabel si existe, si no el título sin marcas de markdown.
+const stripMd = (s: string) => s
+  .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1') // [txt](url) → txt
+  .replace(/[*`]/g, '')
+  .trim()
+
+const nav = computed(() => {
+  const groups: { key: string, label: string, anchor: string, items: { id: string, label: string, numeral?: string, kind: 'acto' | 'ficha' | 'inversion' }[] }[] = []
+  groups.push({
+    key: 'vietnam',
+    label: 'Vietnam',
+    anchor: 'top',
+    items: [
+      ...vietnamActos.value.map(a => ({ id: a.slug, label: a.navLabel ?? stripMd(a.title), numeral: a.numeral, kind: 'acto' as const })),
+      ...vietnamFichas.value.map(f => ({ id: f.slug, label: f.navLabel ?? f.title, kind: 'ficha' as const })),
+    ],
+  })
+  if (hayCamboya.value) {
+    groups.push({
+      key: 'camboya',
+      label: 'Camboya',
+      anchor: 'camboya',
+      items: [
+        ...camboyaActos.value.map(a => ({ id: a.slug, label: a.navLabel ?? stripMd(a.title), numeral: a.numeral, kind: 'acto' as const })),
+        ...camboyaFichas.value.map(f => ({ id: f.slug, label: f.navLabel ?? f.title, kind: 'ficha' as const })),
+      ],
+    })
+  }
+  if (inversiones.value.length) {
+    groups.push({
+      key: 'plan',
+      label: 'Parte I · El plan',
+      anchor: 'el-plan',
+      items: inversiones.value.map(i => ({ id: i.slug, label: i.navLabel ?? stripMd(i.title), kind: 'inversion' as const })),
+    })
+  }
+  return groups
+})
+
+const indexOpen = ref(false)
 </script>
 
 <template>
   <header class="topbar">
-    <div class="brand">
-      Vietnam <span class="brand-dot">✦</span> Camboya
+    <div class="topbar-left">
+      <button
+        class="gi-btn"
+        type="button"
+        :aria-expanded="indexOpen"
+        aria-controls="guide-index"
+        @click="indexOpen = !indexOpen"
+      >
+        <span
+          class="gi-btn-icon"
+          aria-hidden="true"
+        >☰</span> Índice
+      </button>
+      <div class="brand">
+        Vietnam <span class="brand-dot">✦</span> Camboya
+      </div>
     </div>
     <ThemeToggle />
   </header>
+
+  <GuideIndex
+    id="guide-index"
+    :groups="nav"
+    :open="indexOpen"
+    @close="indexOpen = false"
+  />
 
   <main class="wrap">
     <section
@@ -65,6 +128,7 @@ const hayCamboya = computed(() => camboyaActos.value.length + camboyaFichas.valu
     <!-- Camboya -->
     <template v-if="hayCamboya">
       <Threshold
+        id="camboya"
         overline="El segundo mundo del viaje"
         title="Camboya · *Angkor*"
         dek="De los mil años de resistencia de Vietnam a los seiscientos de un imperio que talló una montaña entera para ser el centro del universo."
@@ -84,6 +148,7 @@ const hayCamboya = computed(() => camboyaActos.value.length + camboyaFichas.valu
     <!-- Parte I · el plan (usa el Threshold en su segundo cometido: separar plan y contexto) -->
     <template v-if="inversiones.length">
       <Threshold
+        id="el-plan"
         overline="Y ahora, el plan"
         title="Dónde gastar, dónde *no*"
         dek="Aquí no se gasta por gastar. Cada decisión que cuesta dinero llega con su ficha —cuesta, qué compra, la alternativa— y su veredicto. Que algunas salgan «prescindible» es lo que hace que las demás valgan."
