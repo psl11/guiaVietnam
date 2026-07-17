@@ -2,7 +2,7 @@
 // Conmutador de tema de 2 estados — reproduce el `toggleTheme()` del index.html 1:1 (D-08).
 //
 // CONSUME @nuxtjs/color-mode (ya configurado en nuxt.config.ts: dataValue 'theme',
-// storageKey 'roma-theme'); NO lo reconfigura, NO añade script anti-FOUC, NO lee
+// storageKey 'vietnam-theme'); NO lo reconfigura, NO añade script anti-FOUC, NO lee
 // localStorage/window/matchMedia (eso reintroduciría el flash que la fase previene).
 //
 // `useColorMode()` → { preference (escribible), value (solo lectura, RESUELTO), … }.

@@ -74,13 +74,15 @@ const EMBLEMS: Record<string, string> = {
         <div class="seen-in-label">
           Dónde lo veréis
         </div>
+        <!-- Etiquetas, NO enlaces: los destinos (fichas de monumento) son de la Parte I y aún no
+             existen; un <a href="#..."> a un ancla inexistente sería un enlace muerto. Cuando la
+             Parte I añada esas fichas, esto vuelve a ser <a> (el hover de a.chip ya está en base.css). -->
         <div class="chips">
-          <a
+          <span
             v-for="l in ficha.seenIn"
             :key="l.ref"
             class="chip"
-            :href="l.ref"
-          >{{ l.label }}</a>
+          >{{ l.label }}</span>
         </div>
       </div>
     </div>

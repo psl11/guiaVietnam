@@ -74,6 +74,7 @@ body {
   font-family: 'Cormorant Garamond', serif; font-weight: 600;
   font-size: clamp(2.4rem, 6vw, 3.4rem); margin: .6rem 0 0; letter-spacing: -.01em;
 }
+.part-divider h2 em { font-style: italic; color: var(--accent); }
 
 /* ═══ ARCHETIPO 1 · ACTO NARRATIVO (cinabrio) ═════════════════════════════════ */
 .acto { margin: 3.5rem 0; }
@@ -187,8 +188,10 @@ body {
   color: var(--indigo); text-decoration: none;
   transition: background .2s, transform .2s;
 }
-.chip:hover { background: color-mix(in srgb, var(--indigo) 20%, transparent); transform: translateY(-1px); }
-.chip:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; }
+.chip { cursor: default; } /* ahora son etiquetas (span); el hover interactivo se reserva para a.chip */
+a.chip { cursor: pointer; }
+a.chip:hover { background: color-mix(in srgb, var(--indigo) 20%, transparent); transform: translateY(-1px); }
+a.chip:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; }
 
 @media (max-width: 560px) {
   .acto-num { font-size: 4rem; }

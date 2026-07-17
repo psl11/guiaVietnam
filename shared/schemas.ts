@@ -58,7 +58,7 @@ export const FichaSchema = z.object({
   trip: z.string(),
   part: z.enum(['vietnam', 'camboya']),
   order: z.number(),
-  emblem: z.string().default('lotus'), // clave del SVG del emblema (ver EMBLEMS en FichaCard)
+  emblem: z.string().default('loto'), // clave del SVG del emblema (ver EMBLEMS en FichaCard)
   kicker: z.string(), // 'Camboya · cómo mirar'
   title: z.string(), // 'Cómo leer un templo jemer'
   epithet: Md.optional(), // la frase-tesis en cursiva bajo el título
