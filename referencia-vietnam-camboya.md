@@ -91,13 +91,56 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
    > **Veredicto: prescindible.** 214 € por una hora de una noche que dura cinco es gastar por gastar. Y un retraso del VietJet aquí no amenaza nada — el vuelo largo es el 26 a las 20:40.
 
    **Detalle que os favorece**: las tarifas VietJet probablemente no incluyen maleta facturada, pero **voláis solo con cabina** (ver 3.9), así que el diferencial de precio es real y no una trampa. **Sin pánico pero sin esperar**: el VN836 del 25 ya mostraba menos de 9 asientos, señal de que la ruta se llena ese día.
-2. **YA**: reservar el **tour del loop de Ha Giang en formato privado** (2 easy riders, o jeep si el pronóstico de lluvia asusta): Jasmine Tours, QT Motorbikes o Ha Giang Epic (~170-220 €/p easy rider 4D/3N, ~390 €/p jeep; confirmar por escrito permiso fronterizo incluido y política de cambio de fecha flexible). Reservar también **alojamientos**: 2 noches Tam Coc (Tam Coc Windy Fields o similar), 3 noches Siem Reap (Viroth's Villa, Baby Elephant o Rambutan — todos con piscina, zona Wat Bo/Wat Damnak), hoteles de Hanoi (La Siesta Classic Mã Mây o similar con historia).
-3. **YA**: reservar **Cuisine Wat Damnak** (la cena-evento, mar-sáb; avisar menú vegetariano completo) y **Phare** (pharecircus.org) para el 23 o 24.
-4. **Agosto**: **e-visa Camboya** en evisa.gov.kh (30 USD/persona, ~3 días hábiles; SOLO esa URL, hay clones que cobran el doble). **Vietnam: nada — exención de 45 días para España.** Comprobar pasaportes válidos hasta marzo 2027.
-5. **Agosto**: contratar **seguro para ella** (IATI/Heymondo, con evacuación). Centro de Vacunación Internacional: hepatitis A + tétanos al día (llegan a tiempo).
-6. **Del 15 al 21 de septiembre**: **e-Arrival Card de Camboya** en arrival.gov.kh (gratis, solo válida rellenada en los 7 días previos; guardar captura del QR).
-7. **Antes de salir**: sacar **USD en billetes nuevos y pequeños** (muchos de 1, 5 y 10; los rotos se rechazan en Camboya); descargar mapas offline del loop; bolsas de gel de sílice para la cámara; monitorizar tifones desde ~5 de septiembre (nchmf.gov.vn, Windy, JTWC).
-8. **Al llegar (12 sep)**: SIM **Viettel** en el kiosco de llegadas de Noi Bai (~10 USD ≈ 20+ GB; la mejor cobertura en Ha Giang). Para Camboya: eSIM Airalo o SIM Smart en SAI (5 USD = 30 GB).
+2. **YA — reservar el loop de Hà Giang. Decisión: easy rider privado, NO jeep.** `[~ research]` — los precios y los operadores están sin reverificar; ver la acción de verificación al final de este punto.
+
+   > **El jeep (~780 € la pareja) frente al easy rider privado (~340-440 €). Prescindible — y además peor.**
+   > **Cuesta**: ~340 € más por pareja.
+   > **Qué compra**: no mojarte. La propia tabla de 1.2 lo dice sin adornos: *"cómodo si llueve, **mismas vistas**"*.
+   > **Qué cuesta**: el viaje entero. **Mã Pí Lèng desde una ventanilla es una postal; en la moto es la experiencia.** Ese paso es el motivo por el que existe el loop — no se va a Hà Giang a ver el karst, se va a atravesarlo.
+   > **Veredicto: el jeep resuelve el problema equivocado.** El riesgo de septiembre no es mojarte, es un tifón que corta la carretera con un deslizamiento — y de eso un 4x4 no te salva. **El seguro real contra el tifón es la política de cambio de fecha** y la capacidad del operador de reencaminar en tiempo real (1.6). Pagar 340 € por el vehículo equivocado contra el riesgo equivocado es el ejemplo de manual de gastar por gastar.
+   > *(Reabierto bajo el criterio nuevo — el dinero no es la restricción. El veredicto no cambia, pero ahora por el motivo correcto: no es que el jeep sea caro, es que es peor.)*
+
+   > **Privado sobre grupo (dentro del easy rider). Imprescindible.**
+   > **Cuesta**: la parte alta de la horquilla, ~220 €/p en vez de ~155 €/p.
+   > **Qué compra**: ir a vuestro ritmo. Jasmine divide las salidas grandes en **grupos de ~10** — diez motos parando donde el grupo decide. Con un fotógrafo a bordo eso no es un matiz: es la diferencia entre parar cuando la luz está y parar cuando toca.
+   > **Veredicto: imprescindible.** Aquí sí es donde va el dinero.
+
+   > **Habitación privada en los homestays (+28-41 €/noche, ~84-123 € las 3 noches). Merece la pena.**
+   > **Qué compra**: dormir en una habitación en vez de en un colchón del altillo comunal, tras un día de moto y lluvia, con equipo fotográfico que secar y baterías que cargar.
+   > **El contraargumento honesto**: lo comunal *es* parte de la autenticidad. **Pero la autenticidad del homestay es la cena con la familia, no el colchón** — eso lo tenéis igual. **Veredicto: pedirla en las noches que la ofrezcan** (no todos los homestays tienen).
+
+   **Innegociables al reservar, por escrito**: (a) **permiso de zona fronterizo incluido** (~8-10 €/p, exigido de facto desde 2025-26, con controles — ver 1.2); (b) **política de cambio de fecha flexible** (es el seguro antitifón de verdad); (c) que el operador confirme que **reencamina en tiempo real** si se corta una carretera.
+
+   ⚠️ **Cruce con la acción 6 (seguro)**: si vais en easy rider, **la póliza de ella tiene que cubrir pasajero de moto**. La mayoría lo excluye si el piloto no tiene licencia; con easy rider profesional suele estar cubierto, pero **hay que confirmarlo antes de contratar** (1.6). Esta decisión condiciona esa.
+
+   **Pendiente de verificar antes de reservar** `[⚠]`: estado 2026, disponibilidad de formato privado, precio real y política de cambios de **Jasmine Tours**, **QT Motorbikes** y **Ha Giang Epic** (este último es el que mejor encaja sobre el papel: local y con 4D/3N privado en moto). Los precios de arriba salen del research, no de un presupuesto.
+
+3. **YA — reservar alojamientos.**
+
+   > **Hanoi — Hòa Bình Hotel (27 Lý Thường Kiệt, 1926, el antiguo "Hôtel Splendide"). Imprescindible, y con prisa.** `[✓ verificado 17-jul-2026: sigue operando como 3*, reservable]`
+   > **Qué compra**: **el Atlanta de Hanoi.** Palacete colonial del barrio francés, escalera de madera original, grandeza desvaída — y a **7 minutos andando del Bamboo Bar del Metropole** (460 m). El plan completo: duermes dentro del capítulo colonial por precio de gama media y pagas 15 € por el martini de Graham Greene en la puerta de al lado, en vez de 300-500 € por la habitación.
+   > **La alternativa**: La Siesta Classic Mã Mây (~70-100 €) o Maison d'Orient (~50-70 €) — encantadoras, pero son *estética* colonial, no edificio de época. La nota honesta de 5.5 sigue valiendo: en Hanoi casi ningún hotel asequible ocupa un edificio genuinamente antiguo. El Hòa Bình es la excepción.
+   > **Veredicto: imprescindible — y que sea pronto.** Que siga siendo un 3\* en julio de 2026 significa que **la conversión al 5\* de lujo (BLESS/Palladium) aún no ha ocurrido**. Estáis en la última ventana. Reservar con cancelación gratuita y **volver a comprobar en agosto** que sigue abierto.
+
+   **Reparto de las noches de Hanoi — y aquí hay un matiz que sale de medir las distancias** `[✓ verificado 17-jul-2026]`:
+
+   | Desde el Hòa Bình | A pie |
+   |---|---|
+   | Bamboo Bar (Metropole) | **7 min** |
+   | Lago Hoan Kiem | 12 min |
+   | Hoa Lo | 13 min |
+   | Phở Bát Đàn | 24 min |
+   | **Hàng Mã (Trung Thu)** | **29 min** |
+
+   El Hòa Bình es **perfecto para las noches 12, 13 y 21** — el barrio francés es justo lo que se visita esos días (Metropole, Hoa Lo, la Ópera, el legado colonial), y de paso os guardan la maleta durante el loop. Pero **la noche del 25 es otra cosa**: aterrizáis a las 20:50, llegáis sobre las 21:45 y Hàng Mã está a media hora andando; y la mañana del 26 es casco viejo puro (Hàng Mã vacía, egg coffee en el balcón del Café Đinh) con el vuelo a las 20:40. **Para esa última noche, dormir en el casco viejo.** No cuesta más — ya son tres estancias separadas de todas formas.
+
+   **El resto** `[~ research]`: 2 noches en Tam Cốc (Tam Coc Windy Fields o similar), 3 noches en Siem Reap (Viroth's Villa, Baby Elephant o Rambutan — todos con piscina, zona Wat Bo/Wat Damnak; la piscina no es lujo aquí, es la siesta que hace posible el doble turno de luz de 2.2).
+4. **YA**: reservar **Cuisine Wat Damnak** (la cena-evento, mar-sáb; avisar menú vegetariano completo) y **Phare** (pharecircus.org) para el 23 o 24.
+5. **Agosto**: **e-visa Camboya** en evisa.gov.kh (30 USD/persona, ~3 días hábiles; SOLO esa URL, hay clones que cobran el doble). **Vietnam: nada — exención de 45 días para España.** Comprobar pasaportes válidos hasta marzo 2027.
+6. **Agosto**: contratar **seguro para ella** (IATI/Heymondo, con evacuación). Centro de Vacunación Internacional: hepatitis A + tétanos al día (llegan a tiempo).
+7. **Del 15 al 21 de septiembre**: **e-Arrival Card de Camboya** en arrival.gov.kh (gratis, solo válida rellenada en los 7 días previos; guardar captura del QR).
+8. **Antes de salir**: sacar **USD en billetes nuevos y pequeños** (muchos de 1, 5 y 10; los rotos se rechazan en Camboya); descargar mapas offline del loop; bolsas de gel de sílice para la cámara; monitorizar tifones desde ~5 de septiembre (nchmf.gov.vn, Windy, JTWC).
+9. **Al llegar (12 sep)**: SIM **Viettel** en el kiosco de llegadas de Noi Bai (~10 USD ≈ 20+ GB; la mejor cobertura en Ha Giang). Para Camboya: eSIM Airalo o SIM Smart en SAI (5 USD = 30 GB).
 
 ## 0.5 Presupuesto orientativo de lo pendiente (por pareja)
 
@@ -182,7 +225,26 @@ El reparto del brief = el 4 días canónico (distancias de Vietnam Coracle): Ha 
 - **Meseta de Dong Van (días 18-19)**: paisaje kárstico *mineral* — roca gris, maíz plantado entre piedras, casitas hmong; solo bolsas de arrozales en valles laterales (Sung La, Pho Cao, camino de Lung Cu). Su belleza es monumental, no dorada. El famoso trigo sarraceno rosa florece en octubre-diciembre — el 16-20 de septiembre es pronto.
 - **Lo que SÍ estará dorado o casi**: terrazas del valle de **Quan Ba/Nam Dam** enmarcadas por el Heaven's Gate (días 16-17), valles de **Yen Minh** entre pinares (día 17), terrazas de **Lung Tam** (aldea del lino) y, si se pasa por ahí, **Du Gia**. La maduración varía por altitud y microclima: a mediados de septiembre estará entre verde-dorado y oro según el valle.
 - **Los reinos del oro son otros**: **Hoang Su Phi** (oeste de la provincia, FUERA del loop — su joya Ban Phung madura en la primera quincena de septiembre, exactamente estas fechas) y **Mu Cang Chai** (Yen Bai, mejor finales sep–primeros oct).
-- **¿Merece el desvío?** Hoang Su Phi son 2-3 h de carretera lenta al oeste de Ha Giang ciudad y necesita mínimo 1 noche. Con este calendario **no cabe sin sacrificar Ninh Binh o el colchón del 21**. Veredicto: no forzarlo; disfrutar las bolsas doradas de Quan Ba/Yen Minh y asumir que el loop se elige por el karst y el cañón, no por el arroz.
+### ¿Merece el desvío a Hoang Su Phi? — reabierto bajo el criterio nuevo
+
+Esta es **la decisión que más tienta** al criterio de "el dinero no es la restricción, no dejemos ningún imprescindible en el tintero": Ban Phung, la joya de Hoang Su Phi, **madura en la primera quincena de septiembre — exactamente vuestras fechas**. Terrazas de patrimonio nacional, minorías dao y nung, y menos turistas extranjeros que el loop. Sobre el papel es vuestro sitio.
+
+**Y aun así el veredicto sigue siendo no. Pero el motivo es otro del que decía la versión anterior.**
+
+> **Cuesta**: no dinero. **Dos días.** Son 2-3 h de carretera lenta al oeste de Ha Giang ciudad, mínimo una noche, y otras 2-3 h de vuelta.
+> **El problema**: en este viaje **no hay dos días libres**. Solo hay tres sitios de donde sacarlos, y los tres cobran caro:
+>
+> | Donante | Qué se pierde |
+> |---|---|
+> | **Ninh Bình (14-15)** | Tràng An, Hang Múa, Bích Động — y el kárstico emergiendo de arrozales inundados, que **no es redundante** con el kárstico mineral y seco de Đồng Văn. Son dos paisajes distintos, no dos versiones del mismo. |
+> | **Comprimir el loop a 3 días** | **El mercado dominical de Mèo Vạc**, que cae el 20 y no se puede mover — es un evento con fecha. Más Lũng Cú y Du Già. Se cargaría uno de los hallazgos del capítulo 0. |
+> | **El colchón del 21** | El seguro antitifón. Gastarlo significa llegar a Hanoi en bus nocturno **el mismo día** del vuelo a Siem Reap. Si se cae un talud, no perdéis un día: perdéis Angkor, tres noches de hotel, el pase y el equinoccio. |
+>
+> **Veredicto: no forzarlo.** No es tacañería, es aritmética. Disfrutar las bolsas doradas de Quan Ba/Nam Dam, Yen Minh y Lung Tam, y asumir que **el loop se elige por el karst y el cañón, no por el arroz**.
+
+**El apunte que importa para todo el capítulo 0**: *"el dinero no es la restricción"* es cierto, y por eso hay que decir en voz alta cuál sí lo es. **La restricción de este viaje son 16 días.** Ninguna ficha de inversión arregla un calendario, y las decisiones que se tomaron por tiempo —no por precio— siguen en pie por mucho que se abra la cartera. Hoang Su Phi es el caso de manual.
+
+*(Si algún día volvéis: Hoang Su Phi + Mu Cang Chai a finales de septiembre, dos semanas, es un viaje entero por sí solo.)*
 
 ## 1.4 Barca por el cañón del Nho Que (día 19)
 
@@ -671,14 +733,22 @@ El "36" nunca fue un número literal de calles sino de gremios/cofradías (*phư
 
 - **Sofitel Legend Metropole (15 Ngô Quyền, 1901)** — el gran hotel colonial de Indochina: **Somerset Maugham (1923), Charlie Chaplin (luna de miel, 1936), Graham Greene (1951, mientras gestaba *El americano impasible*), Joan Baez y Jane Fonda (bajo las bombas, 1972)**. En 2011, renovando el Bamboo Bar, apareció el **búnker antiaéreo de 40 m² sellado desde los 70**; restaurado en 2012 (Joan Baez grabó allí "Where Are You Now, My Son?" durante los bombardeos de Navidad del 72). **Realidad 2025–26: el tour "Path of History" con el búnker es SOLO para huéspedes alojados.** Pero los bares y restaurantes están abiertos a todos: el homenaje es un **martini "Graham Greene" en el Bamboo Bar** o afternoon tea en Le Club (reservar). Habitación: 300–500 €+ — la visita al bar es el movimiento inteligente.
 
-**Alternativas asequibles con alma (30–80 €/noche):**
-1. **La Siesta Classic Mã Mây (94 Mã Mây)** — boutique en plena calle histórica, a dos puertas de la casa patrimonial del nº 87; estética colonial (madera oscura, baldosa hidráulica), servicio legendario. ~70–100 € — en septiembre (temporada media) en el rango alto del presupuesto. La opción "segura y con encanto".
+### La elección: Hòa Bình Hotel `[✓ verificado 17-jul-2026 — sigue operando como 3*, reservable]`
+
+**Hòa Bình Hotel (27 Lý Thường Kiệt, 1926 — el antiguo "Hôtel Splendide")** es **el Atlanta de Hanoi**, y la verificación de julio de 2026 lo confirma: sigue abierto, sigue siendo un 3\*, se puede reservar. Palacete colonial en el barrio francés, escalera de madera original espectacular, grandeza desvaída, precios de gama media.
+
+**Que en julio de 2026 siga siendo un 3\* es la noticia**: significa que la anunciada conversión en 5\* de lujo (BLESS/Palladium) **aún no ha ocurrido**. Estáis en la última ventana para verlo como es. Reservar con cancelación gratuita y **volver a comprobar en agosto**.
+
+Y encaja con el movimiento del Metropole al milímetro — **están a 7 minutos andando** (460 m) `[✓ verificado]`. Duermes dentro del capítulo colonial por precio de gama media, y pagas 15 € por el martini de Greene en la puerta de al lado.
+
+**Distancias medidas desde el Hòa Bình** `[✓ verificado 17-jul-2026]`: Bamboo Bar **7 min** · lago Hoan Kiem 12 min · Hoa Lo 13 min · phở Bát Đàn 24 min · **Hàng Mã 29 min**. Es decir: **perfecto para las noches 12, 13 y 21** (el barrio francés es justo lo que se visita esos días, y os guardan la maleta durante el loop), pero **para la noche del 25 conviene dormir en el casco viejo** — esa noche es Trung Thu en Hàng Mã y la mañana del 26 es casco viejo puro. Ver la acción 3 del capítulo 0.4.
+
+**Alternativas asequibles con alma (30–80 €/noche)** — y la del casco viejo para la última noche:
+1. **La Siesta Classic Mã Mây (94 Mã Mây)** — boutique en plena calle histórica, a dos puertas de la casa patrimonial del nº 87; estética colonial (madera oscura, baldosa hidráulica), servicio legendario. ~70–100 € — en septiembre (temporada media) en el rango alto del presupuesto. La opción "segura y con encanto", y **la candidata natural para la noche del 25**: está en pleno casco viejo, a un paso de Hàng Mã.
 2. **Maison d'Orient** (callejón tranquilo del casco viejo) — esencia colonial francesa en escala mini; ~50–70 €.
 3. **Hotel Château de Hanoi** — edificio heritage restaurado en callejuela del casco viejo, suelos de madera, desde ~50 $/noche.
 4. **The Chi Boutique Hotel** — 42 habitaciones, diseño sino-vietnamita contemporáneo, de lo más estiloso por <80 €.
-5. **Hòa Bình Hotel (27 Lý Thường Kiệt, 1926 — el antiguo "Hôtel Splendide")** — el candidato más "Atlanta de Bangkok" de Hanoi: palacete colonial en el barrio francés, escalera de madera original espectacular, grandeza desvaída, precios de gama media. **PERO verificar antes de reservar**: se ha anunciado su transformación en un 5* de lujo (BLESS/Palladium) y podría estar en obras en 2026. Si sigue operando "a la antigua", es exactamente vuestro hotel; si no, opciones 1–3.
-
-*(Nota honesta: en Hanoi casi ningún hotel barato del casco viejo ocupa un edificio genuinamente antiguo — las "casas tube" reconvertidas suelen ser reconstrucciones al estilo colonial. La autenticidad de época real, a precio bajo, está en el Hòa Bình si sobrevive, y en dormir *junto* a la historia: Mã Mây, Hàng Bè, la zona de la catedral.)*
+*(Nota honesta: en Hanoi casi ningún hotel barato del casco viejo ocupa un edificio genuinamente antiguo — las "casas tube" reconvertidas suelen ser reconstrucciones al estilo colonial. **La autenticidad de época real, a precio bajo, está en el Hòa Bình** — de ahí que se lleve el primer puesto y no un empate. Las opciones 1-4 son estética colonial y dormir *junto* a la historia: Mã Mây, Hàng Bè, la zona de la catedral. Que es mucho, pero no es lo mismo.)*
 
 ## 5.6 Conexiones culturales (cine, libros, guerra)
 
