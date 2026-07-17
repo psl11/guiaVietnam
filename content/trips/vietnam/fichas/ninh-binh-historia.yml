@@ -1,0 +1,48 @@
+slug: ninh-binh-historia
+trip: vietnam
+part: vietnam
+order: 4
+emblem: montana
+kicker: Vietnam · leer el paisaje
+title: Ninh Bình en la historia
+epithet: >-
+  Se vende como «la bahía de Halong terrestre», y es un flaco favor: Halong es paisaje; Ninh Bình es
+  paisaje *con* historia dentro. Aquí nació el estado vietnamita independiente.
+sections:
+  - heading: La primera capital
+    body: |
+      Cuando **Đinh Bộ Lĩnh** se coronó emperador en 968, eligió **Hoa Lư** como capital por lo que
+      hoy hace bonito en las fotos: los farallones kársticos eran **murallas gratis**. Bastaba cerrar
+      con tapias los pasos entre agujas de roca para tener una ciudadela inexpugnable, con ciénagas y
+      ríos como foso, a salvo de la caballería china. Hoa Lư fue capital 42 años y tres dinastías
+      fugaces; en 1010, ya asegurado el país, Lý Công Uẩn se llevó la corte a Thăng Long (Hanoi). Lo
+      que se visita —los templos del XVII a Đinh y a Lê— importa menos que entender dónde se está: **en
+      el molde original del que Hanoi es el vaciado**.
+  - heading: Tràng An, patrimonio doble
+    body: |
+      Desde 2014 es **el primer y único sitio de patrimonio mixto (natural + cultural) de la UNESCO en
+      el sudeste asiático** — categoría rarísima. Geológicamente, uno de los mejores ejemplos del
+      planeta de karst de torres tropical en sus últimas fases; culturalmente, sus cuevas conservan
+      **más de 30.000 años de ocupación humana**. Cuando la barquera reme —con los pies, técnica
+      local— por debajo de una montaña, estaréis cruzando a la vez un accidente geológico y un
+      yacimiento arqueológico.
+  - heading: Bích Động y la pagoda en cueva
+    body: |
+      «La gruta de jade», junto a Tam Cốc, es el mejor ejemplo de una especialidad local: la **pagoda
+      en cueva**. Tres templetes escalonados en la pared de la montaña, con el del medio metido en la
+      boca de una gruta. La lógica es el tam giáo hecho arquitectura: la montaña ya era sagrada; el
+      budismo solo se instaló en ella. Y quien suba los 500 escalones de **Hang Múa** tendrá la vista
+      que explica todo lo anterior mejor que cualquier texto.
+  - heading: Y sí, aquí rodó Hollywood
+    body: |
+      *Kong: Skull Island* (2017) filmó en Tràng An, Tam Cốc y la reserva de Vân Long la llegada en
+      helicóptero entre farallones. También pasó por aquí *Indochine* (1992). El efecto Kong disparó el
+      turismo — otro capítulo, quizá, de la vieja función de este paisaje: impresionar al que llega de
+      fuera. **Vân Long** es la opción silenciosa, con los rarísimos langures de Delacour como premio.
+seenIn:
+  - ref: '#trang-an'
+    label: Tràng An
+  - ref: '#hang-mua'
+    label: Hang Múa
+  - ref: '#bich-dong'
+    label: Bích Động
