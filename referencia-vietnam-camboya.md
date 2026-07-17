@@ -60,7 +60,7 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 | 3 | dom 13 | Hanoi | Amanecer: puente Long Bien + mercado de frutas + isla de los plátanos. Cafés históricos (Giảng, Lâm). Hoa Lo. Barrio francés + martini Graham Greene en el Bamboo Bar del Metropole. Bun cha Hương Liên. Noche: ca trù en Hàng Bạc |
 | 4 | lun 14 | Ninh Binh | Limousine van a Tam Coc (~10 €/p, puerta a puerta). Tarde: bici entre arrozales + pagoda Bich Dong |
 | 5 | mar 15 | (bus nocturno) | 06:30 Hang Mua (antes del calor y los tours) → 09:00 barca de **Trang An, ruta 3** → tarde libre / Hoa Lu → ~17:30 **bus nocturno directo a Ha Giang** (Bằng Phấn, cabina VIP) |
-| 6 | mié 16 | Ha Giang | Llegada al amanecer. Inicio del loop (4D/3N, easy rider privado o jeep). Etapa corta: Heaven's Gate de Quan Ba → noche en Nam Dam/Quan Ba (aquí sí, terrazas doradas) |
+| 6 | mié 16 | Ha Giang | Llegada al amanecer. Inicio del loop (**5D/4N**, easy rider privado). Etapa corta a propósito (52 km, venís de un bus nocturno): Heaven's Gate de Quan Ba → noche en Nam Dam/Quan Ba (aquí sí, terrazas doradas) |
 | 7 | jue 17 | Ha Giang | Quan Ba → aldea del lino de Lung Tam → Yen Minh |
 | 8 | vie 18 | Ha Giang | Yen Minh → valle de Sung La → **palacio del rey hmong (Sa Phin)** → torre de Lung Cu → Dong Van |
 | 9 | sáb 19 | Ha Giang | Dong Van → **barca por el cañón del Nho Que a 1ª hora** → paso de Ma Pi Leng → noche en Meo Vac |
@@ -93,8 +93,10 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
    **Detalle que os favorece**: las tarifas VietJet probablemente no incluyen maleta facturada, pero **voláis solo con cabina** (ver 3.9), así que el diferencial de precio es real y no una trampa. **Sin pánico pero sin esperar**: el VN836 del 25 ya mostraba menos de 9 asientos, señal de que la ruta se llena ese día.
 2. **YA — reservar el loop de Hà Giang. Decisión: easy rider privado, NO jeep.** `[~ research]` — los precios y los operadores están sin reverificar; ver la acción de verificación al final de este punto.
 
-   > **El jeep (~780 € la pareja) frente al easy rider privado (~340-440 €). Prescindible — y además peor.**
-   > **Cuesta**: ~340 € más por pareja.
+   ⚠️ **Es un 5D/4N, NO un 4D/3N** — ver el aviso de 1.2. Pedir el formato equivocado os cuesta el mercado dominical de Mèo Vạc. Estimación revisada: **430-590 € la pareja** `[⚠ estimado]`.
+
+   > **El jeep frente al easy rider privado. Prescindible — y además peor.**
+   > **Cuesta**: aproximadamente el doble.
    > **Qué compra**: no mojarte. La propia tabla de 1.2 lo dice sin adornos: *"cómodo si llueve, **mismas vistas**"*.
    > **Qué cuesta**: el viaje entero. **Mã Pí Lèng desde una ventanilla es una postal; en la moto es la experiencia.** Ese paso es el motivo por el que existe el loop — no se va a Hà Giang a ver el karst, se va a atravesarlo.
    > **Veredicto: el jeep resuelve el problema equivocado.** El riesgo de septiembre no es mojarte, es un tifón que corta la carretera con un deslizamiento — y de eso un 4x4 no te salva. **El seguro real contra el tifón es la política de cambio de fecha** y la capacidad del operador de reencaminar en tiempo real (1.6). Pagar 340 € por el vehículo equivocado contra el riesgo equivocado es el ejemplo de manual de gastar por gastar.
@@ -147,13 +149,13 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 | Concepto | Estimación |
 |---|---|
 | Vuelos HAN⇄SAI (VN837 + VJ914 × 2) | **326 €** `[✓ 17-jul-2026]` |
-| Loop Ha Giang 4D/3N privado (easy rider, todo incluido) | 340–440 € (jeep: ~780 €) |
+| Loop Ha Giang **5D/4N** privado (easy rider, todo incluido) | **430–590 €** `[⚠ estimado, no cotizado]` |
 | Alojamiento: 2n Tam Coc + 3n Siem Reap + ~5n Hanoi | 450–700 € |
 | Pases de Angkor (3 días) | ~115 € (62 USD × 2) |
 | Tuk-tuk 2,5 días + guía 1 mañana + Tonle Sap | ~150–200 € |
 | e-visa Camboya × 2 | ~55 € |
 | Comidas, cafés, entradas Vietnam, buses | ~400–550 € |
-| **Total pendiente aprox.** | **~1.840–2.390 €** |
+| **Total pendiente aprox.** | **~1.930–2.540 €** |
 
 > **Ojo con leer esta tabla como un techo.** Está calculada con el criterio viejo (presupuesto medio-boutique). Bajo el criterio nuevo —*el dinero no es la restricción si la experiencia es imprescindible y cambia el viaje*— algunas de las decisiones que hay detrás de estas cifras se reabren y el total puede subir. Lo que no cambia es la exigencia: cada euro de más tiene que llegar con su ficha de inversión, su alternativa y su veredicto. Y algunas cosas no se arreglan con dinero — el arroz dorado de Hoàng Su Phì está descartado por **tiempo**, no por precio.
 
@@ -200,7 +202,14 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 - **Carretera**: en general en buen estado y mejor que hace 3 años. Obras puntuales aparecen y desaparecen; históricamente el tramo Meo Vac–Mau Due (DT182, la ruta de regreso del día 20) ha tenido obras. Tras lluvias fuertes puede haber gravilla y pequeños desprendimientos. El loop principal son ~350–384 km.
 
 ### Easy rider vs coche privado con conductor (precios reales 2025-26)
-| Formato | Precio 4D/3N (por persona, en pareja) | Qué incluye |
+> ⚠️ **OJO AL PEDIR PRESUPUESTO — vuestro loop es 5D/4N, no 4D/3N** `[✓ verificado contra el propio calendario 0.3]`. Este documento decía "4D/3N" en seis sitios, pero el itinerario que describe tiene **cuatro noches** (Quan Ba 16, Yen Minh 17, Dong Van 18, Meo Vac 19) y **cinco días** (16-20). El error importa por dos motivos:
+>
+> 1. **El estándar del mercado "4D/3N" fusiona la primera etapa** (Ha Giang→Quan Ba→Yen Minh de un tirón, 90-105 km) y duerme en Yen Minh, Dong Van y Meo Vac. Si lo pedís **empezando el 16, se vuelve el sábado 19 y os quedáis sin el mercado dominical de Meo Vac** — uno de los hallazgos del capítulo 0.
+> 2. **Los precios de la tabla de abajo son tarifas de 4D/3N.** Vuestro 5D/4N añade un día: a ~60-75 €/día/pp, sale sobre **215-295 €/persona** (430-590 € la pareja), no 155-220 €.
+>
+> **La primera etapa corta es deliberada**: llegáis al amanecer de un bus nocturno desde Ninh Binh, y 52 km hasta Quan Ba es lo que el cuerpo aguanta ese día. Además la noche de Nam Dam es **donde veréis arroz dorado** — y con Hoang Su Phi descartado (1.3), es la única. *Alternativa más barata si se quisiera recortar: 4D/3N del **17 al 20** (rescata el mercado dominical, pierde la noche de Nam Dam) y el 16 de descanso en Ha Giang ciudad. Peor: Ha Giang ciudad no tiene nada, y el arroz dorado se pierde.*
+
+| Formato | Precio de mercado **4D/3N** (por persona, en pareja) — *sumar ~60-75 €/pp para vuestro 5D/4N* | Qué incluye |
 |---|---|---|
 | **Easy rider** (tú de paquete, piloto local) | 4,5–6,5 M VND ≈ **155–220 € pp** (~60-75 €/día pp) | Moto+piloto, gasolina, 3 noches de homestay, todas las comidas (salvo última cena), chubasquero, entradas/actividades habituales (barca Nho Que, Lung Cu, palacio Vuong, aldea del lino de Lung Tam), permiso fronterizo. Extras: habitación privada 800.000–1.200.000 VND (~28–41 €)/noche, propinas 100.000–500.000 VND |
 | **Coche/jeep privado con conductor** | 4D/3N ~22,9 M VND por pareja ≈ **~390 € pp** | Lo mismo en 4x4/SUV con conductor (a veces angloparlante). 2–4× más caro; cómodo si llueve, mismas vistas |
