@@ -1,0 +1,51 @@
+slug: bajorrelieves-angkor-wat
+trip: vietnam
+part: camboya
+order: 2
+emblem: templo
+kicker: Camboya · cómo mirar
+title: Los bajorrelieves de Angkor Wat, galería a galería
+epithet: >-
+  Casi 600 metros lineales de bajorrelieve corrido, el ciclo escultórico más largo del mundo
+  antiguo. Se recorre en sentido *antihorario* —el orden ritual original—; con calma, hora y media.
+sections:
+  - heading: 1 · La batalla de Kurukshetra (oeste, ala sur)
+    body: |
+      El clímax del *Mahabharata*: los clanes Pandava y Kaurava avanzan el uno contra el otro y
+      chocan en un centro caótico de lanzas, carros y elefantes. Buscad al anciano comandante
+      **Bhishma erizado de flechas**, agonizando sobre un lecho de puntas. Fijaos en el pulido
+      espejo de algunas zonas: siglos de manos han bruñido la piedra hasta parecer bronce.
+  - heading: 2 · El desfile de Suryavarman II (sur, ala oeste)
+    body: |
+      El único panel histórico, no mítico: el propio rey constructor, más grande que el resto,
+      avanzando en su elefante bajo **15 parasoles** (los parasoles miden el rango: contadlos en cada
+      dignatario). Buscad el contingente de **mercenarios siameses**, con faldas largas y en desorden
+      deliberado frente a la disciplina jemer — un chiste de propaganda de 900 años.
+  - heading: 3 · Cielos e infiernos (sur, ala este)
+    body: |
+      El panel más moralizante: los justos viajan en palanquines hacia los 37 cielos mientras los
+      condenados son arrastrados hacia los **32 infiernos**, cada uno rotulado con su pecado y su
+      castigo. Preside **Yama, juez de los muertos, con 18 brazos**, sobre un búfalo. Buscad la fila
+      de condenados arrastrados con ganchos por las narices, como ganado.
+  - heading: 4 · El Batido del Mar de Leche (este, ala sur) — el imprescindible
+    body: |
+      49 metros de una sola escena, el mito central de Angkor. Dioses (**devas**) y demonios
+      (**asuras**) baten el océano de leche para extraer el **amrita**, el néctar de la inmortalidad:
+      usan como batidora el monte Mandara y como cuerda a la serpiente cósmica **Vasuki**. Los asuras
+      tiran de la cabeza (92 demonios de ojos redondos), los devas de la cola (88 dioses de ojos
+      almendrados), y **Vishnu, encarnado en la tortuga Kurma**, sostiene el monte desde abajo. Del
+      mar surgieron las **apsarās** — mirad arriba: el friso superior es un cielo entero de apsaras
+      danzando, nacidas de la espuma. Cuando crucéis las puertas de Angkor Thom, tirando dioses y
+      demonios de la naga como balaustrada, estáis *dentro* de este mismo batido.
+  - heading: 5 · La batalla de Lanka (esquina noroeste)
+    body: |
+      El gran cierre: el clímax del *Ramayana*. **Rama**, sobre los hombros del mono Hanuman, asalta
+      la isla de Lanka para rescatar a Sita, secuestrada por el demonio de diez cabezas **Ravana**. El
+      ejército de monos combate cuerpo a cuerpo en una melé espléndida — buscad a los monos mordiendo
+      y volteando demonios con un dinamismo que no existe en ningún otro panel.
+  - body: |
+      **Si el tiempo aprieta**, los dos imprescindibles son el **Batido** (este) y **Cielos e
+      infiernos** (sur-este), con el desfile de Suryavarman como tercero.
+seenIn:
+  - ref: '#angkor-wat'
+    label: Angkor Wat · galería oeste

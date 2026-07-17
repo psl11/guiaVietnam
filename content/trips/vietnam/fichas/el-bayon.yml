@@ -1,0 +1,47 @@
+slug: el-bayon
+trip: vietnam
+part: camboya
+order: 3
+emblem: templo
+kicker: Camboya · cómo mirar
+title: El Bayon y las caras
+epithet: >-
+  Si Angkor Wat es la perfección clásica, el Bayon es el barroco febril: el templo de estado de
+  Jayavarman VII, en el centro geométrico exacto de su capital, Angkor Thom.
+sections:
+  - heading: Las torres-rostro
+    body: |
+      De lejos parece un montón de piedra desordenado; a media distancia, el desorden se resuelve en
+      **torres esculpidas con rostros gigantes que sonríen hacia los cuatro puntos cardinales**. Las
+      cifras canónicas hablan de 54 torres y **216 caras**; hoy quedan en pie 37 torres y entre 170 y
+      200 rostros. Nadie que haya estado en la terraza superior al amanecer o al final de la tarde,
+      rodeado de sonrisas de cuatro metros a la altura de los ojos, olvida la experiencia.
+  - heading: ¿De quién son las caras?
+    body: |
+      El gran debate del arte jemer. Tesis A: son **Lokeshvara**, el bodhisattva de la compasión
+      infinita, velando por todos los seres en las cuatro direcciones. Tesis B: son **el propio
+      Jayavarman VII**, cuyos retratos muestran los mismos ojos entornados y la misma sonrisa carnosa.
+      La lectura dominante hoy es que el dilema es falso: en la lógica del devarāja budista, **el rey
+      se hace retratar como el bodhisattva** — las caras son ambos a la vez, la compasión con el
+      rostro del poder. Esa media sonrisa es «la sonrisa de Angkor», el emblema del país.
+  - heading: Los relieves — la vida, no solo los dioses
+    body: |
+      La galería exterior (1,2 km de relieves, unos 11.000 personajes) es única en Angkor: junto a
+      las batallas del rey aparece, en los registros inferiores, **el pueblo llano del siglo XII
+      haciendo cosas normales**. La ventana etnográfica más extraordinaria del arte medieval asiático:
+      mujeres removiendo ollas, un mercado con regateos, **peleas de gallos**, partidas de ajedrez, un
+      **parto** asistido, carros de bueyes idénticos a los que aún circulan hoy.
+  - heading: La batalla naval del Tonle Sap
+    body: |
+      El panel estrella (galería este, ala sur): la gran batalla naval de 1177-1181 entre jemeres y
+      **cham** sobre el lago. Se distinguen al instante: los cham llevan cascos con forma de flor
+      invertida; los jemeres, el pelo corto. Las galeras chocan entre remos y los caídos van al agua,
+      donde **los cocodrilos los devoran** con pormenor anatómico — y debajo de las quillas, pescadores
+      con redes: la guerra y el mercado en el mismo muro.
+  - body: |
+      **Cómo leerlo:** haced primero la galería exterior de relieves (este y sur como mínimo) y subid
+      después a la terraza de las caras, dejando que el templo se «monte» solo, del relato humano a la
+      sonrisa divina.
+seenIn:
+  - ref: '#bayon'
+    label: el Bayon · Angkor Thom
