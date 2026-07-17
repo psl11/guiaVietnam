@@ -34,8 +34,10 @@ Estos siete hallazgos cambian detalles del plan original. El esqueleto (Hanoi �
    |---|---|---|---|
    | **Ida** — mar 22 sep | **VN837** (Vietnam Airlines) | 15:30 → 17:10 (T2→T1) | **89 €** |
    | | **VJ913** (VietJet) | 16:20 → 18:05 (T2) | **67 €** |
-   | **Vuelta** — vie 25 sep | **VN836** (Vietnam Airlines) | 18:05 → 19:50 (T1→T2) | **181 €** |
+   | **Vuelta** — **jue 24 sep** | **VN836** (Vietnam Airlines) | 18:05 → 19:50 (T1→T2) | **181 €** |
    | | **VJ914** (VietJet) | 19:05 → 20:50 (→T2) | **74 €** |
+
+   > **PLAN REVISADO (17 jul 2026): Camboya en 2 días, vuelta el JUEVES 24, no el viernes 25.** Decisión de Pablo: el retorno del viernes por la noche dejaba Trung Thu (la noche del 25 en Hàng Mã) con demasiada prisa. Volando el jueves 24 por la tarde, **todo el viernes 25 queda libre en Hanoi para vivir el Festival del Medio Otoño sin agobios**. Angkor se hace en 2 días bien armados (ver 2.2 revisado). Los vuelos son diarios (verificado), así que el VJ914 del jueves 24 es el mismo; **confirmar que opera el jueves al comprar**. Consecuencia: **2 noches en Siem Reap** (mar+mié) y **una noche más en Hanoi** (jue).
 
    El brief asumía "martes 22 por la mañana": no es posible en directo. Consecuencia: **la mañana del 22 se queda en Hanoi** (regalo, no pérdida) y el día 22 en Siem Reap es solo llegada y cena. **El vuelo de vuelta del 25 "a mediodía" tampoco existe** `[✓ verificado]` — los retornos directos son vespertinos y llegan a Hanoi entre las 19:50 y las 20:50, lo que sigue protegiendo el vuelo largo del 26 y además regala casi un tercer día completo en Angkor. Por la mañana solo hay enlaces **con escala** (vía Ho Chi Minh, ~6h15, ~158 €) — no compensan.
 
@@ -66,11 +68,11 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 | 9 | sáb 19 | Ha Giang | Dong Van → **barca por el cañón del Nho Que a 1ª hora** → paso de Ma Pi Leng → noche en Meo Vac |
 | 10 | dom 20 | Ha Giang | **Mercado dominical de Meo Vac** (06:30–09:30) → regreso a Ha Giang (~5 h) → noche en Ha Giang **o bus nocturno a Hanoi** |
 | 11 | lun 21 | Hanoi | Bus diurno a Hanoi (6-7 h) — o día completo si se tomó el nocturno. Colchón anti-tifón. Lunes = museos cerrados: Templo de la Literatura (o su visita nocturna con 3D-mapping), pagoda Tran Quoc al atardecer, memorial McCain, pho cuon en Ngũ Xã |
-| 12 | mar 22 | Siem Reap | Mañana libre en Hanoi. **Vuelo VN837 15:30→17:10 HAN→SAI** `[✓]`. Transfer del hotel (SAI está a 40-50 km, ~1 h). Cena en Wat Bo. **Acostarse pronto — mañana el despertador suena a las 4:15** |
-| 13 | mié 23 | Siem Reap | **Circuito pequeño**: 4:45 amanecer en Angkor Wat (equinoccio +1) → bajorrelieves con guía + Bakan → Ta Prohm → Banteay Kdei/Srah Srang → siesta/piscina → 15:30 Angkor Thom: puerta sur, **Bayon a las 16:00-17:00** (su momento mágico), terrazas |
-| 14 | jue 24 | Siem Reap | 7:30 **Banteay Srei a la apertura** → Preah Khan → **Neak Pean con agua** → Ta Som → siesta → tarde: **Tonle Sap / Kampong Phluk** en aguas altas, crepúsculo desde la barca. Noche: circo **Phare** |
-| 15 | vie 25 | Hanoi (noche) | Amanecer opcional en Bayon vacío o mañana tranquila (Artisans Angkor, piscina) → **vuelo VJ914 19:05→20:50 SAI→HAN** `[✓]` → llegada al casco viejo ~21:45: **noche de Trung Thu en Hang Ma** en plena ebullición |
-| 16 | sáb 26 | (vuelo) | Última mañana: casco viejo temprano, Hang Ma decorada y vacía, egg coffee de despedida en el balcón del Café Đinh → vuelo 20:40 |
+| 12 | mar 22 | Siem Reap | Mañana libre en Hanoi. **Vuelo VN837 15:30→17:10 HAN→SAI** `[✓]`. Transfer del hotel (SAI está a 40-50 km, ~1 h). Cena rápida en Wat Bo → **circo Phare (~20:00)**, aprovechando la noche de llegada. Despertador a las 4:15 |
+| 13 | mié 23 | Siem Reap | **El día grande**: 4:45 amanecer del equinoccio en Angkor Wat → bajorrelieves con guía + Bakan → Ta Prohm → **Bayon a media mañana** + Angkor Thom (terrazas) → siesta → **14:30–19:00 Tonle Sap / Kampong Phluk**, agua alta y crepúsculo sobre el lago desde la barca |
+| 14 | jue 24 | (vuelo) | 5:15 → **Banteay Srei a la apertura** (7:30) → circuito grande: Preah Khan, **Neak Pean con agua**, Ta Som → hotel ~13:00, comida y ducha → **salir 15:30 → vuelo VJ914 19:05→20:50 SAI→HAN** `[✓]` → Hanoi ~20:50, noche libre |
+| 15 | vie 25 | Hanoi | **Día entero en Hanoi, sin prisas**: Lago del Oeste + memorial McCain, martini de Greene en el Bamboo Bar del Metropole, lo que quedara pendiente → **noche de Trung Thu en Hàng Mã con tiempo, en plena ebullición** |
+| 16 | sáb 26 | (vuelo) | Última mañana: casco viejo temprano, Hàng Mã decorada y vacía, egg coffee de despedida en el balcón del Café Đinh → vuelo 20:40 |
 
 **Válvulas de flexibilidad**: el día 21 es el colchón principal (no rellenarlo de antemano); el loop se comprime a 3 días sin drama si un tifón lo exige; primera pieza a recortar si hiciera falta: un día de Ninh Binh como excursión desde Hanoi.
 
@@ -86,11 +88,11 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 
    > **Vuelta — VJ914 (74 €) por encima de VN836 (181 €). El VN836 es prescindible.**
    > **Cuesta**: el VN836 son 107 €/persona más (214 € la pareja).
-   > **Qué compra**: una hora. Llegas a Hanoi a las 19:50 en vez de a las 20:50, para la noche de Trung Thu en Hang Ma.
-   > **La alternativa**: VJ914, 74 €, llegada 20:50 → casco viejo ~21:45, con Hang Ma en plena ebullición (la calle está hasta tarde). Y la referencia ya manda volver **la mañana del 26** a verla decorada y vacía: son dos bocados de la misma manzana, no uno.
-   > **Veredicto: prescindible.** 214 € por una hora de una noche que dura cinco es gastar por gastar. Y un retraso del VietJet aquí no amenaza nada — el vuelo largo es el 26 a las 20:40.
+   > **Qué compra**: una hora. Con el plan revisado ambos vuelan el **jueves 24 por la tarde** y llegan a Hanoi a las 19:50 (VN836) o 20:50 (VJ914) — y en los dos casos el viernes entero queda libre para Trung Thu, así que esa hora no compra nada útil.
+   > **La alternativa**: VJ914, 74 €, llegada 20:50 → hotel del casco viejo con la noche del jueves por delante para descansar y todo el viernes para el festival.
+   > **Veredicto: prescindible.** 214 € por una hora que no cambia nada es gastar por gastar. Y un retraso del VietJet aquí no amenaza nada — el vuelo largo es el 26 a las 20:40.
 
-   **Detalle que os favorece**: las tarifas VietJet probablemente no incluyen maleta facturada, pero **voláis solo con cabina** (ver 3.9), así que el diferencial de precio es real y no una trampa. **Sin pánico pero sin esperar**: el VN836 del 25 ya mostraba menos de 9 asientos, señal de que la ruta se llena ese día.
+   **Detalle que os favorece**: las tarifas VietJet probablemente no incluyen maleta facturada, pero **voláis solo con cabina** (ver 3.9), así que el diferencial de precio es real y no una trampa. **Confirmar al comprar que el VJ914 opera el jueves 24** (son diarios, pero verificar la fecha exacta).
 2. **YA — reservar el loop de Hà Giang. Decisión: easy rider privado, NO jeep.** `[~ research]` — los precios y los operadores están sin reverificar; ver la acción de verificación al final de este punto.
 
    ⚠️ **Es un 5D/4N, NO un 4D/3N** — ver el aviso de 1.2. Pedir el formato equivocado os cuesta el mercado dominical de Mèo Vạc. Estimación revisada: **430-590 € la pareja** `[⚠ estimado]`.
@@ -136,7 +138,7 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 
    El Hòa Bình es **perfecto para las noches 12, 13 y 21** — el barrio francés es justo lo que se visita esos días (Metropole, Hoa Lo, la Ópera, el legado colonial), y de paso os guardan la maleta durante el loop. Pero **la noche del 25 es otra cosa**: aterrizáis a las 20:50, llegáis sobre las 21:45 y Hàng Mã está a media hora andando; y la mañana del 26 es casco viejo puro (Hàng Mã vacía, egg coffee en el balcón del Café Đinh) con el vuelo a las 20:40. **Para esa última noche, dormir en el casco viejo.** No cuesta más — ya son tres estancias separadas de todas formas.
 
-   **El resto** `[~ research]`: 2 noches en Tam Cốc (Tam Coc Windy Fields o similar), 3 noches en Siem Reap (Viroth's Villa, Baby Elephant o Rambutan — todos con piscina, zona Wat Bo/Wat Damnak; la piscina no es lujo aquí, es la siesta que hace posible el doble turno de luz de 2.2).
+   **El resto** `[~ research]`: 2 noches en Tam Cốc (Tam Coc Windy Fields o similar), **2 noches en Siem Reap** (mar+mié — plan revisado; Viroth's Villa, Baby Elephant o Rambutan, todos con piscina, zona Wat Bo/Wat Damnak; la piscina no es lujo aquí, es la siesta que hace posible el doble turno de luz de 2.2) y **una noche más en Hanoi** (la del jueves 24, que antes era en Siem Reap).
 4. **YA**: reservar **Cuisine Wat Damnak** (la cena-evento, mar-sáb; avisar menú vegetariano completo) y **Phare** (pharecircus.org) para el 23 o 24.
 5. **Agosto**: **e-visa Camboya** en evisa.gov.kh (30 USD/persona, ~3 días hábiles; SOLO esa URL, hay clones que cobran el doble). **Vietnam: nada — exención de 45 días para España.** Comprobar pasaportes válidos hasta marzo 2027.
 6. **Agosto**: contratar **seguro para ella** (IATI/Heymondo, con evacuación). Centro de Vacunación Internacional: hepatitis A + tétanos al día (llegan a tiempo).
@@ -150,9 +152,9 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 |---|---|
 | Vuelos HAN⇄SAI (VN837 + VJ914 × 2) | **326 €** `[✓ 17-jul-2026]` |
 | Loop Ha Giang **5D/4N** privado (easy rider, todo incluido) | **430–590 €** `[⚠ estimado, no cotizado]` |
-| Alojamiento: 2n Tam Coc + 3n Siem Reap + ~5n Hanoi | 450–700 € |
+| Alojamiento: 2n Tam Coc + 2n Siem Reap + ~6n Hanoi | 450–700 € |
 | Pases de Angkor (3 días) | ~115 € (62 USD × 2) |
-| Tuk-tuk 2,5 días + guía 1 mañana + Tonle Sap | ~150–200 € |
+| Tuk-tuk 2 días + guía 1 mañana + Tonle Sap | ~130–180 € |
 | e-visa Camboya × 2 | ~55 € |
 | Comidas, cafés, entradas Vietnam, buses | ~400–550 € |
 | **Total pendiente aprox.** | **~1.930–2.540 €** |
@@ -312,9 +314,9 @@ Mejor zona: **el campo entre Tam Coc y Bich Dong** (arrozales + karst, a 5-10 mi
 *Conversión usada: 1 € ≈ 29.000–30.000 VND; 1 US$ ≈ 26.000 VND (2026). Precios aproximados — verificar al reservar.*
 
 ---
-# 2. Angkor y Siem Reap (22–25 septiembre)
+# 2. Angkor y Siem Reap (22–24 septiembre)
 
-**Contexto:** llegada desde Hanoi el 22/09 al final de la tarde (**VN837, aterriza 17:10** — hotel sobre las 18:30) `[✓ verificado 17-jul-2026]`, salida el 25/09 (**VJ914, despega 19:05** — salir del hotel sobre las 16:00). En la práctica: **2 días completos (23-24) + el día 25 casi entero**. Época húmeda: foso lleno, Neak Pean con agua, Tonle Sap en máximo, mitad de turistas. **Dato clave: el equinoccio de septiembre cae el 22–23 — el sol sale alineado casi exactamente sobre la torre central de Angkor Wat.** En marzo esto reúne a decenas de miles de personas; en septiembre es un fenómeno casi privado. Para la X100VI, una lotería ganada si el cielo acompaña.
+**Contexto (plan revisado a 2 días):** llegada desde Hanoi el 22/09 al final de la tarde (**VN837, aterriza 17:10** — hotel sobre las 18:30) `[✓ verificado 17-jul-2026]`, **salida el 24/09** (**VJ914, despega 19:05** — salir del hotel sobre las 15:30). En la práctica: **2 días de templos (23 y 24)**, con el 24 hasta primera hora de la tarde. Se vuela el jueves para tener el viernes 25 entero en Hanoi (Trung Thu sin prisas). Época húmeda: foso lleno, Neak Pean con agua, Tonle Sap en máximo, mitad de turistas. **Dato clave: el equinoccio de septiembre cae el 22–23 — el sol sale alineado casi exactamente sobre la torre central de Angkor Wat.** En marzo esto reúne a decenas de miles de personas; en septiembre es un fenómeno casi privado. Para la X100VI, una lotería ganada si el cielo acompaña.
 
 ## 2.1 Logística Angkor 2026
 
@@ -336,22 +338,24 @@ Mejor zona: **el campo entre Tam Coc y Bich Dong** (arrozales + karst, a 5-10 mi
 - A **40–50 km al este de la ciudad, ~50–60 min de trayecto** (el viejo aeropuerto REP ya no opera vuelos comerciales). El día 25: **salida del hotel 3 h antes del vuelo**.
 - Opciones: **taxi oficial 24 h en llegadas ~30–35 US$** | shuttle bus ~8 US$/persona (~1 h) | minivan compartida ~10–12 US$/persona | Grab/PassApp (~25–30 US$). Lo más sensato: **transfer del hotel** (~28–35 US$ o incluido) — directos y sin regateo tras el vuelo de Hanoi.
 
-## 2.2 Los 2,5 días organizados (filosofía: 2 sesiones de luz + siesta)
+## 2.2 Los 2 días organizados (filosofía: 2 sesiones de luz + siesta)
 
 En septiembre el patrón es: **mañanas mayormente despejadas, chaparrón violento de 1–2 h entre las 14:00 y las 17:00, y tardes que a menudo se abren con luz espectacular post-lluvia**. La siesta de mediodía no es capricho: es la única estrategia sensata con 33 °C y 80 % de humedad.
 
-**Día 22 (llegada):** transfer, check-in, comprar online el pase de 3 días (inicio día 23), cena tranquila en Wat Bo, acostarse pronto — el despertador del 23 suena a las 4:30.
+> **Estructura revisada a 2 días (vuelta el jueves 24) — ver la nota del cap. 0.** El objetivo: un Trung Thu sin prisas el viernes 25 en Hanoi. Angkor se comprime a 2 días bien armados; el único sacrificio real está en las **tardes** (ver el intercambio al final).
 
-**Día 23 (circuito pequeño — el día grande):** salida 4:45 → **amanecer en Angkor Wat** (equinoccio +1: el sol aún sale prácticamente tras la torre central). Después, mientras los tours desayunan, **interior de Angkor Wat**: galerías de bajorrelieves (con guía — ver 2.3) y subida al Bakan antes de las colas. 9:30 **Ta Prohm** (los tours van a Bayon primero; a media mañana respira algo). 11:00 **Banteay Kdei + Srah Srang**. Vuelta al hotel 12:00: comida y siesta. 15:30 (post-chaparrón): **Angkor Thom** — Puerta Sur, **Bayon con luz baja y ya semivacío (16:00–17:00 es su momento mágico)**, terrazas de los Elefantes y del Rey Leproso, Baphuon. Atardecer opcional en Phnom Bakheng si queda energía (llegar 16:00 por el aforo) — o guardarlo.
+**Día 22 (llegada + Phare):** transfer, check-in, **comprar online el pase de 3 días** (no hay pase de 2; el de 3 días cuesta 62 US$ y cubre de sobra los 2 días, válido en una ventana de 10). Cena rápida en Wat Bo y **circo Phare (~20:00)** — se mete en la noche de llegada para dejar libres las dos tardes de templos. El despertador del 23 suena a las 4:15, así que no alargar mucho.
 
-**Día 24 (Banteay Srei + circuito grande):** salida 5:15 → **amanecer en Srah Srang** (casi nadie; espejo de agua perfecto) o directamente carretera. **7:30–8:30 Banteay Srei** (37 km, 45 min): llegar a la apertura es crítico — el templo es diminuto, la arenisca rosa pide luz matinal suave, y a las 9:30 llegan los buses. Vuelta por el circuito grande: **Preah Khan** (la gran joya infravalorada: como Ta Prohm pero sin gente), **Neak Pean** (sus estanques y el baray solo tienen agua en época húmeda — septiembre es exactamente cuando hay que verlo, con la pasarela de madera sobre el agua), **Ta Som** (la puerta este devorada por la higuera estranguladora: foto icónica sin multitud). Siesta 12:30–15:00. Tarde: **Tonle Sap — Kampong Phluk** (ver 2.5), con el crepúsculo sobre el lago desde la barca. Noche: circo **Phare** (~20:00) si no se hizo el 23. *Alternativa si preferís templos: East Mebon + atardecer en Pre Rup, y Tonle Sap la mañana del 25.*
+**Día 23 (el día grande — templos centrales + Tonlé Sap):** salida 4:45 → **amanecer del equinoccio en Angkor Wat** (equinoccio +1: el sol aún sale prácticamente tras la torre central — ver la ficha de geometría). Después, mientras los tours desayunan, **interior de Angkor Wat**: bajorrelieves con guía (ver 2.3) y subida al Bakan antes de las colas. **Ta Prohm** a media mañana. **Bayon + Angkor Thom** (Puerta Sur, terrazas del Rey Leproso y de los Elefantes) hacia el mediodía. Comida y siesta. **14:30–19:00: Tonlé Sap, Kampong Phluk** (ver 2.5), con el crepúsculo sobre el lago desde la barca — la Camboya rural, y con el agua alta de septiembre en su mejor momento del año.
 
-**Día 25:** con el VJ914 de las 19:05 hay que salir del hotel sobre las **16:00** (SAI está a 40-50 km y es vuelo internacional) `[✓ verificado 17-jul-2026]` — o sea, **el día es vuestro casi entero y caben las dos opciones, no hay que elegir**. (a) Fotográfica: el pase aún vale → **amanecer 5:30–7:30 en Bayon o Angkor Wat vacíos** (entre semana en septiembre, Bayon a las 7:30 puede estar literalmente desierto), hotel 8:30, ducha. (b) Tranquila: mercado Psar Leu, Artisans Angkor, piscina y comida sin prisa hasta el transfer. Lo suyo es hacer (a) y luego (b) — el amanecer no cuesta nada más que madrugar, y después sobra tarde para no hacer nada.
+**Día 24 (Banteay Srei + circuito grande → vuelo):** salida 5:15 → **7:30 Banteay Srei a la apertura** (37 km, 45 min): llegar a la apertura es crítico — la arenisca rosa pide luz matinal suave y a las 9:30 llegan los buses. Vuelta por el **circuito grande**: **Preah Khan** (como Ta Prohm pero sin gente), **Neak Pean** (con agua solo en época húmeda: septiembre es el momento, con la pasarela sobre el agua), **Ta Som** (la puerta devorada por la higuera). Hotel ~13:00, comida y ducha. **Salir hacia el aeropuerto a las 15:30** → **VJ914 19:05 → Hanoi 20:50**, noche libre para descansar.
+
+**El intercambio de las tardes (el único de verdad en 2 días):** no caben a la vez el **Bayon en su hora mágica (16–17 h, semivacío)** y el **Tonlé Sap al crepúsculo** — son dos experiencias de última luz en lados opuestos de la ciudad. El plan de arriba prioriza el **Tonlé Sap** (la esencia no-templo que se buscaba) y pasa el Bayon al mediodía (más gente, luz más plana, pero se ve bien). Si sois más de templos que de lago, invertidlo: **Bayon a las 16–17 h el día 23** y Tonlé Sap más corto a mediodía el 24 (o fuera). Es cuestión de qué "última luz" os importa más — decisión de fotógrafo.
 
 **Amanecer en Angkor Wat — táctica anti-multitud (verificado 2025-2026):**
 - El punto clásico es el **estanque norte (reflection pond izquierda)**: en temporada alta reúne 3.000–5.000 personas; **en septiembre bajan a cientos**. Llegar **4:45–5:00 a la puerta**, ir directos por la calzada flotante, y colocarse en la **esquina noroeste del estanque, primera fila junto al agua** — con el 35 mm equivalente de la X100VI se encuadran las cinco torres + reflejo sin recortar.
 - Trucos adicionales: quedarse **fuera del recinto, junto al foso** (composición más limpia, cero gente en cuadro); o **darle la espalda al estanque a las 6:15** y entrar al templo — los corredores con la primera luz rasante, vacíos, son la mejor foto del día.
-- **Alternativas menos saturadas**: **Srah Srang** (amanecer sobre el agua, casi nadie, y Ta Prohm justo detrás para entrarlo a la apertura sin un alma) y **Pre Rup** (~70 % menos gente, vistas 360°). Con 3 amaneceres posibles: Angkor Wat el 23, Srah Srang el 24, Bayon el 25.
+- **Alternativas menos saturadas**: **Srah Srang** (amanecer sobre el agua, casi nadie, y Ta Prohm justo detrás para entrarlo a la apertura sin un alma) y **Pre Rup** (~70 % menos gente, vistas 360°). Con 2 amaneceres en el plan de 2 días: **Angkor Wat el 23** (el del equinoccio, irrenunciable) y **Srah Srang/Banteay Srei el 24**.
 
 ## 2.3 Tuk-tuk vs guía
 
@@ -370,14 +374,14 @@ En septiembre el patrón es: **mañanas mayormente despejadas, chaparrón violen
 - **Neak Pean**: en septiembre los cinco estanques y el baray Jayatataka están llenos; en seca es un barrizal agrietado. Visita corta (30 min) pero la pasarela sobre el agua es muy fotogénica.
 - **Ta Som**: 20 min por la puerta este con su higuera.
 - **Pre Rup vs Phnom Bakheng para el atardecer**: **Bakheng tiene aforo de 300 personas** en la cima (norma APSARA desde 2010); en septiembre hay hueco, pero **Pre Rup es mejor plan**: abierto hasta las 19:00, 50–100 personas, ladrillo que arde en dorado al crepúsculo, sin subida de 15 min. Bakheng vale por la vista lejana de Angkor Wat (haría falta más tele del que da la X100VI).
-- **Beng Mealea**: 65 km (~90 min por trayecto), incluido en el pase desde 2020. Magnífico (ruina pura) pero **con 2,5 días no cabe** — consumiría medio día del 24. Descartarlo sin pena; es el motivo perfecto para volver (con Koh Ker).
+- **Beng Mealea**: 65 km (~90 min por trayecto), incluido en el pase desde 2020. Magnífico (ruina pura) pero **con 2 días no cabe de ninguna manera**. Descartarlo sin pena; es el motivo perfecto para volver (con Koh Ker).
 - **Gemas menos vistas del recinto**: **Banteay Kdei** (vecino de Ta Prohm, mismo ambiente, vacío), **Prasat Kravan** (ladrillo, s. X, relieves de Vishnu *dentro* de las torres — únicos), **Preah Palilay** (rincón escondido tras Phimeanakas, silencioso), **Ta Nei** (solo accesible a pie/bici por pista, ruina íntima), **Thommanon y Chau Say Tevoda** (parada de 15 min junto a la Puerta de la Victoria), **East Mebon** (elefantes de piedra en las esquinas, buena luz de tarde), **Banteay Samré** (de camino a Banteay Srei, muy bien conservado y sin nadie).
 
 ## 2.5 Tonle Sap en septiembre
 
 - **Evitar Chong Kneas** — la trampa turística documentada: saturada, "escuelas flotantes" montadas para donaciones, restaurantes flotantes carísimos, presión de venta constante.
 - **Kampong Phluk** (32 km, ~45 min): pueblo jemer real de casas sobre pilotes de 6–8 m, ~3.000 habitantes. **Precio real: entrada+barca ~20–25 US$/persona** (comprada en el embarcadero oficial; los intermediarios inflan 30–40 %). Añadir el **paseo en canoa a remo por el bosque inundado de manglares: 5–7 US$** — lo reman mujeres del pueblo y el dinero se queda allí. **En septiembre el agua está alta: los pilotes desaparecen bajo el agua y el bosque está sumergido y navegable — la mejor época del año para verlo.**
-- **Kampong Khleang** (50 km, ~90 min): el más grande (~6.000 hab.) y auténtico, muchos menos turistas. Mejor destino "puro" pero el trayecto come demasiado con este calendario. Con 2,5 días: **Kampong Phluk, medio día** (salida 14:30, vuelta 19:00, crepúsculo sobre el lago). Riesgo: el chaparrón de tarde — funda seca y aceptar que una tormenta sobre el lago también es una foto.
+- **Kampong Khleang** (50 km, ~90 min): el más grande (~6.000 hab.) y auténtico, muchos menos turistas. Mejor destino "puro" pero el trayecto come demasiado con este calendario. En el plan de 2 días va **Kampong Phluk como medio día del 23** (salida 14:30, vuelta 19:00, crepúsculo sobre el lago). Riesgo: el chaparrón de tarde — funda seca y aceptar que una tormenta sobre el lago también es una foto.
 - **Ética**: es una comunidad viva, no una atracción — voz baja, pedir permiso antes de retratar de cerca, comprar refrescos en las tiendas familiares, no dar dinero/caramelos a niños, no visitar "orfanatos flotantes". Reservar directo en el embarcadero o vía el tuk-tuk de confianza, no con revendedores de Pub Street.
 
 ## 2.6 Siem Reap ciudad
