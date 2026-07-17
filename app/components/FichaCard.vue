@@ -7,6 +7,20 @@ import type { Ficha } from '~~/shared/schemas'
 
 defineProps<{ ficha: Ficha }>()
 
+// Los `heading` de sección admiten énfasis inline (cursiva para títulos y palabras extranjeras:
+// *El americano impasible*, *chay*). NO usamos <MDC unwrap="p"> aquí: emite un fragmento
+// (<!--[-->) que desincroniza la hidratación y hace perder la clase al hermano siguiente
+// (.ficha-section-body) — el mismo bug de los pull-quotes. Este render inline produce HTML
+// idéntico en SSR y cliente (sin límite de componente), así que la hidratación nunca se
+// desalinea. Solo soporta el subset que usan los títulos: escape → `code` → **fuerte** → *cursiva*.
+function inlineHeading(md: string): string {
+  const esc = md.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+  return esc
+    .replace(/`([^`]+)`/g, '<code>$1</code>')
+    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*([^*]+)\*/g, '<em>$1</em>')
+}
+
 // Emblemas: trazo simple, currentColor (heredan el oro de .ficha-emblem). Añadir aquí uno nuevo
 // = una clave más; el campo `emblem` de la ficha lo referencia.
 const EMBLEMS: Record<string, string> = {
@@ -67,9 +81,11 @@ const EMBLEMS: Record<string, string> = {
         :key="i"
         class="ficha-section"
       >
-        <h3 v-if="s.heading">
-          {{ s.heading }}
-        </h3>
+        <!-- eslint-disable-next-line vue/no-v-html -->
+        <h3
+          v-if="s.heading"
+          v-html="inlineHeading(s.heading)"
+        />
         <div class="ficha-section-body">
           <MDC :value="s.body" />
         </div>
