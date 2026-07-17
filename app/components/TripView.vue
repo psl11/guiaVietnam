@@ -8,7 +8,7 @@
 // reservas; su esquema saldrá de la referencia, no del mockup.
 const props = defineProps<{ slug: string }>()
 
-const { trip, actos, fichas } = await useTrip(props.slug)
+const { trip, actos, fichas, inversiones } = await useTrip(props.slug)
 
 const vietnamActos = computed(() => actos.value.filter(a => a.part === 'vietnam'))
 const vietnamFichas = computed(() => fichas.value.filter(f => f.part === 'vietnam'))
@@ -78,6 +78,20 @@ const hayCamboya = computed(() => camboyaActos.value.length + camboyaFichas.valu
         v-for="f in camboyaFichas"
         :key="f.slug"
         :ficha="f"
+      />
+    </template>
+
+    <!-- Parte I · el plan (usa el Threshold en su segundo cometido: separar plan y contexto) -->
+    <template v-if="inversiones.length">
+      <Threshold
+        overline="Y ahora, el plan"
+        title="Dónde gastar, dónde *no*"
+        dek="Aquí no se gasta por gastar. Cada decisión que cuesta dinero llega con su ficha —cuesta, qué compra, la alternativa— y su veredicto. Que algunas salgan «prescindible» es lo que hace que las demás valgan."
+      />
+      <InversionCard
+        v-for="inv in inversiones"
+        :key="inv.slug"
+        :inversion="inv"
       />
     </template>
   </main>

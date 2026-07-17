@@ -68,6 +68,22 @@ export const FichaSchema = z.object({
   seenIn: z.array(Link).optional(), // "dónde lo veréis" → chips
 })
 
+// ── INVERSIÓN — la ficha de decisión de dinero (Parte I) ─────────────────────
+// El archetipo de "gastar donde merece la pena": veredicto claro + el desglose cuesta/qué
+// compra/la alternativa. La regla que la hace creíble: algunas SALEN "prescindible".
+export const InversionSchema = z.object({
+  slug: z.string(),
+  trip: z.string(),
+  order: z.number(),
+  kicker: z.string(), // "Reservar en julio" / "Decisión de dinero"
+  title: Md, // "Los vuelos internos"
+  verdict: z.enum(['imprescindible', 'merece', 'solo-si', 'prescindible']), // color del badge
+  verdictLabel: z.string(), // texto del badge ("Merece la pena", "Prescindible — y peor"…)
+  lede: Md, // la decisión en una frase
+  ledger: z.array(z.object({ label: z.string(), body: Md })), // Cuesta / Qué compra / La alternativa
+  curiosidades: z.array(Md).optional(),
+})
+
 // ── TRIP — metadatos de portada ──────────────────────────────────────────────
 export const TripSchema = z.object({
   slug: z.string(), // 'vietnam'
@@ -82,4 +98,5 @@ export const TripSchema = z.object({
 // ── Tipos TS derivados (una sola fuente de verdad) ────────────────────────────
 export type Acto = z.infer<typeof ActoSchema>
 export type Ficha = z.infer<typeof FichaSchema>
+export type Inversion = z.infer<typeof InversionSchema>
 export type Trip = z.infer<typeof TripSchema>
