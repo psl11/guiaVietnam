@@ -1,0 +1,52 @@
+slug: casco-viejo-hanoi
+trip: vietnam
+part: vietnam
+order: 8
+emblem: casa
+kicker: Vietnam · leer la ciudad
+title: Las 36 calles del casco viejo de Hanoi
+epithet: >-
+  El casco viejo no es un laberinto pintoresco: es un mapa de oficios de mil años. Cada calle se
+  llama *Hàng* («mercancía de…») + un producto, y unas pocas todavía lo fabrican en plena acera.
+sections:
+  - heading: Las «36 calles» nunca fueron 36
+    body: |
+      El **36** no era un número de calles sino de **gremios** (*phường*): las cofradías de artesanos
+      que, desde la Edad Media, se agruparon calle a calle junto a la ciudadela real para servir a la
+      corte. Cada una tomó el nombre de su producto —**Hàng Bạc** (plata), **Hàng Thiếc** (hojalata),
+      **Hàng Mã** (papel votivo), **Lãn Ông** (medicina)—, y aunque hoy la mayoría vende otra cosa,
+      el nombre delata el oficio original. Leer los rótulos *Hàng…* es leer el plano de una economía
+      medieval que sigue en pie.
+  - heading: Los oficios que aún resisten
+    body: |
+      - **Hàng Thiếc** (hojalateros) — la más auténtica: se oye el martilleo del metal y los artesanos
+        fabrican cajas y linternas en la acera.
+      - **Lãn Ông** (medicina tradicional) — sacos de hierbas, básculas de latón, un olor que se huele
+        a una manzana.
+      - **Hàng Bạc** (plateros desde el s. XV) — con el **Đình Kim Ngân**, la casa comunal del gremio,
+        restaurada y hoy sede de conciertos de ca trù.
+      - **Lò Rèn** (herreros) — queda **un solo herrero** forjando cinceles en la acera, «el último de
+        Hanoi». Si sigue activo, es *la* foto (pedid permiso, comprad algo o dejad propina).
+      - **Hàng Mã** (papel votivo) — sigue vendiendo lo suyo, y **la noche del 25 de septiembre es su
+        apoteosis**: el Festival del Medio Otoño la llena de farolillos.
+  - heading: La casa tubo
+    body: |
+      La tipología que define el barrio: la **nhà ống** («casa tubo»), de **fachada de 3 metros y
+      fondo de 30**. No es capricho — la administración colonial gravaba las casas **por la anchura de
+      su fachada**, así que la ciudad creció hacia dentro: fachada estrecha, patios encadenados,
+      talleres delante y vivienda detrás. De las íntegras quedan unas catorce; la **Casa del
+      patrimonio de 87 Mã Mây** (casa de mercader de finales del s. XIX, restaurada, 10.000 VND) se ve
+      en media hora y es la mejor lección de cómo se vivía aquí.
+  - heading: El ojo, no el mapa
+    body: |
+      Un eje que hila lo vivo: Hàng Chiếu → Đồng Xuân → Hàng Mã → Lò Rèn → Hàng Thiếc → Lãn Ông →
+      Hàng Bạc → la casa de 87 Mã Mây. Pero el casco viejo se lee mejor con el ojo que con el plano:
+      la vida —comida, cartas, cotilleo— ocurre en **taburetes de plástico a 30 cm del suelo**, así
+      que la mirada (y la cámara) van a la altura de la cadera, no de la cara.
+seenIn:
+  - ref: '#casa-87-ma-may'
+    label: Casa de 87 Mã Mây
+  - ref: '#hang-thiec'
+    label: Hàng Thiếc
+  - ref: '#dinh-kim-ngan'
+    label: Đình Kim Ngân

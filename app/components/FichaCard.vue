@@ -22,6 +22,8 @@ const EMBLEMS: Record<string, string> = {
   cuenco: '<svg viewBox="0 0 44 44" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6 22 h32 a2 2 0 0 1 2 2 v1 a16 16 0 0 1 -36 0 v-1 a2 2 0 0 1 2 -2 Z"/><path d="M17 12 C16 15 18 16 17 19 M27 12 C26 15 28 16 27 19"/><line x1="4" y1="40" x2="40" y2="40"/></svg>',
   // Libro abierto (palabras, cine, glosario)
   libro: '<svg viewBox="0 0 44 40" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M22 9 C18 6 12 5 7 6 v24 c5 -1 11 0 15 3 4 -3 10 -4 15 -3 V6 c-5 -1 -11 0 -15 3 Z"/><line x1="22" y1="9" x2="22" y2="33"/></svg>',
+  // Casa tubo (el casco viejo de Hanoi)
+  casa: '<svg viewBox="0 0 44 44" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M16 40 V11 l6 -4 6 4 V40"/><line x1="16" y1="18" x2="28" y2="18"/><line x1="16" y1="25" x2="28" y2="25"/><line x1="16" y1="32" x2="28" y2="32"/><rect x="20" y="35" width="4" height="5"/><line x1="6" y1="40" x2="38" y2="40"/></svg>',
 }
 </script>
 
