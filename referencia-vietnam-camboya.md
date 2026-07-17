@@ -4,6 +4,14 @@
 
 > **Cómo usar este documento.** Tiene dos partes bien diferenciadas, como se acordó: la **Parte I** es el plan (calendario validado, logística, prácticos verificados contra fuentes oficiales) y la **Parte II** es el contexto (corpus cultural narrativo para entender lo que se ve). Este capítulo 0 resume las decisiones, los hallazgos que corrigen el brief original y la lista de acciones con fecha. Cada capítulo cierra con sus fuentes.
 
+> **Procedencia de los datos** *(añadido el 17 de julio de 2026)*. El research original coló un vuelo que no existe —el VN843, con un horario que no corrobora ninguna fuente— dentro de un capítulo ya dado por validado. La lección es que **un documento que mezcla lo comprobado con lo plausible sin distinguirlo no es fiable**, por bien escrito que esté. Desde ahora los datos sensibles (los que cuestan dinero o rompen el plan si fallan) llevan marca:
+>
+> - **`[✓ verificado 17-jul-2026]`** — comprobado contra inventario de reserva real o fuente oficial, en esa fecha.
+> - **`[~ research]`** — procede del research de fuentes secundarias y no se ha reverificado. Útil, pero no es una promesa.
+> - **`[⚠ sin verificar]`** — depende de una fuente única, o se sabe volátil. Comprobar antes de actuar.
+>
+> El marcado empieza por los vuelos (lo único verificado hasta hoy) y se irá extendiendo según se compruebe cada cosa. **Lo que no lleva marca es `[~ research]` por defecto.**
+
 ---
 
 ## 0.1 Veredicto sobre Camboya: SÍ, imprescindible
@@ -20,7 +28,20 @@ La pregunta abierta del brief era si Angkor justifica el bucle. La respuesta del
 
 Estos siete hallazgos cambian detalles del plan original. El esqueleto (Hanoi → Ninh Binh → Ha Giang → Angkor) sale **validado**; lo que cambia es el ajuste fino:
 
-1. **No existe vuelo directo HAN→Siem Reap por la mañana.** Todos los directos salen entre las 15:15 y las 18:00 (Vietnam Airlines VN837 15:30→17:10 y VN843 17:40→19:30; VietJet VJ913 16:20→18:05). El brief asumía "martes 22 por la mañana": no es posible en directo. Consecuencia: **la mañana del 22 se queda en Hanoi** (regalo, no pérdida) y el día 22 en Siem Reap es solo llegada y cena. **El vuelo de vuelta del 25 "a mediodía" tampoco existe con casi toda probabilidad** — los retornos directos son vespertinos (~18:00-19:00, llegando a Hanoi ~20:00-21:00). Verificar horarios exactos del 22 y 25 de septiembre al comprar (las frecuencias de la ruta bailan por temporada; confirmar que el martes 22 opera). La vuelta vespertina sigue protegiendo el vuelo largo del 26 y además regala casi un tercer día completo en Angkor.
+1. **No existe vuelo directo HAN→Siem Reap por la mañana** `[✓ verificado 17-jul-2026]`. Solo hay **dos directos al día**, ambos vespertinos, y **los dos son diarios** — el martes 22 opera, confirmado contra inventario de reserva real para esa fecha exacta y corroborado por cuatro fuentes independientes:
+
+   | | Vuelo | Horario | Precio (17-jul-2026) |
+   |---|---|---|---|
+   | **Ida** — mar 22 sep | **VN837** (Vietnam Airlines) | 15:30 → 17:10 (T2→T1) | **89 €** |
+   | | **VJ913** (VietJet) | 16:20 → 18:05 (T2) | **67 €** |
+   | **Vuelta** — vie 25 sep | **VN836** (Vietnam Airlines) | 18:05 → 19:50 (T1→T2) | **181 €** |
+   | | **VJ914** (VietJet) | 19:05 → 20:50 (→T2) | **74 €** |
+
+   El brief asumía "martes 22 por la mañana": no es posible en directo. Consecuencia: **la mañana del 22 se queda en Hanoi** (regalo, no pérdida) y el día 22 en Siem Reap es solo llegada y cena. **El vuelo de vuelta del 25 "a mediodía" tampoco existe** `[✓ verificado]` — los retornos directos son vespertinos y llegan a Hanoi entre las 19:50 y las 20:50, lo que sigue protegiendo el vuelo largo del 26 y además regala casi un tercer día completo en Angkor. Por la mañana solo hay enlaces **con escala** (vía Ho Chi Minh, ~6h15, ~158 €) — no compensan.
+
+   > **CORRECCIÓN — el VN843 no existe en estas fechas** `[✓ verificado 17-jul-2026]`. La versión anterior de este capítulo listaba un "VN843 17:40→19:30" como segundo vuelo de Vietnam Airlines. **Es un dato erróneo del research original.** El VN843 es estacional de invierno: su último vuelo programado fue el 28 de marzo de 2026 y no vuelve hasta el 27 de octubre de 2026; cuando operaba era martes/jueves/sábado y salía sobre las 18:00-18:20, no a las 17:40. No aparece en el inventario del 22 de septiembre. Se elimina del plan.
+
+   **Salvedades honestas de la verificación** `[⚠]`: los horarios y la disponibilidad del 22 y del 25 se vieron en **inventario de reserva real** (Trip.com), pero **no se pudo confirmar nada en vietnamairlines.com ni en vietjetair.com** — sus buscadores son SPAs con reCAPTCHA. Los **números de vuelo son una inferencia por horario** (casan al minuto con Airportia/Aviation Edge y flightmapper, que además dan los cuatro como diarios), no una lectura directa junto a la fecha. Traducido: **la fecha y el horario son firmes; el número de vuelo, confírmalo en la pantalla al comprar.** Dos agregadores discrepan en la frecuencia (flightconnections dice 9/semana, flightsfrom 14/semana); se toma 14/semana (2 diarios) porque lo respaldan cuatro fuentes y el inventario real.
 2. **España está EXENTA de visado en Vietnam (45 días, hasta marzo de 2028)** — Resolución 44/NQ-CP, verificada en fuentes oficiales. **No hace falta e-visa**, ni siquiera para la doble entrada del día 25 (la regla de los 30 días entre entradas se abolió en 2020; cada entrada da 45 días nuevos). Requisitos: pasaporte válido 6 meses (hasta ~marzo 2027) y billete de salida a mano al facturar en Siem Reap. El checklist del brief ("e-visa Vietnam 3 semanas antes") queda anulado.
 3. **El Mausoleo de Ho Chi Minh estará cerrado del 5 de septiembre al 3 de noviembre de 2026** (mantenimiento anual del cuerpo). Se puede ver el exterior, la plaza Ba Dinh, la casa sobre pilotes y la Pagoda del Pilar Único, pero no el interior. Ajustar expectativas.
 4. **El arroz dorado de postal NO está en el loop clásico de Ha Giang.** La meseta de Dong Van es paisaje kárstico mineral (roca gris, maíz entre piedras); las terrazas doradas espectaculares de mediados de septiembre están en Hoang Su Phi (fuera del loop, no cabe sin sacrificar Ninh Binh). En el loop sí veréis oro por bolsas: valle de Quan Ba/Nam Dam, valles de Yen Minh, Lung Tam. El loop se elige por el karst, el cañón y los mercados — y con eso sobra.
@@ -45,17 +66,31 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 | 9 | sáb 19 | Ha Giang | Dong Van → **barca por el cañón del Nho Que a 1ª hora** → paso de Ma Pi Leng → noche en Meo Vac |
 | 10 | dom 20 | Ha Giang | **Mercado dominical de Meo Vac** (06:30–09:30) → regreso a Ha Giang (~5 h) → noche en Ha Giang **o bus nocturno a Hanoi** |
 | 11 | lun 21 | Hanoi | Bus diurno a Hanoi (6-7 h) — o día completo si se tomó el nocturno. Colchón anti-tifón. Lunes = museos cerrados: Templo de la Literatura (o su visita nocturna con 3D-mapping), pagoda Tran Quoc al atardecer, memorial McCain, pho cuon en Ngũ Xã |
-| 12 | mar 22 | Siem Reap | Mañana libre en Hanoi. **Vuelo ~15:30/16:20 HAN→SAI**. Transfer del hotel (SAI está a 40-50 km, ~1 h). Cena en Wat Bo. Acostarse pronto |
+| 12 | mar 22 | Siem Reap | Mañana libre en Hanoi. **Vuelo VN837 15:30→17:10 HAN→SAI** `[✓]`. Transfer del hotel (SAI está a 40-50 km, ~1 h). Cena en Wat Bo. **Acostarse pronto — mañana el despertador suena a las 4:15** |
 | 13 | mié 23 | Siem Reap | **Circuito pequeño**: 4:45 amanecer en Angkor Wat (equinoccio +1) → bajorrelieves con guía + Bakan → Ta Prohm → Banteay Kdei/Srah Srang → siesta/piscina → 15:30 Angkor Thom: puerta sur, **Bayon a las 16:00-17:00** (su momento mágico), terrazas |
 | 14 | jue 24 | Siem Reap | 7:30 **Banteay Srei a la apertura** → Preah Khan → **Neak Pean con agua** → Ta Som → siesta → tarde: **Tonle Sap / Kampong Phluk** en aguas altas, crepúsculo desde la barca. Noche: circo **Phare** |
-| 15 | vie 25 | Hanoi (noche) | Amanecer opcional en Bayon vacío o mañana tranquila (Artisans Angkor, piscina) → vuelo SAI→HAN por la tarde (verificar hora) → llegada Hanoi ~21:00: **noche de Trung Thu en Hang Ma** |
+| 15 | vie 25 | Hanoi (noche) | Amanecer opcional en Bayon vacío o mañana tranquila (Artisans Angkor, piscina) → **vuelo VJ914 19:05→20:50 SAI→HAN** `[✓]` → llegada al casco viejo ~21:45: **noche de Trung Thu en Hang Ma** en plena ebullición |
 | 16 | sáb 26 | (vuelo) | Última mañana: casco viejo temprano, Hang Ma decorada y vacía, egg coffee de despedida en el balcón del Café Đinh → vuelo 20:40 |
 
 **Válvulas de flexibilidad**: el día 21 es el colchón principal (no rellenarlo de antemano); el loop se comprime a 3 días sin drama si un tifón lo exige; primera pieza a recortar si hiciera falta: un día de Ninh Binh como excursión desde Hanoi.
 
 ## 0.4 Checklist de acciones por fecha
 
-1. **YA (julio)**: comprar **HAN→SAI (mar 22, VN837/VJ913) y SAI→HAN (vie 25, vespertino)** en vietnamairlines.com o vietjetair.com, pagando con la tarjeta con seguro de viaje (activa el seguro Allianz sobre estos tramos). Verificar que ambos días operan. ~70–110 €/trayecto/persona.
+1. **YA (julio) — comprar los vuelos internos. Decisión tomada: `VN837` a la ida + `VJ914` a la vuelta = 163 €/persona, 326 € la pareja** `[✓ verificado 17-jul-2026]`. En vietnamairlines.com y vietjetair.com, pagando con la tarjeta con seguro de viaje (activa el seguro Allianz sobre estos tramos). Ambos días operan — verificado. El razonamiento de por qué esos dos y no los otros:
+
+   > **Ida — VN837 (89 €) por encima de VJ913 (67 €). Merece la pena.**
+   > **Cuesta**: 22 €/persona más (44 € la pareja).
+   > **Qué compra**: 55 minutos. Llegas a las 17:10 en vez de a las 18:05 — al hotel a las 18:30 en vez de a las 19:30. **Y al día siguiente el despertador suena a las 4:15 para el amanecer del equinoccio en Angkor Wat.** El argumento de verdad no es la comodidad, es el colchón: si el VietJet se retrasa una hora (su deporte nacional), te acuestas a las 23:00 y duermes cinco horas antes de *la* foto del viaje.
+   > **La alternativa**: VJ913, 67 €, llegada 18:05, sin margen ante un retraso.
+   > **Veredicto: merece la pena.** 44 € por pareja para blindar la mañana más importante de los 16 días.
+
+   > **Vuelta — VJ914 (74 €) por encima de VN836 (181 €). El VN836 es prescindible.**
+   > **Cuesta**: el VN836 son 107 €/persona más (214 € la pareja).
+   > **Qué compra**: una hora. Llegas a Hanoi a las 19:50 en vez de a las 20:50, para la noche de Trung Thu en Hang Ma.
+   > **La alternativa**: VJ914, 74 €, llegada 20:50 → casco viejo ~21:45, con Hang Ma en plena ebullición (la calle está hasta tarde). Y la referencia ya manda volver **la mañana del 26** a verla decorada y vacía: son dos bocados de la misma manzana, no uno.
+   > **Veredicto: prescindible.** 214 € por una hora de una noche que dura cinco es gastar por gastar. Y un retraso del VietJet aquí no amenaza nada — el vuelo largo es el 26 a las 20:40.
+
+   **Detalle que os favorece**: las tarifas VietJet probablemente no incluyen maleta facturada, pero **voláis solo con cabina** (ver 3.9), así que el diferencial de precio es real y no una trampa. **Sin pánico pero sin esperar**: el VN836 del 25 ya mostraba menos de 9 asientos, señal de que la ruta se llena ese día.
 2. **YA**: reservar el **tour del loop de Ha Giang en formato privado** (2 easy riders, o jeep si el pronóstico de lluvia asusta): Jasmine Tours, QT Motorbikes o Ha Giang Epic (~170-220 €/p easy rider 4D/3N, ~390 €/p jeep; confirmar por escrito permiso fronterizo incluido y política de cambio de fecha flexible). Reservar también **alojamientos**: 2 noches Tam Coc (Tam Coc Windy Fields o similar), 3 noches Siem Reap (Viroth's Villa, Baby Elephant o Rambutan — todos con piscina, zona Wat Bo/Wat Damnak), hoteles de Hanoi (La Siesta Classic Mã Mây o similar con historia).
 3. **YA**: reservar **Cuisine Wat Damnak** (la cena-evento, mar-sáb; avisar menú vegetariano completo) y **Phare** (pharecircus.org) para el 23 o 24.
 4. **Agosto**: **e-visa Camboya** en evisa.gov.kh (30 USD/persona, ~3 días hábiles; SOLO esa URL, hay clones que cobran el doble). **Vietnam: nada — exención de 45 días para España.** Comprobar pasaportes válidos hasta marzo 2027.
@@ -68,14 +103,16 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 
 | Concepto | Estimación |
 |---|---|
-| Vuelos HAN⇄SAI | 300–440 € |
+| Vuelos HAN⇄SAI (VN837 + VJ914 × 2) | **326 €** `[✓ 17-jul-2026]` |
 | Loop Ha Giang 4D/3N privado (easy rider, todo incluido) | 340–440 € (jeep: ~780 €) |
 | Alojamiento: 2n Tam Coc + 3n Siem Reap + ~5n Hanoi | 450–700 € |
 | Pases de Angkor (3 días) | ~115 € (62 USD × 2) |
 | Tuk-tuk 2,5 días + guía 1 mañana + Tonle Sap | ~150–200 € |
 | e-visa Camboya × 2 | ~55 € |
 | Comidas, cafés, entradas Vietnam, buses | ~400–550 € |
-| **Total pendiente aprox.** | **~1.800–2.500 €** |
+| **Total pendiente aprox.** | **~1.840–2.390 €** |
+
+> **Ojo con leer esta tabla como un techo.** Está calculada con el criterio viejo (presupuesto medio-boutique). Bajo el criterio nuevo —*el dinero no es la restricción si la experiencia es imprescindible y cambia el viaje*— algunas de las decisiones que hay detrás de estas cifras se reabren y el total puede subir. Lo que no cambia es la exigencia: cada euro de más tiene que llegar con su ficha de inversión, su alternativa y su veredicto. Y algunas cosas no se arreglan con dinero — el arroz dorado de Hoàng Su Phì está descartado por **tiempo**, no por precio.
 
 ---
 # PARTE I — EL PLAN
@@ -206,7 +243,7 @@ Mejor zona: **el campo entre Tam Coc y Bich Dong** (arrozales + karst, a 5-10 mi
 ---
 # 2. Angkor y Siem Reap (22–25 septiembre)
 
-**Contexto:** llegada desde Hanoi el 22/09 al final de la tarde (los vuelos directos aterrizan 17:10–19:30), salida el 25/09 (vuelo de vuelta previsiblemente vespertino — verificar al comprar). En la práctica: **2 días completos (23-24) + la mañana del 25**. Época húmeda: foso lleno, Neak Pean con agua, Tonle Sap en máximo, mitad de turistas. **Dato clave: el equinoccio de septiembre cae el 22–23 — el sol sale alineado casi exactamente sobre la torre central de Angkor Wat.** En marzo esto reúne a decenas de miles de personas; en septiembre es un fenómeno casi privado. Para la X100VI, una lotería ganada si el cielo acompaña.
+**Contexto:** llegada desde Hanoi el 22/09 al final de la tarde (**VN837, aterriza 17:10** — hotel sobre las 18:30) `[✓ verificado 17-jul-2026]`, salida el 25/09 (**VJ914, despega 19:05** — salir del hotel sobre las 16:00). En la práctica: **2 días completos (23-24) + el día 25 casi entero**. Época húmeda: foso lleno, Neak Pean con agua, Tonle Sap en máximo, mitad de turistas. **Dato clave: el equinoccio de septiembre cae el 22–23 — el sol sale alineado casi exactamente sobre la torre central de Angkor Wat.** En marzo esto reúne a decenas de miles de personas; en septiembre es un fenómeno casi privado. Para la X100VI, una lotería ganada si el cielo acompaña.
 
 ## 2.1 Logística Angkor 2026
 
@@ -238,7 +275,7 @@ En septiembre el patrón es: **mañanas mayormente despejadas, chaparrón violen
 
 **Día 24 (Banteay Srei + circuito grande):** salida 5:15 → **amanecer en Srah Srang** (casi nadie; espejo de agua perfecto) o directamente carretera. **7:30–8:30 Banteay Srei** (37 km, 45 min): llegar a la apertura es crítico — el templo es diminuto, la arenisca rosa pide luz matinal suave, y a las 9:30 llegan los buses. Vuelta por el circuito grande: **Preah Khan** (la gran joya infravalorada: como Ta Prohm pero sin gente), **Neak Pean** (sus estanques y el baray solo tienen agua en época húmeda — septiembre es exactamente cuando hay que verlo, con la pasarela de madera sobre el agua), **Ta Som** (la puerta este devorada por la higuera estranguladora: foto icónica sin multitud). Siesta 12:30–15:00. Tarde: **Tonle Sap — Kampong Phluk** (ver 2.5), con el crepúsculo sobre el lago desde la barca. Noche: circo **Phare** (~20:00) si no se hizo el 23. *Alternativa si preferís templos: East Mebon + atardecer en Pre Rup, y Tonle Sap la mañana del 25.*
 
-**Día 25 (mañana):** dos opciones según la hora del vuelo. (a) Tranquila: mercado Psar Leu temprano, Artisans Angkor, piscina. (b) Fotográfica: el pase aún vale → **amanecer 5:30–7:30 en Bayon o Angkor Wat vacíos** (entre semana en septiembre, Bayon a las 7:30 puede estar literalmente desierto), hotel 8:30, ducha, piscina y comida antes del transfer. Con vuelo vespertino caben las dos cosas.
+**Día 25:** con el VJ914 de las 19:05 hay que salir del hotel sobre las **16:00** (SAI está a 40-50 km y es vuelo internacional) `[✓ verificado 17-jul-2026]` — o sea, **el día es vuestro casi entero y caben las dos opciones, no hay que elegir**. (a) Fotográfica: el pase aún vale → **amanecer 5:30–7:30 en Bayon o Angkor Wat vacíos** (entre semana en septiembre, Bayon a las 7:30 puede estar literalmente desierto), hotel 8:30, ducha. (b) Tranquila: mercado Psar Leu, Artisans Angkor, piscina y comida sin prisa hasta el transfer. Lo suyo es hacer (a) y luego (b) — el amanecer no cuesta nada más que madrugar, y después sobra tarde para no hacer nada.
 
 **Amanecer en Angkor Wat — táctica anti-multitud (verificado 2025-2026):**
 - El punto clásico es el **estanque norte (reflection pond izquierda)**: en temporada alta reúne 3.000–5.000 personas; **en septiembre bajan a cientos**. Llegar **4:45–5:00 a la puerta**, ir directos por la calzada flotante, y colocarse en la **esquina noroeste del estanque, primera fila junto al agua** — con el 35 mm equivalente de la X100VI se encuadran las cinco torres + reflejo sin recortar.
