@@ -1,0 +1,36 @@
+slug: metropole
+trip: vietnam
+part: vietnam
+order: 9
+emblem: copa
+kicker: Vietnam · un siglo en una barra
+title: El Metropole, el gran hotel de Indochina
+epithet: >-
+  Un hotel de 1901 que ha sido, por turnos, el salón de la élite colonial, la trinchera de los
+  corresponsales de guerra y un búnker antiaéreo. El siglo XX de Vietnam cabe en su Bamboo Bar.
+sections:
+  - heading: Cien años de huéspedes
+    body: |
+      El **Sofitel Legend Metropole** (15 Ngô Quyền, 1901) es el gran hotel colonial de Indochina, y
+      su libro de firmas es media historia del siglo: **Somerset Maugham** (1923), **Charlie Chaplin**
+      de luna de miel (1936), **Graham Greene** (1951, mientras gestaba *El americano impasible* — ver
+      *la Hanoi del cine y los libros*) y, ya bajo las bombas, **Joan Baez y Jane Fonda** (1972). Pocos
+      edificios han visto pasar tantos capítulos por el mismo vestíbulo.
+  - heading: El búnker bajo el bar
+    body: |
+      En 2011, renovando el Bamboo Bar, apareció un **búnker antiaéreo de 40 m² sellado desde los años
+      70**. Restaurado en 2012, es donde **Joan Baez grabó *«Where Are You Now, My Son?»* durante los
+      bombardeos de Navidad de 1972**, con el hotel temblando encima. El tour «Path of History» que
+      baja al búnker es hoy **solo para huéspedes** — un dato que importa para decidir dónde dormir.
+  - heading: El movimiento inteligente
+    body: |
+      Dormir aquí cuesta 300–500 € la noche. Pero los bares y restaurantes están abiertos a todos, y
+      el homenaje de verdad es un **martini «Graham Greene» en el Bamboo Bar** —la misma barra donde
+      se gestó la novela, y escenario real de la película de 2002—. La historia se bebe desde la barra
+      por el precio de una copa; la cama es lo de menos. *(Dónde dormir con esa misma alma sin pagar
+      la habitación es una decisión del plan, no del contexto.)*
+seenIn:
+  - ref: '#bamboo-bar'
+    label: Bamboo Bar
+  - ref: '#hanoi-cine-libros'
+    label: El americano impasible
