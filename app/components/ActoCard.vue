@@ -13,21 +13,22 @@ defineProps<{ acto: Acto }>()
     :id="acto.slug"
     class="acto"
   >
+    <!-- Cabecera en grid (2 col × 2 filas): en desktop el numeral abarca las dos filas a la
+         izquierda; en móvil (ver base.css) numeral+kicker arriba y el título a todo el ancho
+         debajo, para que no quede arrinconado en una columna estrecha. -->
     <div class="acto-head">
       <div class="acto-num">
         {{ acto.numeral }}
       </div>
-      <div class="acto-head-text">
-        <div class="acto-kicker">
-          {{ acto.kicker }}
-        </div>
-        <h2>
-          <MDC
-            :value="acto.title"
-            unwrap="p"
-          />
-        </h2>
+      <div class="acto-kicker">
+        {{ acto.kicker }}
       </div>
+      <h2>
+        <MDC
+          :value="acto.title"
+          unwrap="p"
+        />
+      </h2>
     </div>
     <div class="acto-rule" />
 

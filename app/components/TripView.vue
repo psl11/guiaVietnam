@@ -64,12 +64,11 @@ const hayCamboya = computed(() => camboyaActos.value.length + camboyaFichas.valu
 
     <!-- Camboya -->
     <template v-if="hayCamboya">
-      <div class="part-divider">
-        <div class="eyebrow">
-          El segundo mundo del viaje
-        </div>
-        <h2>Camboya · <em>Angkor</em></h2>
-      </div>
+      <Threshold
+        overline="El segundo mundo del viaje"
+        title="Camboya · *Angkor*"
+        dek="De los mil años de resistencia de Vietnam a los seiscientos de un imperio que talló una montaña entera para ser el centro del universo."
+      />
       <ActoCard
         v-for="a in camboyaActos"
         :key="a.slug"
