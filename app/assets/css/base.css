@@ -1,0 +1,199 @@
+/* base.css — estilos de la guía de Vietnam. Portado del mockup validado (paleta Sơn mài,
+   dos archetipos: acto narrativo en cinabrio / ficha de consulta en índigo, modelo B).
+   Consume los tokens de tokens.css y las fuentes vendorizadas de fonts.css (con subset vietnamita).
+   Los selectores de prosa usan descendencia (`.acto-body p`) para alcanzar a través del <div> con
+   que <MDC> envuelve el markdown renderizado. */
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Lora', Georgia, serif;
+  font-size: 1.075rem;
+  line-height: 1.72;
+  -webkit-font-smoothing: antialiased;
+  transition: background .4s ease, color .4s ease;
+}
+
+.wrap { max-width: 720px; margin: 0 auto; padding: 0 1.5rem; }
+
+/* ── Topbar ────────────────────────────────────────────────────────────────── */
+.topbar {
+  position: sticky; top: 0; z-index: 20;
+  display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+  padding: .7rem 1.5rem;
+  background: color-mix(in srgb, var(--bg-elev) 88%, transparent);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--line);
+}
+.brand {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: .72rem; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-soft);
+}
+.brand-dot { color: var(--gold); margin: 0 .15rem; }
+.theme-btn {
+  font-size: 1rem; cursor: pointer; line-height: 1;
+  background: transparent; border: 1px solid var(--line);
+  border-radius: 99px; padding: .35rem .6rem; color: var(--ink-soft);
+  transition: border-color .2s, color .2s;
+}
+.theme-btn:hover { border-color: var(--accent); color: var(--accent); }
+.theme-btn:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; }
+/* Un solo icono según el tema resuelto (evita FOUC/mismatch: ambos existen, CSS decide). */
+.theme-btn .sun { display: none; }
+.theme-btn .moon { display: inline; }
+[data-theme="dark"] .theme-btn .sun { display: inline; }
+[data-theme="dark"] .theme-btn .moon { display: none; }
+
+/* ── Hero de la Parte II ─────────────────────────────────────────────────────── */
+.hero { padding: 4rem 0 1rem; }
+.eyebrow {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: .72rem; font-weight: 500; letter-spacing: .22em; text-transform: uppercase;
+  color: var(--accent); display: flex; align-items: center; gap: .7rem;
+}
+.eyebrow::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+.hero h1 {
+  font-family: 'Cormorant Garamond', Garamond, serif;
+  font-weight: 600; font-size: clamp(2.6rem, 6vw, 3.9rem);
+  line-height: 1.04; letter-spacing: -.01em; text-wrap: balance; margin: 1.1rem 0 0;
+}
+.hero h1 em { font-style: italic; color: var(--accent); font-weight: 500; }
+.hero .lede { font-size: 1.2rem; color: var(--ink-soft); margin: 1.4rem 0 0; max-width: 60ch; line-height: 1.66; }
+.hero .lede em { font-style: italic; color: var(--ink); }
+
+/* ── Divisor de parte (Vietnam / Camboya) ─────────────────────────────────────── */
+.part-divider { padding: 3.5rem 0 1rem; text-align: center; }
+.part-divider .eyebrow { justify-content: center; }
+.part-divider .eyebrow::after, .part-divider .eyebrow::before {
+  content: ""; flex: 1; height: 1px; background: var(--line);
+}
+.part-divider h2 {
+  font-family: 'Cormorant Garamond', serif; font-weight: 600;
+  font-size: clamp(2.4rem, 6vw, 3.4rem); margin: .6rem 0 0; letter-spacing: -.01em;
+}
+
+/* ═══ ARCHETIPO 1 · ACTO NARRATIVO (cinabrio) ═════════════════════════════════ */
+.acto { margin: 3.5rem 0; }
+.acto-head { display: flex; align-items: flex-start; gap: 1.35rem; margin-bottom: .4rem; }
+.acto-num {
+  font-family: 'Cormorant Garamond', serif; font-style: italic; font-weight: 500;
+  font-size: 5.4rem; line-height: .74; color: var(--accent);
+  flex-shrink: 0; margin-top: -.06em;
+}
+.acto-head-text { flex: 1; }
+.acto-kicker {
+  font-family: 'JetBrains Mono', monospace; font-size: .68rem;
+  letter-spacing: .14em; text-transform: uppercase; color: var(--ink-faint); margin-bottom: .35rem;
+}
+.acto h2 {
+  font-family: 'Cormorant Garamond', serif; font-weight: 600;
+  font-size: clamp(1.9rem, 4vw, 2.5rem); line-height: 1.08; margin: 0; text-wrap: balance;
+}
+.acto h2 em { font-style: italic; color: var(--accent); }
+.acto-rule { height: 2px; background: linear-gradient(90deg, var(--accent) 0 44px, var(--line) 44px); margin: 1.2rem 0 1.6rem; }
+
+.acto-lead, .acto-body p { margin: 0 0 1.15rem; }
+.acto-lead::first-letter {
+  font-family: 'Cormorant Garamond', serif; font-weight: 600;
+  font-size: 3.9rem; float: left; line-height: .72; margin: .35rem .6rem 0 0; color: var(--accent);
+}
+.acto-body strong, .acto-lead strong { font-weight: 600; color: var(--ink); }
+.acto-body em, .acto-lead em { font-style: italic; }
+.acto-body blockquote {
+  margin: 1.8rem 0; padding: .3rem 0 .3rem 1.6rem; border-left: 3px solid var(--accent);
+  font-family: 'Cormorant Garamond', serif; font-style: italic;
+  font-size: 1.7rem; line-height: 1.3; color: var(--ink);
+}
+.acto-body blockquote p { margin: 0; }
+
+.connect {
+  margin: 2rem 0 .5rem; padding: 1.3rem 1.5rem;
+  background: var(--bg-elev); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow);
+}
+.connect-label {
+  font-family: 'JetBrains Mono', monospace; font-size: .66rem;
+  letter-spacing: .16em; text-transform: uppercase; color: var(--accent);
+  margin-bottom: .7rem; display: flex; align-items: center; gap: .5rem;
+}
+.connect-label::before { content: "✦"; color: var(--gold); }
+.connect p { margin: 0 0 .6rem; font-size: .99rem; color: var(--ink-soft); }
+.connect p:last-child { margin-bottom: 0; }
+.connect strong { color: var(--ink); font-weight: 600; }
+
+/* ═══ ARCHETIPO 2 · FICHA DE CONSULTA (índigo, modelo B) ══════════════════════ */
+.ficha {
+  margin: 3.5rem 0; padding: 0; overflow: hidden;
+  background: var(--bg-elev); border: 1px solid var(--line);
+  border-top: 3px solid var(--gold); border-radius: 14px; box-shadow: var(--shadow-elev);
+}
+/* Cabecera en índigo (texto claro vía tokens locales; título y emblema en oro). */
+.ficha-band {
+  --ink: #f4f1e9; --ink-soft: #cdd6db;
+  background: var(--ficha-fill); padding: 1.9rem 1.9rem 1.6rem;
+}
+.ficha-head { display: flex; align-items: center; gap: 1.1rem; margin-bottom: 1.1rem; }
+.ficha-emblem {
+  width: 58px; height: 58px; flex-shrink: 0; border-radius: 12px;
+  background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.18);
+  display: flex; align-items: center; justify-content: center; color: var(--gold-soft);
+}
+.ficha-emblem svg { width: 34px; height: 34px; display: block; }
+.ficha-kicker {
+  font-family: 'JetBrains Mono', monospace; font-size: .66rem;
+  letter-spacing: .15em; text-transform: uppercase; color: #a6c3d1; margin-bottom: .3rem;
+}
+/* El h2 no lleva color propio → heredaría el oscuro calculado en :root sobre el body. Oro explícito. */
+.ficha-band h2 {
+  font-family: 'Cormorant Garamond', serif; font-weight: 600;
+  font-size: clamp(1.7rem, 3.5vw, 2.15rem); line-height: 1.05; margin: 0; color: var(--gold-soft);
+}
+.ficha-epithet {
+  font-family: 'Cormorant Garamond', serif; font-style: italic;
+  font-size: 1.35rem; color: var(--ink-soft); line-height: 1.35; margin: 0;
+}
+.ficha-epithet p { margin: 0; }
+
+.ficha-body { padding: 1.7rem 1.9rem 1.7rem; }
+.ficha-section { margin-bottom: 1.4rem; }
+.ficha-section:first-child { margin-top: 0; }
+.ficha-section h3 {
+  font-family: 'Cormorant Garamond', serif; font-weight: 600;
+  font-size: 1.3rem; color: var(--indigo); margin: 0 0 .35rem;
+}
+.ficha-section-body p { margin: 0 0 .8rem; font-size: 1rem; color: var(--ink-soft); line-height: 1.66; }
+.ficha-section-body p:last-child { margin-bottom: 0; }
+.ficha-section-body strong { color: var(--ink); font-weight: 600; }
+.ficha-section-body em { font-style: italic; }
+.ficha-section-body ul { margin: .6rem 0; padding-left: 1.1rem; }
+.ficha-section-body li { margin-bottom: .5rem; color: var(--ink-soft); }
+.ficha-section-body li strong { color: var(--ink); }
+
+.seen-in { margin-top: 1.6rem; padding-top: 1.3rem; border-top: 1px solid var(--line-soft); }
+.seen-in-label {
+  font-family: 'JetBrains Mono', monospace; font-size: .66rem;
+  letter-spacing: .15em; text-transform: uppercase; color: var(--ink-faint);
+  margin-bottom: .7rem; display: flex; align-items: center; gap: .5rem;
+}
+.seen-in-label::before { content: "✦"; color: var(--gold); }
+.chips { display: flex; flex-wrap: wrap; gap: .5rem; }
+.chip {
+  font-family: 'JetBrains Mono', monospace; font-size: .78rem;
+  padding: .35rem .8rem; border-radius: 99px;
+  background: color-mix(in srgb, var(--indigo) 10%, transparent);
+  border: 1px solid color-mix(in srgb, var(--indigo) 28%, transparent);
+  color: var(--indigo); text-decoration: none;
+  transition: background .2s, transform .2s;
+}
+.chip:hover { background: color-mix(in srgb, var(--indigo) 20%, transparent); transform: translateY(-1px); }
+.chip:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; }
+
+@media (max-width: 560px) {
+  .acto-num { font-size: 4rem; }
+  .hero { padding-top: 2.5rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
