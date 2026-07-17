@@ -1,0 +1,60 @@
+slug: gastronomia-vietnam
+trip: vietnam
+part: vietnam
+order: 3
+emblem: cuenco
+kicker: Vietnam · comer con criterio
+title: La gastronomía como cultura
+epithet: >-
+  En Vietnam la comida es la conversación nacional. El norte —donde estaréis— es la cocina madre:
+  más sobria, menos dulce y menos picante, obsesionada con el caldo limpio y el equilibrio.
+sections:
+  - heading: El phở es del norte
+    body: |
+      Y decir lo contrario en Hanoi es buscarse un disgusto. Nació hacia 1900–1910 y su origen es un
+      pequeño campo de batalla académico: la teoría francófila lo deriva del **pot-au-feu** (hasta el
+      nombre *phở* vendría de «feu»); la sinófila, de sopas de fideos cantonesas. Lo más probable es
+      una convergencia: técnica china de fideos + ternera colonial + genio vietnamita para el caldo
+      (jengibre y cebolla tostados, anís estrellado, canela). En Hanoi se come de **desayuno**, en
+      taburete, y es minimalista: sin la bandeja de hierbas del sur.
+  - heading: El equilibrio, y los otros monumentos
+    body: |
+      Cinco sabores que se tensan, frío y caliente, crudo y cocido, y el *nước chấm* como ajuste fino
+      personal. De ahí el **bún chả** —cerdo a la brasa en salsa agridulce tibia, con fideos fríos y
+      montaña de hierbas; el plato que Obama y Bourdain comieron en 2016, hoy peregrinación— y el
+      **chả cá**, pescado marinado en cúrcuma que se termina de freír en la mesa con eneldo (rareza
+      absoluta en el sudeste asiático, firma exclusiva del norte).
+  - heading: Café y bia hơi
+    body: |
+      Vietnam es el mayor productor mundial de **robusta**: café fuerte, terroso, filtrado gota a gota
+      en el **phin** y domado con leche condensada. La joya es el **egg coffee** (*cà phê trứng*): en
+      1946, un barman del Metropole batió yema con azúcar y la puso sobre el café; sabe a tiramisú
+      líquido y sobrevive en el Café Giảng. Y la **bia hơi**: cerveza fresca sin pasteurizar, servida
+      por céntimos en taburetes enanos — la institución social más democrática de Hanoi.
+  - heading: Etiqueta básica
+    body: |
+      La mesa es compartida; se sirve a los demás antes que a uno mismo; los palillos **nunca se
+      clavan verticales en el arroz** (es la ofrenda de incienso a los muertos) ni se usan para
+      señalar. Sorber la sopa es correcto; levantar el cuenco para comer, también.
+  - heading: Comer vegetariano — la palabra es *chay*
+    body: |
+      *Ăn chay* es «comer vegetariano», y su raíz es budista: muchos vietnamitas lo practican **los
+      días 1 y 15 del mes lunar** — esos días hasta los puestos callejeros tienen opción chay. Un
+      **quán chay** es un restaurante vegetariano, casi siempre junto a una pagoda, barato y
+      excelente, con imitaciones de carne de soja y seitán. La trampa es el **nước mắm** (salsa de
+      pescado): está en *todo*, y los caldos de phở llevan huesos por definición. Por eso «sin carne»
+      no basta. La frase que lo resuelve:
+
+      > **«Tôi ăn chay. Không nước mắm, không nước dùng thịt.»**
+      > «Como vegetariana. Sin salsa de pescado, sin caldo de carne.»
+
+      Llevarla escrita en el móvil funciona mejor que pronunciarla. Platos seguros en versión chay:
+      **đậu phụ sốt cà chua** (tofu en salsa de tomate), **rau muống xào tỏi** (espinaca de agua con
+      ajo — pedid «không nước mắm»), **phở chay**, **nem chay** (rollitos), **xôi** (arroz glutinoso).
+      En los homestays del loop basta avisar con horas de antelación: el tofu y la verdura de huerta
+      nunca faltan.
+seenIn:
+  - ref: '#bun-cha-huong-lien'
+    label: Bún chả Hương Liên
+  - ref: '#cafe-giang'
+    label: Café Giảng

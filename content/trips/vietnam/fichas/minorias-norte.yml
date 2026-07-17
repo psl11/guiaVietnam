@@ -1,0 +1,59 @@
+slug: minorias-norte
+trip: vietnam
+part: vietnam
+order: 2
+emblem: montana
+kicker: Vietnam · el mundo de Hà Giang
+title: Las minorías del norte
+epithet: >-
+  Vietnam reconoce 54 grupos étnicos. Los kinh (viet) son el 85 % y ocupan deltas y costas; las
+  montañas del norte son el territorio de los demás. En Hà Giang los kinh son minoría — por eso el
+  loop no se parece a nada del resto del país.
+sections:
+  - body: |
+      Antes de ir, una tarde en el **Museo de Etnología** de Hanoi (el mejor museo del país, con
+      casas tradicionales a escala real en el jardín) multiplica por diez lo que se entiende después.
+  - heading: Los hmong
+    body: |
+      El grupo más numeroso del altiplano de Đồng Văn. Su historia es una epopeya de huidas:
+      originarios de China, fueron empujados hacia el sur por la presión del imperio Qing y se
+      instalaron deliberadamente en lo más alto e inhóspito — **donde nadie más quería vivir, nadie
+      les gobernaba**. Cultivan maíz en bolsillos de tierra entre rocas (ese «cultivo entre piedras»
+      se ve por todo el loop), tejen cáñamo y dominan la platería y el batik de índigo. Los subgrupos
+      se nombran por el traje femenino: **hmong negro** (índigo profundo), **blanco** (cáñamo claro),
+      **flor** (bordados multicolores). La lengua es tonal y sin parentesco con el vietnamita.
+  - heading: Dao, tày, lô lô
+    body: |
+      Los **dao** («zao»), célebres por la medicina herbal (los baños de hierbas) y por el turbante
+      escarlata y las monedas de plata de sus mujeres; conservan un chamanismo con textos escritos en
+      caracteres chinos. Los **tày** son la minoría más numerosa de Vietnam: valle, arrozal y **casa
+      de palafito** — muchos homestays del loop son casas tày. Y los **lô lô negros**, apenas unos
+      miles, en aldeas como Lô Lô Chải al pie de la torre de Lũng Cú: trajes con miles de triángulos
+      de tela cosidos a mano (un traje puede llevar un año de trabajo).
+  - heading: El mercado como institución
+    body: |
+      El mercado semanal (*chợ phiên*) no es un sitio donde comprar: es **el acontecimiento social de
+      la semana**. La gente baja andando horas desde las aldeas con el traje bueno; se vende un
+      búfalo, se corta el pelo, se bebe *rượu ngô* (licor de maíz), los jóvenes se miran. Su versión
+      extrema es el **mercado del amor de Khâu Vai** (una vez al año): el día en que antiguos
+      enamorados, hoy casados con otros, pueden reencontrarse y conversar sin que nadie se ofenda.
+  - heading: El palacio del rey hmong
+    body: |
+      En el valle de Sà Phìn, la casa-fortaleza de **Vương Chính Đức** (1865–1947), el «rey de los
+      hmong»: construida hacia 1900 por artesanos chinos, mezcla de mansión Qing, elementos hmong y
+      toques franceses. La fortuna que la pagó era **opio** — y los capiteles de piedra están tallados
+      con forma de **cápsula de amapola**. Sus 64 habitaciones, patios de piedra y una bañera de leche
+      de cabra en granito son la mejor lección de historia del loop.
+  - heading: Ética fotográfica — dicho sin rodeos
+    body: |
+      **Pedir permiso siempre** (gesto de cámara + sonrisa basta) y aceptar el no — algunas mujeres
+      mayores creen que la foto se lleva algo, y da igual si es «superstición»: es su cara. **No pagar
+      por fotos y no dar dinero ni caramelos a niños** (convierte la infancia en oficio). La mejor
+      manera de «pagar» una foto es comprar la artesanía real de quien la hace —textil de cáñamo e
+      índigo de cooperativas como las de Lung Tam, plata—. La regla de oro: *si no lo harías en un
+      mercado de tu pueblo con una señora de tu pueblo, no lo hagas allí*.
+seenIn:
+  - ref: '#loop-ha-giang'
+    label: el loop de Hà Giang
+  - ref: '#museo-etnologia'
+    label: Museo de Etnología

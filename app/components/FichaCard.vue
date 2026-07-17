@@ -18,6 +18,8 @@ const EMBLEMS: Record<string, string> = {
   incienso: '<svg viewBox="0 0 40 44" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M14 8 C13 12 15 13 14 17 M20 6 C19 11 21 12 20 17 M26 8 C25 12 27 13 26 17"/><rect x="9" y="24" width="22" height="12" rx="2"/><line x1="14" y1="24" x2="14" y2="17"/><line x1="20" y1="24" x2="20" y2="16"/><line x1="26" y1="24" x2="26" y2="17"/><line x1="13" y1="30" x2="27" y2="30"/></svg>',
   // Montaña kárstica (Ninh Binh / Ha Giang)
   montana: '<svg viewBox="0 0 44 40" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M4 34 L14 14 L20 24 L27 8 L40 34 Z"/><line x1="2" y1="34" x2="42" y2="34"/></svg>',
+  // Cuenco con vapor (gastronomía)
+  cuenco: '<svg viewBox="0 0 44 44" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6 22 h32 a2 2 0 0 1 2 2 v1 a16 16 0 0 1 -36 0 v-1 a2 2 0 0 1 2 -2 Z"/><path d="M17 12 C16 15 18 16 17 19 M27 12 C26 15 28 16 27 19"/><line x1="4" y1="40" x2="40" y2="40"/></svg>',
 }
 </script>
 
