@@ -30,7 +30,7 @@ blocks:
     time: "mañana"
     title: El egg coffee en su cuna, y el café de los cuadros
     body: >-
-      Dos cafés en la misma calle, Nguyễn Hữu Huân, que son patrimonio líquido de la ciudad. **Cà Phê Giảng**
+      Dos cafés en la misma calle, Nguyễn Hữu Huân, que son patrimonio líquido de la ciudad. [**Cà Phê Giảng**](#cafe-giang)
       (nº 39): un pasillo estrecho al fondo del cual Nguyễn Văn Giảng —barman del Metropole— inventó en 1946
       el **cà phê trứng**, el café-huevo, batiendo yema con azúcar ante la escasez de leche de la guerra con
       Francia; hoy lo lleva su hijo. Y **Cà Phê Lâm** (nº 60), el café de los artistas desde finales de los
@@ -46,10 +46,10 @@ blocks:
     time: "mediodía"
     title: Hỏa Lò y el bún chả de Obama
     body: >-
-      Un díptico sobre la guerra y lo que vino después. Primero **Hỏa Lò**, la antigua prisión que los pilotos
+      Un díptico sobre la guerra y lo que vino después. Primero [**Hỏa Lò**](#hoa-lo), la antigua prisión que los pilotos
       americanos bautizaron «Hanoi Hilton»: la guillotina y las celdas coloniales, y la sala de los aviadores
       con el traje de vuelo de McCain — el relato oficial del Norte, con sus silencios. Y a la salida, a la
-      hora de comer, **Bún chả Hương Liên** (24 Lê Văn Hưu), donde **Anthony Bourdain y Barack Obama** cenaron
+      hora de comer, [**Bún chả Hương Liên**](#bun-cha-huong-lien) (24 Lê Văn Hưu), donde **Anthony Bourdain y Barack Obama** cenaron
       en mayo de 2016 para *Parts Unknown*: el «Combo Obama» (bún chả, nem de marisco y cerveza Hanoi) cuesta
       130.000 VND, la mesa se conserva en una vitrina y el bún chả es honesto y barato.
     window:
@@ -65,7 +65,7 @@ blocks:
     body: >-
       Los bulevares de tamarindos y las villas amarillo mostaza: Tràng Tiền, la Ópera (solo fachada, cerrada
       por obras), el Museo de Historia de Hébrard, las villas de Lý Thường Kiệt. El paseo termina, cómo no, en
-      el **Sofitel Legend Metropole** (1901), donde Graham Greene se alojó en 1951 mientras gestaba *El
+      el [**Sofitel Legend Metropole**](#metropole) (1901), donde Graham Greene se alojó en 1951 mientras gestaba *El
       americano impasible*. La habitación cuesta un ojo; el homenaje inteligente es un **martini «Graham
       Greene» en el Bamboo Bar** (~15 €), en el mismo patio bajo el que apareció, sellado desde los setenta,
       el búnker antiaéreo del hotel.
@@ -79,9 +79,8 @@ blocks:
     time: "20:00"
     title: Ca trù en la casa de los plateros
     body: >-
-      Para cerrar, la música seria y minoritaria de Hanoi: el **ca trù**, canto de cámara declarado por la
-      UNESCO patrimonio «en peligro», ante un público de veinte o cuarenta personas. La sesión es en el **Đình
-      Kim Ngân** (42-44 Hàng Bạc), la casa comunal restaurada del gremio de plateros — es decir, en la misma
+      Para cerrar, la música seria y minoritaria de Hanoi: el [**ca trù**](#ca-tru-hang-bac), canto de cámara declarado por la
+      UNESCO patrimonio «en peligro», ante un público de veinte o cuarenta personas. La sesión es en el [**Đình Kim Ngân**](#dinh-kim-ngan) (42-44 Hàng Bạc), la casa comunal restaurada del gremio de plateros — es decir, en la misma
       calle que ayer recorristeis de día, ahora convertida en sala de concierto. Entrada ~200.000 VND.
     window:
       label: Ventana óptima

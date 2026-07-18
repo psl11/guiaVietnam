@@ -60,16 +60,8 @@ onBeforeUnmount(() => {
   window.removeEventListener('keydown', onKey)
 })
 
-// Salto suave con margen para la cabecera fija; cierra el panel (móvil) y fija el hash.
-function jump(e: MouseEvent, anchor: string) {
-  e.preventDefault()
-  const y = anchor === 'top' || !document.getElementById(anchor)
-    ? 0
-    : document.getElementById(anchor)!.getBoundingClientRect().top + window.scrollY - 76
-  window.scrollTo({ top: y, behavior: 'smooth' })
-  if (anchor !== 'top') history.replaceState(null, '', '#' + anchor)
-  emit('close')
-}
+// El salto (scroll con offset) y el historial los gestiona plugins/anchor-nav.client.ts vía Vue
+// Router, común a todos los enlaces internos. Aquí solo cerramos el panel deslizante (móvil).
 </script>
 
 <template>
@@ -104,7 +96,7 @@ function jump(e: MouseEvent, anchor: string) {
           <a
             class="gi-glabel"
             :href="g.anchor === 'top' ? '#' : '#' + g.anchor"
-            @click="jump($event, g.anchor)"
+            @click="emit('close')"
           >{{ g.label }}</a>
           <ul class="gi-items">
             <li
@@ -116,7 +108,7 @@ function jump(e: MouseEvent, anchor: string) {
               <a
                 :href="'#' + it.id"
                 :title="it.label"
-                @click="jump($event, it.id)"
+                @click="emit('close')"
               >
                 <span
                   v-if="it.numeral"
