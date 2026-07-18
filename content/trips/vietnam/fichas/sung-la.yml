@@ -1,0 +1,37 @@
+slug: sung-la
+navLabel: "Sủng Là"
+trip: vietnam
+part: vietnam
+order: 32
+emblem: casa
+kicker: Vietnam · el loop
+title: Sủng Là
+epithet: >-
+  Tenido por el valle más bonito de la meseta de Đồng Văn: un puñado de casas de adobe hmong entre
+  bolsas de arrozal y maíz que crece en la roca — «el valle de las flores», todavía a salvo de los
+  puntos calientes del loop.
+sections:
+  - heading: El valle de las flores
+    body: |
+      Se arranca temprano hacia **Sủng Là**, un valle abierto entre paredes de caliza que los
+      viajeros llaman «el valle de las flores» por los tapices de color que salpican la roca gris.
+      Es el rincón más bonito de la meseta: **casas de adobe hmong** de muros de tierra apisonada
+      color ocre, repartidas entre bolsas de arrozal y el maíz que crece entre las piedras. Sigue
+      siendo un lugar tranquilo, lejos del gentío del resto del loop — si llegáis con la luz rasante
+      de la mañana lo tendréis casi para vosotros.
+  - heading: La casa de Pao
+    body: |
+      El corazón del valle es la **casa de Pao** (*Nhà của Pao*), la vivienda tradicional hmong
+      donde se rodó la película homónima y que hoy se visita como el arquetipo de la casa del
+      altiplano. En ella se leen de un vistazo los tres materiales que definen la arquitectura de
+      estas montañas: el **muro de tierra apisonada** (que aísla del frío del invierno de altura),
+      el **tejado de teja** y la **cerca de piedra** seca que ciñe el patio. Recorrerla es entender
+      cómo se vive en Sủng Là antes de fotografiarlo desde fuera.
+curiosidades:
+  - >-
+    La **casa de Pao** (*Nhà của Pao*) es una vivienda hmong de verdad que se hizo célebre al rodarse
+    en ella la película homónima; hoy se recorre como el modelo mismo de la casa del altiplano —
+    tierra apisonada, teja y cerca de piedra.
+seenIn:
+  - ref: '#dia-8-dong-van'
+    label: Día 8 · Sủng Là

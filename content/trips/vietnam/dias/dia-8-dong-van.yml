@@ -6,14 +6,14 @@ eyebrow: El plan · Día 8 · vie 18 sep
 title: Hasta el *extremo norte*
 dek: >-
   La jornada más llena del loop: el valle más bonito de la meseta, el palacio del rey del opio, el
-  punto más al norte de todo Vietnam y, al caer la tarde, el casco antiguo de Đồng Văn. Cuatro hitos
+  punto más al norte de todo Vietnam y, al caer la tarde, el [casco antiguo de Đồng Văn](#dong-van-casco). Cuatro hitos
   en un día, y todos merecen bajarse de la moto.
 blocks:
   - block: Mañana
     time: "primera hora"
     title: El valle de Sủng Là
     body: >-
-      Se arranca temprano hacia **Sủng Là**, tenido por el valle más bonito de la meseta: **casas de
+      Se arranca temprano hacia [**Sủng Là**](#sung-la), tenido por el valle más bonito de la meseta: **casas de
       adobe hmong** de muros de tierra apisonada color ocre, salpicadas entre bolsas de arrozal y el
       maíz que crece entre las piedras. Es uno de los rincones que siguen tranquilos, lejos de los
       puntos calientes del loop.
@@ -27,7 +27,7 @@ blocks:
     time: "mediodía"
     title: El palacio del rey hmong (Sà Phìn)
     body: >-
-      En el valle de **Sà Phìn**, la casa-fortaleza de **Vương Chính Đức** (1865–1947), el «rey de los
+      En el valle de **Sà Phìn**, la casa-fortaleza de [**Vương Chính Đức**](#palacio-vuong) (1865–1947), el «rey de los
       hmong». La levantaron artesanos chinos hacia 1900 mezclando mansión Qing, elementos hmong y
       toques franceses, sobre un montículo con forma de caparazón de tortuga elegido por geomancia. La
       fortuna que la pagó fue el **opio** —Sà Phìn era nudo del comercio entre Yunnan, Birmania e
@@ -44,9 +44,9 @@ blocks:
     time: "tarde"
     title: La torre de la bandera de Lũng Cú
     body: >-
-      Un desvío al norte lleva a la **torre de la bandera de Lũng Cú**, el punto más septentrional de
+      Un desvío al norte lleva a la [**torre de la bandera de Lũng Cú**](#lung-cu), el punto más septentrional de
       Vietnam: una gran bandera ondeando sobre una torre a la que se sube, con China al otro lado del
-      horizonte. A sus pies, la aldea de **Lô Lô Chải**, de los **lô lô negros** —apenas unos miles—,
+      horizonte. A sus pies, la aldea de [**Lô Lô Chải**](#lo-lo-chai), de los **lô lô negros** —apenas unos miles—,
       cuyos trajes de fiesta llevan miles de triángulos de tela cosidos a mano, hasta un año entero de
       trabajo en cada uno.
     window:
@@ -59,7 +59,7 @@ blocks:
     time: "anochecer"
     title: Đồng Văn y su casco antiguo
     body: >-
-      Se cierra el día en **Đồng Văn**, corazón del altiplano y del **Geoparque Global UNESCO** del
+      Se cierra el día en **Đồng Văn**, corazón del altiplano y del [**Geoparque Global UNESCO**](#geoparque-dong-van) del
       mismo nombre. En su **casco antiguo** —el sitio para la cena y un café en un balcón de madera— se
       descansan las piernas después de un día de moto. Todo lo cruzado hoy es, desde 2010, el primer
       geoparque de la UNESCO en Vietnam: 2.350 km² y 550 millones de años de caliza habitada hasta el

@@ -1,0 +1,55 @@
+slug: angkor-thom
+navLabel: "Angkor Thom"
+trip: vietnam
+part: camboya
+order: 10
+emblem: templo
+kicker: Camboya · el sitio
+title: Angkor Thom, la gran ciudad
+epithet: >-
+  «La gran ciudad»: la última capital amurallada del imperio, levantada por Jayavarman VII, con el
+  Bayon de las caras plantado en su centro geométrico exacto.
+sections:
+  - heading: La última capital amurallada
+    body: |
+      Tras el saqueo cham de 1177, **Jayavarman VII** (r. 1181–~1218) no reconstruyó un templo: levantó
+      una **ciudad entera amurallada**, Angkor Thom —literalmente «la gran ciudad»—, la última gran
+      capital que el imperio jemer construyó en piedra. En su **centro geométrico exacto** plantó su
+      templo de estado, el **Bayon** de las torres-rostro (con ficha propia). Alrededor se extendía la
+      urbe real de madera, hoy desaparecida; de ella quedan el recinto del palacio con el
+      **Phimeanakas** y, sobre todo, las murallas, las puertas y las terrazas que aún se recorren. Con
+      Jayavarman VII el imperio dio de sí todo lo que tenía: tras él **nunca volvió a construir a esta
+      escala**.
+  - heading: Las cinco puertas y el Batido
+    body: |
+      A la ciudad se entra por **cinco puertas monumentales**, cada una coronada por las mismas caras
+      gigantes que sonríen desde el Bayon. Pero la joya está en las **calzadas** que las cruzan sobre el
+      foso: a un lado, una hilera de **dioses**; al otro, una de **demonios**, y ambos tiran de una
+      **naga** —la serpiente— como si fuera una cuerda. Es el **Batido del Mar de Leche**, el mito de la
+      creación tallado a tamaño de ciudad: al cruzar la puerta estáis, literalmente, *dentro* del batido,
+      y el Bayon es la montaña que sirve de eje. La **Puerta Sur** es la mejor conservada y la entrada
+      clásica; guardadla para la foto.
+  - heading: Las terrazas reales
+    body: |
+      Frente a la gran plaza de la ciudad se alinean las dos terrazas ceremoniales desde las que la corte
+      presidía desfiles y audiencias. La **Terraza de los Elefantes** es una larga plataforma tallada con
+      una procesión de elefantes y sus mahouts; a su lado, la **Terraza del Rey Leproso** toma su nombre
+      de la estatua que la coronaba. Es la parada de mediodía del día grande, entre el Bayon y la siesta
+      — y el mejor sitio para hacerse una idea de la escala civil, no religiosa, de la ciudad. *(El
+      pormenor de cada relieve se saborea mejor sobre el terreno.)*
+curiosidades:
+  - >-
+    Cuando cruzáis una de las puertas de Angkor Thom, entráis *dentro* de un mito: las balaustradas de
+    dioses y demonios tirando de la serpiente reproducen el **Batido del Mar de Leche**, con el Bayon
+    como montaña-eje en el centro exacto de la ciudad.
+  - >-
+    Angkor Thom significa **«la gran ciudad»**, y fue la última que el imperio jemer levantó en piedra:
+    el programa constructor de Jayavarman VII, dicen algunos historiadores, literalmente agotó al reino.
+  - >-
+    Las cinco puertas están coronadas por las **mismas caras** del Bayon — esa media sonrisa que se ha
+    convertido en el emblema de Camboya os recibe ya en la muralla, antes de llegar al templo.
+seenIn:
+  - ref: '#el-bayon'
+    label: el Bayon
+  - ref: '#dia-13-angkor'
+    label: Día 13 · Angkor Thom

@@ -1,0 +1,59 @@
+slug: angkor
+navLabel: "Angkor"
+trip: vietnam
+part: camboya
+order: 9
+emblem: templo
+kicker: Camboya · el sitio
+title: Angkor, el parque y el imperio
+epithet: >-
+  No es un templo: es la capital de un imperio. Cientos de templos repartidos por unos 400 km² de
+  selva y arrozales — lo que queda de la que fue la mayor ciudad del mundo preindustrial.
+sections:
+  - heading: Qué es Angkor
+    body: |
+      Cuando se dice «vamos a Angkor» no se habla de un monumento, sino de un **parque arqueológico de
+      unos 400 km²**: el corazón del **imperio jemer**, que desde el año 802 hasta el siglo XV gobernó
+      buena parte del sudeste asiático desde estas llanuras al norte de Siem Reap. Lo que hoy se visita
+      —Angkor Wat, el Bayon, Ta Prohm, Banteay Srei— son las **moles de piedra** que sobrevivieron; pero
+      entre ellas se extendía una ciudad de madera hoy desaparecida. Las campañas de **LIDAR** de la
+      última década, que «borraron» la selva con láser desde el aire, revelaron **más de 20.000
+      estructuras ocultas** —calles, estanques, terrazas de viviendas—: los templos eran solo el
+      esqueleto ceremonial de una urbe inmensa y dispersa, con **cientos de miles de habitantes** en su
+      apogeo. Angkor es Patrimonio Mundial de la UNESCO desde 1992 y lo gestiona la autoridad camboyana
+      **APSARA**.
+  - heading: El pase y los circuitos
+    body: |
+      Se entra con el **pase de Angkor** (Angkor Enterprise): **37 US$** un día, **62 US$** tres días,
+      **72 US$** siete. El de tres días es válido dentro de una **ventana de diez** (no tienen que ser
+      consecutivos), y **2 US$ de cada entrada** van al hospital infantil Kantha Bopha. Se compra
+      **online** (ticket.angkorenterprise.gov.kh) con un QR en el móvil, eligiendo la fecha de inicio —
+      la opción de este viaje, comprado desde el hotel la víspera. Es **nominal e intransferible**: lleva
+      vuestra foto y lo escanean en cada templo grande, así que hay que llevarlo siempre encima. Sobre el
+      terreno, los templos se enhebran en dos rutas clásicas: el **circuito pequeño** (Angkor Wat, Angkor
+      Thom con el Bayon, Ta Prohm) y el **circuito grande** (Preah Khan, Neak Pean, Ta Som…); aparte
+      quedan los templos lejanos, como Banteay Srei, a 37 km.
+  - heading: Cómo se visita
+    body: |
+      La estrategia con este calor —33 °C y 80 % de humedad— es **dos sesiones de luz y una siesta**:
+      templos al amanecer y a última hora, y horizontal en las horas planas del mediodía. Se recorre en
+      **tuk-tuk** (el conductor espera fuera de cada templo) y merece un **guía** al menos la mañana de
+      Angkor Wat, cuyos bajorrelieves son ilegibles sin contexto. Y vais en el **mejor mes**: en
+      septiembre los fosos y barays están llenos, el bosque del Tonlé Sap es navegable, la piedra se pone
+      verde esmeralda y hay la mitad de turistas. Cada gran templo tiene su propia ficha; esta solo
+      dibuja el mapa.
+curiosidades:
+  - >-
+    En su apogeo, el Gran Angkor fue **la mayor aglomeración urbana del planeta preindustrial**: los
+    estudios sobre los datos de LIDAR hablan de entre 700.000 y 900.000 habitantes, una extensión
+    comparable a la del Berlín actual.
+  - >-
+    **Angkor Wat nunca estuvo «perdido».** Los monjes theravada lo mantuvieron como santuario vivo
+    durante siglos; cuando el francés Henri Mouhot lo describió en 1860, los camboyanos —obviamente—
+    siempre habían sabido dónde estaba.
+  - >-
+    **2 US$ de cada entrada** se destinan al hospital infantil Kantha Bopha, y el pase de tres días vale
+    dentro de una ventana de diez: no hace falta usarlo en días seguidos.
+seenIn:
+  - ref: '#dia-13-angkor'
+    label: Día 13 · Angkor

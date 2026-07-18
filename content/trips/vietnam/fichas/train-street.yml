@@ -1,0 +1,51 @@
+slug: train-street
+navLabel: "Train Street"
+trip: vietnam
+part: vietnam
+order: 38
+emblem: casa
+kicker: Vietnam · Hanoi
+title: La Train Street
+epithet: >-
+  Una vía de tren todavía en servicio que cruza el casco por un pasillo de casas y cafés: los raíles
+  pasan literalmente *a un palmo* de las mesas, y el ritual consiste en sentarse a esperar a que el
+  convoy os roce las rodillas.
+sections:
+  - heading: La vía entre las casas
+    body: |
+      Es un tramo en activo de la vieja red ferroviaria colonial que, en lugar de bordear la ciudad, la
+      atraviesa por un corredor estrechísimo: a un lado y otro, las fachadas y los cafés dejan apenas el
+      ancho justo para que pase el tren. Hay **dos tramos**: el famoso de **5 Trần Phú** —el de todas las
+      fotos— y el de **Lê Duẩn**, al sur de la estación, menos comercializado. El atractivo no es el tren en
+      sí, sino la desproporción: una máquina de toneladas circulando a centímetros de la vida doméstica, la
+      colada tendida y las tazas de café.
+  - heading: El ritual
+    body: |
+      Se entra **consumiendo en uno de los cafés autorizados** que flanquean la vía (Coffee 74, Railway Café
+      y vecinos): esa consumición es, de hecho, la entrada. Uno se sienta en un taburete pegado a los raíles
+      y espera. Cuando falta poco, **un silbato avisa** y los camareros hacen recoger piernas, sillas y
+      trípodes: **hay que estar sentados y quietos mientras el convoy pasa**, rozando las rodillas. Dura unos
+      segundos, y es justamente esa cercanía —no el tren— lo que se recuerda.
+  - heading: Legal al filo, abierta en la práctica (2026)
+    body: |
+      Su estatus es **ambiguo pero, en la práctica, abierta en 2026**. Periódicamente se anuncia su cierre y
+      periódicamente sigue funcionando: en **marzo de 2025 se prohibieron los grupos guiados**, hay barreras
+      y vigilantes, y la vía de acceso tolerada es precisamente la del café. Los **horarios cambian y hay que
+      verificarlos in situ**: entre semana los trenes suelen pasar solo de tarde-noche; **los fines de semana
+      también de día**, de modo que, aterrizando en sábado o domingo, se puede pillar un paso con luz. Y una
+      verdad incómoda: es una experiencia ya **domesticada** —barreras, vigilantes, cafés en fila—, así que
+      id con ánimo de «espectáculo curioso», no de gema oculta.
+curiosidades:
+  - >-
+    La entrada «legal» es una taza de café: como los grupos guiados están prohibidos desde marzo de 2025,
+    **consumir en un café autorizado pegado a los raíles es la forma tolerada de acceder** — la consumición
+    hace de entrada.
+  - >-
+    Entre semana los trenes solo pasan de tarde-noche, pero **los fines de semana también de día** — la única
+    ventana para una foto con luz. Los horarios exactos **cambian a menudo: verificadlos in situ**.
+  - >-
+    Cuando el tren se acerca **suena un silbato** y los camareros hacen recoger piernas, sillas y trípodes:
+    durante el paso hay que estar **sentados y quietos** mientras la máquina roza las rodillas.
+seenIn:
+  - ref: '#dia-2-hanoi-llegada'
+    label: Día 2 · Train Street

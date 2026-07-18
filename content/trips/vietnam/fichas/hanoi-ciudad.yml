@@ -1,0 +1,53 @@
+slug: hanoi-ciudad
+navLabel: "Hanoi"
+trip: vietnam
+part: vietnam
+order: 37
+emblem: casa
+kicker: Vietnam · la capital
+title: Hanoi, mil años de capital
+epithet: >-
+  Hanoi no se recorre, se lee por capas: mil años de corte imperial, un casco viejo que todavía
+  fabrica en la acera, un barrio francés de villas mostaza y una guirnalda de lagos — todo apilado en
+  el mismo kilómetro. Entenderla es saber qué estrato estáis pisando.
+sections:
+  - heading: El vaciado de Hoa Lư
+    body: |
+      En **1010**, con el país ya asegurado, **Lý Công Uẩn** sacó la corte de la ciudadela kárstica de
+      **Hoa Lư** —en Ninh Bình, *el molde* del que Hanoi es el vaciado— y la trasladó a la orilla del río
+      Rojo, donde fundó **Thăng Long**, «el dragón que asciende». Salvo el paréntesis en que los Nguyễn
+      gobernaron desde Huế, ha sido capital durante un milenio: por eso es una ciudad de **sustratos**
+      —dinástico, colonial, socialista— y no de monumentos sueltos. El nombre de hoy, **Hà Nội** («dentro
+      del río»), es de 1831; el resto del tiempo se llamó Thăng Long.
+  - heading: Las tres ciudades en una
+    body: |
+      Sobre ese fondo milenario se leen tres tejidos distintos. El **casco viejo gremial** —las mal
+      llamadas «36 calles», que nunca fueron 36 sino *phường*, cofradías de oficio, cada una **Hàng +
+      producto**— sigue siendo una economía medieval en pie, con hojalateros y herbolarios trabajando en
+      plena acera (ver *Las 36 calles del casco viejo*). Al sureste, el **barrio francés** de bulevares con
+      tamarindos y villas amarillo mostaza es la Indochina firmada en piedra: la Ópera, la catedral, el
+      Metropole (ver *El Metropole* y *La Hanoi del cine, los libros y la guerra*). Y por debajo de ambos
+      late la Hanoi de la guerra —Hỏa Lò, el búnker del Metropole, el B-52 hundido—, que no es un barrio
+      sino una capa que asoma por todas partes.
+  - heading: Los lagos, y por qué abre y cierra el viaje
+    body: |
+      Hanoi respira por el agua. El **Hoàn Kiếm** es su corazón simbólico —el «lago de la espada devuelta»,
+      que los fines de semana se peatonaliza entero—; al norte, el vasto **Hồ Tây** (Lago del Oeste) y el
+      pequeño **Trúc Bạch** son el respiro de las tardes, con la pagoda Trấn Quốc y el memorial de McCain en
+      la misma orilla. Por todo esto es **el mejor primer y último acto del viaje**: se aterriza en ella
+      despacio, se sale hacia Ninh Bình y el norte, y se vuelve para cerrar —la noche de farolillos del Trung
+      Thu y la despedida al alba en un casco viejo vacío—. La misma ciudad, leída dos veces: primero como
+      desembarco, al final como reencuentro.
+curiosidades:
+  - >-
+    Según la crónica, Lý Công Uẩn bautizó la ciudad **Thăng Long, «el dragón que asciende»**, porque al
+    desembarcar en 1010 vio elevarse un dragón dorado sobre el río Rojo.
+  - >-
+    **Hà Nội significa «dentro del río»** —la ciudad ceñida por las aguas— y es un nombre tardío: se lo puso
+    el emperador Minh Mạng en **1831**. Durante los nueve siglos anteriores la capital se llamó Thăng Long.
+  - >-
+    **Hoàn Kiếm** quiere decir «el lago de la espada devuelta»: la leyenda cuenta que el rey Lê Lợi devolvió
+    allí, a una **tortuga dorada**, la espada mágica con la que había expulsado a los Ming.
+seenIn:
+  - ref: '#dia-2-hanoi-llegada'
+    label: Día 2 · llegada a Hanoi
