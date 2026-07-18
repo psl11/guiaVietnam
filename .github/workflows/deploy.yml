@@ -34,6 +34,12 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
+      # Puerta de validación ANTES de construir: Content v3 no valida los YAML `type:'data'` contra
+      # zod en build (#3351), así que un enum inválido o un requerido ausente se desplegaría en
+      # silencio sin esto. test:data hace safeParse por fichero + integridad de anclas; test:unit
+      # cubre el subset de fuentes vietnamitas.
+      - run: pnpm test:unit && pnpm test:data
+
       # baseURL '/guiaVietnam/' ya está fijado en nuxt.config.ts (subpath del project site).
       - run: pnpm generate
 
