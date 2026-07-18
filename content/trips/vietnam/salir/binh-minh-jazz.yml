@@ -1,0 +1,25 @@
+slug: binh-minh-jazz
+trip: vietnam
+kind: jazz
+city: Hanoi
+order: 1
+title: Binh Minh Jazz Club
+navLabel: "Binh Minh Jazz Club"
+tipo: Club de jazz
+area: 1A Tràng Tiền, tras la Ópera (Hoàn Kiếm)
+cuando: Centro · cualquier noche en Hanoi
+precio: consumición ~150–250k ₫ (~5–9 €); verificar
+reserva: Recomendable si hay concierto de nombre
+body: >-
+  **El** club de jazz de Hanoi, fundado en **1998** por **Quyền Văn Minh**, saxofonista y uno de los
+  padres del jazz vietnamita. Nada de turistas de paso: aquí vienen los músicos locales a tocar y a
+  escuchar, con **jazz en directo cada noche (21:00–23:00)** en una sala íntima. El plan de noche
+  redondo: cena en el casco viejo → aquí a por jazz → y a cerrar con un cóctel en el Haflington.
+link:
+  url: https://minhjazzvietnam.com/
+  label: minhjazzvietnam.com
+seenIn:
+  - ref: '#the-haflington'
+    label: cierre · The Haflington
+  - ref: '#ne-cocktail-bar'
+    label: también con buena música · Nê

@@ -1,0 +1,22 @@
+slug: bookworm-hanoi
+trip: vietnam
+kind: libreria
+city: Hanoi
+order: 2
+title: The Bookworm Hanoi
+navLabel: "Bookworm Hanoi"
+tipo: Librería (en inglés)
+area: 44 Phạm Hồng Thái (Ba Đình)
+cuando: Ba Đình · combinable con el Día 15 (Lago del Oeste)
+reserva: "No"
+body: >-
+  Probablemente **la librería en inglés más famosa del país**: literatura vietnamita traducida,
+  historia, fotografía, novelas asiáticas y hasta mapas antiguos. El sitio para llevarse un libro
+  sobre Vietnam para el resto del viaje — empezando por *El dolor de la guerra* de Bảo Ninh, que ya
+  vais a leer. Abierta 9:00–19:00.
+link:
+  url: https://www.bookwormhanoi.com/
+  label: bookwormhanoi.com
+seenIn:
+  - ref: '#hanoi-cine-libros'
+    label: los libros del viaje

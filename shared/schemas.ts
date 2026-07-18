@@ -179,6 +179,26 @@ export const PlatoSchema = z.object({
   seenIn: z.array(Link).optional(), // dónde probarlo → enlaces a locales (comida)
 })
 
+// ── SALIR — música en vivo (jazz) y librerías (sección «Salir · música y librerías») ──────────
+// No es gastronomía: sitios para la tarde-noche (un club de jazz, una librería). Se agrupa por `kind`.
+export const SalirSchema = z.object({
+  slug: z.string(),
+  trip: z.string(),
+  kind: z.enum(['jazz', 'libreria']),
+  city: z.string(),
+  order: z.number(),
+  title: z.string(),
+  navLabel: z.string().optional(),
+  tipo: z.string(),
+  area: z.string().optional(),
+  cuando: z.string().optional(),
+  precio: z.string().optional(),
+  reserva: z.string().optional(),
+  body: Md,
+  link: z.object({ url: z.string(), label: z.string() }).optional(),
+  seenIn: z.array(Link).optional(),
+})
+
 // ── TRIP — metadatos de portada ──────────────────────────────────────────────
 export const TripSchema = z.object({
   slug: z.string(), // 'vietnam'
@@ -198,4 +218,5 @@ export type Dia = z.infer<typeof DiaSchema>
 export type Reco = z.infer<typeof RecoSchema>
 export type Comida = z.infer<typeof ComidaSchema>
 export type Plato = z.infer<typeof PlatoSchema>
+export type Salir = z.infer<typeof SalirSchema>
 export type Trip = z.infer<typeof TripSchema>

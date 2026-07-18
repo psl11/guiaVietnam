@@ -7,7 +7,7 @@
 // "Añadir un viaje = añadir ficheros": las páginas son one-liners <TripView :slug>.
 const props = defineProps<{ slug: string }>()
 
-const { trip, actos, fichas, inversiones, dias, recos, comidas, platos } = await useTrip(props.slug)
+const { trip, actos, fichas, inversiones, dias, recos, comidas, platos, salir } = await useTrip(props.slug)
 
 const vietnamActos = computed(() => actos.value.filter(a => a.part === 'vietnam'))
 const vietnamFichas = computed(() => fichas.value.filter(f => f.part === 'vietnam'))
@@ -61,6 +61,16 @@ const gastroByPart = computed(() => (['vietnam', 'camboya'] as const).map((part)
 }).filter(p => p.cities.length))
 const hayGastro = computed(() => comidas.value.length + platos.value.length > 0)
 
+// Salir · música y librerías (jazz + librerías) — sección propia, agrupada por kind.
+const SALIR_KINDS = [
+  { key: 'jazz', label: 'Música en vivo · jazz' },
+  { key: 'libreria', label: 'Librerías' },
+] as const
+const salirGroups = computed(() => SALIR_KINDS
+  .map(k => ({ ...k, items: salir.value.filter(s => s.kind === k.key) }))
+  .filter(g => g.items.length))
+const haySalir = computed(() => salir.value.length > 0)
+
 // Todas las anclas que existen en la página (slugs de todo el contenido + umbrales fijos). Un chip
 // "dónde lo veréis" de una ficha se vuelve enlace clicable SOLO si su destino ya existe; si aún no
 // (p. ej. una ficha de monumento por escribir), queda como etiqueta. Se auto-activan al crecer la guía.
@@ -72,7 +82,8 @@ const knownAnchors = computed(() => new Set<string>([
   ...recos.value.map(r => r.slug),
   ...comidas.value.map(c => c.slug),
   ...platos.value.map(p => p.slug),
-  'el-plan', 'gasto', 'reservas', 'gastronomia', 'vietnam', 'camboya',
+  ...salir.value.map(s => s.slug),
+  'el-plan', 'gasto', 'reservas', 'gastronomia', 'salir', 'vietnam', 'camboya',
 ]))
 
 // Índice flotante ─────────────────────────────────────────────────────────────
@@ -114,6 +125,9 @@ const nav = computed(() => {
     if (platos.value.length) items.push({ id: 'gastro-platos', label: 'Platos y bebidas', kind: 'reco' as const })
     for (const pg of gastroByPart.value) for (const cg of pg.cities) items.push({ id: cg.anchor, label: `${cg.city} (${pg.label})`, kind: 'reco' as const })
     groups.push({ key: 'gastronomia', label: 'Gastronomía', anchor: 'gastronomia', items })
+  }
+  if (haySalir.value) {
+    groups.push({ key: 'salir', label: 'Salir · música y librerías', anchor: 'salir', items: salir.value.map(s => ({ id: s.slug, label: s.navLabel ?? s.title, kind: 'reco' as const })) })
   }
   // Después, el relato cultural: Vietnam y Camboya.
   groups.push({
@@ -328,6 +342,30 @@ const indexOpen = ref(false)
           </div>
         </div>
       </template>
+    </template>
+
+    <!-- Salir · música y librerías (jazz + librerías) — plan de tarde-noche, aparte de la gastronomía. -->
+    <template v-if="haySalir">
+      <Threshold
+        id="salir"
+        overline="La noche y la letra impresa"
+        title="Salir · *música y librerías*"
+        dek="Un club de jazz con historia y las librerías que merecen parada: el plan de tarde-noche con alma, del que no sale en las guías. Poco turístico, muy Hanoi."
+      />
+      <div
+        v-for="g in salirGroups"
+        :key="g.key"
+        class="gastro-cat"
+      >
+        <div class="gastro-cat-label">
+          {{ g.label }}
+        </div>
+        <SalirCard
+          v-for="s in g.items"
+          :key="s.slug"
+          :salir="s"
+        />
+      </div>
     </template>
 
     <!-- Después, el relato cultural: primero Vietnam, luego Camboya. Cada país tras su umbral. -->
