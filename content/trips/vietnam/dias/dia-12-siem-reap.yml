@@ -14,8 +14,9 @@ blocks:
     title: Última mañana en Hanoi
     body: >-
       No hay directo matinal a Siem Reap —solo dos vuelos al día, y los dos vespertinos—, así que la
-      mañana del 22 se queda en Hanoi. Un café con calma, lo que quedara pendiente del casco viejo, la
-      maleta grande a buen recaudo en el Hòa Bình. Sin agenda: el día de verdad empieza en el aeropuerto.
+      mañana del 22 se queda en Hanoi. Un café con calma, lo que quedara pendiente del casco viejo, y
+      las mochilas hechas para el vuelo de la tarde (voláis a Camboya con lo puesto, solo cabina). Sin
+      agenda: el día de verdad empieza en el aeropuerto.
     window:
       label: Por qué así
       body: >-
@@ -34,7 +35,7 @@ blocks:
       label: Por qué este vuelo
       body: >-
         De los dos únicos directos —los dos de tarde— este es el barato, y llega con margen de sobra: da
-        tiempo a dejar la maleta, cenar algo y sentarse en el circo. El colchón contra un retraso se guarda
+        tiempo a dejar las mochilas, cenar algo y sentarse en el circo. El colchón contra un retraso se guarda
         para lo que de verdad importa —el amanecer de mañana—; esta noche, si VietJet se demora, no se
         pierde nada irremplazable.
   - block: Noche

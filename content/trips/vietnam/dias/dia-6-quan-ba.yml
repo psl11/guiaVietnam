@@ -5,19 +5,18 @@ order: 6
 eyebrow: El plan · Día 6 · mié 16 sep
 title: Arranca el *loop*
 dek: >-
-  El bus nocturno os deposita en Hà Giang al amanecer y el loop empieza esa misma mañana —cinco días
-  en moto con conductor-guía—, pero con una primera etapa corta a propósito: se llega sin haber
-  dormido de verdad, y el altiplano se toma con calma antes de exigirlo todo.
+  Habéis dormido en Hà Giang, así que el loop empieza descansados —cinco días en moto con
+  conductor-guía—, con una primera etapa corta a propósito: no para recuperar de un mal viaje, sino
+  para rodar el cuerpo y el ojo antes de exigirlo todo.
 blocks:
   - block: Amanecer
     time: "al amanecer"
     title: Llegada a Hà Giang y arranque del loop
     body: >-
-      El sleeper de **Bằng Phấn** os deja en Hà Giang ciudad de madrugada, tras unas siete horas y
-      media largas desde Ninh Bình. Desayuno con calma, se conoce al **easy rider** —el piloto local
-      que será conductor y guía durante cinco días— y se revisa la moto antes de pagar. La maleta
-      grande se quedó en Hanoi; aquí solo la mochila, el chubasquero y las baterías cargadas. A las
-      ruedas.
+      Se despierta en **Hà Giang** —dormidos y sin bus a la espalda—, y tras el desayuno empieza lo
+      bueno: se conoce al **easy rider** —el piloto local que será conductor y guía durante cinco días—
+      y se revisa la moto antes de pagar. Con **dos mochilas de cabina** vais ligeros; a la moto sube
+      solo lo del día, el chubasquero y las baterías cargadas. A las ruedas.
     window:
       label: Por qué así
       body: >-
@@ -56,7 +55,6 @@ blocks:
   - block: Noche
     time: "noche"
     title: Homestay en Nậm Đăm
-    dim: true
     body: >-
       Se duerme en un homestay de **Nậm Đăm / Quản Bạ**. La cena es en familia, alrededor de la misma
       mesa —eso es la autenticidad del homestay, no el colchón—, y cae pronto. Después, a cargar
@@ -65,6 +63,6 @@ blocks:
     window:
       label: Por qué ahora
       body: >-
-        La noche temprana del primer día es **descanso estratégico**: se llega sin haber dormido bien
-        en el bus-cama y quedan cuatro jornadas de moto por delante. Acostarse pronto hoy es, sin
-        dramatismo, lo que hace posible todo lo demás.
+        La primera noche de homestay cae pronto, y bien: quedan cuatro jornadas de moto por delante y el
+        altiplano invita a recogerse temprano. No es recuperación de ningún mal viaje —se llegó ayer
+        descansados— sino el ritmo natural del norte rural, donde la vida sigue al sol.

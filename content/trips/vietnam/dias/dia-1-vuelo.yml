@@ -1,0 +1,41 @@
+slug: dia-1-vuelo
+navLabel: "Día 1 · Vuelo"
+trip: vietnam
+order: 1
+eyebrow: El plan · Día 1 · vie 11 sep
+title: El *largo* vuelo a Indochina
+dek: >-
+  El viaje empieza en un aeropuerto y un huso horario. Barcelona por la mañana, una escala en el
+  desierto, y un vuelo nocturno que cruza medio planeta para dejaros en Hanoi al amanecer del sábado.
+  No hay nada que ver hoy salvo nubes — pero sí una cosa que hacer bien: llegar funcionales.
+blocks:
+  - block: Mañana
+    time: "BCN 10:45"
+    title: Barcelona → Abu Dabi → Hanoi
+    body: >-
+      **Etihad** desde Barcelona a las **10:45**, escala en **Abu Dabi** y salto final a **Hanoi**, con
+      llegada a **Nội Bài a las 06:40** del sábado. Son unas quince o dieciséis horas de puerta a puerta
+      contando la espera. La clave del equipaje ya está tomada: **dos mochilas de cabina** (el límite de
+      Etihad en económica es 7 kg y 56×36×23 por persona, más un artículo personal bajo el asiento), así
+      que nada de facturar ni de esperar en la cinta al aterrizar.
+    window:
+      label: Por qué solo cabina
+      body: >-
+        Viajar con dos mochilas no es solo comodidad de aeropuerto: es lo que hace **ligero todo el
+        viaje**. Con solo lo puesto, el loop de Hà Giang se hace con lo justo sobre la moto, el vuelo
+        interno a Camboya no penaliza (el VJ913/VJ914 son solo cabina) y al llegar a Hanoi se sale del
+        aeropuerto directos, sin pasar por la recogida de equipajes.
+  - block: Noche
+    time: "el tramo nocturno"
+    title: Dormir en el aire
+    body: >-
+      El tramo largo, el de **Abu Dabi a Hanoi**, es el nocturno: la mejor baza para plantar cara al
+      desfase de **+5 horas** (en septiembre, Vietnam va cinco horas por delante de España). Comer poco,
+      antifaz, tapones, y dormir todo lo que el asiento permita.
+    window:
+      label: Por qué importa
+      body: >-
+        Porque el día 2 se ha diseñado **suave a propósito** justo para absorber esta noche de aviones —un
+        cuenco de phở nada más aterrizar, el lago sin prisa, una siesta sin culpa—. Cuanto mejor se duerma
+        sobre el mar de China, más entero se baja del avión y menos peaje cobra el jet lag el resto de la
+        semana.

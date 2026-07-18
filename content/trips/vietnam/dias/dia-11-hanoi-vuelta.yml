@@ -6,17 +6,17 @@ eyebrow: El plan · Día 11 · lun 21 sep
 title: Hanoi, y el *día colchón*
 dek: >-
   El día que el plan guarda flojo a propósito. Es el airbag contra un tifón de septiembre; si el loop
-  fue según lo previsto, se convierte en un lunes regalado en Hanoi. Y lunes manda: con los museos
-  cerrados, la ciudad se recorre por sus templos, sus cafés y el atardecer sobre el Lago del Oeste.
+  fue según lo previsto, se convierte en un lunes regalado en Hanoi. Y lunes manda: con casi todos los
+  museos cerrados, el ancla es el gran templo que no cierra —la primera universidad del país— y, por lo
+  demás, dejar que el cuerpo se recupere de cinco días de moto.
 blocks:
   - block: Mañana · el colchón
     time: "día flexible"
     title: La vuelta a Hanoi, y el colchón
     body: >-
-      Según lo de anoche, el día empieza de dos maneras: si subisteis al **nocturno**, ya estáis en Hanoi
-      al amanecer con la jornada entera por delante; si no, es un **bus diurno de 6-7 horas** (~300 km, la
-      mitad por carretera de montaña) que os deja a media tarde. En cualquier caso, **este es el día que se
-      defiende vacío**. No hay que llenarlo de antemano: su verdadero trabajo es ser colchón.
+      El día empieza con el **bus diurno de Hà Giang a Hanoi**: 6-7 horas (~300 km, la mitad por carretera
+      de montaña), con salida de mañana y llegada a media tarde. Y sea cual sea la hora exacta, **este es el
+      día que se defiende vacío**. No hay que llenarlo de antemano: su verdadero trabajo es ser colchón.
     window:
       label: Por qué en blanco
       body: >-
@@ -40,21 +40,17 @@ blocks:
         Precisamente porque es lunes: con los museos cerrados, es el gran monumento que sigue abierto, y su
         espectáculo nocturno de proyección es una carta que pocos extranjeros conocen para un lunes por la
         tarde. Los patios de estelas de los doctores piden calma — y hoy, que es el día sin agenda, la hay.
-  - block: Atardecer
-    time: atardecer
-    title: El Lago del Oeste al atardecer
+  - block: Noche
+    time: noche
+    title: Recuperar, sin más
     body: >-
-      Y si el cuerpo, tras el loop, pide una última vuelta suave, el mismo eje del noroeste la ofrece a la
-      caída del sol: la **pagoda Trấn Quốc**, la más antigua de Hanoi (unos **1.450 años**), con su estupa
-      roja de once pisos sobre una península del **Lago del Oeste (Hồ Tây)**; al lado, en el lago **Trúc
-      Bạch**, el **memorial de John McCain** —el relieve de 1985 que marca dónde cayó su A-4 Skyhawk el 26
-      de octubre de 1967, hoy casi un monumento a la reconciliación—. Y para cerrar, **phở cuốn** en la isla
-      de **Ngũ Xã**, el barrio de los antiguos fundidores de bronce donde se inventó el plato: rollos
-      frescos de lámina de phở con ternera y hierbas (los hacen **sin carne** en varios locales, para ella).
+      Y poco más: tras cinco días de moto, la noche del colchón es para eso, colchón. Una cena tranquila
+      en el casco viejo, la colada, cargar del todo las baterías —las de la cámara y las vuestras— y
+      dormir en cama blanda. El Lago del Oeste, el martini del Metropole y lo que quede de Hanoi esperan
+      al **día 15**, ya sin loop a la espalda y con toda una jornada por delante.
     window:
-      label: Ventana óptima
+      label: Por qué guardarlo
       body: >-
-        En un día que se defiende vacío, esta es la única cita con hora: **Trấn Quốc quiere el sol bajo**,
-        no el mediodía — la estupa roja encendida por la última luz sobre el agua. Después de cinco días de
-        karst y moto, el Lago del Oeste es puro respiro: horizonte, pescadores, parejas en scooter, la
-        ciudad aflojando. Y para la X100VI, la sola foto que este día de descanso concede.
+        Hay tentación de exprimir la vuelta, pero este día se defiende vacío por una razón, y el viaje aún
+        guarda un día entero de Hanoi sin prisas (el 15). Mejor llegar a Camboya descansados que arañar un
+        atardecer más hoy: lo que hoy se ahorra, el viernes se disfruta con calma.

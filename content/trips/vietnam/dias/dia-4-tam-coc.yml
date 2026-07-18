@@ -6,9 +6,9 @@ eyebrow: El plan · Día 4 · lun 14 sep
 title: El karst entre *arrozales*
 dek: >-
   Se cambia la ciudad por la piedra. A media mañana una furgoneta os deja en Tam Cốc —puerta a
-  puerta, sin trasbordos—, entre farallones que brotan del arrozal; y la tarde no pide más que una
-  bicicleta y una pagoda metida en una cueva. Es el día de aterrizar en el paisaje: el único de
-  Ninh Bình sin madrugón.
+  puerta, sin trasbordos—, entre farallones que brotan del arrozal; la tarde es la barca de Tràng An
+  colándose por las cuevas, y el atardecer, una bici hasta una pagoda metida en una gruta. Es el día
+  de aterrizar en el paisaje: el único de Ninh Bình sin madrugón.
 blocks:
   - block: Mañana
     time: "media mañana"
@@ -27,10 +27,27 @@ blocks:
         a media mañana, convierte el traslado en lo único que hay que hacer antes del mediodía: hoy se
         aterriza, no se corre.
   - block: Tarde
+    time: "primera hora de la tarde"
+    title: La barca de Tràng An, la ruta 3
+    body: >-
+      Con las mochilas en el homestay y algo de comida, la tarde arranca en el embarcadero de **Tràng
+      An** —no el de Tam Cốc—. Se elige aquí por el karst más cercano y dramático, por las cuevas
+      larguísimas (una de más de un kilómetro), por los templos metidos entre las aguas y por una
+      política estricta de no-venta: cero acoso a bordo. Se toma la **ruta 3**, la de las **cuevas** y los
+      **escenarios de *Kong: Skull Island***, entre dos horas y media y tres remando por debajo de las
+      montañas, por unos 9 €. En septiembre el verde, recién lavado por las lluvias, lo llena todo.
+    window:
+      label: Ventana óptima
+      body: >-
+        La barca por la tarde, cuando el grueso de excursiones que salen de Hanoi a mediodía ya ha
+        aflojado y antes de los chubascos del final del día. Con el karst reflejado en calma y las cuevas
+        frescas, es el mejor primer contacto con el paisaje que os espera —y deja el amanecer del dragón
+        para mañana.
+  - block: Atardecer
     time: "última hora de la tarde"
     title: En bici entre arrozales, hasta Bích Động
     body: >-
-      Con las maletas ya en el homestay, la tarde es de **bicicleta**. El mejor terreno es el campo
+      Al bajar de la barca, y con el sol ya declinando, la última hora es de **bicicleta**. El mejor terreno es el campo
       **entre Tam Cốc y Bích Động**: arrozales de un verde jugoso —septiembre viene de lluvias— y
       farallones kársticos que se levantan de la nada, a cinco o diez minutos de pedaleo del pueblo.
       La ruta muere en **Bích Động**, «la gruta de jade»: una **pagoda en cueva** de tres niveles

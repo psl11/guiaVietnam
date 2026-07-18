@@ -1,0 +1,61 @@
+slug: dia-5-hang-mua
+navLabel: "Día 5 · Hang Múa"
+trip: vietnam
+order: 5
+eyebrow: El plan · Día 5 · mar 15 sep
+title: Del *dragón* al altiplano
+dek: >-
+  El día pivota hacia el norte. De madrugada, los quinientos escalones del dragón antes de que
+  lleguen el sol y los autobuses; y luego, el gran salto: de Ninh Bình a Hà Giang, de día y por
+  carretera, para llegar a la puerta del loop con una noche de cama por delante, no un bus-cama a la
+  espalda.
+blocks:
+  - block: Amanecer
+    time: "06:30"
+    title: Hang Múa, los 500 escalones del dragón
+    body: >-
+      Despertador de madrugada para **Hang Múa** a las **06:30**. Son unos **500 escalones** de piedra
+      —la entrada, 100.000 VND— que trepan por el flanco de la montaña hasta el **mirador del dragón**,
+      una cresta coronada por la figura del animal. Arriba espera la vista que explica todo Ninh Bình
+      mejor que cualquier texto: el río serpenteando entre agujas de roca y **Tam Cốc** a vuestros pies,
+      en un mar de arrozales.
+    window:
+      label: Ventana óptima
+      body: >-
+        A las seis y media se sube en fresco y casi a solas: los tours que salen de Hanoi no llegan
+        **hasta pasadas las nueve**, y el calor de mediodía en estas escaleras al descubierto es serio. A
+        esa hora, además, la niebla aún se deshilacha sobre los arrozales y la luz entra rasante — la
+        montaña se gana de un tirón y con su mejor cara. Y madrugar aquí encaja con lo que viene: hoy toca
+        viajar.
+  - block: Día
+    time: "~09:30–18:00"
+    title: El salto al norte, de día
+    body: >-
+      Bajados del dragón y con el desayuno hecho, arranca el gran traslado: **de Ninh Bình a la ciudad de
+      Hà Giang**, unas siete u ocho horas. Se hace **de día** —lo más cómodo, un coche privado; la
+      alternativa, furgoneta hasta Hanoi y limousine de enlace hasta Hà Giang—, con una parada tranquila
+      para comer por el camino. Se llega a Hà Giang a media tarde, a tiempo de conocer al **easy rider**,
+      cenar sin prisa y dormir en cama antes de que el loop arranque mañana.
+    window:
+      label: Por qué de día y no de noche
+      body: >-
+        Existe un bus-cama directo que hace esta ruta de noche y ahorra un día — pero **pasar la noche
+        entera en un autobús se paga al día siguiente reventado**, y el loop es demasiado exigente para
+        empezarlo así. Mejor un traslado de día, aunque cueste la tarde: se madruga con Hang Múa, se viaja
+        descansando en el coche (parando donde apetezca) y se llega a Hà Giang con la noche por delante
+        para dormir de verdad. La logística cede un poco; el cuerpo lo agradece toda la semana.
+  - block: Noche
+    time: "noche"
+    title: Primera noche en Hà Giang
+    body: >-
+      Cena tranquila en la ciudad de **Hà Giang** y a la cama pronto. No hay mucho que ver aquí —es la
+      puerta del altiplano, no el destino—, y por eso conviene aprovecharla solo para lo que hace falta:
+      descansar en horizontal antes de cinco días de moto, con las baterías —las de la cámara y las
+      vuestras— a plena carga.
+    window:
+      label: Por qué aquí
+      body: >-
+        Dormir esta noche en Hà Giang, en vez de rodar de madrugada, es justo lo que permite arrancar el
+        loop **descansados**. Mañana el día empieza con calma —conocer al piloto, revisar la moto, rodar
+        una primera etapa corta—; el descanso con vistas se toma ya en el altiplano, no en un cruce de
+        carreteras a las cuatro de la mañana.
