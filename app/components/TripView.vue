@@ -1,20 +1,19 @@
 <script setup lang="ts">
-// TripView — poseedor de la página. Llama a useTrip(slug) y renderiza la Parte II: topbar +
-// hero + los dos archetipos (ActoCard / FichaCard) agrupados por parte (Vietnam / Camboya).
+// TripView — poseedor de la página. Llama a useTrip(slug) y renderiza:
+//  · Parte II (contexto cultural): hero + actos/fichas agrupados por parte (Vietnam / Camboya).
+//  · Parte I (el plan): el día a día (DiaCard, "bloques como tarjetas") + las inversiones.
 // "Añadir un viaje = añadir ficheros": las páginas son one-liners <TripView :slug>.
-//
-// De momento SOLO monta la Parte II (contexto cultural) — es lo estable del documento y lo que
-// se enseña primero. La Parte I (itinerario, fichas de inversión) llegará cuando cierren las
-// reservas; su esquema saldrá de la referencia, no del mockup.
+// La Parte I crece por días conforme se cierran reservas; el contenido sale de la referencia.
 const props = defineProps<{ slug: string }>()
 
-const { trip, actos, fichas, inversiones } = await useTrip(props.slug)
+const { trip, actos, fichas, inversiones, dias } = await useTrip(props.slug)
 
 const vietnamActos = computed(() => actos.value.filter(a => a.part === 'vietnam'))
 const vietnamFichas = computed(() => fichas.value.filter(f => f.part === 'vietnam'))
 const camboyaActos = computed(() => actos.value.filter(a => a.part === 'camboya'))
 const camboyaFichas = computed(() => fichas.value.filter(f => f.part === 'camboya'))
 const hayCamboya = computed(() => camboyaActos.value.length + camboyaFichas.value.length > 0)
+const hayPlan = computed(() => dias.value.length + inversiones.value.length > 0)
 
 // Índice flotante ─────────────────────────────────────────────────────────────
 // Etiqueta corta del índice: navLabel si existe, si no el título sin marcas de markdown.
@@ -24,7 +23,7 @@ const stripMd = (s: string) => s
   .trim()
 
 const nav = computed(() => {
-  const groups: { key: string, label: string, anchor: string, items: { id: string, label: string, numeral?: string, kind: 'acto' | 'ficha' | 'inversion' }[] }[] = []
+  const groups: { key: string, label: string, anchor: string, items: { id: string, label: string, numeral?: string, kind: 'acto' | 'ficha' | 'inversion' | 'dia' }[] }[] = []
   groups.push({
     key: 'vietnam',
     label: 'Vietnam',
@@ -45,12 +44,15 @@ const nav = computed(() => {
       ],
     })
   }
-  if (inversiones.value.length) {
+  if (hayPlan.value) {
     groups.push({
       key: 'plan',
       label: 'Parte I · El plan',
       anchor: 'el-plan',
-      items: inversiones.value.map(i => ({ id: i.slug, label: i.navLabel ?? stripMd(i.title), kind: 'inversion' as const })),
+      items: [
+        ...dias.value.map(d => ({ id: d.slug, label: d.navLabel ?? stripMd(d.title), kind: 'dia' as const })),
+        ...inversiones.value.map(i => ({ id: i.slug, label: i.navLabel ?? stripMd(i.title), kind: 'inversion' as const })),
+      ],
     })
   }
   return groups
@@ -145,19 +147,33 @@ const indexOpen = ref(false)
       />
     </template>
 
-    <!-- Parte I · el plan (usa el Threshold en su segundo cometido: separar plan y contexto) -->
-    <template v-if="inversiones.length">
+    <!-- Parte I · el plan: primero el día a día (el itinerario), luego el dinero (inversiones). -->
+    <template v-if="hayPlan">
       <Threshold
         id="el-plan"
         overline="Y ahora, el plan"
-        title="Dónde gastar, dónde *no*"
-        dek="Aquí no se gasta por gastar. Cada decisión que cuesta dinero llega con su ficha —cuesta, qué compra, la alternativa— y su veredicto. Que algunas salgan «prescindible» es lo que hace que las demás valgan."
+        title="El viaje, *día a día*"
+        dek="El eje no es la agenda por horas sino los bloques del día —amanecer, mañana, siesta, tarde, noche— y su «ventana óptima»: por qué *entonces* (la luz, el gentío, el calor), no a qué hora."
       />
-      <InversionCard
-        v-for="inv in inversiones"
-        :key="inv.slug"
-        :inversion="inv"
+      <DiaCard
+        v-for="d in dias"
+        :key="d.slug"
+        :dia="d"
       />
+
+      <template v-if="inversiones.length">
+        <Threshold
+          id="gasto"
+          overline="El dinero del viaje"
+          title="Dónde gastar, dónde *no*"
+          dek="Aquí no se gasta por gastar. Cada decisión que cuesta dinero llega con su ficha —cuesta, qué compra, la alternativa— y su veredicto. Que algunas salgan «prescindible» es lo que hace que las demás valgan."
+        />
+        <InversionCard
+          v-for="inv in inversiones"
+          :key="inv.slug"
+          :inversion="inv"
+        />
+      </template>
     </template>
   </main>
 </template>

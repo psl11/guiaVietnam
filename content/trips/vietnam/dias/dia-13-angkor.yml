@@ -1,0 +1,58 @@
+slug: dia-13-angkor
+navLabel: "Día 13 · Angkor"
+trip: vietnam
+order: 13
+eyebrow: El plan · Día 13 · mié 23 sep
+title: El día grande de *Angkor*
+dek: >-
+  De lado a lado del imperio en un solo día, persiguiendo la luz: el amanecer del equinoccio en la
+  piedra y, doce horas después, el crepúsculo sobre el agua. Entre medias, una siesta que no es
+  pereza sino estrategia.
+blocks:
+  - block: Amanecer
+    time: "04:45"
+    title: Angkor Wat, el sol del equinoccio
+    body: >-
+      Despertador a las 4:15, tuk-tuk a oscuras y cruzáis el foso antes que nadie. Se espera frente
+      al **estanque norte** (menos gentío que el sur y mejor reflejo). Después, los bajorrelieves de
+      la galería con guía y la subida al **Bakan**, el santuario superior.
+    window:
+      label: Ventana óptima
+      body: >-
+        Estos días —y **solo** en torno al equinoccio del 22-23 sep— el sol nace **alineado con la
+        torre central**. Además llegáis casi una hora antes que los buses de las excursiones.
+  - block: Mañana
+    time: "08:00–11:30"
+    title: Ta Prohm y las torres-rostro del Bayon
+    body: >-
+      **Ta Prohm** devorado por las raíces de los ceibas (el de *Tomb Raider*), y luego el corazón de
+      **Angkor Thom**: el **Bayon** con sus caras que sonríen desde cada torre, y las terrazas de los
+      Elefantes y del Rey Leproso.
+    window:
+      label: Ventana óptima
+      body: >-
+        Ta Prohm **antes del gentío** de media mañana; las caras del Bayon se leen mejor con el sol
+        ya alto y **de frente**, no en contraluz del amanecer.
+  - block: Mediodía · siesta
+    time: "12:30–14:30"
+    title: Piscina y horizontal
+    dim: true
+    body: >-
+      Vuelta al hotel, comida tranquila y siesta larga. Aquí la piscina no es un lujo de folleto:
+      es lo que hace **físicamente posible** encadenar los dos turnos de luz del día.
+    window:
+      label: Por qué ahora
+      body: >-
+        A mediodía el calor de Camboya aprieta y la luz cae **plana y dura** — la peor hora para la
+        piedra y para las fotos. Se pierde poco y se recarga para lo que viene.
+  - block: Tarde–crepúsculo
+    time: "14:30–19:00"
+    title: El bosque inundado del Tonlé Sap
+    body: >-
+      Barca por **Kampong Phluk**: un pueblo de casas sobre pilotes altísimos, el bosque anegado que
+      se recorre remando entre los troncos, y la salida al **lago** para la última luz.
+    window:
+      label: Ventana óptima
+      body: >-
+        En **septiembre** el lago está en su máximo y el bosque anegado es navegable (en seco queda
+        en tierra); y el **crepúsculo sobre el agua** desde la barca es la postal que cierra el día.

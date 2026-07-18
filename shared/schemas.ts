@@ -87,6 +87,29 @@ export const InversionSchema = z.object({
   curiosidades: z.array(Md).optional(),
 })
 
+// ── DÍA del itinerario (Parte I) — "la espina del día" ───────────────────────
+// El eje del plan NO es la agenda por horas sino los BLOQUES del día (amanecer/mañana/mediodía/
+// tarde/noche) con su "ventana óptima": por qué ENTONCES (luz, gentío, calor), no a qué hora.
+// Se renderiza como una espina vertical (timeline): cada bloque es un nodo del arco del día.
+export const DiaSchema = z.object({
+  slug: z.string(), // 'dia-13-angkor'
+  trip: z.string(),
+  order: z.number(), // 1..16, orden cronológico del viaje
+  navLabel: z.string().optional(), // etiqueta corta para el índice flotante
+  eyebrow: z.string(), // 'El plan · Día 13 · mié 23 sep'
+  title: Md, // 'El día grande de *Angkor*' (la *cursiva* va en cinabrio)
+  dek: Md.optional(), // la frase de entrada del día
+  blocks: z.array(z.object({
+    block: z.string(), // 'Amanecer' / 'Mediodía · siesta'
+    time: z.string().optional(), // '04:45' / '14:30–19:00' (referencia, no agenda estricta)
+    title: z.string(), // 'Angkor Wat, el sol del equinoccio'
+    body: Md, // la prosa del bloque
+    // "ventana óptima": el porqué de ese momento (luz/gentío/calor). El alma del plan.
+    window: z.object({ label: z.string(), body: Md }).optional(),
+    dim: z.boolean().optional(), // bloque de descanso (siesta) → nodo en oro, no cinabrio
+  })),
+})
+
 // ── TRIP — metadatos de portada ──────────────────────────────────────────────
 export const TripSchema = z.object({
   slug: z.string(), // 'vietnam'
@@ -102,4 +125,5 @@ export const TripSchema = z.object({
 export type Acto = z.infer<typeof ActoSchema>
 export type Ficha = z.infer<typeof FichaSchema>
 export type Inversion = z.infer<typeof InversionSchema>
+export type Dia = z.infer<typeof DiaSchema>
 export type Trip = z.infer<typeof TripSchema>
