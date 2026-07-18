@@ -1,9 +1,10 @@
 <script setup lang="ts">
-// TripView — poseedor de la página. Llama a useTrip(slug) y renderiza:
-//  · Parte II (contexto cultural): hero + actos/fichas agrupados por parte (Vietnam / Camboya).
-//  · Parte I (el plan): el día a día (DiaCard, "bloques como tarjetas") + las inversiones.
+// TripView — poseedor de la página. Llama a useTrip(slug) y renderiza en dos tiempos:
+//  · El plan (lo práctico, primero): hero del viaje → día a día (DiaCard) → dinero (InversionCard)
+//    → reservas y dónde dormir (RecoCard). Es lo que se usa durante el viaje.
+//  · El relato (el contexto cultural, después): actos/fichas de Vietnam y Camboya, cada país tras
+//    su umbral. Es el porqué: se lee antes de cada tramo.
 // "Añadir un viaje = añadir ficheros": las páginas son one-liners <TripView :slug>.
-// La Parte I crece por días conforme se cierran reservas; el contenido sale de la referencia.
 const props = defineProps<{ slug: string }>()
 
 const { trip, actos, fichas, inversiones, dias, recos } = await useTrip(props.slug)
@@ -35,10 +36,36 @@ const stripMd = (s: string) => s
 
 const nav = computed(() => {
   const groups: { key: string, label: string, anchor: string, items: { id: string, label: string, numeral?: string, kind: 'acto' | 'ficha' | 'inversion' | 'dia' | 'reco' }[] }[] = []
+  // El plan primero (lo práctico): el día a día, el gasto y las reservas —cada bloque, un grupo.
+  if (dias.value.length) {
+    groups.push({
+      key: 'plan',
+      label: 'El viaje, día a día',
+      anchor: 'el-plan',
+      items: dias.value.map(d => ({ id: d.slug, label: d.navLabel ?? stripMd(d.title), kind: 'dia' as const })),
+    })
+  }
+  if (inversiones.value.length) {
+    groups.push({
+      key: 'gasto',
+      label: 'Dónde gastar',
+      anchor: 'gasto',
+      items: inversiones.value.map(i => ({ id: i.slug, label: i.navLabel ?? stripMd(i.title), kind: 'inversion' as const })),
+    })
+  }
+  if (recos.value.length) {
+    groups.push({
+      key: 'reservas',
+      label: 'Reservas · dónde dormir',
+      anchor: 'reservas',
+      items: recos.value.map(r => ({ id: r.slug, label: r.navLabel ?? r.title, kind: 'reco' as const })),
+    })
+  }
+  // Después, el relato cultural: Vietnam y Camboya.
   groups.push({
     key: 'vietnam',
     label: 'Vietnam',
-    anchor: 'top',
+    anchor: 'vietnam',
     items: [
       ...vietnamActos.value.map(a => ({ id: a.slug, label: a.navLabel ?? stripMd(a.title), numeral: a.numeral, kind: 'acto' as const })),
       ...vietnamFichas.value.map(f => ({ id: f.slug, label: f.navLabel ?? f.title, kind: 'ficha' as const })),
@@ -53,25 +80,6 @@ const nav = computed(() => {
         ...camboyaActos.value.map(a => ({ id: a.slug, label: a.navLabel ?? stripMd(a.title), numeral: a.numeral, kind: 'acto' as const })),
         ...camboyaFichas.value.map(f => ({ id: f.slug, label: f.navLabel ?? f.title, kind: 'ficha' as const })),
       ],
-    })
-  }
-  if (hayPlan.value) {
-    groups.push({
-      key: 'plan',
-      label: 'Parte I · El plan',
-      anchor: 'el-plan',
-      items: [
-        ...dias.value.map(d => ({ id: d.slug, label: d.navLabel ?? stripMd(d.title), kind: 'dia' as const })),
-        ...inversiones.value.map(i => ({ id: i.slug, label: i.navLabel ?? stripMd(i.title), kind: 'inversion' as const })),
-      ],
-    })
-  }
-  if (recos.value.length) {
-    groups.push({
-      key: 'reservas',
-      label: 'Reservas · dónde dormir',
-      anchor: 'reservas',
-      items: recos.value.map(r => ({ id: r.slug, label: r.navLabel ?? r.title, kind: 'reco' as const })),
     })
   }
   return groups
@@ -134,7 +142,66 @@ const indexOpen = ref(false)
       </p>
     </section>
 
-    <!-- Vietnam -->
+    <!-- El plan primero (lo práctico): el día a día → el dinero. -->
+    <template v-if="hayPlan">
+      <Threshold
+        id="el-plan"
+        overline="De Hanoi a Angkor · dieciséis días"
+        title="El viaje, *día a día*"
+        dek="El eje no es la agenda por horas sino los bloques del día —amanecer, mañana, siesta, tarde, noche— y su «ventana óptima»: por qué *entonces* (la luz, el gentío, el calor), no a qué hora."
+      />
+      <DiaCard
+        v-for="d in dias"
+        :key="d.slug"
+        :dia="d"
+      />
+
+      <template v-if="inversiones.length">
+        <Threshold
+          id="gasto"
+          overline="El dinero del viaje"
+          title="Dónde gastar, dónde *no*"
+          dek="Aquí no se gasta por gastar. Cada decisión que cuesta dinero llega con su ficha —cuesta, qué compra, la alternativa— y su veredicto. Que algunas salgan «prescindible» es lo que hace que las demás valgan."
+        />
+        <InversionCard
+          v-for="inv in inversiones"
+          :key="inv.slug"
+          :inversion="inv"
+        />
+      </template>
+    </template>
+
+    <!-- Los prácticos: el directorio de hoteles y reservas (agrupado por tipo). -->
+    <template v-if="recos.length">
+      <Threshold
+        id="reservas"
+        overline="Los prácticos"
+        title="Reservas y *dónde dormir*"
+        dek="El tablero de lo que hay que reservar —con su estado— y dónde dormir en cada tramo. Lo pendiente en oro; lo cerrado, en índigo."
+      />
+      <div
+        v-for="g in recoGroups"
+        :key="g.kind"
+        class="reco-group"
+      >
+        <div class="reco-group-label">
+          {{ g.label }}
+        </div>
+        <RecoCard
+          v-for="r in g.items"
+          :key="r.slug"
+          :reco="r"
+        />
+      </div>
+    </template>
+
+    <!-- Después, el relato cultural: primero Vietnam, luego Camboya. Cada país tras su umbral. -->
+    <Threshold
+      id="vietnam"
+      overline="Y ahora, el porqué"
+      title="Vietnam · *por dentro*"
+      dek="Esto no es un listado de sitios: es el trasfondo que convierte una carretera de montaña en mil años de resistencia, y tres días de piedras en tres de significado. Se lee *antes* de cada tramo, y conviven dos tipos de ficha: las que se leen del tirón, como un capítulo, y las que se consultan de un vistazo antes de una visita."
+    />
     <ActoCard
       v-for="a in vietnamActos"
       :key="a.slug"
@@ -164,59 +231,6 @@ const indexOpen = ref(false)
         :key="f.slug"
         :ficha="f"
       />
-    </template>
-
-    <!-- Parte I · el plan: primero el día a día (el itinerario), luego el dinero (inversiones). -->
-    <template v-if="hayPlan">
-      <Threshold
-        id="el-plan"
-        overline="Y ahora, el plan"
-        title="El viaje, *día a día*"
-        dek="El eje no es la agenda por horas sino los bloques del día —amanecer, mañana, siesta, tarde, noche— y su «ventana óptima»: por qué *entonces* (la luz, el gentío, el calor), no a qué hora."
-      />
-      <DiaCard
-        v-for="d in dias"
-        :key="d.slug"
-        :dia="d"
-      />
-
-      <template v-if="inversiones.length">
-        <Threshold
-          id="gasto"
-          overline="El dinero del viaje"
-          title="Dónde gastar, dónde *no*"
-          dek="Aquí no se gasta por gastar. Cada decisión que cuesta dinero llega con su ficha —cuesta, qué compra, la alternativa— y su veredicto. Que algunas salgan «prescindible» es lo que hace que las demás valgan."
-        />
-        <InversionCard
-          v-for="inv in inversiones"
-          :key="inv.slug"
-          :inversion="inv"
-        />
-      </template>
-    </template>
-
-    <!-- Parte I · los prácticos: el directorio de hoteles y reservas (agrupado por tipo). -->
-    <template v-if="recos.length">
-      <Threshold
-        id="reservas"
-        overline="Los prácticos"
-        title="Reservas y *dónde dormir*"
-        dek="El tablero de lo que hay que reservar —con su estado— y dónde dormir en cada tramo. Lo pendiente en oro; lo cerrado, en índigo."
-      />
-      <div
-        v-for="g in recoGroups"
-        :key="g.kind"
-        class="reco-group"
-      >
-        <div class="reco-group-label">
-          {{ g.label }}
-        </div>
-        <RecoCard
-          v-for="r in g.items"
-          :key="r.slug"
-          :reco="r"
-        />
-      </div>
     </template>
   </main>
 </template>
