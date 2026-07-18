@@ -550,3 +550,122 @@ a.chip:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; }
 }
 .reco-link:hover { border-bottom-color: var(--indigo); background: color-mix(in srgb, var(--indigo) 10%, transparent); }
 .reco-link:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; border-radius: 2px; }
+
+/* ═══ ARCHETIPO 6 · GASTRONOMÍA — directorio (comida) + guía de platos/bebidas (plato) ═══════════
+   Tarjetas para mirar de un vistazo. Chip VEG SIEMPRE presente, en semáforo (verde=apto/100%,
+   ámbar=opciones, cinabrio=no apto) para que la vegetariana lo lea al instante. Sello (badge) en oro.
+   Las categorías, ciudades y el bloque «solo para ti» los agrupa TripView. */
+.comida, .plato {
+  margin: 0 0 1rem; padding: 1.2rem 1.4rem; scroll-margin-top: 84px;
+  background: var(--bg-elev); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow);
+}
+.comida-head, .plato-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
+.comida-headings { min-width: 0; }
+.comida-title, .plato-title {
+  font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 1.5rem;
+  line-height: 1.12; margin: 0; color: var(--ink);
+}
+.comida-sub {
+  font-family: 'JetBrains Mono', monospace; font-size: .63rem; letter-spacing: .08em;
+  text-transform: uppercase; color: var(--ink-faint); margin-top: .35rem;
+}
+.comida-tipo { color: var(--indigo); }
+.comida-dot { margin: 0 .4rem; opacity: .5; }
+.comida-badge {
+  flex-shrink: 0; font-family: 'JetBrains Mono', monospace; font-size: .62rem; font-weight: 600;
+  letter-spacing: .04em; white-space: nowrap; padding: .32rem .72rem; border-radius: 99px;
+  background: color-mix(in srgb, var(--gold) 15%, transparent);
+  border: 1px solid color-mix(in srgb, var(--gold) 40%, transparent); color: var(--gold);
+}
+.comida-cuando {
+  font-family: 'JetBrains Mono', monospace; font-size: .68rem; color: var(--accent);
+  margin-top: .6rem; letter-spacing: .02em;
+}
+.comida-chips, .plato-chips { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .7rem; }
+.plato-chips { margin-top: 0; flex-shrink: 0; }
+.cchip {
+  font-family: 'JetBrains Mono', monospace; font-size: .64rem; letter-spacing: .02em;
+  padding: .26rem .6rem; border-radius: 6px; white-space: nowrap;
+  background: color-mix(in srgb, var(--ink-faint) 8%, transparent);
+  border: 1px solid var(--line); color: var(--ink-soft);
+}
+.cchip.veg--si {
+  background: color-mix(in srgb, #4a8f4a 16%, transparent);
+  border-color: color-mix(in srgb, #4a8f4a 42%, transparent); color: color-mix(in srgb, #4a8f4a 72%, var(--ink));
+}
+.cchip.veg--ok {
+  background: color-mix(in srgb, var(--gold) 14%, transparent);
+  border-color: color-mix(in srgb, var(--gold) 38%, transparent); color: var(--gold);
+}
+.cchip.veg--no {
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  border-color: color-mix(in srgb, var(--accent) 34%, transparent); color: var(--accent);
+}
+.comida-pedir {
+  margin-top: .8rem; padding: .65rem .9rem; border-radius: 8px;
+  background: color-mix(in srgb, var(--indigo) 6%, transparent);
+  border-left: 2px solid color-mix(in srgb, var(--indigo) 45%, transparent);
+}
+.comida-pedir-label, .plato-label, .plato-foot-label {
+  display: block; font-family: 'JetBrains Mono', monospace; font-size: .6rem; font-weight: 600;
+  letter-spacing: .14em; text-transform: uppercase; color: var(--indigo); margin-bottom: .3rem;
+}
+.comida-pedir p, .plato-section p, .comida-body p { margin: 0 0 .5rem; color: var(--ink-soft); font-size: 1rem; line-height: 1.6; }
+.comida-pedir p:last-child, .plato-section p:last-child, .comida-body p:last-child { margin-bottom: 0; }
+.comida-body { margin-top: .8rem; }
+.comida-body strong, .comida-pedir strong, .plato-section strong { color: var(--ink); font-weight: 600; }
+.comida-body em, .plato-section em, .comida-pedir em { font-style: italic; }
+.comida-body a, .comida-pedir a, .plato-section a {
+  color: var(--accent); text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--accent) 40%, transparent);
+}
+.comida-body a:hover, .plato-section a:hover { background: color-mix(in srgb, var(--accent) 10%, transparent); }
+.plato-section { margin-top: .85rem; }
+.plato-donde { margin-top: .85rem; font-size: .95rem; color: var(--ink-soft); }
+.plato-donde-label {
+  font-family: 'JetBrains Mono', monospace; font-size: .6rem; font-weight: 600; letter-spacing: .14em;
+  text-transform: uppercase; color: var(--indigo); margin-right: .5rem;
+}
+.comida-foot, .plato-foot { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; margin-top: .9rem; }
+.plato-foot-label { width: 100%; }
+.comida-link {
+  font-family: 'JetBrains Mono', monospace; font-size: .72rem; letter-spacing: .04em;
+  color: var(--indigo); text-decoration: none; padding: .3rem .7rem; border-radius: 6px;
+  border: 1px solid color-mix(in srgb, var(--indigo) 30%, transparent);
+}
+.comida-link:hover { background: color-mix(in srgb, var(--indigo) 10%, transparent); }
+
+/* agrupación de la sección Gastronomía: banda de país → nombre de ciudad → etiqueta de categoría */
+.gastro-band {
+  font-family: 'Cormorant Garamond', serif; font-size: 1.85rem; font-weight: 600; color: var(--ink);
+  margin: 2.8rem 0 1.2rem; padding-bottom: .4rem; border-bottom: 1px solid var(--line); scroll-margin-top: 84px;
+}
+.gastro-sub {
+  font-family: 'JetBrains Mono', monospace; font-size: .74rem; letter-spacing: .16em; text-transform: uppercase;
+  color: var(--accent); margin: 2rem 0 1rem;
+}
+.gastro-city { scroll-margin-top: 84px; }
+.gastro-city-name {
+  font-family: 'Cormorant Garamond', serif; font-size: 1.55rem; font-weight: 600; color: var(--indigo);
+  margin: 2.1rem 0 .4rem;
+}
+.gastro-cat { margin: 1.5rem 0 0; }
+.gastro-cat-label {
+  font-family: 'JetBrains Mono', monospace; font-size: .72rem; font-weight: 500; letter-spacing: .18em;
+  text-transform: uppercase; color: var(--indigo); display: flex; align-items: center; gap: .6rem; margin: 0 0 1rem;
+}
+.gastro-cat-label::before { content: ""; width: 1.4rem; height: 2px; background: var(--indigo); flex-shrink: 0; }
+.gastro-soloel .gastro-cat-label { color: var(--accent); }
+.gastro-soloel .gastro-cat-label::before { background: var(--accent); }
+
+/* bloque «¿versión vegetariana?» de PlatoCard — borde izquierdo en semáforo veg */
+.plato-veg {
+  margin-top: .85rem; padding: .6rem .9rem; border-radius: 8px;
+  background: color-mix(in srgb, var(--ink-faint) 6%, transparent); border-left: 3px solid var(--line);
+}
+.plato-veg.veg--si { border-left-color: #4a8f4a; background: color-mix(in srgb, #4a8f4a 8%, transparent); }
+.plato-veg.veg--ok { border-left-color: var(--gold); background: color-mix(in srgb, var(--gold) 8%, transparent); }
+.plato-veg.veg--no { border-left-color: var(--accent); background: color-mix(in srgb, var(--accent) 8%, transparent); }
+.plato-veg p { margin: 0; color: var(--ink-soft); font-size: .98rem; line-height: 1.55; }
+.plato-veg strong { color: var(--ink); font-weight: 600; }
+.plato-veg em { font-style: italic; }

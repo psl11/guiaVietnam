@@ -1,0 +1,22 @@
+slug: pho
+trip: vietnam
+kind: plato
+order: 1
+title: Phở
+navLabel: "Phở"
+queEs: >-
+  El alma del norte: un caldo translúcido y aromático sobre tallarines planos de arroz, con ternera
+  (*bò*) o pollo (*gà*), hierbas frescas y lima. El caldo lo es todo —se cuece **6-12 h** con cebolla
+  y jengibre chamuscados, anís estrellado, canela, clavo y cardamomo—. El phở del norte es más
+  **limpio y sobrio** que el del sur: pocos aderezos, sin la montaña de brotes y hierbas de Saigón.
+historia: >-
+  Nace en el **delta del río Rojo** a principios del s. XX. Hanoi es su cuna, y las casas de
+  referencia llevan décadas sirviendo solo esto, en taburete y a primera hora.
+dondeMejor: Hanoi — puestos históricos de barrio, de desayuno
+picante: Suave (el chili se añade uno mismo)
+veg: >-
+  Solo como **phở chay** (caldo de verdura y setas con tofu) en un restaurante vegetariano — un phở
+  «normal» que *parezca* de verdura casi siempre lleva caldo de carne. Hay que pedirlo explícito.
+seenIn:
+  - ref: '#uu-dam-chay'
+    label: phở chay → Ưu Đàm

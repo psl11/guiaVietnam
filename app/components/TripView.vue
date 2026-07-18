@@ -7,7 +7,7 @@
 // "Añadir un viaje = añadir ficheros": las páginas son one-liners <TripView :slug>.
 const props = defineProps<{ slug: string }>()
 
-const { trip, actos, fichas, inversiones, dias, recos } = await useTrip(props.slug)
+const { trip, actos, fichas, inversiones, dias, recos, comidas, platos } = await useTrip(props.slug)
 
 const vietnamActos = computed(() => actos.value.filter(a => a.part === 'vietnam'))
 const vietnamFichas = computed(() => fichas.value.filter(f => f.part === 'vietnam'))
@@ -27,6 +27,40 @@ const recoGroups = computed(() => RECO_KINDS
   .map(k => ({ ...k, items: recos.value.filter(r => r.kind === k.kind) }))
   .filter(g => g.items.length))
 
+// Gastronomía ─────────────────────────────────────────────────────────────────
+// Guía de platos/bebidas (Vietnam) + directorio por país → ciudad → las 7 categorías del cliente.
+// Los `soloEl` (iconos no-veg) van a un bloque «solo para ti» aparte por ciudad; el directorio
+// principal es veg-friendly (la mesa es para los dos).
+const GASTRO_CATS = [
+  { key: 'desayuno', label: 'Desayunos' },
+  { key: 'cafe', label: 'Cafés de especialidad' },
+  { key: 'comida', label: 'Comidas' },
+  { key: 'cena', label: 'Cenas' },
+  { key: 'street-food', label: 'Street food' },
+  { key: 'postre', label: 'Postres' },
+  { key: 'cocteleria', label: 'Coctelería y rooftops' },
+] as const
+const citySlug = (c: string) => 'gastro-' + c.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')
+const platosGuia = computed(() => platos.value.filter(p => p.kind === 'plato'))
+const bebidasGuia = computed(() => platos.value.filter(p => p.kind === 'bebida'))
+const gastroByPart = computed(() => (['vietnam', 'camboya'] as const).map((part) => {
+  const inPart = comidas.value.filter(c => c.part === part)
+  return {
+    part,
+    label: part === 'vietnam' ? 'Vietnam' : 'Camboya',
+    cities: [...new Set(inPart.map(c => c.city))].map((city) => {
+      const inCity = inPart.filter(c => c.city === city)
+      return {
+        city,
+        anchor: citySlug(city),
+        cats: GASTRO_CATS.map(cat => ({ ...cat, items: inCity.filter(c => c.category === cat.key && !c.soloEl) })).filter(g => g.items.length),
+        soloEl: inCity.filter(c => c.soloEl),
+      }
+    }),
+  }
+}).filter(p => p.cities.length))
+const hayGastro = computed(() => comidas.value.length + platos.value.length > 0)
+
 // Todas las anclas que existen en la página (slugs de todo el contenido + umbrales fijos). Un chip
 // "dónde lo veréis" de una ficha se vuelve enlace clicable SOLO si su destino ya existe; si aún no
 // (p. ej. una ficha de monumento por escribir), queda como etiqueta. Se auto-activan al crecer la guía.
@@ -36,7 +70,9 @@ const knownAnchors = computed(() => new Set<string>([
   ...inversiones.value.map(i => i.slug),
   ...dias.value.map(d => d.slug),
   ...recos.value.map(r => r.slug),
-  'el-plan', 'gasto', 'reservas', 'vietnam', 'camboya',
+  ...comidas.value.map(c => c.slug),
+  ...platos.value.map(p => p.slug),
+  'el-plan', 'gasto', 'reservas', 'gastronomia', 'vietnam', 'camboya',
 ]))
 
 // Índice flotante ─────────────────────────────────────────────────────────────
@@ -71,6 +107,13 @@ const nav = computed(() => {
     // 4 entradas en vez de 17: es un directorio para hojear por bloques, no ítem a ítem.
     const items = recoGroups.value.map(g => ({ id: g.kind, label: g.label, kind: 'reco' as const }))
     groups.push({ key: 'reservas', label: 'Los prácticos', anchor: 'reservas', items })
+  }
+  // Gastronomía: índice compacto (platos + una entrada por ciudad), no local a local.
+  if (hayGastro.value) {
+    const items: { id: string, label: string, kind: 'reco' }[] = []
+    if (platos.value.length) items.push({ id: 'gastro-platos', label: 'Platos y bebidas', kind: 'reco' as const })
+    for (const pg of gastroByPart.value) for (const cg of pg.cities) items.push({ id: cg.anchor, label: `${cg.city} (${pg.label})`, kind: 'reco' as const })
+    groups.push({ key: 'gastronomia', label: 'Gastronomía', anchor: 'gastronomia', items })
   }
   // Después, el relato cultural: Vietnam y Camboya.
   groups.push({
@@ -205,6 +248,86 @@ const indexOpen = ref(false)
           :reco="r"
         />
       </div>
+    </template>
+
+    <!-- Gastronomía: la guía de platos/bebidas + el directorio por país → ciudad → categoría. -->
+    <template v-if="hayGastro">
+      <Threshold
+        id="gastronomia"
+        overline="La mesa"
+        title="*Gastronomía*"
+        dek="Dónde comer y beber bien, con lo local y auténtico por delante. Cada sitio con su VEG explícito (la mesa es para los dos), su sello si lo tiene (Michelin, Bib Gourmand, Asia's 50 Best…) y su encaje con el itinerario. Y una guía de los platos y bebidas que no hay que perderse."
+      />
+
+      <template v-if="platosGuia.length || bebidasGuia.length">
+        <div
+          id="gastro-platos"
+          class="gastro-band"
+        >
+          Platos imprescindibles · Vietnam
+        </div>
+        <PlatoCard
+          v-for="p in platosGuia"
+          :key="p.slug"
+          :plato="p"
+        />
+        <template v-if="bebidasGuia.length">
+          <div class="gastro-sub">
+            Bebidas
+          </div>
+          <PlatoCard
+            v-for="p in bebidasGuia"
+            :key="p.slug"
+            :plato="p"
+          />
+        </template>
+      </template>
+
+      <template
+        v-for="pg in gastroByPart"
+        :key="pg.part"
+      >
+        <div class="gastro-band">
+          {{ pg.label }} · dónde comer
+        </div>
+        <div
+          v-for="cg in pg.cities"
+          :id="cg.anchor"
+          :key="cg.city"
+          class="gastro-city"
+        >
+          <h3 class="gastro-city-name">
+            {{ cg.city }}
+          </h3>
+          <div
+            v-for="cat in cg.cats"
+            :key="cat.key"
+            class="gastro-cat"
+          >
+            <div class="gastro-cat-label">
+              {{ cat.label }}
+            </div>
+            <ComidaCard
+              v-for="c in cat.items"
+              :key="c.slug"
+              :comida="c"
+            />
+          </div>
+          <div
+            v-if="cg.soloEl.length"
+            class="gastro-cat gastro-soloel"
+          >
+            <div class="gastro-cat-label">
+              Los intocables · solo para ti (no veg)
+            </div>
+            <ComidaCard
+              v-for="c in cg.soloEl"
+              :key="c.slug"
+              :comida="c"
+            />
+          </div>
+        </div>
+      </template>
     </template>
 
     <!-- Después, el relato cultural: primero Vietnam, luego Camboya. Cada país tras su umbral. -->
