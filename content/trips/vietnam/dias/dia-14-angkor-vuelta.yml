@@ -1,0 +1,70 @@
+slug: dia-14-angkor-vuelta
+navLabel: "Día 14 · Angkor + vuelta"
+trip: vietnam
+order: 14
+eyebrow: El plan · Día 14 · jue 24 sep
+title: La *joya rosa* y el regreso
+dek: >-
+  El segundo día grande de Angkor mira al norte: la arenisca rosa de Banteay Srei a la apertura y un
+  circuito de templos que la selva no ha soltado. A mediodía se cierra el capítulo camboyano; al
+  anochecer, de vuelta a Hanoi.
+blocks:
+  - block: Amanecer
+    time: "05:15"
+    title: Banteay Srei, la joya rosa
+    body: >-
+      Salida a las **5:15**: **Banteay Srei** está a 37 km del recinto central, y esa lejanía es justo
+      la razón de ir primero. Se llega a su **apertura, a las 7:30**, al templo de 967 d.C. cuya
+      arenisca rosada permite la talla más fina y minuciosa de todo el arte jemer. Es pequeño —tres
+      cuartos de hora— y se saborea despacio; fue aquí donde un joven **André Malraux** fue detenido en
+      1923 por arrancar y llevarse bajorrelieves, episodio que noveló en *La Vía Real*. Mirad los
+      dinteles con esos ojos.
+    window:
+      label: Ventana óptima
+      body: >-
+        Llegar a la apertura es la jugada entera. A las 9:30 descargan los autobuses; antes, los patios
+        son casi vuestros. Y la piedra rosa **pide luz de primera hora**: rasante y suave, saca el relieve
+        de cada dintel — a mediodía la misma talla se aplana y se apaga.
+  - block: Mañana
+    time: "hasta ~13:00"
+    title: "El circuito grande: Preah Khan, Neak Pean, Ta Som"
+    body: >-
+      De vuelta hacia el sur, el **circuito grande** enhebra tres templos que la jungla sigue
+      abrazando. **Preah Khan**, hermano de Ta Prohm pero sin sus multitudes: corredores de un
+      kilómetro, la mejor relación piedra/silencio del parque. **Neak Pean**, la isla de cinco estanques
+      en cruz sobre el gran baray de Jayatataka. Y **Ta Som**, cuya puerta oriental desaparece bajo las
+      raíces de una higuera. Hacia las **13:00**, de vuelta al hotel.
+    window:
+      label: Ventana óptima
+      body: >-
+        **Neak Pean solo tiene agua en la época húmeda** — y septiembre es ese momento: los cinco
+        estanques llenos, el baray desbordado, la pasarela cruzando sobre el agua. En seca es un barrizal
+        agrietado que no dice nada. La estación que "estropea" otros viajes es aquí la que regala el templo.
+  - block: Mediodía
+    time: "13:00–15:30"
+    title: Comida, ducha y cierre de Angkor
+    body: >-
+      Comida tranquila en el hotel, ducha y equipaje. Es la despedida de Angkor y de Camboya: dos días
+      que han ido del amanecer del equinoccio sobre Angkor Wat al crepúsculo sobre el Tonlé Sap, y de
+      las caras del Bayon a esta arenisca rosa. Un último café con calma antes de deshacer la habitación
+      de Wat Bo.
+    window:
+      label: Por qué ahora
+      body: >-
+        Angkor se cierra a mediodía porque el plan lo quiso así: dos días bien armados en vez de tres,
+        para volar **hoy jueves** y no mañana. Lo que compra ese recorte es el **viernes entero en Hanoi**,
+        sin prisas, para la noche de Trung Thu.
+  - block: Tarde
+    time: "15:30–20:50"
+    title: El vuelo VJ914 de vuelta a Hanoi
+    body: >-
+      Salida del hotel hacia SAI a las **15:30** —el aeropuerto está lejos y conviene el colchón— y
+      **vuelo VJ914 (VietJet), ya reservado: Siem Reap 19:05 → Hanoi 20:50**. A Hanoi hacia las **20:50**
+      y al casco viejo con la noche del jueves por delante, solo para descansar. Mañana no hay
+      despertador.
+    window:
+      label: Por qué este vuelo
+      body: >-
+        Volar el **jueves** y no el viernes es la decisión que ordena todo el final del viaje. Ambos
+        directos son vespertinos; da igual llegar a las 20:50 que una hora antes, porque en los dos casos
+        el viernes queda libre. Y un retraso aquí no amenaza nada — el vuelo largo de vuelta a casa es el 26.

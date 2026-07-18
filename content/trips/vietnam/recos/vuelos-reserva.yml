@@ -1,0 +1,13 @@
+slug: vuelos-reserva
+navLabel: "Vuelos internos ✓"
+trip: vietnam
+order: 5
+kind: reservar
+title: Vuelos internos HAN ⇄ SAI
+area: Camboya
+status: reservado
+note: "VJ913 + VJ914 · 22 y 24 sep · VietJet"
+body: >-
+  **Hecho.** Ida **VJ913** (mar 22, HAN 16:20 → SAI 18:05) + vuelta **VJ914** (jue 24, SAI 19:05 →
+  HAN 20:50), directos VietJet, solo cabina. El detalle y el porqué de esta combinación están en la
+  ficha de inversión de los vuelos.

@@ -6,7 +6,7 @@
 // La Parte I crece por días conforme se cierran reservas; el contenido sale de la referencia.
 const props = defineProps<{ slug: string }>()
 
-const { trip, actos, fichas, inversiones, dias } = await useTrip(props.slug)
+const { trip, actos, fichas, inversiones, dias, recos } = await useTrip(props.slug)
 
 const vietnamActos = computed(() => actos.value.filter(a => a.part === 'vietnam'))
 const vietnamFichas = computed(() => fichas.value.filter(f => f.part === 'vietnam'))
@@ -14,6 +14,17 @@ const camboyaActos = computed(() => actos.value.filter(a => a.part === 'camboya'
 const camboyaFichas = computed(() => fichas.value.filter(f => f.part === 'camboya'))
 const hayCamboya = computed(() => camboyaActos.value.length + camboyaFichas.value.length > 0)
 const hayPlan = computed(() => dias.value.length + inversiones.value.length > 0)
+
+// Recomendaciones (Parte I · prácticos): agrupadas por tipo, en orden fijo de grupo.
+const RECO_KINDS = [
+  { kind: 'dormir', label: 'Dónde dormir' },
+  { kind: 'reservar', label: 'Reservas por hacer' },
+  { kind: 'comer', label: 'Dónde comer' },
+  { kind: 'moverse', label: 'Cómo moverse' },
+] as const
+const recoGroups = computed(() => RECO_KINDS
+  .map(k => ({ ...k, items: recos.value.filter(r => r.kind === k.kind) }))
+  .filter(g => g.items.length))
 
 // Índice flotante ─────────────────────────────────────────────────────────────
 // Etiqueta corta del índice: navLabel si existe, si no el título sin marcas de markdown.
@@ -23,7 +34,7 @@ const stripMd = (s: string) => s
   .trim()
 
 const nav = computed(() => {
-  const groups: { key: string, label: string, anchor: string, items: { id: string, label: string, numeral?: string, kind: 'acto' | 'ficha' | 'inversion' | 'dia' }[] }[] = []
+  const groups: { key: string, label: string, anchor: string, items: { id: string, label: string, numeral?: string, kind: 'acto' | 'ficha' | 'inversion' | 'dia' | 'reco' }[] }[] = []
   groups.push({
     key: 'vietnam',
     label: 'Vietnam',
@@ -53,6 +64,14 @@ const nav = computed(() => {
         ...dias.value.map(d => ({ id: d.slug, label: d.navLabel ?? stripMd(d.title), kind: 'dia' as const })),
         ...inversiones.value.map(i => ({ id: i.slug, label: i.navLabel ?? stripMd(i.title), kind: 'inversion' as const })),
       ],
+    })
+  }
+  if (recos.value.length) {
+    groups.push({
+      key: 'reservas',
+      label: 'Reservas · dónde dormir',
+      anchor: 'reservas',
+      items: recos.value.map(r => ({ id: r.slug, label: r.navLabel ?? r.title, kind: 'reco' as const })),
     })
   }
   return groups
@@ -174,6 +193,30 @@ const indexOpen = ref(false)
           :inversion="inv"
         />
       </template>
+    </template>
+
+    <!-- Parte I · los prácticos: el directorio de hoteles y reservas (agrupado por tipo). -->
+    <template v-if="recos.length">
+      <Threshold
+        id="reservas"
+        overline="Los prácticos"
+        title="Reservas y *dónde dormir*"
+        dek="El tablero de lo que hay que reservar —con su estado— y dónde dormir en cada tramo. Lo pendiente en oro; lo cerrado, en índigo."
+      />
+      <div
+        v-for="g in recoGroups"
+        :key="g.kind"
+        class="reco-group"
+      >
+        <div class="reco-group-label">
+          {{ g.label }}
+        </div>
+        <RecoCard
+          v-for="r in g.items"
+          :key="r.slug"
+          :reco="r"
+        />
+      </div>
     </template>
   </main>
 </template>

@@ -110,6 +110,26 @@ export const DiaSchema = z.object({
   })),
 })
 
+// ── RECOMENDACIÓN — el directorio práctico (Parte I): dónde dormir + qué reservar ──
+// El área para "mirar hoteles, reservas": tarjetas agrupadas por `kind` (dormir/reservar/comer/
+// moverse), cada una con su estado de reserva (chip) y su meta (precio/noches/cuándo). Es la capa
+// práctica del plan — no la decisión de dinero (eso es InversionCard), sino el qué/dónde/cuándo.
+export const RecoSchema = z.object({
+  slug: z.string(),
+  trip: z.string(),
+  order: z.number(), // orden dentro de su grupo
+  kind: z.enum(['dormir', 'reservar', 'comer', 'moverse']), // categoría (define el grupo)
+  navLabel: z.string().optional(),
+  title: z.string(), // 'El Hòa Bình' / 'El loop de Hà Giang'
+  area: z.string().optional(), // 'Hanoi · barrio francés' / 'Ninh Bình'
+  status: z.enum(['reservado', 'pendiente', 'opcional']).optional(), // chip de estado
+  // OJO: NO llamar a este campo `meta` — es nombre RESERVADO de Content v3 (lo sobrescribe con un
+  // objeto → «[object Object]»). Igual que el hero usa `heroMeta`, aquí es `note`.
+  note: z.string().optional(), // '3 noches · ~40 €/noche' / 'agosto · 30 USD/persona'
+  body: Md, // el porqué + el cómo
+  link: z.object({ url: z.string(), label: z.string() }).optional(), // reserva / Google Maps
+})
+
 // ── TRIP — metadatos de portada ──────────────────────────────────────────────
 export const TripSchema = z.object({
   slug: z.string(), // 'vietnam'
@@ -126,4 +146,5 @@ export type Acto = z.infer<typeof ActoSchema>
 export type Ficha = z.infer<typeof FichaSchema>
 export type Inversion = z.infer<typeof InversionSchema>
 export type Dia = z.infer<typeof DiaSchema>
+export type Reco = z.infer<typeof RecoSchema>
 export type Trip = z.infer<typeof TripSchema>

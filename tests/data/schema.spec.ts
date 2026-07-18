@@ -3,7 +3,7 @@ import { readFileSync, readdirSync, existsSync } from 'node:fs'
 import { join, basename } from 'node:path'
 import { parse } from 'yaml'
 import type { ZodTypeAny } from 'zod'
-import { TripSchema, ActoSchema, FichaSchema, InversionSchema, DiaSchema } from '../../shared/schemas'
+import { TripSchema, ActoSchema, FichaSchema, InversionSchema, DiaSchema, RecoSchema } from '../../shared/schemas'
 
 // La PUERTA DE VALIDACIÓN DE DATOS. Nuxt Content v3 NO valida las colecciones `type:'data'` contra
 // zod en build (nuxt/content#3351) → un enum inválido o un requerido ausente se desplegaría en
@@ -31,6 +31,7 @@ const COLLECTIONS: { dir: string, schema: ZodTypeAny, name: string, single?: boo
   { dir: 'fichas', schema: FichaSchema, name: 'ficha' },
   { dir: 'inversiones', schema: InversionSchema, name: 'inversion' },
   { dir: 'dias', schema: DiaSchema, name: 'dia' },
+  { dir: 'recos', schema: RecoSchema, name: 'reco' },
 ]
 
 // Anclas de LUGAR pendientes: fichas de monumento/sitio (Parte I) aún no escritas. Los chips
@@ -39,7 +40,7 @@ const COLLECTIONS: { dir: string, schema: ZodTypeAny, name: string, single?: boo
 // enlace. Mantener en sync con el contenido — es también el inventario de lo que falta por escribir.
 const PENDING_ANCHORS = new Set([
   'angkor-wat', 'bayon', 'ta-prohm', 'banteay-srei',
-  'phare-circo', 'cuisine-wat-damnak',
+  'phare-circo', // 'cuisine-wat-damnak' ya existe como reco (su chip resuelve) → fuera de la allowlist
   'trang-an', 'hang-mua', 'bich-dong',
   'casa-87-ma-may', 'hang-thiec', 'dinh-kim-ngan',
   'pagoda-tran-quoc', 'templo-ngoc-son', 'phu-tay-ho',

@@ -5,7 +5,7 @@
 //  · En estrecho/móvil se pliega en un panel deslizante que abre el botón «Índice» de la cabecera.
 // El scroll-spy es por posición (el último ancla por encima de una línea bajo la cabecera): simple,
 // predecible y sin dependencias. Todo corre en cliente (onMounted) → sin desajuste de hidratación.
-export interface NavItem { id: string, label: string, numeral?: string, kind: 'acto' | 'ficha' | 'inversion' | 'dia' }
+export interface NavItem { id: string, label: string, numeral?: string, kind: 'acto' | 'ficha' | 'inversion' | 'dia' | 'reco' }
 export interface NavGroup { key: string, label: string, anchor: string, items: NavItem[] }
 
 const props = defineProps<{ groups: NavGroup[], open: boolean }>()
