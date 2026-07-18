@@ -38,15 +38,11 @@ const COLLECTIONS: { dir: string, schema: ZodTypeAny, name: string, single?: boo
 // `seenIn` que apuntan aquí se pintan como <span> (no <a>) hasta que exista la ficha. Cuando una se
 // cree (su slug aparezca), el test "allowlist no obsoleta" falla para recordar convertir el chip en
 // enlace. Mantener en sync con el contenido — es también el inventario de lo que falta por escribir.
-const PENDING_ANCHORS = new Set([
-  'angkor-wat', 'bayon', 'ta-prohm', 'banteay-srei',
-  'phare-circo', // 'cuisine-wat-damnak' ya existe como reco (su chip resuelve) → fuera de la allowlist
-  'trang-an', 'hang-mua', 'bich-dong',
-  'casa-87-ma-may', 'hang-thiec', 'dinh-kim-ngan',
-  'pagoda-tran-quoc', 'templo-ngoc-son', 'phu-tay-ho',
-  'hoa-lo', 'memorial-mccain',
-  'bamboo-bar', 'museo-etnologia', 'teatro-thang-long', 'ca-tru-hang-bac',
-  'cafe-giang', // 'bun-cha-huong-lien' ya existe como reco (su chip resuelve) → fuera de la allowlist
+const PENDING_ANCHORS = new Set<string>([
+  // Vacía: la capa de fichas de lugar está completa (18 fichas nuevas, jul 2026) y los 3 chips
+  // legacy (#angkor-wat, #bayon, #bamboo-bar) se reapuntaron a fichas/días reales → todos los chips
+  // 'dónde lo veréis' resuelven. Si en el futuro un chip apunta a una ficha aún por escribir, declara
+  // su ancla aquí para que el test de integridad no la marque como enlace muerto.
 ])
 
 const docs: Doc[] = []

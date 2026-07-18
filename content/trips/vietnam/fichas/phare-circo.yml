@@ -1,0 +1,52 @@
+slug: phare-circo
+navLabel: "Circo Phare"
+trip: vietnam
+part: camboya
+order: 8
+emblem: copa
+kicker: Camboya · cultura viva
+title: El circo Phare
+epithet: >-
+  No es acrobacia sin más, sino teatro-circo que cuenta a Camboya: una empresa social nacida de una
+  escuela de arte que enseñó a dibujar a niños refugiados después de los jemeres rojos.
+sections:
+  - heading: Una escuela antes que un circo
+    body: |
+      Phare, *the Cambodian Circus*, no nació como espectáculo sino como terapia. En **1994**,
+      **nueve jóvenes ex-refugiados** que habían aprendido a **dibujar como terapia** en el campo de
+      Site 2 —al otro lado de la frontera, tras los jemeres rojos— fundaron en **Battambang** una
+      escuela de artes: **Phare Ponleu Selpak**. El circo que veréis en Siem Reap es su brazo de
+      **empresa social**: los artistas de la pista son **alumnos becados** de esa escuela, y **cada
+      entrada la financia**. Aplaudir aquí es, literalmente, pagar la formación de alguien.
+  - heading: Teatro-circo, no números sueltos
+    body: |
+      Olvidad el circo de pista clásico: **sin animales**, y con la acrobacia puesta al servicio de
+      un relato. Es **teatro-circo narrativo** que **cuenta historias camboyanas**, con la sombra
+      nunca lejana de los **jemeres rojos** de la que nació la propia escuela. Son unos **setenta
+      minutos** bajo una **carpa pequeña**, con función **casi cada noche hacia las 20:00**; y el
+      plan la mete a propósito en la **noche de llegada**, la única velada en que todavía no madrugáis
+      para el amanecer.
+  - heading: Ver aquí es ayudar
+    body: |
+      En un lugar donde os asaltarán **falsos monjes** con pulseras y **niños vendedores** con
+      postales, Phare es la respuesta a la pregunta incómoda de *cómo ayudar sin hacer daño*. La
+      forma ética no es el dólar al niño de la calle —cada dólar lo mantiene fuera de la escuela—,
+      sino sostener **empresas sociales** como esta, Artisans Angkor o el Peace Café. Aquí el ticket
+      no es una entrada: es una **beca**. Y es la manera de que vuestra primera noche en Camboya no
+      sea solo un traslado con jet lag.
+curiosidades:
+  - >-
+    **De un campo de refugiados a una carpa**: nueve jóvenes ex-refugiados fundaron la escuela Phare
+    Ponleu Selpak en Battambang en 1994, tras aprender a dibujar como terapia después de los jemeres
+    rojos.
+  - >-
+    **Cada entrada financia la escuela**: los artistas son alumnos becados, y la butaca más barata
+    (18 US$) se ve perfectamente bajo la carpa pequeña.
+  - >-
+    **No es acrobacia sin más**: es teatro-circo narrativo y sin animales — cuenta historias, no
+    encadena números sueltos.
+seenIn:
+  - ref: '#dia-12-siem-reap'
+    label: Día 12 · la noche de llegada
+  - ref: '#phare-reserva'
+    label: reservar la función

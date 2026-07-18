@@ -1,0 +1,50 @@
+slug: memorial-mccain
+navLabel: "Memorial McCain"
+trip: vietnam
+part: vietnam
+order: 17
+emblem: libro
+kicker: Vietnam · la cicatriz
+title: El memorial de McCain, a orillas del Trúc Bạch
+epithet: >-
+  El punto exacto donde un piloto americano cayó al agua en octubre de 1967 — y donde hoy se lee,
+  en un simple relieve a la orilla, la distancia entre la guerra y la reconciliación.
+sections:
+  - heading: Dónde cayó el avión
+    body: |
+      A orillas del lago **Trúc Bạch**, un **relieve de 1985** marca el punto exacto donde fue
+      derribado el **A-4 Skyhawk de John McCain el 26 de octubre de 1967**. El piloto cayó al agua y
+      fue capturado allí mismo; de ahí pasó a la prisión de **Hỏa Lò**, el «Hanoi Hilton» donde se
+      expone todavía su traje de vuelo. El monumento conmemora, literalmente, una captura.
+  - heading: De la captura a la reconciliación
+    body: |
+      Lo singular de este relieve es lo que ha llegado a significar: **hoy funciona casi como un
+      monumento a la reconciliación**. El piloto derribado aquí volvería, en las décadas siguientes,
+      convertido en una de las voces estadounidenses más empeñadas en cerrar la herida y **normalizar
+      las relaciones entre los dos países** — los mismos que se enfrentaron sobre este lago y que en
+      2023 se declararon *«socios estratégicos integrales»*, el máximo grado diplomático de Vietnam.
+  - heading: El eje del Lago del Oeste
+    body: |
+      El memorial no es una parada en sí, sino una cuenta del mismo collar: se enhebra con la
+      **pagoda Trấn Quốc** —la más antigua de Hanoi, sobre una península del **Lago del Oeste (Hồ
+      Tây)**— en un **circuito de atardecer**, y se remata con un plato de **phở cuốn** en la isla de
+      **Ngũ Xã**. Es el respiro de agua y horizonte con el que se cierra el día, lejos del bullicio
+      del casco viejo.
+curiosidades:
+  - >-
+    El relieve, de **1985**, señala el punto exacto donde McCain cayó al lago Trúc Bạch el **26 de
+    octubre de 1967**, y donde fue capturado: un monumento a una captura concreta, con fecha.
+  - >-
+    El hombre derribado y apresado aquí acabaría, décadas después, entre los **estadounidenses que
+    más hicieron por la reconciliación** con Vietnam — por eso el relieve pesa hoy más como
+    monumento a la paz que como trofeo de guerra.
+  - >-
+    Los dos países que se enfrentaron sobre este lago se declararon en **2023 «socios estratégicos
+    integrales»**, el máximo rango diplomático de Vietnam — el mismo que reserva a China y a Rusia.
+seenIn:
+  - ref: '#dia-15-hanoi-trung-thu'
+    label: Día 15 · Lago del Oeste
+  - ref: '#hoa-lo'
+    label: Hỏa Lò
+  - ref: '#hanoi-cine-libros'
+    label: Cine, libros y guerra

@@ -1,0 +1,48 @@
+slug: museo-etnologia
+navLabel: "Museo de Etnología"
+trip: vietnam
+part: vietnam
+order: 18
+emblem: casa
+kicker: Vietnam · las 54 etnias
+title: El Museo de Etnología de Vietnam
+epithet: >-
+  El mejor museo del país, y la clase preparatoria perfecta: aquí se leen —en vitrina y en el jardín— los
+  pueblos que días después veréis vivos en el loop de Hà Giang. Verlos antes multiplica por diez lo que se
+  entiende después.
+sections:
+  - heading: El interior — las 54 etnias
+    body: |
+      Vietnam reconoce **54 grupos étnicos**, y este museo —a unos 7 km al oeste del centro, un Grab de 15
+      minutos— los cuenta uno a uno con sus **textiles, sus rituales y los objetos de cada día**. No es un
+      almacén de vitrinas polvorientas: es el relato ordenado de un país que en las montañas del norte deja
+      de ser kinh. Aquí ponéis nombre y cara a los **hmong, dao y tày** antes de cruzároslos de verdad en la
+      carretera.
+  - heading: El jardín — las casas a escala real
+    body: |
+      La joya está fuera. En el jardín exterior se han **reconstruido a tamaño real las casas comunales de
+      las minorías**: no son maquetas, son edificios enteros en los que se entra, se sube por sus escaleras y
+      se mide el cuerpo contra sus techos. Ver cómo se levanta una casa —de qué madera, con qué palma, a
+      cuántos palmos del suelo— explica una cultura mejor que cualquier cartela. Para el fotógrafo, media
+      tarde de arquitectura viva.
+  - heading: Por qué antes del loop
+    body: |
+      Es la **clase preparatoria de Hà Giang**, y por eso cae al principio del viaje y no al final: el norte
+      se entiende el doble habiendo visto antes en vitrina lo que luego se ve en la ladera. Abre de **8:30 a
+      17:30** y cuesta **40.000 VND**, pero **cierra los lunes** — así que tiene que caer en el fin de semana
+      de Hanoi, antes de subir al altiplano. El lunes 21 no sirve.
+curiosidades:
+  - >-
+    Es, para casi todo el mundo, **el mejor museo de Vietnam** — y aun así está a 7 km del casco viejo, lo
+    justo para que el viajero con prisa se lo salte. No lo hagáis.
+  - >-
+    El jardín tiene las **casas comunales de las minorías reconstruidas a tamaño real**: no maquetas, sino
+    edificios enteros en los que se entra. Una aldea del norte plantada en Hanoi.
+  - >-
+    **Cierra los lunes.** El museo tiene que caer sí o sí en el fin de semana de llegada — y mejor **antes**
+    del loop que después: es la diferencia entre mirar a los pueblos del norte y entenderlos.
+seenIn:
+  - ref: '#dia-2-hanoi-llegada'
+    label: Día 2 · la tarde del museo
+  - ref: '#minorias-norte'
+    label: Las minorías del norte

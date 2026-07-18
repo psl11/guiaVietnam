@@ -1,0 +1,53 @@
+slug: hoa-lo
+navLabel: "Hỏa Lò"
+trip: vietnam
+part: vietnam
+order: 16
+emblem: libro
+kicker: Vietnam · la memoria
+title: Hỏa Lò, la prisión y sus silencios
+epithet: >-
+  Dos cárceles en un mismo recinto: la que los franceses levantaron para los presos políticos
+  vietnamitas —hoy el grueso del museo— y la que los pilotos americanos derribados apodaron, con
+  sarcasmo, el *«Hanoi Hilton»*.
+sections:
+  - heading: La cárcel colonial — el grueso del museo
+    body: |
+      Antes de ser el *«Hanoi Hilton»*, Hỏa Lò fue durante décadas la gran cárcel que **los
+      franceses levantaron para los presos políticos vietnamitas** —revolucionarios y nacionalistas
+      encerrados por el poder colonial—. Esa es hoy **la mayor parte del museo**: las celdas
+      coloniales y la **guillotina**, y con ellas el relato, sin eufemismos, de la represión
+      colonial en Indochina.
+  - heading: El *«Hanoi Hilton»*
+    body: |
+      En la guerra americana, la vieja prisión sirvió para retener a los **pilotos estadounidenses
+      derribados** sobre el Norte, que la bautizaron con sarcasmo *«Hanoi Hilton»* — entre ellos,
+      **John McCain**, capturado en 1967, cuando su avión cayó al lago **Trúc Bạch**. Una sala
+      reúne su **traje de vuelo** y objetos de aquel cautiverio: es la parte que casi todo visitante
+      occidental viene buscando, y sin embargo la más pequeña del recorrido.
+  - heading: La museografía y sus silencios
+    body: |
+      Conviene entrar sabiendo qué se mira: Hỏa Lò ofrece **el relato oficial del Norte**, y como
+      todo relato tiene sus silencios. Se visita mejor leyéndolo como lo que es —una versión, con lo
+      que elige mostrar y lo que omite— y no como el acta neutral de los hechos. Nada de esto le
+      resta fuerza: sigue siendo **el museo más intenso y más céntrico de Hanoi**, y una visita de
+      60 a 90 minutos deja poso.
+curiosidades:
+  - >-
+    Casi todo occidental llega a Hỏa Lò buscando el *«Hanoi Hilton»* de los pilotos y a McCain —y se
+    encuentra con que **esa sala es la más pequeña**: el grueso del museo cuenta la cárcel colonial
+    francesa y a los revolucionarios vietnamitas que encerró.
+  - >-
+    El apodo *«Hanoi Hilton»* **lo pusieron los propios pilotos derribados**, en sarcasmo amargo por
+    todo lo que aquella vieja prisión colonial no tenía de hotel.
+  - >-
+    En la sala de los aviadores se expone el **traje de vuelo de John McCain**. El piloto que lo
+    llevó, capturado en 1967, sería medio siglo después uno de los rostros de la **reconciliación**
+    entre los dos países.
+seenIn:
+  - ref: '#dia-3-hanoi-cafes'
+    label: Día 3 · Hanoi
+  - ref: '#memorial-mccain'
+    label: memorial McCain
+  - ref: '#hanoi-cine-libros'
+    label: Cine, libros y guerra

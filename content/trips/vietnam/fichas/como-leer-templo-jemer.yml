@@ -70,9 +70,9 @@ curiosidades:
     reacción hinduista del siglo XIII. Cada muesca es un episodio de guerra ideológica congelado en
     la piedra.
 seenIn:
-  - ref: '#angkor-wat'
+  - ref: '#angkor-wat-geometria'
     label: Angkor Wat
-  - ref: '#bayon'
+  - ref: '#el-bayon'
     label: el Bayon
   - ref: '#ta-prohm'
     label: Ta Prohm
