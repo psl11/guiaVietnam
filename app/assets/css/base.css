@@ -662,8 +662,12 @@ a.chip:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; }
 .plato-veg, .comida-veg {
   margin-top: .8rem; padding: .55rem .9rem; border-radius: 8px; overflow-wrap: anywhere;
   background: color-mix(in srgb, var(--ink-faint) 6%, transparent); border-left: 3px solid var(--line);
-  font-size: .96rem; line-height: 1.5; color: var(--ink-soft);
+  color: var(--ink-soft);
 }
+/* la ficha de plato explica la versión veg (párrafo, fuente de cuerpo); la comida es una etiqueta
+   corta → misma tipografía que el chip que tenía antes (mono, pequeña), pero en bloque que ajusta. */
+.plato-veg { font-size: .96rem; line-height: 1.5; }
+.comida-veg { font-family: 'JetBrains Mono', monospace; font-size: .64rem; line-height: 1.5; letter-spacing: .02em; }
 .plato-veg.veg--si, .comida-veg.veg--si { border-left-color: #4a8f4a; background: color-mix(in srgb, #4a8f4a 8%, transparent); }
 .plato-veg.veg--ok, .comida-veg.veg--ok { border-left-color: var(--gold); background: color-mix(in srgb, var(--gold) 8%, transparent); }
 .plato-veg.veg--no, .comida-veg.veg--no { border-left-color: var(--accent); background: color-mix(in srgb, var(--accent) 8%, transparent); }
