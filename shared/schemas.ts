@@ -130,6 +130,53 @@ export const RecoSchema = z.object({
   link: z.object({ url: z.string(), label: z.string() }).optional(), // reserva / Google Maps
 })
 
+// ── COMIDA — la entrada del directorio gastronómico (sección «Gastronomía») ───
+// Un restaurante / café / puesto / bar. Se agrupa por `part` (país) → `city` → `category` (el orden
+// del cliente). Los chips de un vistazo (tipo · precio · reserva · colas · VEG · sello) son campos
+// estructurados; el porqué va en `body`. `veg` es OBLIGATORIO y siempre explícito (la novia es
+// vegetariana). `badge` = sello de prestigio verificado (★ Michelin, Bib Gourmand, Asia's 50 Best,
+// Vietnam Coracle…). NO usar `meta` (reservado de Content v3 → «[object Object]»).
+export const ComidaSchema = z.object({
+  slug: z.string(),
+  trip: z.string(),
+  part: z.enum(['vietnam', 'camboya']),
+  city: z.string(), // 'Hanoi' · 'Ninh Bình' · 'Hà Giang' · 'Siem Reap'
+  category: z.enum(['desayuno', 'cafe', 'comida', 'cena', 'street-food', 'postre', 'cocteleria']),
+  order: z.number(), // orden dentro de (part·city·category)
+  title: z.string(), // nombre del local
+  navLabel: z.string().optional(),
+  tipo: z.string(), // 'puesto callejero' · 'familiar' · 'moderno' · 'histórico' · 'rooftop'…
+  area: z.string().optional(), // zona / dirección aproximada
+  precio: z.string().optional(), // '50–70k ₫ (~2–2,6 €)'
+  reserva: z.string().optional(), // 'No' · 'Recomendable' · 'Imprescindible'
+  colas: z.string().optional(), // 'Sí, van rápidas' · 'No'
+  veg: z.string(), // OBLIGATORIO y explícito: '100% vegetariano' · 'buenas opciones veg' · 'no apto (solo él)'…
+  badge: z.string().optional(), // sello: '★ Michelin' · 'Bib Gourmand' · "Asia's 50 Best" · 'Vietnam Coracle'…
+  quePedir: Md.optional(), // qué pedir
+  body: Md, // por qué merece la pena (+ contexto/fuente)
+  link: z.object({ url: z.string(), label: z.string() }).optional(),
+  seenIn: z.array(Link).optional(), // cruces (plato relacionado, ficha de lugar…)
+})
+
+// ── PLATO — la guía de platos y bebidas imprescindibles ───────────────────────
+// Ficha de un PLATO o BEBIDA (no un local): qué es, historia, dónde probarlo, versión veg, picante.
+// `veg` obligatorio y explícito. `seenIn` enlaza a los locales (comida) donde probarlo.
+export const PlatoSchema = z.object({
+  slug: z.string(),
+  trip: z.string(),
+  kind: z.enum(['plato', 'bebida']),
+  order: z.number(),
+  title: z.string(), // nombre del plato/bebida
+  navLabel: z.string().optional(),
+  queEs: Md, // en qué consiste
+  historia: Md.optional(), // historia / curiosidad
+  dondeMejor: z.string().optional(), // dónde se prepara mejor
+  picante: z.string().optional(), // 'Suave' · 'Medio' · 'Alto' · '—'
+  veg: z.string(), // OBLIGATORIO: versión vegetariana (existe/cómo pedirla, o «no apto»)
+  body: Md.optional(),
+  seenIn: z.array(Link).optional(), // dónde probarlo → enlaces a locales (comida)
+})
+
 // ── TRIP — metadatos de portada ──────────────────────────────────────────────
 export const TripSchema = z.object({
   slug: z.string(), // 'vietnam'
@@ -147,4 +194,6 @@ export type Ficha = z.infer<typeof FichaSchema>
 export type Inversion = z.infer<typeof InversionSchema>
 export type Dia = z.infer<typeof DiaSchema>
 export type Reco = z.infer<typeof RecoSchema>
+export type Comida = z.infer<typeof ComidaSchema>
+export type Plato = z.infer<typeof PlatoSchema>
 export type Trip = z.infer<typeof TripSchema>

@@ -1,4 +1,4 @@
-import type { Trip, Acto, Ficha, Inversion, Dia, Reco } from '~~/shared/schemas'
+import type { Trip, Acto, Ficha, Inversion, Dia, Reco, Comida, Plato } from '~~/shared/schemas'
 
 // `useTrip(slug)` — punto de entrada ÚNICO y tipado de los datos de un viaje.
 //
@@ -13,13 +13,15 @@ import type { Trip, Acto, Ficha, Inversion, Dia, Reco } from '~~/shared/schemas'
 // castea el retorno a los tipos zod de shared/schemas.ts (la misma fuente que valida en tests) por
 // coherencia con el resto de la plataforma.
 export async function useTrip(slug: string) {
-  const [trip, actos, fichas, inversiones, dias, recos] = await Promise.all([
+  const [trip, actos, fichas, inversiones, dias, recos, comidas, platos] = await Promise.all([
     useAsyncData(`trip-${slug}`, () => queryCollection('trip').where('slug', '=', slug).first()),
     useAsyncData(`actos-${slug}`, () => queryCollection('acto').where('trip', '=', slug).order('order', 'ASC').all()),
     useAsyncData(`fichas-${slug}`, () => queryCollection('ficha').where('trip', '=', slug).order('order', 'ASC').all()),
     useAsyncData(`inversiones-${slug}`, () => queryCollection('inversion').where('trip', '=', slug).order('order', 'ASC').all()),
     useAsyncData(`dias-${slug}`, () => queryCollection('dia').where('trip', '=', slug).order('order', 'ASC').all()),
     useAsyncData(`recos-${slug}`, () => queryCollection('reco').where('trip', '=', slug).order('order', 'ASC').all()),
+    useAsyncData(`comidas-${slug}`, () => queryCollection('comida').where('trip', '=', slug).order('order', 'ASC').all()),
+    useAsyncData(`platos-${slug}`, () => queryCollection('plato').where('trip', '=', slug).order('order', 'ASC').all()),
   ])
 
   return {
@@ -29,5 +31,7 @@ export async function useTrip(slug: string) {
     inversiones: inversiones.data as unknown as Ref<Inversion[]>,
     dias: dias.data as unknown as Ref<Dia[]>,
     recos: recos.data as unknown as Ref<Reco[]>,
+    comidas: comidas.data as unknown as Ref<Comida[]>,
+    platos: platos.data as unknown as Ref<Plato[]>,
   }
 }

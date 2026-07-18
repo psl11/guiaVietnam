@@ -3,7 +3,7 @@ import { readFileSync, readdirSync, existsSync } from 'node:fs'
 import { join, basename } from 'node:path'
 import { parse } from 'yaml'
 import type { ZodTypeAny } from 'zod'
-import { TripSchema, ActoSchema, FichaSchema, InversionSchema, DiaSchema, RecoSchema } from '../../shared/schemas'
+import { TripSchema, ActoSchema, FichaSchema, InversionSchema, DiaSchema, RecoSchema, ComidaSchema, PlatoSchema } from '../../shared/schemas'
 
 // La PUERTA DE VALIDACIÓN DE DATOS. Nuxt Content v3 NO valida las colecciones `type:'data'` contra
 // zod en build (nuxt/content#3351) → un enum inválido o un requerido ausente se desplegaría en
@@ -32,6 +32,8 @@ const COLLECTIONS: { dir: string, schema: ZodTypeAny, name: string, single?: boo
   { dir: 'inversiones', schema: InversionSchema, name: 'inversion' },
   { dir: 'dias', schema: DiaSchema, name: 'dia' },
   { dir: 'recos', schema: RecoSchema, name: 'reco' },
+  { dir: 'comidas', schema: ComidaSchema, name: 'comida' },
+  { dir: 'platos', schema: PlatoSchema, name: 'plato' },
 ]
 
 // Anclas de LUGAR pendientes: fichas de monumento/sitio (Parte I) aún no escritas. Los chips
