@@ -1,0 +1,86 @@
+slug: dia-2-hanoi-llegada
+navLabel: "Día 2 · Hanoi"
+trip: vietnam
+order: 2
+eyebrow: El plan · Día 2 · sáb 12 sep
+title: "*Aterrizar* en Hanoi"
+dek: >-
+  Los vuelos largos y la escala de Abu Dabi quedan atrás cuando el Grab entra en el casco viejo con
+  el día recién hecho. Hoy no se conquista Hanoi: se aterriza en ella despacio. Un cuenco de phở que
+  resucita, el lago que el fin de semana es de los peatones, una siesta sin culpa — y, ya de tarde, la
+  primera lección sobre los pueblos que os esperan en el norte.
+blocks:
+  - block: Mañana
+    time: "06:40"
+    title: Aterrizar y el primer cuenco de phở
+    body: >-
+      Nội Bài a las 06:40, un Grab de unos 27 km al casco viejo (~7 €), la maleta grande a buen recaudo
+      en el Hòa Bình y, sin más trámite, directos a **Phở Gia Truyền «Bát Đàn»** (49 Bát Đàn), el phở bò
+      de referencia del barrio y **Bib Gourmand** de la Michelin. Solo ternera, se paga en caja, uno se
+      lleva su cuenco y la cola avanza rápido: el desayuno que os devuelve al mundo tras la noche de aviones.
+    window:
+      label: Ventana óptima
+      body: >-
+        Bát Đàn solo sirve de **6:00 a 10:00** y de 18:00 a 20:30. Aterrizar al alba convierte el mejor phở
+        del casco viejo en vuestro primer desayuno — la única hora en que el azar del vuelo y el reloj del
+        puesto coinciden. Y empezar comiendo lo que come Hanoi es la mejor manera de bajar del avión.
+  - block: Media mañana
+    time: "mañana"
+    title: El lago Hoàn Kiếm y las 36 calles
+    body: >-
+      El corazón simbólico de la ciudad: el lago **Hoàn Kiếm**, el puente rojo The Húc y el templo Ngọc Sơn
+      en su isleta (~50.000 VND, recato en la vestimenta). Luego, el laberinto gremial de las «36 calles»,
+      que nunca fueron 36 ni un número literal sino los *phường* —las cofradías—, cada una **Hàng +
+      producto**: Hàng Thiếc, donde aún se oye el martilleo de los hojalateros; Lãn Ông y su olor a hierbas
+      medicinales; Hàng Bạc, de plateros desde el siglo XV; la casa-tubo de mercader del **87 Mã Mây**.
+      Sin agenda: taburete de plástico y cámara a la altura de la cadera, que es donde ocurre la vida.
+    window:
+      label: Ventana óptima
+      body: >-
+        El paseo del lago solo se peatonaliza de **viernes a las 19:00 hasta el lunes a las 6:00**. Aterrizáis
+        en sábado, que es la suerte del calendario: Hoàn Kiếm es de los paseantes, del tai-chi y del bádminton,
+        no de las motos. Entre semana este mismo lago es una rotonda de tráfico.
+  - block: Mediodía · descanso
+    time: "mediodía"
+    title: Una tregua horizontal
+    dim: true
+    body: >-
+      Comida tranquila y un rato horizontal en el hotel. No es pereza: venís de un vuelo largo y de madrugar,
+      y el bochorno de Hanoi —30-32 °C con la humedad al 80 %— aprieta justo a estas horas. Recargar ahora
+      no es perder la tarde, es asegurarla.
+    window:
+      label: Por qué ahora
+      body: >-
+        A mediodía se alían el calor y el desfase horario, y la luz cae plana y dura para la foto. Una siesta
+        corta es lo que hace que la tarde de museo y la noche de trenes o marionetas no se vengan abajo. Se
+        pierde poco y se gana el resto del día.
+  - block: Tarde
+    time: "15:00–17:30"
+    title: El Museo de Etnología, o Ha Giang en miniatura
+    body: >-
+      Grab de 15 minutos (unos 7 km al oeste) hasta el **Museo de Etnología de Vietnam**: los 54 grupos
+      étnicos del país contados con sus textiles y sus rituales, y un jardín exterior con casas tradicionales
+      levantadas a escala real. Abre de 8:30 a 17:30 y cuesta 40.000 VND. Un par de horas que valen por un
+      curso entero.
+    window:
+      label: Ventana óptima
+      body: >-
+        Es la clase preparatoria de Ha Giang: aquí leéis a los pueblos —hmong, dao, tày— que dentro de unos
+        días veréis vivos en el loop, y el norte se entiende el doble habiéndolos visto antes en vitrina. Y hay
+        prisa doble, porque **cierra los lunes**: el día 21 no sirve, tiene que ser este fin de semana, y mejor
+        antes del loop que después.
+  - block: Noche
+    time: "noche"
+    title: Train Street con luz, o marionetas de agua
+    body: >-
+      Dos finales posibles para el primer día. La **Train Street** (el tramo de 5 Trần Phú): se entra
+      consumiendo en un café autorizado y hay que sentarse cuando el silbato anuncia el tren, que pasa a un
+      palmo de las rodillas. O, si el cuerpo pide algo seguro, las **marionetas de agua** del teatro Thăng
+      Long (57 Đinh Tiên Hoàng): 50 minutos, orquesta en vivo con đàn bầu, el arte milenario del delta del
+      río Rojo llevado al escenario.
+    window:
+      label: Ventana óptima
+      body: >-
+        Entre semana los trenes de la Train Street solo pasan de noche; **los fines de semana también de día**.
+        Aterrizar en sábado es lo único que pone sobre la mesa un tren con algo de luz —imposible para quien
+        llega un martes—. Y si el museo se alarga o el cuerpo dice basta, las marionetas nunca fallan.

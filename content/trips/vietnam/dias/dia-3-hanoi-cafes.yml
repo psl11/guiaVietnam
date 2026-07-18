@@ -1,0 +1,91 @@
+slug: dia-3-hanoi-cafes
+navLabel: "Día 3 · Hanoi"
+trip: vietnam
+order: 3
+eyebrow: El plan · Día 3 · dom 13 sep
+title: Hanoi *a fondo*
+dek: >-
+  El día en que Hanoi se entrega entera, de la madrugada a la medianoche. Del puente de acero de 1902 con
+  la primera luz al canto de cámara de la noche, pasando por la taza donde se inventó el café-huevo, la
+  cárcel que cuenta la guerra a su manera y el martini que sabe a Graham Greene.
+blocks:
+  - block: Amanecer
+    time: "05:00"
+    title: El puente Long Biên y la isla de los plátanos
+    body: >-
+      Despertador de fotógrafo. Bajo el **puente Long Biên** —acero de 1902, obra de la era Doumer, herido
+      por los B-52 y remendado mil veces: una cicatriz histórica todavía en uso— el **mercado mayorista de
+      frutas** hierve entre las 2:00 y las 6:00, con porteadoras de sombrero cónico y montañas de fruta. Se
+      sube al puente con la neblina del río Rojo levantándose y se baja por la escalera metálica del centro a
+      la **isla de los plátanos** (Bãi Giữa): plataneras, huertos, cabras y pescadores, campo dentro de la
+      ciudad y casi sin un turista.
+    window:
+      label: Ventana óptima
+      body: >-
+        Al amanecer coinciden las dos cosas que hacen la escena: la luz rasante sobre el río y el mercado
+        todavía **en plena marcha** antes de disolverse hacia las seis. Una hora más tarde no hay ni la
+        neblina ni las porteadoras — solo un puente. Es la toma más «National Geographic» de Hanoi, y hay que
+        madrugar para tenerla.
+  - block: Mañana
+    time: "mañana"
+    title: El egg coffee en su cuna, y el café de los cuadros
+    body: >-
+      Dos cafés en la misma calle, Nguyễn Hữu Huân, que son patrimonio líquido de la ciudad. **Cà Phê Giảng**
+      (nº 39): un pasillo estrecho al fondo del cual Nguyễn Văn Giảng —barman del Metropole— inventó en 1946
+      el **cà phê trứng**, el café-huevo, batiendo yema con azúcar ante la escasez de leche de la guerra con
+      Francia; hoy lo lleva su hijo. Y **Cà Phê Lâm** (nº 60), el café de los artistas desde finales de los
+      cuarenta: Bùi Xuân Phái y Văn Cao pagaban sus consumiciones con cuadros, y las paredes son hoy una
+      pinacoteca informal del arte moderno vietnamita.
+    window:
+      label: Por qué aquí
+      body: >-
+        Porque el egg coffee **nació justo aquí**, en el Giảng, y en ningún otro sitio se bebe en su origen:
+        lo demás son versiones de la invención de esta casa. Beberlo al pie de la fuente, y no en la copia de
+        moda de turno, es la diferencia entre probar un plato y entender de dónde viene.
+  - block: Mediodía
+    time: "mediodía"
+    title: Hỏa Lò y el bún chả de Obama
+    body: >-
+      Un díptico sobre la guerra y lo que vino después. Primero **Hỏa Lò**, la antigua prisión que los pilotos
+      americanos bautizaron «Hanoi Hilton»: la guillotina y las celdas coloniales, y la sala de los aviadores
+      con el traje de vuelo de McCain — el relato oficial del Norte, con sus silencios. Y a la salida, a la
+      hora de comer, **Bún chả Hương Liên** (24 Lê Văn Hưu), donde **Anthony Bourdain y Barack Obama** cenaron
+      en mayo de 2016 para *Parts Unknown*: el «Combo Obama» (bún chả, nem de marisco y cerveza Hanoi) cuesta
+      130.000 VND, la mesa se conserva en una vitrina y el bún chả es honesto y barato.
+    window:
+      label: Por qué a mediodía
+      body: >-
+        El bún chả se come a mediodía y Hương Liên se llena: hay que llegar hacia las **11:30**, antes de la
+        cola. Pero el orden también cuenta un relato — del traje de McCain colgado en Hỏa Lò a Obama comiendo
+        aquí medio siglo después: la distancia entre la guerra y la reconciliación cabe en una mañana y en un
+        cuenco de fideos.
+  - block: Atardecer
+    time: "atardecer"
+    title: El barrio francés y el martini de Graham Greene
+    body: >-
+      Los bulevares de tamarindos y las villas amarillo mostaza: Tràng Tiền, la Ópera (solo fachada, cerrada
+      por obras), el Museo de Historia de Hébrard, las villas de Lý Thường Kiệt. El paseo termina, cómo no, en
+      el **Sofitel Legend Metropole** (1901), donde Graham Greene se alojó en 1951 mientras gestaba *El
+      americano impasible*. La habitación cuesta un ojo; el homenaje inteligente es un **martini «Graham
+      Greene» en el Bamboo Bar** (~15 €), en el mismo patio bajo el que apareció, sellado desde los setenta,
+      el búnker antiaéreo del hotel.
+    window:
+      label: Ventana óptima
+      body: >-
+        El barrio francés pide la última hora del día: las paredes mostaza desconchadas piden luz rasante, y
+        de 16:00 a 18:00 los rayos bajos las encienden. El martini encaja como el aperitivo natural de esa luz
+        — y como la antesala perfecta del ca trù de las 20:00, sin tener que volver al hotel entre medias.
+  - block: Noche
+    time: "20:00"
+    title: Ca trù en la casa de los plateros
+    body: >-
+      Para cerrar, la música seria y minoritaria de Hanoi: el **ca trù**, canto de cámara declarado por la
+      UNESCO patrimonio «en peligro», ante un público de veinte o cuarenta personas. La sesión es en el **Đình
+      Kim Ngân** (42-44 Hàng Bạc), la casa comunal restaurada del gremio de plateros — es decir, en la misma
+      calle que ayer recorristeis de día, ahora convertida en sala de concierto. Entrada ~200.000 VND.
+    window:
+      label: Ventana óptima
+      body: >-
+        El Ca Trù Hanoi Club solo toca **miércoles, viernes y domingo** a las 20:00, y hoy es domingo: el
+        calendario os regala la sesión sin tener que forzarla. No es un espectáculo para turistas hecho a
+        escala industrial, sino lo contrario — la gema de la noche, y de las que corren peligro de perderse.

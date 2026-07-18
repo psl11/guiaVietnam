@@ -46,7 +46,7 @@ const PENDING_ANCHORS = new Set([
   'pagoda-tran-quoc', 'templo-ngoc-son', 'phu-tay-ho',
   'hoa-lo', 'memorial-mccain',
   'bamboo-bar', 'museo-etnologia', 'teatro-thang-long', 'ca-tru-hang-bac',
-  'bun-cha-huong-lien', 'cafe-giang',
+  'cafe-giang', // 'bun-cha-huong-lien' ya existe como reco (su chip resuelve) → fuera de la allowlist
 ])
 
 const docs: Doc[] = []

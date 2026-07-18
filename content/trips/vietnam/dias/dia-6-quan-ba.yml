@@ -1,0 +1,70 @@
+slug: dia-6-quan-ba
+navLabel: "Día 6 · Quản Bạ"
+trip: vietnam
+order: 6
+eyebrow: El plan · Día 6 · mié 16 sep
+title: Arranca el *loop*
+dek: >-
+  El bus nocturno os deposita en Hà Giang al amanecer y el loop empieza esa misma mañana —cinco días
+  en moto con conductor-guía—, pero con una primera etapa corta a propósito: se llega sin haber
+  dormido de verdad, y el altiplano se toma con calma antes de exigirlo todo.
+blocks:
+  - block: Amanecer
+    time: "al amanecer"
+    title: Llegada a Hà Giang y arranque del loop
+    body: >-
+      El sleeper de **Bằng Phấn** os deja en Hà Giang ciudad de madrugada, tras unas siete horas y
+      media largas desde Ninh Bình. Desayuno con calma, se conoce al **easy rider** —el piloto local
+      que será conductor y guía durante cinco días— y se revisa la moto antes de pagar. La maleta
+      grande se quedó en Hanoi; aquí solo la mochila, el chubasquero y las baterías cargadas. A las
+      ruedas.
+    window:
+      label: Por qué así
+      body: >-
+        Se podría descansar un día en Hà Giang ciudad, pero no tiene nada que ofrecer; mejor arrancar
+        el loop hoy mismo y hacer corta la primera etapa. Así el descanso se toma en el altiplano, con
+        vistas, y no en un cruce de carreteras.
+  - block: Mañana
+    time: "~52 km"
+    title: La primera etapa, corta a propósito
+    body: >-
+      Solo unos **52 km** separan Hà Giang de Quản Bạ, y se hacen sin prisa. La carretera trepa desde
+      el valle hacia el altiplano de Đồng Văn y, a cada curva, el karst se va afilando: pináculos
+      grises, maíz plantado entre las rocas, las primeras casas hmong. Es el rodaje del viaje —
+      acostumbrar el cuerpo a la moto, al casco y al ritmo de parar cuando el paisaje lo pide.
+    window:
+      label: Ventana óptima
+      body: >-
+        Ir en **privado** —dos plazas y guía, no un grupo de diez motos— significa parar donde la luz
+        manda y no donde el grupo decide. Con un fotógrafo a bordo eso no es un matiz, y hoy, sin
+        kilómetros que devorar, sobra tiempo para hacerlo.
+  - block: Media tarde
+    time: "media tarde"
+    title: La Puerta del Cielo y las montañas gemelas
+    body: >-
+      Antes de Tam Sơn se para en la **Puerta del Cielo (Heaven's Gate)** de Quản Bạ: un tajo en la
+      roca por el que se asoma el valle entero. Abajo, las célebres **montañas gemelas**, dos colinas
+      idénticas que emergen redondas del arrozal. En septiembre las terrazas de Quản Bạ y **Nậm Đăm**
+      están doradas o casi —una de las pocas bolsas de oro que da el loop, con Hoàng Su Phì descartado
+      por falta de días.
+    window:
+      label: Ventana óptima
+      body: >-
+        Se llega a **media tarde** a propósito. La Puerta del Cielo es uno de los puntos que se
+        masifican a la hora dorada; llegar antes deja la luz cayendo sobre las terrazas y las gemelas
+        sin la aglomeración del ocaso, que es justo lo que busca la cámara.
+  - block: Noche
+    time: "noche"
+    title: Homestay en Nậm Đăm
+    dim: true
+    body: >-
+      Se duerme en un homestay de **Nậm Đăm / Quản Bạ**. La cena es en familia, alrededor de la misma
+      mesa —eso es la autenticidad del homestay, no el colchón—, y cae pronto. Después, a cargar
+      baterías (las de la cámara y las propias): el altiplano de noche sorprende con su frío, y conviene
+      tener a mano el forro polar.
+    window:
+      label: Por qué ahora
+      body: >-
+        La noche temprana del primer día es **descanso estratégico**: se llega sin haber dormido bien
+        en el bus-cama y quedan cuatro jornadas de moto por delante. Acostarse pronto hoy es, sin
+        dramatismo, lo que hace posible todo lo demás.

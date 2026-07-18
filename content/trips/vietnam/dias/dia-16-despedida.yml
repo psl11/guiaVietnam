@@ -1,0 +1,53 @@
+slug: dia-16-despedida
+navLabel: "Día 16 · Despedida"
+trip: vietnam
+order: 16
+eyebrow: El plan · Día 16 · sáb 26 sep
+title: "*Adiós*, Hanoi"
+dek: >-
+  La última mañana es un regalo tramposo de belleza: Hàng Mã amanece decorada y desierta, la resaca
+  luminosa del festival de anoche, y el casco viejo es todo vuestro antes de que despierte. Un egg coffee
+  de despedida en el balcón que mira al lago —el que abrió la hija del hombre que lo inventó— y, ya sin
+  prisa, el camino al aeropuerto para el vuelo de las 20:40.
+blocks:
+  - block: Amanecer
+    time: "05:30"
+    title: El casco viejo al alba y Hàng Mã en calma
+    body: >-
+      Una última vuelta a pie por el casco viejo con la luz recién nacida: los mercadillos improvisados, el
+      tai-chi junto al lago, los repartidores, la luz dorada rasante entre las paredes desconchadas. Y el
+      clímax, la calle **Hàng Mã**: la calle del papel votivo y la decoración festiva, que anoche —noche del
+      Festival del Medio Otoño— fue una marea humana de farolillos, cabezas de león y tambores. Esta mañana
+      siguen los farolillos, pero no la gente.
+    window:
+      label: Ventana óptima
+      body: >-
+        Hàng Mã la mañana después de Trung Thu es la foto que nadie tiene: **decorada pero vacía**, mientras el
+        barrio duerme la fiesta. El contraste con la marea de anoche es, en sí mismo, un proyecto fotográfico —
+        y solo existe en esta única mañana del año, y solo si madrugáis antes de que la calle se despierte.
+  - block: Media mañana
+    time: "media mañana"
+    title: El último egg coffee, en el balcón del Café Đinh
+    body: >-
+      El café de despedida se toma en el **Cà Phê Đinh** (13 Đinh Tiên Hoàng): se sube por una escalera que
+      parece de vivienda privada hasta un balcón destartalado, en un segundo piso, asomado al lago Hoàn Kiếm.
+      Un egg coffee más ligero que el del origen, y unas vistas que valen la despedida.
+    window:
+      label: Por qué aquí
+      body: >-
+        Porque cierra el círculo. El día 3 probasteis el café-huevo en su cuna, el Giảng del padre que lo
+        inventó; hoy os despedís en el balcón de la **hija**, la Sra. Bích, que abrió esta casa en 1984. Empezar
+        el viaje en el origen y terminarlo en su heredera, con el lago debajo, es el mejor punto final posible.
+  - block: Tarde
+    time: "tarde"
+    title: La tarde se deshace hacia el vuelo de vuelta
+    body: >-
+      Lo que quedara pendiente, la maleta, una última comida sin reloj — y el traslado a Nội Bài (unos 27 km)
+      con margen de sobra. El vuelo de vuelta despega a las **20:40**, así que la tarde no tiene por qué correr:
+      es el epílogo tranquilo de dieciséis días.
+    window:
+      label: Por qué así
+      body: >-
+        Que el vuelo largo salga por la noche convierte todo el día en un regalo: no hay que sacrificar la
+        mañana de Hàng Mã ni el café del balcón a una salida de madrugada. La única cautela es el tráfico hacia
+        el aeropuerto — con salir a media tarde, sobra tiempo. Hanoi os deja marchar despacio.
