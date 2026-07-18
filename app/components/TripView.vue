@@ -66,15 +66,11 @@ const nav = computed(() => {
     })
   }
   if (recos.value.length) {
-    // Comer y moverse se colapsan a UN enlace por categoría (apunta a su subsección, #comer/#moverse)
-    // para acortar el índice; dormir y reservar se listan uno a uno (los hoteles y las reservas se
-    // consultan por separado).
-    const items = recoGroups.value.flatMap(g =>
-      (g.kind === 'comer' || g.kind === 'moverse')
-        ? [{ id: g.kind, label: g.label, kind: 'reco' as const }]
-        : g.items.map(r => ({ id: r.slug, label: r.navLabel ?? r.title, kind: 'reco' as const })),
-    )
-    groups.push({ key: 'reservas', label: 'Reservas · dónde dormir', anchor: 'reservas', items })
+    // Las CUATRO categorías (dormir · reservar · comer · moverse) se colapsan a UN enlace cada una,
+    // que salta a su subsección (#dormir/#reservar/#comer/#moverse). El índice de prácticos queda en
+    // 4 entradas en vez de 17: es un directorio para hojear por bloques, no ítem a ítem.
+    const items = recoGroups.value.map(g => ({ id: g.kind, label: g.label, kind: 'reco' as const }))
+    groups.push({ key: 'reservas', label: 'Los prácticos', anchor: 'reservas', items })
   }
   // Después, el relato cultural: Vietnam y Camboya.
   groups.push({
