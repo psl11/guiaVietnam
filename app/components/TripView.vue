@@ -27,6 +27,18 @@ const recoGroups = computed(() => RECO_KINDS
   .map(k => ({ ...k, items: recos.value.filter(r => r.kind === k.kind) }))
   .filter(g => g.items.length))
 
+// Todas las anclas que existen en la página (slugs de todo el contenido + umbrales fijos). Un chip
+// "dónde lo veréis" de una ficha se vuelve enlace clicable SOLO si su destino ya existe; si aún no
+// (p. ej. una ficha de monumento por escribir), queda como etiqueta. Se auto-activan al crecer la guía.
+const knownAnchors = computed(() => new Set<string>([
+  ...actos.value.map(a => a.slug),
+  ...fichas.value.map(f => f.slug),
+  ...inversiones.value.map(i => i.slug),
+  ...dias.value.map(d => d.slug),
+  ...recos.value.map(r => r.slug),
+  'el-plan', 'gasto', 'reservas', 'vietnam', 'camboya',
+]))
+
 // Índice flotante ─────────────────────────────────────────────────────────────
 // Etiqueta corta del índice: navLabel si existe, si no el título sin marcas de markdown.
 const stripMd = (s: string) => s
@@ -211,6 +223,7 @@ const indexOpen = ref(false)
       v-for="f in vietnamFichas"
       :key="f.slug"
       :ficha="f"
+      :known-anchors="knownAnchors"
     />
 
     <!-- Camboya -->
@@ -230,6 +243,7 @@ const indexOpen = ref(false)
         v-for="f in camboyaFichas"
         :key="f.slug"
         :ficha="f"
+        :known-anchors="knownAnchors"
       />
     </template>
   </main>

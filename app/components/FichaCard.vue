@@ -5,7 +5,12 @@
 // seguro. La prosa de las secciones va en Markdown y se renderiza con <MDC>.
 import type { Ficha } from '~~/shared/schemas'
 
-defineProps<{ ficha: Ficha }>()
+const props = defineProps<{ ficha: Ficha, knownAnchors?: Set<string> }>()
+
+// Un chip "dónde lo veréis" enlaza (<a>) si su ancla destino ya existe en la página; si no (una ficha
+// de monumento aún por escribir), queda como etiqueta (<span>). knownAnchors llega desde TripView (los
+// slugs de todo el contenido + los umbrales). El `ref` del dato lleva '#' (p. ej. "#metropole").
+const chipHref = (ref: string) => (props.knownAnchors?.has(ref.replace(/^#/, '')) ? ref : undefined)
 
 // Los `heading` de sección admiten énfasis inline (cursiva para títulos y palabras extranjeras:
 // *El americano impasible*, *chay*). NO usamos <MDC unwrap="p"> aquí: emite un fragmento
@@ -115,15 +120,16 @@ const EMBLEMS: Record<string, string> = {
         <div class="seen-in-label">
           Dónde lo veréis
         </div>
-        <!-- Etiquetas, NO enlaces: los destinos (fichas de monumento) son de la Parte I y aún no
-             existen; un <a href="#..."> a un ancla inexistente sería un enlace muerto. Cuando la
-             Parte I añada esas fichas, esto vuelve a ser <a> (el hover de a.chip ya está en base.css). -->
+        <!-- Enlace (<a>) si el destino existe, etiqueta (<span>) si aún no: así no hay anclas muertas
+             y los cruces se activan solos conforme se añade contenido (días, recos, otras fichas). -->
         <div class="chips">
-          <span
+          <component
+            :is="chipHref(l.ref) ? 'a' : 'span'"
             v-for="l in ficha.seenIn"
             :key="l.ref"
+            :href="chipHref(l.ref)"
             class="chip"
-          >{{ l.label }}</span>
+          >{{ l.label }}</component>
         </div>
       </div>
     </div>
