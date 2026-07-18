@@ -52,7 +52,10 @@ const mapsUrl = computed(() =>
       <span aria-hidden="true">📍</span> {{ comida.cuando }}
     </div>
 
-    <div class="comida-chips">
+    <div
+      v-if="comida.precio || comida.reserva || comida.colas"
+      class="comida-chips"
+    >
       <span
         v-if="comida.precio"
         class="cchip"
@@ -65,10 +68,13 @@ const mapsUrl = computed(() =>
         v-if="comida.colas"
         class="cchip"
       >Colas: {{ comida.colas }}</span>
-      <span
-        class="cchip"
-        :class="vegClass"
-      >VEG · {{ comida.veg }}</span>
+    </div>
+
+    <div
+      class="comida-veg"
+      :class="vegClass"
+    >
+      <span class="comida-veg-tag">Veg</span> {{ comida.veg }}
     </div>
 
     <div

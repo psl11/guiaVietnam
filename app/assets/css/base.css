@@ -585,7 +585,7 @@ a.chip:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; }
 .plato-chips { margin-top: 0; flex-shrink: 0; }
 .cchip {
   font-family: 'JetBrains Mono', monospace; font-size: .64rem; letter-spacing: .02em;
-  padding: .26rem .6rem; border-radius: 6px; white-space: nowrap;
+  padding: .26rem .6rem; border-radius: 6px; max-width: 100%; overflow-wrap: anywhere;
   background: color-mix(in srgb, var(--ink-faint) 8%, transparent);
   border: 1px solid var(--line); color: var(--ink-soft);
 }
@@ -659,13 +659,15 @@ a.chip:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; }
 .gastro-soloel .gastro-cat-label::before { background: var(--accent); }
 
 /* bloque «¿versión vegetariana?» de PlatoCard — borde izquierdo en semáforo veg */
-.plato-veg {
-  margin-top: .85rem; padding: .6rem .9rem; border-radius: 8px;
+.plato-veg, .comida-veg {
+  margin-top: .8rem; padding: .55rem .9rem; border-radius: 8px; overflow-wrap: anywhere;
   background: color-mix(in srgb, var(--ink-faint) 6%, transparent); border-left: 3px solid var(--line);
+  font-size: .96rem; line-height: 1.5; color: var(--ink-soft);
 }
-.plato-veg.veg--si { border-left-color: #4a8f4a; background: color-mix(in srgb, #4a8f4a 8%, transparent); }
-.plato-veg.veg--ok { border-left-color: var(--gold); background: color-mix(in srgb, var(--gold) 8%, transparent); }
-.plato-veg.veg--no { border-left-color: var(--accent); background: color-mix(in srgb, var(--accent) 8%, transparent); }
-.plato-veg p { margin: 0; color: var(--ink-soft); font-size: .98rem; line-height: 1.55; }
-.plato-veg strong { color: var(--ink); font-weight: 600; }
-.plato-veg em { font-style: italic; }
+.plato-veg.veg--si, .comida-veg.veg--si { border-left-color: #4a8f4a; background: color-mix(in srgb, #4a8f4a 8%, transparent); }
+.plato-veg.veg--ok, .comida-veg.veg--ok { border-left-color: var(--gold); background: color-mix(in srgb, var(--gold) 8%, transparent); }
+.plato-veg.veg--no, .comida-veg.veg--no { border-left-color: var(--accent); background: color-mix(in srgb, var(--accent) 8%, transparent); }
+.plato-veg p { margin: 0; color: var(--ink-soft); font-size: .96rem; line-height: 1.5; }
+.plato-veg strong, .comida-veg strong { color: var(--ink); font-weight: 600; }
+.plato-veg em, .comida-veg em { font-style: italic; }
+.comida-veg-tag { font-family: 'JetBrains Mono', monospace; font-size: .58rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--indigo); }

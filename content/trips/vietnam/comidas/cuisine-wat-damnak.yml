@@ -1,0 +1,29 @@
+slug: cuisine-wat-damnak
+trip: vietnam
+part: camboya
+city: Siem Reap
+category: cena
+order: 18
+title: Cuisine Wat Damnak
+navLabel: "Cuisine Wat Damnak"
+tipo: Alta cocina jemer · menú degustación
+area: Wat Damnak Village (tras la pagoda)
+cuando: Siem Reap · la cena del Día 13
+precio: menú $45 · menú veg $38 (+ 5% servicio + 10% tasa)
+reserva: Imprescindible · mín. 24 h por TableCheck
+colas: "No (solo con reserva)"
+veg: Excelente · menú degustación vegetariano dedicado ($38)
+badge: Asia's 50 Best · Discovery
+quePedir: >-
+  El **menú degustación** (no hay carta); cambia por temporada con producto camboyano.
+body: >-
+  **El** referente de la alta cocina camboyana: primer restaurante del país en Asia's 50 Best (2016),
+  del chef francés **Joannès Rivière** (técnica francesa + sabor jemer). Solo cena, cerrado domingos;
+  verificado abierto en 2025-26 en su casa de madera de Siem Reap. Es la cena-evento del viaje: hay
+  que reservarla con antelación.
+link:
+  url: https://www.cuisinewatdamnak.com/siem-reap/
+  label: cuisinewatdamnak.com
+seenIn:
+  - ref: '#cuisine-wat-damnak-reserva'
+    label: reservarla (en Reservas)

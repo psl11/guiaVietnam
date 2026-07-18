@@ -1,0 +1,26 @@
+slug: bun-cha-huong-lien
+trip: vietnam
+part: vietnam
+city: Hanoi
+category: comida
+order: 4
+soloEl: true
+title: Bún Chả Hương Liên
+navLabel: "Bún chả Hương Liên"
+tipo: Familiar · el de Obama y Bourdain
+area: 24 Lê Văn Hưu (Hai Bà Trưng)
+cuando: Sur del centro · a mano un día en Hanoi
+precio: 60–120k ₫ (~2,2–4,4 €)
+reserva: "No"
+colas: Sí a mediodía, van rápidas
+veg: No apto para vegetarianos (cerdo a la brasa + salsa de pescado)
+badge: Parts Unknown · consenso
+quePedir: >-
+  El *bún chả*, o el «**Combo Obama**» (bún chả + nem de marisco + cerveza Hanoi).
+body: >-
+  Donde **Obama y Anthony Bourdain** cenaron por seis dólares en *Parts Unknown* (2016) — hay una
+  mesa-vitrina que lo conmemora. Bún chả honesto y barato: cerdo a la brasa con fideos de arroz y
+  hierbas. El valor es tanto el plato como la peregrinación cinéfila.
+seenIn:
+  - ref: '#bun-cha'
+    label: el plato · bún chả

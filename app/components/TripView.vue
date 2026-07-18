@@ -17,10 +17,10 @@ const hayCamboya = computed(() => camboyaActos.value.length + camboyaFichas.valu
 const hayPlan = computed(() => dias.value.length + inversiones.value.length > 0)
 
 // Recomendaciones (Parte I · prácticos): agrupadas por tipo, en orden fijo de grupo.
+// 'comer' ya no está: la comida vive en la sección Gastronomía. Quedan dormir · reservar · moverse.
 const RECO_KINDS = [
   { kind: 'dormir', label: 'Dónde dormir' },
   { kind: 'reservar', label: 'Reservas por hacer' },
-  { kind: 'comer', label: 'Dónde comer' },
   { kind: 'moverse', label: 'Cómo moverse' },
 ] as const
 const recoGroups = computed(() => RECO_KINDS

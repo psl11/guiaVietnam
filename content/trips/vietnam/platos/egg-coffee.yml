@@ -1,0 +1,23 @@
+slug: egg-coffee
+trip: vietnam
+kind: bebida
+order: 16
+title: Egg coffee (cà phê trứng)
+navLabel: "Egg coffee"
+queEs: >-
+  Una crema tipo natilla de **yema batida con leche condensada**, montada sobre café caliente y
+  servida en un cuenco de agua caliente para que no se enfríe. Sabe a tiramisú líquido.
+historia: >-
+  Lo inventó en **1946** Nguyễn Văn Giảng, barman del Metropole, ante la escasez de leche fresca:
+  sustituyó la leche por yema. Su hijo lo sigue sirviendo en el **Café Giảng**; la hija abrió el
+  **Café Đinh**, con balcón destartalado sobre el lago Hoàn Kiếm — el sitio para el último café del
+  viaje.
+dondeMejor: Hanoi — es su especialidad
+picante: "—"
+veg: >-
+  Apto para vegetarianos (ovo-lácteo). No vegano por el huevo.
+seenIn:
+  - ref: '#giang-cafe'
+    label: Cà Phê Giảng, la cuna
+  - ref: '#cafe-giang'
+    label: su ficha de lugar
