@@ -1,0 +1,27 @@
+slug: mie-cafe
+trip: vietnam
+part: camboya
+city: Siem Reap
+category: cena
+order: 16
+title: Mie Café
+navLabel: "Mie Café"
+tipo: Jemer creativo · casa de madera con huerto
+area: Al norte del Museo Nacional de Angkor
+cuando: Siem Reap · Días 12-14
+precio: à la carte 8–15 US$ · degustación desde ~30 US$
+reserva: Imprescindible en temporada alta
+colas: "No con reserva"
+veg: Opciones veg a petición · avisar al reservar y la cocina prepara algo especial (huerto propio)
+quePedir: >-
+  El **menú degustación** o la carta corta de platos jemer con toque europeo; para la mesa vegetariana,
+  **avisar al reservar** para que cocinen a partir del huerto del día.
+body: >-
+  El **jemer creativo** del chef **Pola Siv** —el mismo de Banlle—, aquí en la casa de madera de su abuela,
+  con huerto propio en el patio. Formado en Suiza y en cocina de estrella, hace versiones **finas y estacionales**
+  de los platos de su infancia, servidas con mimo europeo y carta que cambia a menudo. La parte vegetariana
+  **hay que pedirla por adelantado** (no hay apartado fijo), pero con aviso montan algo a medida. Cena con
+  alma, a un paso del museo.
+seenIn:
+  - ref: '#banlle-vegetarian'
+    label: "Banlle · la casa 100% veg de Pola Siv"

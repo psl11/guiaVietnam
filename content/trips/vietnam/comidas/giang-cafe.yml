@@ -1,0 +1,28 @@
+slug: giang-cafe
+trip: vietnam
+part: vietnam
+city: Hanoi
+category: cafe
+order: 54
+title: Cà Phê Giảng
+navLabel: "Cà Phê Giảng"
+tipo: Histórico · la cuna del café-huevo
+area: 39 Nguyễn Hữu Huân (casco viejo)
+cuando: Casco viejo · Día 3 (la mañana de cafés)
+precio: 25–35k ₫ (~1–1,3 €)
+reserva: "No"
+colas: A veces, van rápidas
+veg: Apto para vegetarianos · lleva yema batida (ovo, no vegano)
+quePedir: >-
+  El **cà phê trứng** (café-huevo) caliente, en su casa madre; en verano, la versión sobre hielo.
+body: >-
+  **Aquí nació el café-huevo**, en 1946, cuando **Nguyễn Văn Giảng** —barman del Metropole— batió yema
+  con azúcar para suplir la leche que la guerra había hecho desaparecer. Se bebe al fondo de un
+  **pasillo estrecho** en el nº 39, hoy en manos de su hijo: debajo, robusta filtrado gota a gota;
+  encima, una crema tibia que **sabe a tiramisú líquido**. Beberlo en la fuente, y no en la copia de
+  moda de turno, es la diferencia entre probar un plato y **entender de dónde viene**.
+seenIn:
+  - ref: '#cafe-giang'
+    label: "El café-huevo · su historia completa"
+  - ref: '#dia-3-hanoi-cafes'
+    label: "Día 3 · en su cuna"

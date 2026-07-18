@@ -1,0 +1,21 @@
+slug: goi-cuon
+trip: vietnam
+kind: plato
+order: 10
+title: Gỏi cuốn
+navLabel: "Gỏi cuốn"
+queEs: >-
+  El **rollito fresco** (sin freír): papel de arroz translúcido en torno a *bún*, **gamba y cerdo**
+  cocidos, lechuga y hierbas (menta, cebollino), que se moja en salsa de **cacahuete y hoisin** o en
+  *nước chấm*. Ligero, crudo, sin una gota de fritura — el contrapunto sano del *nem rán*.
+historia: >-
+  De origen sureño, es el «rollo ensalada»: frescura pura, la cara luminosa de la cocina vietnamita
+  frente a la fritura del norte.
+dondeMejor: En toda Vietnam; especialmente en el sur
+picante: "—"
+veg: >-
+  De los platos **más fáciles** en versión vegetariana: **gỏi cuốn chay** con tofu o seta en vez de gamba
+  y cerdo. Pedidlo *«chay»* y con salsa de cacahuete (*«không mắm»*, sin salsa de pescado).
+seenIn:
+  - ref: '#uu-dam-chay'
+    label: gỏi cuốn chay → Ưu Đàm

@@ -1,0 +1,27 @@
+slug: ca-phe-lam
+trip: vietnam
+part: vietnam
+city: Hanoi
+category: cafe
+order: 55
+title: Cà Phê Lâm
+navLabel: "Cà Phê Lâm"
+tipo: Histórico · el café de los cuadros
+area: 60 Nguyễn Hữu Huân (casco viejo)
+cuando: Casco viejo · Día 3 (misma calle que el Giảng)
+precio: 20–35k ₫ (~0,8–1,3 €)
+reserva: "No"
+colas: "No"
+veg: Apto para vegetarianos · café tradicional en phin
+quePedir: >-
+  Un **cà phê nâu** (café con leche condensada) en phin, el clásico de la casa, mientras se leen las
+  paredes.
+body: >-
+  El café de los **artistas** desde finales de los cuarenta. En los sesenta y setenta, pintores como
+  **Bùi Xuân Phái, Nguyễn Sáng o Dương Bích Liên** y escritores como **Văn Cao** pagaban aquí sus
+  consumiciones **con cuadros**: el dueño, el señor Lâm, acabó siendo coleccionista sin proponérselo, y
+  las paredes son hoy una **pinacoteca informal** del arte moderno vietnamita. Se viene tanto por la
+  historia colgada como por el café — el reverso bohemio del egg coffee que se sirve calle abajo.
+seenIn:
+  - ref: '#dia-3-hanoi-cafes'
+    label: "Día 3 · el café de los cuadros"

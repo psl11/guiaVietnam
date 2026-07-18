@@ -1,0 +1,27 @@
+slug: ngon-vegan
+trip: vietnam
+part: vietnam
+city: Ninh Bình
+category: comida
+order: 90
+title: NGON Vegan
+navLabel: "NGON Vegan"
+tipo: 100% vegano · combo de arroz casero
+area: Tam Cốc Street (Ninh Hải, Hoa Lư)
+cuando: cerca de Tam Cốc · Días 4-5
+precio: combo ~40–90k ₫ (~1,5–3,5 €)
+reserva: "No"
+colas: "No"
+veg: 100% vegetariano/vegano
+quePedir: >-
+  El **combo de arroz** «móntatelo tú»: arroz con salteados, guisos, seta rebozada y la **sopa del día**,
+  que rota para no repetir.
+body: >-
+  La mesa **100% vegetal** más fiable de la zona, y encima **sobre la propia Tam Cốc Street**. Producto
+  local, platos que cambian a diario y **cero riesgo de salsa de pescado** por definición: el almuerzo o
+  la cena sin preocupaciones entre la barca de Tam Cốc y Hang Múa. La opción por defecto en Ninh Bình.
+seenIn:
+  - ref: '#tam-coc'
+    label: la barca de Tam Cốc
+  - ref: '#hang-mua'
+    label: Hang Múa

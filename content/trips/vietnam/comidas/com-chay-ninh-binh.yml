@@ -1,0 +1,31 @@
+slug: com-chay-ninh-binh
+trip: vietnam
+part: vietnam
+city: Ninh Bình
+category: street-food
+order: 92
+title: Cơm cháy (arroz crujiente)
+navLabel: "Cơm cháy"
+tipo: especialidad · el souvenir comestible
+area: Toda Ninh Bình (restaurantes y tiendas de regalo)
+cuando: cerca de Tam Cốc · Días 4-5
+precio: paquete souvenir ~30–60k ₫ (~1–2,3 €)
+reserva: "No"
+colas: "No"
+veg: >-
+  La **galleta es vegetal**; el *topping* clásico (salsa de cabra, carne seca, *pork floss*, gamba seca)
+  **no** — pedid la galleta sola o con salsa de tomate/seta.
+quePedir: >-
+  La **galleta sola**, para llevar como souvenir; en restaurante, *cơm cháy* con salsa — avisando de que
+  la clásica lleva carne.
+body: >-
+  El arroz del fondo de la olla de hierro, **secado al sol y frito** hasta hacerse una lámina dorada y
+  crepitante: una economía campesina del s. XIX convertida en una de las **10 especialidades famosas de
+  Vietnam**. La **galleta base** (arroz glutinoso + normal) es vegetal y **el souvenir comestible** de
+  Ninh Bình; pero el plato de restaurante se corona con **salsa de cabra** o se sirve con casquería,
+  *floss* de cerdo o gamba seca — el *topping* es la trampa.
+seenIn:
+  - ref: '#de-nui-ninh-binh'
+    label: la salsa de cabra clásica
+  - ref: '#ninh-binh-historia'
+    label: Ninh Bình, la antigua capital

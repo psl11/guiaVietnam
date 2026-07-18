@@ -1,0 +1,27 @@
+slug: de-nui-ninh-binh
+trip: vietnam
+part: vietnam
+city: Ninh Bình
+category: comida
+order: 93
+title: Dê núi (cabra de montaña)
+navLabel: "Dê núi"
+tipo: especialidad · carne de cabra
+area: Restaurantes de Ninh Bình / Hoa Lư
+cuando: cerca de Tam Cốc · Días 4-5
+soloEl: true
+reserva: "No"
+colas: "No"
+veg: No apto — es carne de cabra (va al bloque de los intocables)
+quePedir: >-
+  *Dê tái chanh* (carpaccio de cabra con limón) o *dê nướng* (a la brasa) — para quien coma carne.
+body: >-
+  La **seña de identidad** de Ninh Bình: cabras criadas en libertad sobre el karst de piedra caliza,
+  pastando **hierbas de montaña** — carne firme, magra, con un fondo levemente herbal y **sin el olor
+  fuerte** de la cabra de granja. El maridaje local por excelencia: **cabra con cơm cháy**. Marcado como
+  **no apto para vegetarianos** — el único plato de esta parada que no lo es.
+seenIn:
+  - ref: '#com-chay-ninh-binh'
+    label: con cơm cháy
+  - ref: '#ninh-binh-historia'
+    label: Ninh Bình, la antigua capital

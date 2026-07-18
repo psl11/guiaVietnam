@@ -1,0 +1,33 @@
+slug: bamboo-bar
+trip: vietnam
+part: vietnam
+city: Hanoi
+category: cocteleria
+order: 74
+title: Bamboo Bar
+navLabel: "Bamboo Bar (Metropole)"
+tipo: Bar de hotel · junto a la piscina
+area: Sofitel Legend Metropole, 15 Ngô Quyền (barrio francés)
+cuando: Barrio francés · Día 3 (el martini del atardecer)
+precio: "~380k ₫ el martini (~15 €)"
+reserva: "No"
+colas: "No"
+veg: Apto para vegetarianos · es un bar
+quePedir: >-
+  El **«Graham Greene Martini»**, cóctel insignia de la casa: **gin Tanqueray, crème de cassis, vermut
+  extra seco y sorbete de frambuesa**.
+body: >-
+  El bar del gran hotel colonial de Indochina (1901), **junto a la piscina** y bajo techo de paja. Aquí
+  se bebe el **«Graham Greene Martini»** —Tanqueray, cassis, vermut seco y sorbete de frambuesa—,
+  bautizado por el novelista que se alojó en el hotel en 1951 mientras gestaba *El americano
+  impasible*. La habitación cuesta un ojo; el homenaje inteligente es esta copa, en la misma casa por
+  la que pasaron Chaplin, Maugham y, bajo las bombas, Joan Baez. **El siglo XX vietnamita se bebe por
+  el precio de un martini.**
+link:
+  url: https://www.sofitel-legend-metropole-hanoi.com/dining/bamboo-bar/
+  label: metropole · Bamboo Bar
+seenIn:
+  - ref: '#metropole'
+    label: "El Metropole · un siglo en una barra"
+  - ref: '#dia-3-hanoi-cafes'
+    label: "Día 3 · el martini de Greene"

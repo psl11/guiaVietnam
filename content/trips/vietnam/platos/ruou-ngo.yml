@@ -1,0 +1,26 @@
+slug: ruou-ngo
+trip: vietnam
+kind: bebida
+order: 21
+title: Rượu ngô
+navLabel: "Rượu ngô"
+queEs: >-
+  El **licor de maíz** de las tierras altas del norte: aguardiente transparente, de dulzor cereal,
+  destilado del **maíz de montaña** fermentado con una **levadura de hierbas silvestres** (*men lá*) y
+  destilado a fuego de leña por familias **H'mong, Dao y Tày**. Entre 25 y 45 % y traicioneramente suave
+  — el «*happy water*» de las cenas del loop.
+historia: >-
+  Es el espíritu de los **días de mercado** de Hà Giang y Bắc Hà, de las bodas y las bienvenidas:
+  compartirlo es un gesto de hospitalidad. Famosos el de **Bản Phố** (Bắc Hà) y los del altiplano de
+  **Đồng Văn**.
+dondeMejor: Homestays y mercados del loop de Hà Giang
+picante: "—"
+veg: >-
+  Apto y vegano: destilado de maíz.
+seenIn:
+  - ref: '#comer-en-el-loop'
+    label: en la cena del homestay
+  - ref: '#mercado-meo-vac'
+    label: día de mercado
+  - ref: '#el-loop'
+    label: el loop de Hà Giang

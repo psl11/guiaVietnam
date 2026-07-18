@@ -1,0 +1,23 @@
+slug: ca-phe-sua-da
+trip: vietnam
+kind: bebida
+order: 17
+title: Cà phê sữa đá
+navLabel: "Cà phê sữa đá"
+queEs: >-
+  El café vietnamita de diario. **Robusta** oscuro que gotea despacio por un filtro de metal (*phin*)
+  sobre una capa de **leche condensada**, se remueve y se echa sobre hielo. Intenso, amargo-dulce, un
+  chute. *Sữa* es leche; *đá*, hielo. Sin leche es *cà phê đen đá* (café negro con hielo).
+historia: >-
+  El robusta llegó con los franceses y hoy Vietnam es el **primer productor mundial**. Ante la escasez
+  de leche fresca, la **condensada** se convirtió en el apaño — y luego en la firma del café del país.
+dondeMejor: Cualquier café de calle; el ritual es el phin goteando en la mesa
+picante: "—"
+veg: >-
+  Vegetariano sí; **no vegano** (la leche condensada es lácteo). Para versión vegana, pedidlo negro
+  (*cà phê đen đá*) o con coco.
+seenIn:
+  - ref: '#cafe-giang'
+    label: cafés históricos → Giảng
+  - ref: '#every-half'
+    label: café de especialidad → Every Half

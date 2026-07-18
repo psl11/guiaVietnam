@@ -1,0 +1,22 @@
+slug: bia-hoi
+trip: vietnam
+kind: bebida
+order: 19
+title: Bia hơi
+navLabel: "Bia hơi"
+queEs: >-
+  La **«cerveza fresca»**: rubia ligera **sin pasteurizar ni conservantes**, elaborada y repartida **cada
+  día**, servida del barril en vasos sobre taburetes de plástico. Floja (~3-5 %) y baratísima —unos
+  pocos miles de *đồng* el vaso—. Menos una bebida que **la institución social más democrática de
+  Hanoi**.
+historia: >-
+  Herencia de la **cervecería de la era socialista** (técnica checa/del bloque del Este). Su epicentro
+  es la **esquina de la bia hơi** —cruce de *Tạ Hiện* con *Lương Ngọc Quyến*, en el casco viejo— al caer
+  la tarde.
+dondeMejor: El casco viejo de Hanoi, a media tarde
+picante: "—"
+veg: >-
+  Apto: es cerveza, sin ingredientes de origen animal en la receta habitual.
+seenIn:
+  - ref: '#casco-viejo-hanoi'
+    label: la esquina de la bia hơi

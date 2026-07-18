@@ -1,0 +1,27 @@
+slug: ne-cocktail-bar
+trip: vietnam
+part: vietnam
+city: Hanoi
+category: cocteleria
+order: 70
+title: Nê Cocktail Bar
+navLabel: "Nê"
+tipo: Coctelería de autor
+area: 3B Tống Duy Tân (Hàng Bông, junto a Hoàn Kiếm)
+cuando: Casco viejo · cualquier noche
+precio: 180–320k ₫ (~7–12 €)
+reserva: Recomendable fines de semana
+colas: A veces, es pequeño
+veg: Apto para vegetarianos · es una coctelería
+quePedir: >-
+  El **cóctel «Phở»**: gin infusionado con **canela, anís estrellado y cardamomo** —las especias del
+  caldo— rematado con un teatro de llamas. El clásico de la casa.
+body: >-
+  La coctelería que ayudó a abrir el camino de la mixología moderna en Hanoi (desde 2017), en un local
+  pequeño y penumbroso con música en vivo, a un paso del lago. Su leyenda es el **cóctel «Phở»**, que
+  traslada el plato nacional a la copa: **gin infusionado con las especias del caldo**, obra de
+  **Phạm Tiến Tiệp**, elegido Mejor Bartender de Vietnam en el World Class. Pedir un phở para *beber*,
+  después de haberlo comido a cucharadas, es el mejor guiño gastronómico de la ciudad.
+seenIn:
+  - ref: '#pho'
+    label: "El phở, ahora en copa"

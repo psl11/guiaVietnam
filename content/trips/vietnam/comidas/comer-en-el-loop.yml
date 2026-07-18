@@ -1,0 +1,35 @@
+slug: comer-en-el-loop
+trip: vietnam
+part: vietnam
+city: Hà Giang
+category: comida
+order: 94
+title: Comer en el loop
+navLabel: "Comer en el loop"
+tipo: comida comunal de homestay
+area: Homestays del loop de Hà Giang
+cuando: en el loop · Días 6-10
+precio: normalmente incluido en el homestay (media pensión)
+reserva: Se gestiona con el guía / tour
+colas: "No"
+veg: difícil pero manejable avisando
+quePedir: >-
+  No es carta: **avisad al guía** (él lo traduce al anfitrión). Seguros que nunca fallan: **đậu sốt cà
+  chua** (tofu en salsa de tomate), **rau muống xào** (espinaca de agua salteada), **trứng** (huevo) y
+  arroz.
+body: >-
+  La cena del loop es un **festín comunal** que cocina la familia anfitriona: carnes ahumadas o a la
+  brasa, verduras salteadas, tofu, arroz o maíz y sopa, todo **compartido del centro de la mesa** y
+  regado con chupitos de **rượu ngô** (el «*happy water*»). Para vegetarianos es el tramo **más difícil**
+  del viaje, pero **manejable si se avisa con antelación**: decídselo al guía la víspera o al llegar, y
+  llevad la frase escrita en el móvil — **«Tôi ăn chay»** («como vegetariana»). Con tofu, verdura de
+  huerta y huevo casi siempre se resuelve.
+seenIn:
+  - ref: '#ruou-ngo'
+    label: rượu ngô, el «happy water»
+  - ref: '#el-loop'
+    label: el loop de Hà Giang
+  - ref: '#minorias-norte'
+    label: las minorías del norte
+  - ref: '#comer-chay'
+    label: comer chay en el viaje
