@@ -8,13 +8,18 @@ import type { Comida } from '~~/shared/schemas'
 
 const props = defineProps<{ comida: Comida }>()
 
-// Estatus veg para el color del chip: verde = apto/100%, rojo = no apto, ámbar = opciones/limitado.
+// Estatus veg para el color del chip: verde = apto/100%, cinabrio = no apto, ámbar = opciones/limitado.
 const vegClass = computed(() => {
   const v = props.comida.veg.toLowerCase()
-  if (/no apto|no veg|solo (él|para él|para ti|para ella)/.test(v)) return 'veg--no'
-  if (/(100\s*%|vegano|vegana|100% veg|excelente)/.test(v) && !/limitad/.test(v)) return 'veg--si'
+  if (/no apto|no veg|no vegetarian/.test(v)) return 'veg--no'
+  if (/(100\s*%|vegano|vegana|excelente|apto)/.test(v) && !/limitad|no apto/.test(v)) return 'veg--si'
   return 'veg--ok'
 })
+
+// Enlace de mapa auto-generado (búsqueda, no URL de sitio inventada): nombre + zona + ciudad.
+const mapsUrl = computed(() =>
+  'https://www.google.com/maps/search/?api=1&query='
+  + encodeURIComponent([props.comida.title, props.comida.area, props.comida.city].filter(Boolean).join(' ')))
 </script>
 
 <template>
@@ -78,10 +83,13 @@ const vegClass = computed(() => {
       <MDC :value="comida.body" />
     </div>
 
-    <div
-      v-if="comida.link || comida.seenIn?.length"
-      class="comida-foot"
-    >
+    <div class="comida-foot">
+      <a
+        class="comida-link comida-maps"
+        :href="mapsUrl"
+        target="_blank"
+        rel="noopener noreferrer"
+      >◎ Google Maps ↗</a>
       <a
         v-if="comida.link"
         class="comida-link"

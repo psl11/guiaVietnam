@@ -256,7 +256,7 @@ const indexOpen = ref(false)
         id="gastronomia"
         overline="La mesa"
         title="*Gastronomía*"
-        dek="Dónde comer y beber bien, con lo local y auténtico por delante. Cada sitio con su VEG explícito (la mesa es para los dos), su sello si lo tiene (Michelin, Bib Gourmand, Asia's 50 Best…) y su encaje con el itinerario. Y una guía de los platos y bebidas que no hay que perderse."
+        dek="Dónde comer y beber bien, con lo local y auténtico por delante. Cada sitio con su estatus vegetariano explícito, su sello si lo tiene (Michelin, Bib Gourmand, Asia's 50 Best…) y su encaje con el itinerario. Y una guía de los platos y bebidas que no hay que perderse."
       />
 
       <template v-if="platosGuia.length || bebidasGuia.length">
@@ -318,7 +318,7 @@ const indexOpen = ref(false)
             class="gastro-cat gastro-soloel"
           >
             <div class="gastro-cat-label">
-              Los intocables · solo para ti (no veg)
+              Los intocables · no aptos para vegetarianos
             </div>
             <ComidaCard
               v-for="c in cg.soloEl"

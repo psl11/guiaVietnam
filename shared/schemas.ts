@@ -148,7 +148,7 @@ export const ComidaSchema = z.object({
   tipo: z.string(), // 'puesto callejero' · 'familiar' · 'moderno' · 'histórico' · 'rooftop'…
   area: z.string().optional(), // zona / dirección aproximada
   cuando: z.string().optional(), // encaje logístico con el itinerario: 'Casco viejo · cualquier día' · 'West Lake · Día 15'
-  soloEl: z.boolean().optional(), // true = icono NO-veg → va al bloque «Los intocables · solo para ti», no al directorio veg-friendly
+  soloEl: z.boolean().optional(), // true = icono NO-veg → va al bloque «Los intocables · no aptos para vegetarianos», fuera del directorio veg-friendly
   precio: z.string().optional(), // '50–70k ₫ (~2–2,6 €)'
   reserva: z.string().optional(), // 'No' · 'Recomendable' · 'Imprescindible'
   colas: z.string().optional(), // 'Sí, van rápidas' · 'No'
