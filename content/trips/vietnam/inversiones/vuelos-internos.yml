@@ -1,30 +1,33 @@
 slug: vuelos-internos
-navLabel: "Vuelos HAN ⇄ REP"
+navLabel: "Vuelos HAN ⇄ SAI"
 trip: vietnam
 order: 1
-kicker: Reservar en julio · vuelos internos
+kicker: Reservado · vuelos internos
 title: Los vuelos HAN ⇄ Siem Reap
-verdict: merece
-verdictLabel: Merece la pena
+verdict: imprescindible
+verdictLabel: Reservado ✓
 lede: >-
-  **VN837 a la ida + VJ914 a la vuelta = 163 €/persona.** El VN837 compra una hora de sueño antes
-  del amanecer del equinoccio; el caro VN836 de la vuelta es prescindible.
+  **Reservados los dos directos de la tarde.** Sin vuelo interno no hay Camboya en dos días —la
+  alternativa es un bus de doce horas—, así que estos billetes son el esqueleto del tramo jemer.
 ledger:
-  - label: Cuesta
+  - label: Lo reservado
     body: >-
-      22 €/persona más a la ida (VN837 a 89 € frente a VJ913 a 67 €). La vuelta, con el VJ914 a 74 €,
-      es ya la barata.
-  - label: Qué compra
+      **Ida** — mar **22 sep**, HAN **16:20 → SAI 18:05** (1 h 45, directo). **Vuelta** — jue **24
+      sep**, SAI **19:05 → HAN 20:50** (el VJ914 que ya barajábamos). Solo cabina, sin maleta
+      facturada. Ojo con el aeropuerto: **SAI** es el **nuevo** de Siem Reap (abierto en 2023,
+      sustituyó al viejo REP), y está a ~45 km del centro — el traslado al hotel es de casi una hora.
+  - label: Por qué encajan
     body: >-
-      Llegar a Siem Reap a las 17:10 en vez de a las 18:05. Al día siguiente el despertador suena a
-      las **4:15** para el amanecer del equinoccio en Angkor Wat: 44 € por pareja blindan una hora de
-      sueño antes de *la* mañana del viaje. El argumento real no es la comodidad, es el colchón ante
-      un retraso de VietJet.
-  - label: La alternativa
+      La **vuelta el jueves 24 por la tarde** —no el viernes— deja **el viernes 25 entero libre para
+      Trung Thu** en Hanoi, y aterriza a las 20:50, con margen de sobra ante el vuelo largo del 26. La
+      **ida** llega a las 18:05: da para el traslado, la cena y el circo **Phare** esa misma noche,
+      antes de que el despertador suene a las **4:15** para el amanecer del equinoccio en Angkor Wat.
+  - label: El upgrade que no hizo falta
     body: >-
-      El VJ913 a la ida (67 €) llega a las 18:05, sin margen. Y el VN836 de vuelta (181 €) son **214 €
-      por pareja por una hora** que, volando el jueves 24, no cambia nada: prescindible sin discusión.
+      Se sopesó pagar ~22 € más por el VN837 de Vietnam Airlines (llega a las 17:10, una hora antes)
+      como colchón ante un posible retraso la víspera del amanecer. Al final, VietJet ida y vuelta:
+      más simple, y el margen de la noche del 22 basta.
   - label: El veredicto
     body: >-
-      **VN837 + VJ914.** Voláis solo con cabina, así que las tarifas de VietJet sin maleta facturada
-      no os penalizan. Confirmar en la pantalla que operan las fechas exactas (son diarios) al comprar.
+      **Cerrado.** Los internos eran el punto sin retorno del plan de Camboya; con la vuelta
+      protegiendo el viernes de Trung Thu y el vuelo del 26, esta era la combinación buena.

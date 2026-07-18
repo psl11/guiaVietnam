@@ -22,7 +22,7 @@ La pregunta abierta del brief era si Angkor justifica el bucle. La respuesta del
 - **Septiembre es una ventaja, no un inconveniente**: fosos y barays llenos, Neak Pean con agua (solo la tiene en época húmeda), el bosque inundado del Tonle Sap navegable, templos verde esmeralda, y la mitad de turistas. El chaparrón de tarde es corto y predecible.
 - **Bonus que nadie del brief había visto: el equinoccio de septiembre cae el 22-23**. El sol sale alineado casi exactamente detrás de la torre central de Angkor Wat. En el equinoccio de marzo eso reúne multitudes; en el de septiembre casi nadie lo sabe. Estaréis allí esos días exactos con la X100VI.
 
-**Acción inmediata: comprar los vuelos HAN⇄SAI ya** (ver 0.2, hay una corrección importante de horarios).
+**✅ Vuelos HAN⇄SAI RESERVADOS (18-jul-2026): VJ913 ida (16:20→18:05) + VJ914 vuelta (19:05→20:50), VietJet.**
 
 ## 0.2 Correcciones al brief — lo que el research ha destapado
 
@@ -68,7 +68,7 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 | 9 | sáb 19 | Ha Giang | Dong Van → **barca por el cañón del Nho Que a 1ª hora** → paso de Ma Pi Leng → noche en Meo Vac |
 | 10 | dom 20 | Ha Giang | **Mercado dominical de Meo Vac** (06:30–09:30) → regreso a Ha Giang (~5 h) → noche en Ha Giang **o bus nocturno a Hanoi** |
 | 11 | lun 21 | Hanoi | Bus diurno a Hanoi (6-7 h) — o día completo si se tomó el nocturno. Colchón anti-tifón. Lunes = museos cerrados: Templo de la Literatura (o su visita nocturna con 3D-mapping), pagoda Tran Quoc al atardecer, memorial McCain, pho cuon en Ngũ Xã |
-| 12 | mar 22 | Siem Reap | Mañana libre en Hanoi. **Vuelo VN837 15:30→17:10 HAN→SAI** `[✓]`. Transfer del hotel (SAI está a 40-50 km, ~1 h). Cena rápida en Wat Bo → **circo Phare (~20:00)**, aprovechando la noche de llegada. Despertador a las 4:15 |
+| 12 | mar 22 | Siem Reap | Mañana libre en Hanoi. **Vuelo VJ913 16:20→18:05 HAN→SAI** `[✓ RESERVADO 18-jul]`. Transfer del hotel (SAI está a 40-50 km, ~1 h) → llegada ~19:15. Cena rápida en Wat Bo → **circo Phare (~20:00)**, aprovechando la noche de llegada. Despertador a las 4:15 |
 | 13 | mié 23 | Siem Reap | **El día grande**: 4:45 amanecer del equinoccio en Angkor Wat → bajorrelieves con guía + Bakan → Ta Prohm → **Bayon a media mañana** + Angkor Thom (terrazas) → siesta → **14:30–19:00 Tonle Sap / Kampong Phluk**, agua alta y crepúsculo sobre el lago desde la barca |
 | 14 | jue 24 | (vuelo) | 5:15 → **Banteay Srei a la apertura** (7:30) → circuito grande: Preah Khan, **Neak Pean con agua**, Ta Som → hotel ~13:00, comida y ducha → **salir 15:30 → vuelo VJ914 19:05→20:50 SAI→HAN** `[✓]` → Hanoi ~20:50, noche libre |
 | 15 | vie 25 | Hanoi | **Día entero en Hanoi, sin prisas**: Lago del Oeste + memorial McCain, martini de Greene en el Bamboo Bar del Metropole, lo que quedara pendiente → **noche de Trung Thu en Hàng Mã con tiempo, en plena ebullición** |
@@ -78,7 +78,7 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 
 ## 0.4 Checklist de acciones por fecha
 
-1. **YA (julio) — comprar los vuelos internos. Decisión tomada: `VN837` a la ida + `VJ914` a la vuelta = 163 €/persona, 326 € la pareja** `[✓ verificado 17-jul-2026]`. En vietnamairlines.com y vietjetair.com, pagando con la tarjeta con seguro de viaje (activa el seguro Allianz sobre estos tramos). Ambos días operan — verificado. El razonamiento de por qué esos dos y no los otros:
+1. **✅ RESERVADO (18-jul-2026) — vuelos internos: `VJ913` a la ida (16:20→18:05) + `VJ914` a la vuelta (19:05→20:50), ambos VietJet, solo cabina.** Pablo cogió el directo barato de la ida (llega 18:05), NO el upgrade a VN837 (17:10) que se recomendaba abajo como colchón; el margen de la noche del 22 basta. El razonamiento original (archivado):
 
    > **Ida — VN837 (89 €) por encima de VJ913 (67 €). Merece la pena.**
    > **Cuesta**: 22 €/persona más (44 € la pareja).
@@ -150,7 +150,7 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 
 | Concepto | Estimación |
 |---|---|
-| Vuelos HAN⇄SAI (VN837 + VJ914 × 2) | **326 €** `[✓ 17-jul-2026]` |
+| Vuelos HAN⇄SAI (VJ913 + VJ914 × 2) — RESERVADO | **~282 €** `[✓ 18-jul-2026]` |
 | Loop Ha Giang **5D/4N** privado (easy rider, todo incluido) | **430–590 €** `[⚠ estimado, no cotizado]` |
 | Alojamiento: 2n Tam Coc + 2n Siem Reap + ~6n Hanoi | 450–700 € |
 | Pases de Angkor (3 días) | ~115 € (62 USD × 2) |
