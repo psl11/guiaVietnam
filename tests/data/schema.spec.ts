@@ -22,7 +22,10 @@ interface Doc {
   part?: string
   order?: number
   slug?: string
+  city?: string
   seenIn?: { ref?: string, label?: string }[]
+  image?: { src?: string }
+  raw: string // texto YAML crudo, para escanear enlaces de cuerpo [txt](#ancla)
 }
 
 const COLLECTIONS: { dir: string, schema: ZodTypeAny, name: string, single?: boolean }[] = [
@@ -59,10 +62,11 @@ for (const trip of trips) {
       : (existsSync(dir) ? readdirSync(dir).filter(f => f.endsWith('.yml')) : [])
     for (const f of files) {
       const rel = `${trip}/${c.dir ? c.dir + '/' : ''}${f}`
-      const data = parse(readFileSync(join(dir, f), 'utf-8'))
+      const raw = readFileSync(join(dir, f), 'utf-8')
+      const data = parse(raw)
       const res = c.schema.safeParse(data)
       if (!res.success) parseErrors.push({ rel, issues: res.error.issues.map(i => `${i.path.join('.') || '(root)'}: ${i.message}`) })
-      docs.push({ rel, collection: c.name, part: data?.part, order: data?.order, slug: data?.slug, seenIn: data?.seenIn })
+      docs.push({ rel, collection: c.name, part: data?.part, order: data?.order, slug: data?.slug, city: data?.city, seenIn: data?.seenIn, image: data?.image, raw })
     }
   }
 }
@@ -123,5 +127,52 @@ describe('contenido · integridad de anclas seenIn', () => {
     const nowReal = [...PENDING_ANCHORS].filter(a => slugs.has(a))
     const report = `estas anclas ya existen como ficha — quítalas de PENDING_ANCHORS y convierte su chip en enlace: ${nowReal.join(', ')}`
     expect(nowReal, report).toEqual([])
+  })
+})
+
+// Anclas fijas (no-slug) a las que un enlace interno del cuerpo puede apuntar legítimamente: los
+// umbrales de sección + la categoría de platos + las categorías de reco colapsadas + las ciudades de
+// gastronomía (mismo citySlug que TripView). Incluirlas solo PREVIENE falsos positivos, nunca los causa.
+const citySlug = (c: string) => 'gastro-' + c.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')
+const FIXED_ANCHORS = new Set<string>([
+  'el-plan', 'gasto', 'reservas', 'gastronomia', 'salir', 'vietnam', 'camboya', 'gastro-platos',
+  'dormir', 'reservar', 'moverse', // categorías de reco colapsadas en el índice
+  ...docs.filter(d => d.collection === 'comida' && d.city).map(d => citySlug(d.city as string)),
+])
+
+describe('contenido · integridad de anclas del cuerpo markdown', () => {
+  it('cada enlace [txt](#ancla) del cuerpo resuelve a un slug o a una ancla fija', () => {
+    // El chip `seenIn` está doblemente protegido (knownAnchors en app + test de arriba); los enlaces
+    // escritos DENTRO de la prosa markdown no tenían red: un `[texto](#typo)` se pinta como <a> que no
+    // scrollea a ningún sitio, sin 404 ni fallo de build. Aquí se valida cada uno.
+    const unknown: string[] = []
+    const re = /\]\(#([^)]+)\)/g
+    for (const d of docs) {
+      re.lastIndex = 0
+      let m: RegExpExecArray | null
+      while ((m = re.exec(d.raw)) !== null) {
+        const target = m[1]
+        if (!slugs.has(target) && !FIXED_ANCHORS.has(target)) unknown.push(`${d.rel}: #${target}`)
+      }
+    }
+    const report = `enlaces de cuerpo a anclas inexistentes (¿typo?):\n  ${unknown.join('\n  ')}`
+    expect(unknown, report).toEqual([])
+  })
+})
+
+describe('contenido · fotos (image)', () => {
+  it('cada image.src existe en public/ y es relativo (sin barra inicial)', () => {
+    // Img.src es solo z.string(): un typo daría un banner 404 SILENCIOSO (imagen lazy que no carga,
+    // sin error de build ni de test, solo visible en producción bajo /guiaVietnam/). Y una barra
+    // inicial rompería el prefijo baseURL que CardPhoto antepone → '/guiaVietnam//img/...'.
+    const bad: string[] = []
+    for (const d of docs) {
+      const src = d.image?.src
+      if (!src) continue
+      if (src.startsWith('/')) bad.push(`${d.rel}: image.src empieza por '/' (rompe baseURL): ${src}`)
+      else if (!existsSync(join(__dirname, '../../public', src))) bad.push(`${d.rel}: no existe public/${src}`)
+    }
+    const report = `fotos rotas:\n  ${bad.join('\n  ')}`
+    expect(bad, report).toEqual([])
   })
 })

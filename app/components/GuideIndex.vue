@@ -3,8 +3,8 @@
 //  · En desktop (≥1200px) vive fijo en el margen izquierdo, con scroll-spy: resalta el acto/ficha
 //    en el que estás según bajas, y su grupo. Doble función: navegar + «estás aquí».
 //  · En estrecho/móvil se pliega en un panel deslizante que abre el botón «Índice» de la cabecera.
-// El scroll-spy es por posición (el último ancla por encima de una línea bajo la cabecera): simple,
-// predecible y sin dependencias. Todo corre en cliente (onMounted) → sin desajuste de hidratación.
+// El scroll-spy usa un IntersectionObserver (NO lecturas de layout por frame): resalta el último
+// ancla por encima de una línea bajo la cabecera. Todo corre en cliente (onMounted) → sin hidratación.
 export interface NavItem { id: string, label: string, numeral?: string, kind: 'acto' | 'ficha' | 'inversion' | 'dia' | 'reco' | 'heading' }
 export interface NavGroup { key: string, label: string, anchor: string, items: NavItem[] }
 
@@ -25,39 +25,66 @@ const spy = computed(() => {
 const activeId = ref('') // ítem resaltado
 const activeGroup = ref('') // grupo resaltado
 
-let ticking = false
-function recompute() {
-  ticking = false
-  const line = 130 // px bajo el borde superior: la sección «actual» es la última que lo cruza
+// Scroll-spy por IntersectionObserver. Antes: getBoundingClientRect por frame de scroll, que forzaba
+// un reflow síncrono del DOM entero (~8.500 nodos) en cada frame → jank que empeoraba al crecer el
+// contenido. Ahora el observer marca qué anclas tienen su parte superior por encima de la LÍNEA (root
+// recortado a la franja [0, LINE] del viewport); el activo es el ÚLTIMO de esos anclas en orden de
+// documento — misma semántica que antes, pero con CERO lecturas de layout por frame y coste O(cambios),
+// desacoplado del tamaño del DOM. Se actualiza justo al cruzar cada umbral.
+const LINE = 130 // px bajo el borde superior
+const visible = new Set<string>() // ids de anclas cuya caja aún solapa la franja [0, LINE]
+let io: IntersectionObserver | null = null
+let resizeTimer: ReturnType<typeof setTimeout> | undefined
+
+function pick() {
   let curItem = '', curGroup = ''
   for (const s of spy.value) {
-    const el = document.getElementById(s.id)
-    if (!el) continue
-    if (el.getBoundingClientRect().top <= line) {
-      curGroup = s.group
-      curItem = s.isItem ? s.id : ''
-    } else break // en orden de documento → la primera por debajo de la línea corta el barrido
+    if (!visible.has(s.id)) continue // no en el DOM o por debajo de la línea → se salta
+    curGroup = s.group
+    curItem = s.isItem ? s.id : ''
   }
   activeId.value = curItem
   activeGroup.value = curGroup
 }
-function onScroll() {
-  if (!ticking) { ticking = true; requestAnimationFrame(recompute) }
+
+function build() {
+  io?.disconnect()
+  visible.clear()
+  // rootMargin inferior = LINE − innerHeight (negativo) → recorta el root a la franja [0, LINE]: un
+  // ancla intersecta mientras su top está por encima de LINE y aún no ha salido por el borde superior.
+  io = new IntersectionObserver((entries) => {
+    for (const e of entries) {
+      if (e.isIntersecting) visible.add(e.target.id)
+      else visible.delete(e.target.id)
+    }
+    pick()
+  }, { rootMargin: `0px 0px ${LINE - window.innerHeight}px 0px`, threshold: 0 })
+  for (const s of spy.value) {
+    const el = document.getElementById(s.id)
+    if (el) io.observe(el)
+  }
+  pick()
+}
+
+function onResize() {
+  // rootMargin depende de innerHeight → reconstruir el observer (debounce; resize es raro).
+  clearTimeout(resizeTimer)
+  resizeTimer = setTimeout(build, 150)
 }
 function onKey(e: KeyboardEvent) {
   if (e.key === 'Escape' && props.open) emit('close')
 }
 
 onMounted(() => {
-  window.addEventListener('scroll', onScroll, { passive: true })
-  window.addEventListener('resize', onScroll, { passive: true })
+  build()
+  window.addEventListener('resize', onResize, { passive: true })
   window.addEventListener('keydown', onKey)
-  recompute()
 })
 onBeforeUnmount(() => {
-  window.removeEventListener('scroll', onScroll)
-  window.removeEventListener('resize', onScroll)
+  io?.disconnect()
+  window.removeEventListener('resize', onResize)
   window.removeEventListener('keydown', onKey)
+  clearTimeout(resizeTimer)
 })
 
 // El salto (scroll con offset) y el historial los gestiona plugins/anchor-nav.client.ts vía Vue

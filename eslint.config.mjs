@@ -6,14 +6,10 @@ export default withNuxt(
   // no debe reformatearse. ESLint flat config no procesa .css por defecto, pero lo
   // ignoramos explícitamente para blindar el verbatim ante reglas futuras.
   //
-  // tests/parity/** es el harness Playwright del golden (Plan 01-01): suite E2E
-  // independiente con su propio runtime/contexto TS, fuera del código fuente Nuxt.
-  // Se mantiene intacta (no se lintea con la config de Nuxt).
-  //
-  // tests/data/** (puertas Vitest de la Fase 2, Plan 02-01) NO se ignora: es código
-  // fuente TS de validación (no un harness verbatim), y debe lintarse como el resto.
+  // tests/data/** (puertas Vitest) NO se ignora: es código fuente TS de validación y se lintea como
+  // el resto. (El harness Playwright de paridad se retiró: la migración del golden ya concluyó.)
   {
-    ignores: ['app/assets/css/**', 'tests/parity/**'],
+    ignores: ['app/assets/css/**'],
   },
   // `Topbar` es un nombre de componente de UNA palabra por mandato del contrato de
   // marcado (Fase 3): el auto-import debe producir `<Topbar>` para reproducir el shell
