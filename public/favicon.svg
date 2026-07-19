@@ -1,25 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#a8432e"/>
-      <stop offset="1" stop-color="#7d2d20"/>
-    </linearGradient>
-    <style>
-      @media (prefers-color-scheme: dark) {
-        .bg   { fill: #15171a; }
-        .ring { stroke: #c9a768; }
-        .glyph{ fill: #e7e2d6; }
-      }
-    </style>
+    <radialGradient id="cin" cx="42%" cy="34%" r="82%"><stop offset="0" stop-color="#b0472f"/><stop offset="1" stop-color="#822b1d"/></radialGradient>
+    <radialGradient id="lac" cx="50%" cy="38%" r="82%"><stop offset="0" stop-color="#242a32"/><stop offset="1" stop-color="#101317"/></radialGradient>
+    <linearGradient id="au" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dcc08d"/><stop offset="1" stop-color="#b28b48"/></linearGradient>
+    <style>.bg{fill:url(#cin)}.kl{stroke:#e7cf95;stroke-opacity:.42}@media(prefers-color-scheme:dark){.bg{fill:url(#lac)}.kl{stroke:#c9a768;stroke-opacity:.42}}</style>
   </defs>
-
-  <!-- Fondo (cinabrio de laca) -->
-  <rect class="bg" width="64" height="64" rx="14" fill="url(#bg)"/>
-
-  <!-- Anillo dorado -->
-  <circle class="ring" cx="32" cy="32" r="26.5" fill="none" stroke="#c6a25f" stroke-width="1.4" opacity="0.85"/>
-
-  <!-- "V" de Vietnam -->
-  <text class="glyph" x="32" y="46" font-family="Georgia, 'Times New Roman', Times, serif"
-        font-size="40" font-weight="700" text-anchor="middle" fill="#ece7db">V</text>
+  <rect class="bg" width="180" height="180" rx="40"/>
+  <rect class="kl" x="11" y="11" width="158" height="158" rx="31" fill="none" stroke-width="2"/>
+  <g fill="url(#au)"><path d="M32 116 L148 116 Q152 116 152 120 L152 126 Q152 130 148 130 L32 130 Q28 130 28 126 L28 120 Q28 116 32 116 Z"/><path d="M40 82 C47 94 49 104 48 116 L32 116 C31 104 33 94 40 82 Z"/><path d="M140 82 C147 94 149 104 148 116 L132 116 C131 104 133 94 140 82 Z"/><path d="M60 66 C70 84 73 100 71 116 L49 116 C47 100 50 84 60 66 Z"/><path d="M120 66 C130 84 133 100 131 116 L109 116 C107 100 110 84 120 66 Z"/><path d="M90 40 C103 66 108 92 105 116 L75 116 C72 92 77 66 90 40 Z"/><path d="M88.6 30 L91.4 30 L90 40 Z"/></g>
 </svg>

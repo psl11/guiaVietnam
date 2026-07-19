@@ -21,6 +21,7 @@
     "@fontsource/jetbrains-mono": "5.2.8",
     "@fontsource/lora": "5.2.8",
     "@playwright/test": "1.61.0",
+    "@vite-pwa/nuxt": "^1.1.1",
     "better-sqlite3": "^12.11.1",
     "cheerio": "^1.2.0",
     "prettier": "3.8.4",

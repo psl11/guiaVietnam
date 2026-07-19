@@ -3,7 +3,46 @@
 // Plan 03 (AÑADIDO): nitro.preset github_pages + prerender (failOnError), favicons bajo el subpath.
 // compatibilityVersion 4 es el DEFAULT en Nuxt 4 — NO hace falta future.compatibilityVersion.
 export default defineNuxtConfig({
-  modules: ['@nuxt/content', '@nuxtjs/color-mode', '@nuxt/fonts', '@nuxt/eslint'],
+  modules: ['@nuxt/content', '@nuxtjs/color-mode', '@nuxt/fonts', '@nuxt/eslint', '@vite-pwa/nuxt'],
+
+  // PWA — instalable + OFFLINE COMPLETO, la feature clave para el loop de Hà Giang (5 días sin
+  // cobertura). Precachea TODO el output: app shell (js/css/html), las fuentes woff2 self-hosted, el
+  // contenido (_payload.json + sql dumps) y LAS 54 FOTOS (webp) → se abre con wifi antes de subir al
+  // loop y funciona 100% sin datos. Subpath de GitHub Pages: scope/start_url/id fijados a
+  // /guiaVietnam/ (los `src` de icono van RELATIVOS → resuelven contra la URL del manifest, que ya
+  // vive bajo /guiaVietnam/). registerType 'autoUpdate': al desplegar contenido nuevo, el service
+  // worker se actualiza solo, sin prompt. background/theme = laca negra (splash y barra de estado).
+  pwa: {
+    registerType: 'autoUpdate',
+    manifest: {
+      id: '/guiaVietnam/',
+      name: 'Vietnam + Camboya · Guía de viaje',
+      short_name: 'Vietnam',
+      description: 'Guía de viaje a Vietnam y Camboya (11–26 septiembre 2026). Funciona sin conexión.',
+      lang: 'es',
+      dir: 'ltr',
+      start_url: '/guiaVietnam/',
+      scope: '/guiaVietnam/',
+      display: 'standalone',
+      orientation: 'portrait',
+      background_color: '#15171a',
+      theme_color: '#15171a',
+      icons: [
+        { src: 'pwa-192x192.png', sizes: '192x192', type: 'image/png' },
+        { src: 'pwa-512x512.png', sizes: '512x512', type: 'image/png' },
+        { src: 'pwa-maskable-512x512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+      ],
+    },
+    workbox: {
+      // Todo lo que hace falta para el offline total. Ninguna imagen supera ~340 KB, pero subimos el
+      // tope por si acaso; el precache total ronda los ~9 MB (una descarga única con wifi).
+      globPatterns: ['**/*.{js,css,html,webp,png,svg,woff2,txt,json,ico}'],
+      maximumFileSizeToCacheInBytes: 4194304,
+      cleanupOutdatedCaches: true,
+    },
+    // En desarrollo NO registrar el SW (evita que el caché moleste al iterar).
+    devOptions: { enabled: false },
+  },
 
   // Subpath de producción: el sitio vive en psl11.github.io/guiaVietnam/.
   // baseURL del Plan 02. Los favicons (Plan 03) se declaran en app/app.vue con useHead +

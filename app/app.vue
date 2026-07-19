@@ -11,7 +11,22 @@ const base = app.baseURL.endsWith('/') ? app.baseURL : `${app.baseURL}/`
 useHead({
   link: [
     { rel: 'icon', type: 'image/svg+xml', href: `${base}favicon.svg` },
-    { rel: 'apple-touch-icon', href: `${base}apple-touch-icon.svg` },
+    // Fallback PNG para navegadores que ignoran el favicon SVG (p. ej. Safari).
+    { rel: 'icon', type: 'image/png', sizes: '32x32', href: `${base}favicon-32x32.png` },
+    // iOS usa el apple-touch-icon (PNG, no el manifest) para el icono de la pantalla de inicio.
+    { rel: 'apple-touch-icon', href: `${base}apple-touch-icon.png` },
+    // El manifest en el HTML SSR (el módulo PWA no lo inyecta en SSG): sin él, Chrome/Android no
+    // ofrece «Instalar». href con baseURL a mano (mismo motivo que los favicons).
+    { rel: 'manifest', href: `${base}manifest.webmanifest` },
+  ],
+  meta: [
+    // iOS: instala como app a pantalla completa con su barra de estado translúcida.
+    { name: 'apple-mobile-web-app-capable', content: 'yes' },
+    { name: 'mobile-web-app-capable', content: 'yes' },
+    // 'default' (no 'black-translucent'): barra de estado normal que NO se solapa con la cabecera
+    // fija de la guía (no está pensada para pantalla completa edge-to-edge).
+    { name: 'apple-mobile-web-app-status-bar-style', content: 'default' },
+    { name: 'apple-mobile-web-app-title', content: 'Vietnam' },
   ],
 })
 
