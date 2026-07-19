@@ -4,6 +4,11 @@ kind: bebida
 order: 23
 title: Nước mía
 navLabel: "Nước mía"
+image:
+  src: img/platos/nuoc-mia.webp
+  alt: "Nước mía: gran vaso de zumo de caña de azúcar de color amarillo verdoso con hielo y pajita."
+  credit: "Phương Huy · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:N%C6%B0%E1%BB%9Bc_m%C3%ADa_Vi%E1%BB%87t_Nam_si%C3%AAu_to_kh%E1%BB%95ng_l%E1%BB%93_20201201.jpg"
 queEs: >-
   **Zumo de caña de azúcar** prensado al momento: los tallos —a menudo con un **kumquat** (*tắc*) para el
   punto cítrico— pasan por el rodillo de la prensa y el jugo cae sobre hielo. Verde pálido, dulce a

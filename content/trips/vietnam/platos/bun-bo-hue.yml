@@ -4,6 +4,11 @@ kind: plato
 order: 12
 title: Bún bò Huế
 navLabel: "Bún bò Huế"
+image:
+  src: img/platos/bun-bo-hue.webp
+  alt: "Bún bò Huế: cuenco de caldo rojizo picante con lonchas de ternera, rodajas de chả, cebolla y cilantro."
+  credit: "TarnishedPath · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:B%C3%BAn_b%C3%B2_Hu%E1%BA%BF-Feb_2025.jpg"
 queEs: >-
   La sopa **picante** de ternera y cerdo de Huế. Fideos de arroz **redondos y gruesos** en un caldo
   cocido con huesos de res y cerdo, perfumado de **citronela**, teñido de rojo con aceite de achiote y

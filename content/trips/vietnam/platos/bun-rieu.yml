@@ -4,6 +4,11 @@ kind: plato
 order: 5
 title: Bún riêu
 navLabel: "Bún riêu"
+image:
+  src: img/platos/bun-rieu.webp
+  alt: "Cuenco de bún riêu: sopa de fideos con caldo de tomate, pasta de cangrejo, tofu frito, tomate y cebolleta."
+  credit: "TarnishedPath · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:B%C3%BAn_ri%C3%AAu_%C4%91%E1%BA%B7c_bi%E1%BB%87t.jpg"
 queEs: >-
   Sopa norteña de fideos en **caldo agrio de tomate**, coronada por unos flanes esponjosos de
   **cangrejo de arrozal** (*cua đồng*), que se maja entero —con caparazón— y se cuela: el líquido hace

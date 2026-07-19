@@ -4,6 +4,11 @@ kind: bebida
 order: 22
 title: Sinh tố
 navLabel: "Sinh tố"
+image:
+  src: img/platos/sinh-to.webp
+  alt: "Sinh tố bơ: batido vietnamita de aguacate, espeso y de color verde pálido, servido con cuchara."
+  credit: "Hoangkid · dominio público"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Sinh_t%E1%BB%91_b%C6%A1.jpg"
 queEs: >-
   El **batido de fruta** vietnamita: fruta fresca triturada con hielo y (casi siempre) leche condensada
   — mango, chirimoya y el favorito de culto, el ***sinh tố bơ*** (**aguacate**, espeso y dulce, tratado

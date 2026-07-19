@@ -4,11 +4,17 @@ kind: plato
 order: 7
 title: Xôi
 navLabel: "Xôi"
+image:
+  src: img/platos/xoi.webp
+  alt: "Xôi ngũ sắc: arroz glutinoso de cinco colores (morado, rojo, amarillo, blanco y naranja) sobre hoja de plátano."
+  credit: "Khương Việt Hà · dominio público"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:X%C3%B4i_ng%C5%A9_s%E1%BA%AFc.JPG"
 queEs: >-
   El **arroz glutinoso** cocido al vapor, el desayuno que se lleva en la mano. En versión salada, el rey
   es el ***xôi xéo***: teñido de amarillo con cúrcuma, con puré de **judía mung**, una lluvia de
   **chalota frita crujiente** y un unto de grasa. También *xôi gà/thịt* (pollo/cerdo). En dulce,
-  *xôi gấc* (rojo, de fiesta) o *xôi ngô* (maíz). Se vende de cestas, envuelto en hoja de plátano.
+  *xôi gấc* (rojo, de fiesta), *xôi ngô* (maíz) o el *xôi ngũ sắc* de cinco colores de las minorías del
+  norte. Se vende de cestas, envuelto en hoja de plátano.
 historia: >-
   Comida ritual y de diario a la vez: el rojo del **xôi gấc** simboliza la suerte en bodas y en el Tết,
   y el *xôi xéo* es el icono callejero de las mañanas de Hanoi.

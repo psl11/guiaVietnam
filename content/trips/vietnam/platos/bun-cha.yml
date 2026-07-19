@@ -4,6 +4,11 @@ kind: plato
 order: 2
 title: Bún chả
 navLabel: "Bún chả"
+image:
+  src: img/platos/bun-cha.webp
+  alt: "Mesa de bún chả de Hanói: cuencos de cerdo a la brasa en caldo, fideos bún, hierbas frescas y nems fritos."
+  credit: "Larry · CC BY-SA 2.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:B%C3%BAn_ch%E1%BA%A3_H%C3%A0ng_M%C3%A0nh.jpg"
 queEs: >-
   El plato-emblema de Hanoi: pluma y albóndigas de cerdo **a la brasa sobre carbón**, servidas en un
   cuenco de caldo agridulce templado (vinagre, azúcar, salsa de pescado), con fideos de arroz (*bún*)

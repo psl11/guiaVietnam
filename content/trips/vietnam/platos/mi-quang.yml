@@ -4,6 +4,11 @@ kind: plato
 order: 13
 title: Mì Quảng
 navLabel: "Mì Quảng"
+image:
+  src: img/platos/mi-quang.webp
+  alt: "Mì Quảng: fideos anchos con poco caldo, gambas, cerdo, cacahuetes, hierbas y una galleta de arroz crujiente."
+  credit: "Jpatokal · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Mi_Quang_1A_Danang.jpg"
 queEs: >-
   El fideo a la cúrcuma del centro. Tallarines de arroz anchos, teñidos de **dorado con cúrcuma**,
   **vestidos —no ahogados—** en apenas un cazo de caldo intenso que los baña en vez de cubrirlos; encima,

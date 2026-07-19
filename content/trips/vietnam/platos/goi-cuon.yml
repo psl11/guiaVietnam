@@ -4,6 +4,11 @@ kind: plato
 order: 10
 title: Gỏi cuốn
 navLabel: "Gỏi cuốn"
+image:
+  src: img/platos/goi-cuon.webp
+  alt: "Gỏi cuốn (rollitos frescos) de papel de arroz translúcido con gambas, lechuga y fideos, con gambas peladas al lado."
+  credit: "Tran Hai Duong · CC0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:G%E1%BB%8Fi_cu%E1%BB%91n.jpg"
 queEs: >-
   El **rollito fresco** (sin freír): papel de arroz translúcido en torno a *bún*, **gamba y cerdo**
   cocidos, lechuga y hierbas (menta, cebollino), que se moja en salsa de **cacahuete y hoisin** o en

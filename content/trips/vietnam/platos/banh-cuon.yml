@@ -4,6 +4,11 @@ kind: plato
 order: 8
 title: Bánh cuốn
 navLabel: "Bánh cuốn"
+image:
+  src: img/platos/banh-cuon.webp
+  alt: "Bánh cuốn: rollos de lámina de arroz al vapor con chalota frita y albahaca, junto a un cuenco de nước chấm."
+  credit: "Casablanca1911 · dominio público"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:B%C3%A1nh_cu%E1%BB%91n_Thanh_Tr%C3%AC.jpg"
 queEs: >-
   Crepes sedosas de **masa de arroz al vapor**, finísimas, enrolladas en torno a carne de cerdo picada,
   **oreja de madera** (seta) y chalota, cubiertas de chalota frita crujiente y servidas con *chả*

@@ -4,6 +4,11 @@ kind: bebida
 order: 16
 title: Egg coffee (cà phê trứng)
 navLabel: "Egg coffee"
+image:
+  src: img/platos/egg-coffee.webp
+  alt: "Cà phê trứng (café de huevo): espuma cremosa de yema sobre el café, servido al baño maría, en el Café Giảng."
+  credit: "travel oriented · CC BY-SA 2.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:C%C3%A0_ph%C3%AA_tr%E1%BB%A9ng.jpg"
 queEs: >-
   Una crema tipo natilla de **yema batida con leche condensada**, montada sobre café caliente y
   servida en un cuenco de agua caliente para que no se enfríe. Sabe a tiramisú líquido.

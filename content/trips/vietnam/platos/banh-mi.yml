@@ -4,6 +4,11 @@ kind: plato
 order: 3
 title: Bánh mì
 navLabel: "Bánh mì"
+image:
+  src: img/platos/banh-mi.webp
+  alt: "Bocadillo bánh mì abierto en baguette, con fiambres, encurtido de zanahoria y daikon, jalapeño y cilantro."
+  credit: "Stu Spivack · CC BY-SA 2.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:B%C3%A1nh_m%C3%AC.jpg"
 queEs: >-
   La baguette colonial *vietnamizada* en el mejor bocadillo del mundo. Un pan de corteza fina y
   crujiente y miga aireada (lleva harina de arroz), abierto y relleno de **paté**, mayonesa, embutidos

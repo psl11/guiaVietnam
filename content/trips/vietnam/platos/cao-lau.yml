@@ -4,6 +4,11 @@ kind: plato
 order: 11
 title: Cao lầu
 navLabel: "Cao lầu"
+image:
+  src: img/platos/cao-lau.webp
+  alt: "Cao lầu de Hội An: fideos gruesos con lonchas de cerdo, cuadraditos crujientes fritos y verduras frescas."
+  credit: "Chainwit. · CC BY 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Cao_l%E1%BA%A7u_H%E1%BB%99i_An_(2024).jpg"
 queEs: >-
   El fideo de **un solo pueblo**. Tallarines gruesos y correosos, color ámbar (parecen *udon*),
   salteados casi **sin caldo** con lonchas de cerdo estilo *char siu*, **picatostes** crujientes (cuadros

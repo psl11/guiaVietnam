@@ -4,6 +4,11 @@ kind: plato
 order: 9
 title: Nem rán
 navLabel: "Nem rán"
+image:
+  src: img/platos/nem-ran.webp
+  alt: "Nem rán (rollitos fritos) dorados y crujientes en un plato con cuenco de nước chấm, lechuga y hierbas frescas."
+  credit: "Vyacheslav Argenberg · CC BY 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Vietnamese_fried_spring_rolls_in_Ho_Chi_Minh_City,_Vietnam.jpg"
 queEs: >-
   El **rollito frito** del norte (en el sur lo llaman *chả giò*): paquetitos de papel de arroz rellenos
   de cerdo picado, **cangrejo o gamba**, fideo de cristal, oreja de madera, zanahoria y huevo, fritos

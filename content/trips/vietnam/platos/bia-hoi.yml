@@ -4,6 +4,11 @@ kind: bebida
 order: 19
 title: Bia hơi
 navLabel: "Bia hơi"
+image:
+  src: img/platos/bia-hoi.webp
+  alt: "Tres vasos de bia hơi (cerveza fresca de barril) con espuma, sobre un taburete de plástico rojo en la calle de Hanói."
+  credit: "thalling55 · CC BY 2.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Bia_Hoi_(fresh_beer)_in_Hanoi_(1345342880).jpg"
 queEs: >-
   La **«cerveza fresca»**: rubia ligera **sin pasteurizar ni conservantes**, elaborada y repartida **cada
   día**, servida del barril en vasos sobre taburetes de plástico. Floja (~3-5 %) y baratísima —unos

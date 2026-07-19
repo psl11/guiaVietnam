@@ -4,6 +4,11 @@ kind: plato
 order: 4
 title: Chả cá
 navLabel: "Chả cá"
+image:
+  src: img/platos/cha-ca.webp
+  alt: "Chả cá Lã Vọng: trozos de pescado a la cúrcuma salteados con abundante eneldo y cebolleta en una sartén."
+  credit: "Phương Huy · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Ch%E1%BA%A3_c%C3%A1_L%C3%A3_V%E1%BB%8Dng_H%C3%A0_N%E1%BB%99i_th%C3%A1ng_2_n%C4%83m_2018_(1).jpg"
 queEs: >-
   El pescado a la cúrcuma de Hanoi, la firma exclusiva del norte. Tacos de *cá lăng* (un siluro de río)
   marinados en **cúrcuma, galangal y arroz fermentado** (*mẻ*) que se terminan de freír **en la propia

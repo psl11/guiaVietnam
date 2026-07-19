@@ -4,6 +4,11 @@ kind: bebida
 order: 20
 title: Trà đá
 navLabel: "Trà đá"
+image:
+  src: img/platos/tra-da.webp
+  alt: "Vaso de trà đá (té helado vietnamita) de color pálido con cubitos de hielo sobre una mesa oscura."
+  credit: "Phương Huy · CC0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Ly_tr%C3%A0_%C4%91%C3%A1_SG,_ng3th5n2022.jpg"
 queEs: >-
   El **té helado** de la calle: té verde flojo, pálido y levemente amargo, sobre hielo, que se sirve
   **gratis o casi** en las casas de comidas y en los puestos de acera con sus taburetes enanos. El

@@ -4,6 +4,11 @@ kind: bebida
 order: 17
 title: Cà phê sữa đá
 navLabel: "Cà phê sữa đá"
+image:
+  src: img/platos/ca-phe-sua-da.webp
+  alt: "Cà phê sữa đá: vaso con una capa de leche condensada en el fondo y café negro encima, con cucharilla larga."
+  credit: "Clarin · CC BY 2.5"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Ca_Phe_Sua_Da.jpg"
 queEs: >-
   El café vietnamita de diario. **Robusta** oscuro que gotea despacio por un filtro de metal (*phin*)
   sobre una capa de **leche condensada**, se remueve y se echa sobre hielo. Intenso, amargo-dulce, un
