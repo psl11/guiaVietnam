@@ -5,7 +5,7 @@
 //  · En estrecho/móvil se pliega en un panel deslizante que abre el botón «Índice» de la cabecera.
 // El scroll-spy es por posición (el último ancla por encima de una línea bajo la cabecera): simple,
 // predecible y sin dependencias. Todo corre en cliente (onMounted) → sin desajuste de hidratación.
-export interface NavItem { id: string, label: string, numeral?: string, kind: 'acto' | 'ficha' | 'inversion' | 'dia' | 'reco' }
+export interface NavItem { id: string, label: string, numeral?: string, kind: 'acto' | 'ficha' | 'inversion' | 'dia' | 'reco' | 'heading' }
 export interface NavGroup { key: string, label: string, anchor: string, items: NavItem[] }
 
 const props = defineProps<{ groups: NavGroup[], open: boolean }>()
@@ -105,7 +105,13 @@ onBeforeUnmount(() => {
               class="gi-item"
               :class="['gi-item--' + it.kind, { 'is-active': it.id === activeId }]"
             >
+              <!-- Subtítulo de zona (no enlazable): parte la lista larga en bloques geográficos. -->
+              <span
+                v-if="it.kind === 'heading'"
+                class="gi-subhead"
+              >{{ it.label }}</span>
               <a
+                v-else
                 :href="'#' + it.id"
                 :title="it.label"
                 @click="emit('close')"

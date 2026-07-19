@@ -93,8 +93,25 @@ const stripMd = (s: string) => s
   .replace(/[*`]/g, '')
   .trim()
 
+// Convierte una lista de fichas (ya ordenada por `order`) en ítems del índice, insertando un
+// subtítulo (kind:'heading', no enlazable) antes de cada nueva `zone`. Así el índice —largo— se lee
+// por bloques (Hanói · Ninh Bình · El loop…). El scroll-spy los ignora solo: su id 'zone-…' no
+// existe en el DOM (getElementById → null → se salta), así que no altera el resaltado.
+function fichaItems(list: { slug: string, navLabel?: string, title: string, zone?: string }[]) {
+  const out: { id: string, label: string, kind: 'ficha' | 'heading' }[] = []
+  let cur = ''
+  for (const f of list) {
+    if (f.zone && f.zone !== cur) {
+      cur = f.zone
+      out.push({ id: 'zone-' + f.slug, label: f.zone, kind: 'heading' })
+    }
+    out.push({ id: f.slug, label: f.navLabel ?? f.title, kind: 'ficha' })
+  }
+  return out
+}
+
 const nav = computed(() => {
-  const groups: { key: string, label: string, anchor: string, items: { id: string, label: string, numeral?: string, kind: 'acto' | 'ficha' | 'inversion' | 'dia' | 'reco' }[] }[] = []
+  const groups: { key: string, label: string, anchor: string, items: { id: string, label: string, numeral?: string, kind: 'acto' | 'ficha' | 'inversion' | 'dia' | 'reco' | 'heading' }[] }[] = []
   // El plan primero (lo práctico): el día a día, el gasto y las reservas —cada bloque, un grupo.
   if (dias.value.length) {
     groups.push({
@@ -136,7 +153,7 @@ const nav = computed(() => {
     anchor: 'vietnam',
     items: [
       ...vietnamActos.value.map(a => ({ id: a.slug, label: a.navLabel ?? stripMd(a.title), numeral: a.numeral, kind: 'acto' as const })),
-      ...vietnamFichas.value.map(f => ({ id: f.slug, label: f.navLabel ?? f.title, kind: 'ficha' as const })),
+      ...fichaItems(vietnamFichas.value),
     ],
   })
   if (hayCamboya.value) {
@@ -146,7 +163,7 @@ const nav = computed(() => {
       anchor: 'camboya',
       items: [
         ...camboyaActos.value.map(a => ({ id: a.slug, label: a.navLabel ?? stripMd(a.title), numeral: a.numeral, kind: 'acto' as const })),
-        ...camboyaFichas.value.map(f => ({ id: f.slug, label: f.navLabel ?? f.title, kind: 'ficha' as const })),
+        ...fichaItems(camboyaFichas.value),
       ],
     })
   }

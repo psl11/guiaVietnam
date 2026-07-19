@@ -52,6 +52,7 @@ const EMBLEMS: Record<string, string> = {
   <section
     :id="ficha.slug"
     class="ficha"
+    :class="{ 'ficha--photo': ficha.image }"
   >
     <CardPhoto
       v-if="ficha.image"

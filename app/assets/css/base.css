@@ -129,6 +129,16 @@ body {
 }
 .gi-item.is-active a { color: var(--accent); border-left-color: var(--accent); }
 .gi-item.is-active .gi-label { font-weight: 600; }
+/* Subtítulo de zona (Hanói · Ninh Bình · El loop…): parte la lista larga en bloques geográficos.
+   No enlaza; el scroll-spy lo ignora. Tipografía mono, como las etiquetas del proyecto. */
+.gi-item--heading { margin-top: .8rem; }
+.gi-item--heading:first-child { margin-top: .1rem; }
+.gi-subhead {
+  display: block; padding: .1rem 0 .28rem .5rem; margin-bottom: .15rem;
+  font-family: 'JetBrains Mono', monospace; font-size: .58rem; font-weight: 700;
+  letter-spacing: .11em; text-transform: uppercase; color: var(--ink-faint);
+  border-bottom: 1px solid var(--line);
+}
 
 /* Desktop ancho: índice fijo en el margen izquierdo, siempre visible (sin backdrop ni botón). */
 @media (min-width: 1200px) {
@@ -252,6 +262,9 @@ body {
   background: var(--bg-elev); border: 1px solid var(--line);
   border-top: 3px solid var(--gold); border-radius: 14px; box-shadow: var(--shadow-elev);
 }
+/* Ficha con foto de cabecera: el filete de oro ya no remata contra el índigo (la foto va encima),
+   así que revertimos el borde superior al mismo 1px de línea que los otros lados — marco fino y limpio. */
+.ficha--photo { border-top: 1px solid var(--line); }
 /* Cabecera en índigo (texto claro vía tokens locales; título y emblema en oro). */
 .ficha-band {
   --ink: #f4f1e9; --ink-soft: #cdd6db;

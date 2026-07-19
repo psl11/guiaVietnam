@@ -75,6 +75,7 @@ export const FichaSchema = z.object({
   kicker: z.string(), // 'Camboya · cómo mirar'
   title: z.string(), // 'Cómo leer un templo jemer'
   navLabel: z.string().optional(), // etiqueta corta para el índice flotante (si falta, se usa el title)
+  zone: z.string().optional(), // sub-grupo geográfico del índice ('Hanói', 'El loop de Hà Giang'…)
   image: Img.optional(), // foto principal (banner) — solo fichas de monumento/emplazamiento
   epithet: Md.optional(), // la frase-tesis en cursiva bajo el título
   sections: z.array(Section),
