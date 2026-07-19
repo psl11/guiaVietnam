@@ -7,6 +7,11 @@ zone: "Hanói"
 emblem: libro
 kicker: Vietnam · la cicatriz
 title: El memorial de McCain, a orillas del Trúc Bạch
+image:
+  src: img/fichas/memorial-mccain.webp
+  alt: "El monumento a John McCain a orillas del lago Truc Bach: relieve de hormigón de un piloto rendido, con inscripción sobre su derribo en 1967."
+  credit: "Rolf Müller · CC BY-SA 3.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Truc_bach_lake_mccain_memorial_hanoi_2007_01.jpg"
 epithet: >-
   El punto exacto donde un piloto americano cayó al agua en octubre de 1967 — y donde hoy se lee,
   en un simple relieve a la orilla, la distancia entre la guerra y la reconciliación.

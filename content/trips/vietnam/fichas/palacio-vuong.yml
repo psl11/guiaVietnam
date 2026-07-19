@@ -7,6 +7,11 @@ zone: "El loop de Hà Giang"
 emblem: casa
 kicker: Vietnam · el loop
 title: El palacio del rey hmong
+image:
+  src: img/fichas/palacio-vuong.webp
+  alt: "Portón de piedra tallado del palacio de la familia Vuong (rey Hmong) con medallones dorados de fénix y dragón y coplas grabadas."
+  credit: "NKSTTSSHNVN · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Dinh_vua_M%C3%A8o,_H%C3%A0_Giang_-_NKS.jpg"
 epithet: >-
   En un montículo del valle de Sà Phìn, entre Yên Minh y Đồng Văn, se alza la casa-fortaleza del
   hombre que gobernó el altiplano a principios del siglo XX con una fortuna hecha de opio:

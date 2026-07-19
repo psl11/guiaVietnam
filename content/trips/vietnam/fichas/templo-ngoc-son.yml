@@ -7,6 +7,11 @@ zone: "Hanói"
 emblem: incienso
 kicker: Vietnam · el corazón simbólico
 title: El templo Ngọc Sơn y el lago de la Espada
+image:
+  src: img/fichas/templo-ngoc-son.webp
+  alt: "El puente rojo Thê Húc cruzando el lago Hoan Kiem hacia el templo Ngoc Son."
+  credit: "JakobHosp · CC BY 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Th%C3%AA_H%C3%BAc_Bridge_to_Ng%E1%BB%8Dc_S%C6%A1n_Temple_10-03-2025.jpg"
 epithet: >-
   En una isleta del lago Hoàn Kiếm, unida a la orilla por el puente rojo Thê Húc, el templo más
   fotografiado de Hanoi guarda la leyenda que da nombre al lago: la espada mágica devuelta a la tortuga

@@ -7,6 +7,11 @@ zone: "Hanói"
 emblem: casa
 kicker: Vietnam · la casa comunal
 title: El Đình Kim Ngân
+image:
+  src: img/fichas/dinh-kim-ngan.webp
+  alt: "Interior de la casa comunal (đình) Kim Ngân en Hàng Bạc, con dos estatuas de nghê flanqueando el paso al patio."
+  credit: "Christophe95 · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Kim_Ng%C3%A2n_Temple_1.jpg"
 epithet: >-
   La casa comunal del gremio de plateros de Hàng Bạc: ni pagoda ni vivienda, sino el «ayuntamiento
   sagrado» de un oficio que labra la plata desde el siglo XV —restaurado, visitable y, tres noches por

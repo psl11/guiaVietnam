@@ -7,6 +7,11 @@ zone: "El loop de Hà Giang"
 emblem: montana
 kicker: Vietnam · el escenario
 title: El geoparque de Đồng Văn
+image:
+  src: img/fichas/geoparque-dong-van.webp
+  alt: "Mar de rocas calizas grises del geoparque de la meseta de piedra de Dong Van, con montañas al fondo."
+  credit: "NKSTTSSHNVN · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Cao_nguy%C3%AAn_%C4%91%C3%A1_%C4%90%E1%BB%93ng_V%C4%83n_-_NKS.jpg"
 epithet: >-
   El escenario de los cinco días tiene nombre propio y sello de la UNESCO: **2.350 km²** donde el fondo
   de un mar tropical de hace *550 millones de años* quedó levantado, disuelto por la lluvia y, después,

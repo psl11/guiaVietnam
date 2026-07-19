@@ -7,6 +7,11 @@ zone: "Ninh Bình"
 emblem: montana
 kicker: Vietnam · el mirador
 title: Hang Múa, el mirador del dragón
+image:
+  src: img/fichas/hang-mua.webp
+  alt: "Vista panorámica desde el mirador de Hang Mua sobre el valle de Tam Coc, con picos kársticos y arrozales."
+  credit: "Shyamal · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:View_from_Hang_Mua.jpg"
 epithet: >-
   Quinientos escalones para ganar, de un tirón, la vista que explica Ninh Bình entera mejor que
   cualquier texto: el río dibujando su meandro entre agujas de roca y, a vuestros pies, un mar de

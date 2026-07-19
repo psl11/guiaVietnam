@@ -7,6 +7,11 @@ zone: "Hanói"
 emblem: libro
 kicker: Vietnam · la memoria
 title: Hỏa Lò, la prisión y sus silencios
+image:
+  src: img/fichas/hoa-lo.webp
+  alt: "La puerta arqueada de la prisión Hoa Lo con la inscripción colonial «MAISON CENTRALE» sobre la fachada ocre."
+  credit: "David McKelvey · CC BY 2.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Hoa_Lo_Prison_(Maison_Centrale),_Hanoi_(6923115824).jpg"
 epithet: >-
   Dos cárceles en un mismo recinto: la que los franceses levantaron para los presos políticos
   vietnamitas —hoy el grueso del museo— y la que los pilotos americanos derribados apodaron, con

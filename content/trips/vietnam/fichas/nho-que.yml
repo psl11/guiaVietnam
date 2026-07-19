@@ -7,6 +7,11 @@ zone: "El loop de Hà Giang"
 emblem: montana
 kicker: Vietnam · el loop
 title: El Nho Quế y el cañón de Tu Sản
+image:
+  src: img/fichas/nho-que.webp
+  alt: "El río Nho Que discurriendo verde-esmeralda por el fondo del profundo cañón de Tu San entre paredes kársticas."
+  credit: "NKSTTSSHNVN · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:TuSan_Canyon.jpg"
 epithet: >-
   El río de agua turquesa que corre por el fondo del cañón de Tu Sản, tenido por la garganta más
   profunda del sudeste asiático; el contrapunto «desde abajo» del paso de Mã Pí Lèng.

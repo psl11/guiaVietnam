@@ -7,6 +7,11 @@ zone: "Hanói"
 emblem: casa
 kicker: Vietnam · las 54 etnias
 title: El Museo de Etnología de Vietnam
+image:
+  src: img/fichas/museo-etnologia.webp
+  alt: "El edificio principal «Tambor de Bronce» (Trống Đồng) del Museo de Etnología de Vietnam, de arquitectura curva blanca."
+  credit: "Nam Hy Hoàng Phong · CC BY 3.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Tr%E1%BB%91ng_%C4%90%E1%BB%93ng_building,_Vietnam_Museum_of_Ethnology.jpg"
 epithet: >-
   El mejor museo del país, y la clase preparatoria perfecta: aquí se leen —en vitrina y en el jardín— los
   pueblos que días después veréis vivos en el loop de Hà Giang. Verlos antes multiplica por diez lo que se

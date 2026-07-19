@@ -7,6 +7,11 @@ zone: "Hanói"
 emblem: incienso
 kicker: Vietnam · el canto letrado
 title: Ca trù en Hàng Bạc
+image:
+  src: img/fichas/ca-tru-hang-bac.webp
+  alt: "Una actuación de ca trù en Hanói: dos cantantes con áo dài y un músico tocando el laúd đàn đáy ante un medallón de dragones."
+  credit: "Michael Coghlan · CC BY-SA 2.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Ca_tr%C3%B9_performance.jpg"
 epithet: >-
   El canto ceremonial de cámara de la corte y las casas de té: poesía cantada verso a verso ante veinte o
   cuarenta personas. Patrimonio inmaterial UNESCO *que necesita salvaguarda urgente* — íntimo, casi

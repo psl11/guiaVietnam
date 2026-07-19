@@ -7,6 +7,11 @@ zone: "Hanói"
 emblem: casa
 kicker: Vietnam · Hanoi
 title: La Train Street
+image:
+  src: img/fichas/train-street.webp
+  alt: "Un tren rojo avanza por las vías de Train Street entre casas y cafés con farolillos de colores."
+  credit: "Takeshi Aida · CC BY-SA 2.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Hanoi_Train_Street_(20231225b)_(53489076293).jpg"
 epithet: >-
   Una vía de tren todavía en servicio que cruza el casco por un pasillo de casas y cafés: los raíles
   pasan literalmente *a un palmo* de las mesas, y el ritual consiste en sentarse a esperar a que el

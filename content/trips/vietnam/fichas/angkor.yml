@@ -7,6 +7,11 @@ zone: "Angkor"
 emblem: templo
 kicker: Camboya · el sitio
 title: Angkor, el parque y el imperio
+image:
+  src: img/fichas/angkor.webp
+  alt: "Silueta de las torres de Angkor Wat al amanecer, reflejadas en el estanque frontal."
+  credit: "Christophe95 · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Angkor_Wat_at_sunrise_3.jpg"
 epithet: >-
   No es un templo: es la capital de un imperio. Cientos de templos repartidos por unos 400 km² de
   selva y arrozales — lo que queda de la que fue la mayor ciudad del mundo preindustrial.

@@ -7,6 +7,11 @@ zone: "El loop de Hà Giang"
 emblem: casa
 kicker: Vietnam · el loop
 title: Lô Lô Chải
+image:
+  src: img/fichas/lo-lo-chai.webp
+  alt: "Poblado de Lo Lo Chai al pie de la montaña, con casas tradicionales de tejados de teja y campos aterrazados."
+  credit: "NKSTTSSHNVN · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:L%C3%B4_L%C3%B4_Ch%E1%BA%A3i_2022_-_NKS.jpg"
 epithet: >-
   La aldea de los **lô lô negros** al pie de la torre de la bandera de Lũng Cú, el extremo norte de
   Vietnam: apenas unos miles de personas cuyos trajes de fiesta cuestan hasta un año de costura.

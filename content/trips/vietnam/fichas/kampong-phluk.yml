@@ -7,6 +7,11 @@ zone: "Alrededores y cultura viva"
 emblem: loto
 kicker: Camboya · el lago
 title: Kampong Phluk y el Tonlé Sap
+image:
+  src: img/fichas/kampong-phluk.webp
+  alt: "Casas de madera sobre altos pilotes y una barca en las aguas de Kampong Phluk, en el Tonlé Sap."
+  credit: "Jakub Hałun · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:20171129_Kampong_Phlouk_Cambodia_5860_DxO.jpg"
 epithet: >-
   El **Tonlé Sap** es el lago que late con el monzón; **Kampong Phluk**, un pueblo de casas sobre
   pilotes que vive suspendido sobre su respiración.

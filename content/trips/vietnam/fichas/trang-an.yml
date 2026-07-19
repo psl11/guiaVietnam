@@ -7,6 +7,11 @@ zone: "Ninh Bình"
 emblem: montana
 kicker: Vietnam · kárst y agua
 title: Tràng An en barca
+image:
+  src: img/fichas/trang-an.webp
+  alt: "Río esmeralda de Trang An entre acantilados kársticos, con barcas de remo dirigiéndose hacia la boca de una cueva."
+  credit: "Jakub Hałun · CC BY 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Trang_An_Landscape_Complex,_Ninh_Binh_Province,_Vietnam,_20240202_1456_5313.jpg"
 epithet: >-
   Ante los dos embarcaderos de Ninh Bình, elegid este: Tràng An no os pasea *ante* el karst, os mete
   *por dentro* —cuevas inundadas y templos entre farallones—, y en septiembre es el más verde, el más

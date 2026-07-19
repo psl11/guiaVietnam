@@ -7,6 +7,11 @@ zone: "Hanói"
 emblem: loto
 kicker: Vietnam · el Lago del Oeste
 title: La pagoda Trấn Quốc, la más antigua de Hanoi
+image:
+  src: img/fichas/pagoda-tran-quoc.webp
+  alt: "La pagoda Tran Quoc con su torre-estupa roja de varios pisos junto al lago del Oeste, reflejada en el agua."
+  credit: "Jakub Hałun · CC BY 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Tran_Quoc_Pagoda,_Hanoi,_Vietnam,_20240204_1409_5812.jpg"
 epithet: >-
   La pagoda budista más antigua de Hanoi —cerca de 1.450 años, con orígenes en el siglo VI— sobre una
   península del Lago del Oeste. Al atardecer, su estupa roja de once pisos recortada contra el agua es

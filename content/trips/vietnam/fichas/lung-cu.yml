@@ -7,6 +7,11 @@ zone: "El loop de Hà Giang"
 emblem: montana
 kicker: Vietnam · el loop
 title: La torre de Lũng Cú
+image:
+  src: img/fichas/lung-cu.webp
+  alt: "Torre de la bandera de Lung Cu entre niebla, con los tambores de bronce Dong Son en la base y la bandera vietnamita ondeando."
+  credit: "Vuong Tri Binh · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Lung_Cu_flag_tower_of_Ha_Giang_in_2014_01.jpg"
 epithet: >-
   El punto más al norte de todo Vietnam: una gran bandera plantada sobre una torre en la mismísima
   frontera china. El *hito geográfico* del viaje —hasta aquí llega el país.

@@ -7,6 +7,11 @@ zone: "Angkor"
 emblem: templo
 kicker: Camboya · la piedra que mide el tiempo
 title: Angkor Wat, geometría y equinoccio
+image:
+  src: img/fichas/angkor-wat-geometria.webp
+  alt: "Detalle de tres de las torres centrales de Angkor Wat, densamente talladas, a luz cálida."
+  credit: "Jorge Láscar · CC BY 2.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Three_towers_of_the_Angkor_Wat_temple_(6201909853).jpg"
 epithet: >-
   Angkor Wat no es solo una montaña de piedra: es un instrumento. Sus arquitectos lo orientaron, lo
   midieron y lo alinearon con el sol con una precisión que un artículo de *Science* documentó en 1976.

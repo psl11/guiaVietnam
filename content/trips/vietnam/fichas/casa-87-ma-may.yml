@@ -7,6 +7,11 @@ zone: "Hanói"
 emblem: casa
 kicker: Vietnam · la casa-tubo
 title: La casa de 87 Mã Mây
+image:
+  src: img/fichas/casa-87-ma-may.webp
+  alt: "Interior de la casa antigua de 87 Mã Mây: altar de antepasados con muebles de madera tallada y porcelana azul y blanca."
+  credit: "Guerinf · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Maison_longue_traditionnelle_(1).jpg"
 epithet: >-
   Una casa de mercader de finales del siglo XIX, restaurada y abierta al público, que en media hora
   enseña lo que ninguna calle cuenta: por qué el casco viejo entero creció estrecho por fuera y

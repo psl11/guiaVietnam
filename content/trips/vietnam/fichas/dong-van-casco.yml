@@ -7,6 +7,11 @@ zone: "El loop de Hà Giang"
 emblem: casa
 kicker: Vietnam · el loop
 title: El casco antiguo de Đồng Văn
+image:
+  src: img/fichas/dong-van-casco.webp
+  alt: "Casa antigua de muros ocres y arcos de ladrillo con farolillos rojos en el casco viejo de Dong Van, bajo el acantilado kárstico."
+  credit: "Vuong Tri Binh · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Pho_Co_Coffee_in_Dong_Van.jpg"
 epithet: >-
   El viejo barrio de casas de adobe y teja de *Đồng Văn*, corazón del altiplano y del primer
   geoparque UNESCO de Vietnam: la plaza, el mercado y una cena con café en un balcón de madera para

@@ -7,6 +7,11 @@ zone: "Hanói"
 emblem: copa
 kicker: Vietnam · un siglo en una barra
 title: El Metropole, el gran hotel de Indochina
+image:
+  src: img/fichas/metropole.webp
+  alt: "La fachada colonial blanca con contraventanas verdes del Hotel Metropole de Hanói y su pórtico de entrada rotulado."
+  credit: "The Hanoian · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Sofitel_Metropole,_Ng%C3%B4_Quy%E1%BB%81n_-_2022-09-02_01.jpg"
 epithet: >-
   Un hotel de 1901 que ha sido, por turnos, el salón de la élite colonial, la trinchera de los
   corresponsales de guerra y un búnker antiaéreo. El siglo XX de Vietnam cabe en su Bamboo Bar.

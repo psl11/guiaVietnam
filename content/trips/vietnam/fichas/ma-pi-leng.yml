@@ -7,6 +7,11 @@ zone: "El loop de Hà Giang"
 emblem: montana
 kicker: Vietnam · el loop
 title: Mã Pí Lèng, el rey de los pasos
+image:
+  src: img/fichas/ma-pi-leng.webp
+  alt: "Gran macizo verde del paso de Ma Pi Leng con la carretera serpenteando por su base."
+  credit: "Khánh Hmoong · CC BY 2.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Ma_Pi_Leng_Pass_winding_road_Ha_Giang_Vietnam.jpg"
 epithet: >-
   El gran paso de montaña sobre el cañón del Nho Quế: los 23 km tallados en el flanco de la caliza
   entre Đồng Văn y Mèo Vạc. No se viene a Hà Giang a ver el karst — se viene a atravesarlo, y se

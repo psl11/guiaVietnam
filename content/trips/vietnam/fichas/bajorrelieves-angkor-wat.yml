@@ -7,6 +7,11 @@ zone: "Angkor"
 emblem: templo
 kicker: Camboya · cómo mirar
 title: Los bajorrelieves de Angkor Wat, galería a galería
+image:
+  src: img/fichas/bajorrelieves-angkor-wat.webp
+  alt: "Panel de bajorrelieve de Angkor Wat con la fila de figuras del Batido del Mar de Leche."
+  credit: "Anandajoti · CC BY 3.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:010_Churning_Wall_at_Angkor_Wat,_Cambodia.jpg"
 epithet: >-
   Casi 600 metros lineales de bajorrelieve corrido, el ciclo escultórico más largo del mundo
   antiguo. Se recorre en sentido *antihorario* —el orden ritual original—; con calma, hora y media.

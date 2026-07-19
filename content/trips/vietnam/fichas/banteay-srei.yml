@@ -7,6 +7,11 @@ zone: "Angkor"
 emblem: templo
 kicker: Camboya · la joya rosa
 title: Banteay Srei, la joya rosa
+image:
+  src: img/fichas/banteay-srei.webp
+  alt: "Torres de arenisca rosada de Banteay Srei, densamente talladas, entre la vegetación."
+  credit: "Pierre André Leclercq · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Cambodge_Banteay_Srei_Temple_(7).jpg"
 epithet: >-
   La «ciudadela de las mujeres»: el templo más pequeño y más perfecto de Angkor, donde la arenisca
   rosa permitió una talla tan fina que parece labrada en madera o en marfil.

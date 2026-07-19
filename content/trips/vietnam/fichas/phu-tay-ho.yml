@@ -7,6 +7,11 @@ zone: "Hanói"
 emblem: incienso
 kicker: Vietnam · la Diosa Madre
 title: El Phủ Tây Hồ y el culto a las Madres
+image:
+  src: img/fichas/phu-tay-ho.webp
+  alt: "Patio interior del templo Phu Tay Ho con el tejado curvo decorado con dragones, bajo cielo azul."
+  credit: "Bùi Thụy Đào Nguyên · CC BY-SA 3.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Ph%E1%BB%A7_T%C3%A2y_H%E1%BB%93.jpg"
 epithet: >-
   El santuario más vivo del *Đạo Mẫu* en Hanoi: a la orilla del Lago del Oeste se venera a Liễu Hạnh,
   la Diosa Madre, y —si hay suerte— una médium entra en trance al son de los tambores del *chầu văn*.

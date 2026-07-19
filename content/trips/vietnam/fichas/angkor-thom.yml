@@ -7,6 +7,11 @@ zone: "Angkor"
 emblem: templo
 kicker: Camboya · el sitio
 title: Angkor Thom, la gran ciudad
+image:
+  src: img/fichas/angkor-thom.webp
+  alt: "Puerta Sur de Angkor Thom, con la torre coronada por rostros de piedra y el arco de entrada."
+  credit: "Supanut Arunoprayote · CC BY 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Angkor_Thom_(I).jpg"
 epithet: >-
   «La gran ciudad»: la última capital amurallada del imperio, levantada por Jayavarman VII, con el
   Bayon de las caras plantado en su centro geométrico exacto.

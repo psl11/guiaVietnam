@@ -7,6 +7,11 @@ zone: "El loop de Hà Giang"
 emblem: casa
 kicker: Vietnam · el loop
 title: Sủng Là
+image:
+  src: img/fichas/sung-la.webp
+  alt: "Vista elevada del valle de Sung La, con campos verdes, un poblado y la carretera serpenteando entre montañas kársticas."
+  credit: "trungydang · CC BY 3.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:S%E1%BB%A7ng_L%C3%A0,_%C4%90%E1%BB%93ng_V%C4%83n,_H%C3%A0_Giang,_Vietnam_-_panoramio_(3).jpg"
 epithet: >-
   Tenido por el valle más bonito de la meseta de Đồng Văn: un puñado de casas de adobe hmong entre
   bolsas de arrozal y maíz que crece en la roca — «el valle de las flores», todavía a salvo de los

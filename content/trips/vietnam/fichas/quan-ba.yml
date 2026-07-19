@@ -7,6 +7,11 @@ zone: "El loop de Hà Giang"
 emblem: montana
 kicker: Vietnam · el loop
 title: La Puerta del Cielo y las montañas gemelas
+image:
+  src: img/fichas/quan-ba.webp
+  alt: "Las dos colinas gemelas de Quan Ba (Nui Doi) emergiendo sobre arrozales dorados y un poblado."
+  credit: "Lee Lio · CC BY 2.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Quanba.jpg"
 epithet: >-
   La primera gran parada del loop de Hà Giang: el tajo en la roca por el que, tras 52 km de subida
   desde el valle, la carretera deja de ser carretera y el altiplano de Đồng Văn se abre de golpe —

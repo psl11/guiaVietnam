@@ -7,6 +7,11 @@ zone: "Hanói"
 emblem: casa
 kicker: Vietnam · leer la ciudad
 title: Las 36 calles del casco viejo de Hanoi
+image:
+  src: img/fichas/casco-viejo-hanoi.webp
+  alt: "Calle estrecha del casco viejo de Hanói con casas-tubo coloniales, marañas de cables aéreos y motos aparcadas."
+  credit: "Richard Mortel · CC BY 2.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Old_Quarter_street_scene,_Hanoi_(2)_(38496798321).jpg"
 epithet: >-
   El casco viejo no es un laberinto pintoresco: es un mapa de oficios de mil años. Cada calle se
   llama *Hàng* («mercancía de…») + un producto, y unas pocas todavía lo fabrican en plena acera.

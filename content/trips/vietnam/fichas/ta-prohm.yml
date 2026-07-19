@@ -7,6 +7,11 @@ zone: "Angkor"
 emblem: templo
 kicker: Camboya · el templo y la selva
 title: Ta Prohm y la selva
+image:
+  src: img/fichas/ta-prohm.webp
+  alt: "Raíces de una higuera estranguladora cayendo sobre una portada del templo de Ta Prohm."
+  credit: "David Sim · CC BY 2.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Tree_roots_and_temple,_Ta_Prohm,_Angkor,_Cambodia.jpg"
 epithet: >-
   El templo que Jayavarman VII dedicó a su madre, y el único que los restauradores decidieron dejar
   —a medias— en brazos de la selva.

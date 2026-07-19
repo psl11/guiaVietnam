@@ -7,6 +7,11 @@ zone: "Ninh Bình"
 emblem: montana
 kicker: Vietnam · leer el paisaje
 title: Ninh Bình en la historia
+image:
+  src: img/fichas/ninh-binh-historia.webp
+  alt: "Templo del rey Dinh Tien Hoang en la antigua capital de Hoa Lu, con tejado de tejas envejecidas y montañas kársticas al fondo."
+  credit: "Richard Mortel · CC BY 2.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Temple_at_ancient_Vietnamese_capital_of_Hoa_Lu_(13)_(38468965512).jpg"
 epithet: >-
   Se vende como «la bahía de Halong terrestre», y es un flaco favor: Halong es paisaje; Ninh Bình es
   paisaje *con* historia dentro. Aquí nació el estado vietnamita independiente.

@@ -7,6 +7,11 @@ zone: "Ninh Bình"
 emblem: loto
 kicker: Vietnam · la pagoda en la roca
 title: Bích Động, la gruta de jade
+image:
+  src: img/fichas/bich-dong.webp
+  alt: "Pabellón de la pagoda de Bich Dong con tejados curvos de teja bajo el acantilado kárstico, rodeado de vegetación."
+  credit: "Jakub Hałun · CC BY 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Bich_Dong_Pagoda,_Ninh_Binh,_Vietnam,_20240203_1126_5619.jpg"
 epithet: >-
   «La segunda cueva más bella bajo el cielo del sur», la bautizó el mandarín que le puso nombre: tres
   templos que trepan la montaña por dentro de una gruta, el *tam giáo* hecho arquitectura.

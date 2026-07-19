@@ -7,6 +7,11 @@ zone: "Hanói"
 emblem: casa
 kicker: Vietnam · la capital
 title: Hanoi, mil años de capital
+image:
+  src: img/fichas/hanoi-ciudad.webp
+  alt: "La Torre de la Tortuga (Tháp Rùa) en su islote del lago Hoan Kiem, enmarcada por sauces llorones y flores anaranjadas."
+  credit: "Rolf Müller · CC BY-SA 3.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Hoan_kiem_lake_turtle_tower_hanoi_2007_01.jpg"
 epithet: >-
   Hanoi no se recorre, se lee por capas: mil años de corte imperial, un casco viejo que todavía
   fabrica en la acera, un barrio francés de villas mostaza y una guirnalda de lagos — todo apilado en

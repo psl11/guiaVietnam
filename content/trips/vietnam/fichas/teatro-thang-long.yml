@@ -7,6 +7,11 @@ zone: "Hanói"
 emblem: incienso
 kicker: Vietnam · marionetas de agua
 title: El Teatro Thăng Long
+image:
+  src: img/fichas/teatro-thang-long.webp
+  alt: "El Teatro de Marionetas de Agua Thang Long con su torre-anuncio y rótulos, y tráfico de motos pasando por delante."
+  credit: "CEphoto, Uwe Aranas · CC BY-SA 3.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Hanoi_Vietnam_Thang-Long-Water-Puppet-Theatre-01.jpg"
 epithet: >-
   El *múa rối nước* —marionetas de agua— es un arte de aldea nacido hace mil años en los arrozales del
   delta. Es turístico *por definición*, pero no es una trampa: es la forma realista de ver vivo un arte
