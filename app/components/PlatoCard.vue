@@ -20,6 +20,11 @@ const vegClass = computed(() => {
     class="plato"
     :data-kind="plato.kind"
   >
+    <CardPhoto
+      v-if="plato.image"
+      :image="plato.image"
+    />
+
     <div class="plato-head">
       <h3 class="plato-title">
         {{ plato.title }}

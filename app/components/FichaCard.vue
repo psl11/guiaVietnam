@@ -53,6 +53,11 @@ const EMBLEMS: Record<string, string> = {
     :id="ficha.slug"
     class="ficha"
   >
+    <CardPhoto
+      v-if="ficha.image"
+      :image="ficha.image"
+    />
+
     <div class="ficha-band">
       <div class="ficha-head">
         <!-- SVG de confianza (constante del módulo), nunca dato de usuario. -->

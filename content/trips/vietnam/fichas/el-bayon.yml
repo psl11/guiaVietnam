@@ -6,6 +6,11 @@ order: 4
 emblem: templo
 kicker: Camboya · cómo mirar
 title: El Bayon y las caras
+image:
+  src: img/fichas/el-bayon.webp
+  alt: "Torre-rostro de piedra sonriente del templo Bayon, en Angkor Thom, bajo cielo azul"
+  credit: "Photo Dharma · CC BY 2.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Angkor_-_Bayon_-_004_Tower_Faces_(8581824754).jpg"
 epithet: >-
   Si Angkor Wat es la perfección clásica, el Bayon es el barroco febril: el templo de estado de
   Jayavarman VII, en el centro geométrico exacto de su capital, Angkor Thom.

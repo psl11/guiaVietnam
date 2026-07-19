@@ -35,6 +35,18 @@ const Section = z.object({
   body: Md, // markdown, puede tener varios párrafos, listas y citas
 })
 
+// Foto principal de una tarjeta (plato/bebida · ficha de lugar). Es SIEMPRE un WebP local en
+// public/img/… descargado de Wikimedia Commons y optimizado (nunca una URL remota — los thumbnails
+// de Wikimedia son un MD5 del nombre y adivinarlos da 404). `src` es RELATIVO a baseURL: el componente
+// CardPhoto antepone useRuntimeConfig().app.baseURL para que resuelva bajo /guiaVietnam/ en GH Pages.
+// `credit` cumple la atribución que exige la licencia (autor · licencia); `creditUrl` → página de Commons.
+export const Img = z.object({
+  src: z.string(), // 'img/platos/pho.webp' — relativo, sin barra inicial
+  alt: z.string(), // texto alternativo descriptivo (accesibilidad)
+  credit: z.string(), // 'Codename5281 · CC BY-SA 3.0'
+  creditUrl: z.string().optional(), // enlace a la página del fichero en Commons
+})
+
 // ── ACTO narrativo (cinabrio) ────────────────────────────────────────────────
 // Se lee del tirón. numeral árabe grande + capitular en el lead + citas destacadas (blockquotes
 // dentro del body) + caja "lo veréis sobre el terreno" al final.
@@ -63,6 +75,7 @@ export const FichaSchema = z.object({
   kicker: z.string(), // 'Camboya · cómo mirar'
   title: z.string(), // 'Cómo leer un templo jemer'
   navLabel: z.string().optional(), // etiqueta corta para el índice flotante (si falta, se usa el title)
+  image: Img.optional(), // foto principal (banner) — solo fichas de monumento/emplazamiento
   epithet: Md.optional(), // la frase-tesis en cursiva bajo el título
   sections: z.array(Section),
   curiosidades: z.array(Md).optional(), // "Curiosidades": los detalles memorables (anécdotas, cifras
@@ -170,6 +183,7 @@ export const PlatoSchema = z.object({
   order: z.number(),
   title: z.string(), // nombre del plato/bebida
   navLabel: z.string().optional(),
+  image: Img.optional(), // foto principal (banner) del plato/bebida
   queEs: Md, // en qué consiste
   historia: Md.optional(), // historia / curiosidad
   dondeMejor: z.string().optional(), // dónde se prepara mejor

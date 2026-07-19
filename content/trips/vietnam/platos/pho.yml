@@ -4,6 +4,11 @@ kind: plato
 order: 1
 title: Phở
 navLabel: "Phở"
+image:
+  src: img/platos/pho.webp
+  alt: "Cuenco de phở bò — caldo claro con fideos de arroz, ternera y cebolleta, con lima y guindilla al lado"
+  credit: "Codename5281 · CC BY-SA 3.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Ph%E1%BB%9F_b%C3%B2,_C%E1%BA%A7u_Gi%E1%BA%A5y,_H%C3%A0_N%E1%BB%99i.jpg"
 queEs: >-
   El alma del norte: un caldo translúcido y aromático sobre tallarines planos de arroz, con ternera
   (*bò*) o pollo (*gà*), hierbas frescas y lima. El caldo lo es todo —se cuece **6-12 h** con cebolla
