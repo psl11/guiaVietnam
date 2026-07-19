@@ -118,7 +118,7 @@ export const RecoSchema = z.object({
   slug: z.string(),
   trip: z.string(),
   order: z.number(), // orden dentro de su grupo
-  kind: z.enum(['dormir', 'reservar', 'comer', 'moverse']), // categoría (define el grupo)
+  kind: z.enum(['dormir', 'reservar', 'moverse']), // categoría (define el grupo). 'comer' migró a Gastronomía.
   navLabel: z.string().optional(),
   title: z.string(), // 'El Hòa Bình' / 'El loop de Hà Giang'
   area: z.string().optional(), // 'Hanoi · barrio francés' / 'Ninh Bình'
