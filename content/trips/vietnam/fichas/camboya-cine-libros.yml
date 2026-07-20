@@ -1,0 +1,59 @@
+slug: camboya-cine-libros
+navLabel: "Cine y libros"
+trip: vietnam
+part: camboya
+order: 2
+zone: "Cómo mirar"
+emblem: libro
+kicker: Camboya · qué ver y leer antes
+title: Camboya en el cine y los libros
+epithet: >-
+  La piedra de Angkor no os contará el siglo XX. Para el genocidio, la memoria y hasta la mejor luz de
+  los templos, hay que llegar con unas cuantas películas y un libro en la mochila.
+sections:
+  - heading: El Angkor de *In the Mood for Love*
+    body: |
+      La imagen más bella jamás filmada en Angkor Wat cierra ***Deseando amar*** (Wong Kar-wai, 2000):
+      Chow (Tony Leung) susurra su secreto en **un hueco entre los relieves** del templo y lo **sella con
+      barro**, mientras un monje observa desde lo alto. No estaba en el guion —rodaban en Tailandia y
+      decidieron sobre la marcha ir a Camboya—, y hoy nadie os dirá exactamente en qué muro es: mejor así.
+      Verla antes convierte el paseo por las galerías en una película que ya habéis visto.
+  - heading: Para entender lo que la piedra calla
+    body: |
+      Angkor es el siglo XII; el que duele es el XX. **Los gritos del silencio** (*The Killing Fields*,
+      1984) cuenta el genocidio a través del periodista Dith Pran: la interpretó **Haing S. Ngor**,
+      superviviente real de tres campos y actor **no profesional**, que ganó el **Óscar** por ello —y a
+      quien asesinaron en Los Ángeles en 1996—. **First They Killed My Father** (Angelina Jolie, Netflix,
+      2017), rodada en Camboya y **enteramente en jemer**, adapta las memorias de la niña **Loung Ung**.
+      Y el testigo de dentro es **Rithy Panh**, superviviente: su *S-21* sienta a las víctimas frente a
+      sus carceleros en Tuol Sleng, y *La imagen perdida* —figuritas de arcilla— fue la **primera película
+      camboyana nominada al Óscar**.
+  - heading: Para el fotógrafo (y un saqueador ilustre)
+    body: |
+      El libro que hay que llevar es ***Ancient Angkor*** (Michael Freeman y Claude Jacques): la historia
+      de un erudito, las fotos de Freeman, planos de los relieves templo a templo y **consejos de hora y
+      luz para fotografiar** — oro puro para una X100VI. Y dos personajes de novela: **André Malraux**,
+      que en 1923 **serró unos relieves de [Banteay Srei](#banteay-srei)**, fue juzgado por ello… y acabó
+      de **ministro de Cultura de De Gaulle**; y **Henri Mouhot**, el naturalista que en 1860 **popularizó
+      Angkor en Occidente** —ojo, no lo «descubrió»: nunca estuvo del todo perdido, es el mito el que
+      vende—.
+curiosidades:
+  - >-
+    **Haing S. Ngor** es uno de los únicos dos actores no profesionales de la historia que han ganado un
+    Óscar interpretativo. Había sobrevivido al genocidio que la película recrea; lo mataron a tiros en
+    Los Ángeles en 1996, ya famoso.
+  - >-
+    **André Malraux pasó de saqueador de Banteay Srei a ministro de Cultura de Francia.** En 1923 serró
+    unas *devatas* del templo, lo arrestaron con la carga y lo condenaron; apeló y no pisó la cárcel. La
+    aventura le dio una novela, *La vía real*.
+  - >-
+    El «redescubrimiento» de Angkor por Mouhot en 1860 es un **mito de manual**: monjes, peregrinos y
+    misioneros anteriores sabían perfectamente dónde estaba. Lo que hizo Mouhot fue ponerlo de moda en
+    Europa — con sus dibujos y su muerte temprana de fiebre en la jungla ayudando a la leyenda.
+seenIn:
+  - ref: '#banteay-srei'
+    label: "Banteay Srei (Malraux)"
+  - ref: '#ta-prohm'
+    label: "Ta Prohm (Tomb Raider)"
+  - ref: '#dia-12-siem-reap'
+    label: "Día 12 · Siem Reap"

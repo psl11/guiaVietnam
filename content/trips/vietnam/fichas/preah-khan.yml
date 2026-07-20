@@ -1,0 +1,56 @@
+slug: preah-khan
+navLabel: "Preah Khan"
+trip: vietnam
+part: camboya
+order: 10
+zone: "Angkor"
+emblem: templo
+kicker: Camboya · la espada sagrada
+title: Preah Khan, la espada sagrada
+image:
+  src: img/fichas/preah-khan.webp
+  alt: "El pórtico de entrada (gopura) del templo de Preah Khan en Angkor, una fachada de piedra con frontón tallado y figuras guardianas al final de una calzada empedrada, bajo cielo azul."
+  credit: "Satdeep Gill · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Entrance_to_the_Preah_Khan_temple,_Angkor,_Cambodia.jpg"
+epithet: >-
+  El templo-universidad que Jayavarman VII levantó a su padre, tan inmenso que una estela del siglo XII
+  contó 97.840 personas a su servicio — y hoy tan grande que la multitud se disuelve en sus corredores.
+sections:
+  - heading: La ciudad de la victoria
+    body: |
+      Lo inauguró **Jayavarman VII en 1191**, sobre el terreno mismo de una **victoria decisiva contra los
+      cham**, y lo dedicó a **su padre**: la imagen central era el bodhisattva de la compasión con los
+      rasgos del difunto rey. Su nombre antiguo, *Nagara Jayasri*, significa **«ciudad de la victoria»**;
+      el moderno, **Preah Khan, «la espada sagrada»**. Piedad filial y triunfo militar en un solo
+      monasterio budista — el mismo gesto con el que dedicó [Ta Prohm](#ta-prohm) a su madre.
+  - heading: Una contabilidad del siglo XII
+    body: |
+      Lo que lo vuelve mareante es su **estela de fundación**, que contabiliza el templo como quien
+      inventaría un estado: **97.840 personas a su servicio** —de ellas ~1.000 bailarinas y ~1.000
+      maestros—, **430 deidades** con santuario propio, y en el tesoro, **112.300 perlas** y una vaca de
+      cuernos de oro. No era una capilla: era una **ciudad-monasterio-universidad**. Fuera, un muro de
+      laterita de **~56 hectáreas** guarda **72 garudas** de piedra pisando serpientes cada cincuenta
+      metros — el «sendero de los garudas», la ruta que usan los guías para escapar del gentío.
+  - heading: El edificio que no tiene gemelo
+    body: |
+      Buscad, al norte de la Sala de las Bailarinas, un **edificio de dos plantas y columnas redondas** de
+      aire casi griego: **no hay otro igual en todo Angkor**, y nadie sabe con certeza para qué servía —
+      buen enigma para el ojo del fotógrafo—. El World Monuments Fund lo cuida desde **1991** con una
+      política deliberada: **estabilizar sin reconstruir**, dejando la vegetación presente y controlada.
+      Por eso, y por su tamaño —los corredores kilométricos dispersan a la gente—, Preah Khan es **la
+      mejor relación calidad/multitud del parque**: hermano de Ta Prohm, pero sin sus autobuses.
+curiosidades:
+  - >-
+    La estela de fundación de Preah Khan contabiliza **97.840 personas a su servicio** y **112.300 perlas**
+    en el tesoro: una radiografía contable de un templo-ciudad del siglo XII, no un simple santuario.
+  - >-
+    Al norte del templo hay un **edificio de dos plantas con columnas redondas** —de aspecto casi
+    griego— que **no se repite en ningún otro lugar de Angkor**; su función sigue siendo un misterio.
+  - >-
+    El **muro exterior** (56 hectáreas) lleva empotrados **72 garudas** de piedra pisando nagas, uno cada
+    ~50 m. Seguirlos es la forma de recorrer Preah Khan casi a solas.
+seenIn:
+  - ref: '#dia-14-angkor-vuelta'
+    label: "Día 14 · el circuito grande"
+  - ref: '#ta-prohm'
+    label: "Ta Prohm, su hermano"

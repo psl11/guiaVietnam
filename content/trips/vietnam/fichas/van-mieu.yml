@@ -1,0 +1,57 @@
+slug: van-mieu
+navLabel: "Templo de la Literatura"
+trip: vietnam
+part: vietnam
+order: 26
+zone: "Hanói"
+emblem: libro
+kicker: Vietnam · la primera universidad
+title: El Templo de la Literatura
+image:
+  src: img/fichas/van-mieu.webp
+  alt: "El pabellón Khuê Văn Các del Templo de la Literatura de Hanói, con su torre roja de ventanas circulares sobre pilares de piedra, junto al estanque cuadrado."
+  credit: "Phuongcacanh · dominio público"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Khu%C3%AA_v%C4%83n_c%C3%A1c.jpg"
+epithet: >-
+  El templo a Confucio que se convirtió en la primera universidad de Vietnam, donde 1.307 doctores
+  grabaron su nombre en estelas sobre tortugas de piedra: el santuario del mérito frente a la cuna.
+sections:
+  - heading: Un templo a Confucio, una universidad al mérito
+    body: |
+      Lo fundó el emperador **Lý Thánh Tông en 1070** como templo confuciano, y en **1076** le añadió el
+      **Quốc Tử Giám**, la **primera universidad de Vietnam**, que funcionó **hasta 1779**. Empezó siendo
+      para la élite —hijos de mandarines y de la realeza— pero fue abriéndose a **plebeyos brillantes**:
+      la idea confuciana de que el poder se gana en un examen, no se hereda. El emblema del recinto, el
+      pabellón rojo de ventanas circulares **Khuê Văn Các** (1805), es hoy el **símbolo oficial de Hanoi**
+      — el mismo que lleváis en el bolsillo, porque es el que sale en el **billete de 100.000 đồng**.
+  - heading: Las tortugas que aún consultan los estudiantes
+    body: |
+      El tesoro son las **82 estelas de piedra** sobre lomos de tortuga, talladas entre **1442 y 1779**,
+      con los nombres de **1.307 doctores** de los exámenes imperiales — no una lista, sino una **fuente
+      histórica de primer orden** sobre la educación y la sociedad del viejo Đại Việt, de ahí que la
+      UNESCO las inscribiera en su **Registro Memoria del Mundo en 2011**. Los estudiantes vietnamitas aún
+      vienen a **frotar la cabeza de las tortugas** antes de un examen para que se les pegue la suerte —
+      tanto, que ha habido que **vallarlas** para protegerlas del cariño—. El motivo que se repite por
+      todo el recinto es la **carpa que salta la Puerta del Dragón**: el que aprueba, se transforma en
+      dragón.
+  - heading: El lunes que abre, y la noche que se enciende
+    body: |
+      Ancla del **[día colchón](#dia-11-hanoi-vuelta)** por un motivo práctico: es el gran monumento que
+      **abre los lunes**, cuando casi todos los museos de Hanoi cierran. Son más de **54.000 m²** en cinco
+      patios sucesivos, con el lago Văn y el jardín Giám — se pasea, no se tacha. Y desde 2023 hay
+      espectáculo nocturno, ***Tinh Hoa Đạo Học***, con **3D-mapping** proyectado sobre el pabellón Thái
+      Học; ojo con las fechas, porque es **solo miércoles, sábados y domingos** (no cae en el lunes de la
+      visita, pero se puede encajar otra noche).
+curiosidades:
+  - >-
+    El **pabellón Khuê Văn Các** —la torre de las cuatro ventanas circulares— es el emblema oficial de
+    Hanoi y el dibujo del **reverso del billete de 100.000 đồng**. Lo lleváis encima sin saberlo.
+  - >-
+    De las estelas talladas a lo largo de tres siglos **solo sobreviven 82**, sobre sus tortugas de
+    piedra — con los nombres de 1.307 doctores. Son Memoria del Mundo de la UNESCO desde 2011.
+  - >-
+    La costumbre de **frotar la cabeza de las tortugas** para aprobar es tan popular que las autoridades
+    tuvieron que **poner una valla**: el roce de generaciones estaba desgastando la piedra.
+seenIn:
+  - ref: '#dia-11-hanoi-vuelta'
+    label: "Día 11 · el lunes que abre"

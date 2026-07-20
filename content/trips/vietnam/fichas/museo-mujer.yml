@@ -1,0 +1,56 @@
+slug: museo-mujer
+navLabel: "Museo de la Mujer"
+trip: vietnam
+part: vietnam
+order: 27
+zone: "Hanói"
+emblem: casa
+kicker: Vietnam · en primera persona
+title: El Museo de la Mujer Vietnamita
+image:
+  src: img/fichas/museo-mujer.webp
+  alt: "La fachada blanca del Museo de la Mujer Vietnamita en Hanói, con sus paneles de ventanas de colores y el rótulo Bảo tàng Phụ nữ Việt Nam sobre la entrada."
+  credit: "Aumusee · CC BY-SA 3.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Vietnamese_Women%27s_Museum_Building.JPG"
+epithet: >-
+  El museo que muchos viajeros nombran su favorito de Hanoi — y no por las vitrinas, sino por las voces:
+  las médiums de las Diosas Madres, las vendedoras ambulantes, las mujeres de las guerras.
+sections:
+  - heading: Tres plantas, tres vidas
+    body: |
+      Nacido en **1987** de la Unión de Mujeres, abierto al público en **1995** y **renovado a fondo entre
+      2006 y 2010** —de ahí su museografía moderna, con testimonios en primera persona y todo traducido al
+      inglés—, ocupa cuatro plantas junto al lago. Tres exposiciones permanentes, una por altura: **la
+      mujer en la familia** (nacimiento, boda, maternidad), **la mujer en la historia** (su papel en las
+      guerras) y **la moda femenina** (el áo dài y los trajes de las 54 etnias). Es, con diferencia, la
+      mejor forma de entender la otra mitad del país — y el plan perfecto para una **tarde de lluvia** de
+      septiembre.
+  - heading: Las Diosas Madres y las vendedoras
+    body: |
+      Dos secciones se llevan el recuerdo de casi todos. Una es el **culto a las Diosas Madres (Đạo Mẫu)**
+      —el mismo *hầu đồng* de posesión y trance que veréis en el **[Phủ Tây Hồ](#phu-tay-ho)**, Patrimonio
+      Inmaterial de la UNESCO desde 2016— contado por sus propias practicantes. La otra, las **vendedoras
+      ambulantes** (*gánh hàng rong*), esas mujeres del sombrero cónico y la pértiga: aquí no son estampa
+      turística sino **testimonios grabados** de madres que dejan a sus hijos en el campo para vender en la
+      ciudad. Es lo que la gente recuerda al salir.
+  - heading: Cuándo
+    body: |
+      Abre de **8:00 a 17:00, de martes a domingo — cierra los lunes** (justo el día colchón, así que no
+      se puede encajar ahí). Su hueco natural es la **mañana sin agenda del [día 15](#dia-15-hanoi-trung-thu)**,
+      o cualquier chaparrón: está en pleno centro, a un paso del lago, y una hora y media basta.
+curiosidades:
+  - >-
+    La sección de **vendedoras ambulantes** funciona con testimonios grabados: mujeres que dejan a sus
+    hijos en el pueblo para vender fruta en Hanoi. Es lo que más recuerdan los visitantes — más que
+    ninguna vitrina.
+  - >-
+    El **culto a las Diosas Madres** que el museo explica planta a planta fue inscrito por la UNESCO como
+    **Patrimonio Cultural Inmaterial en 2016** — conecta directamente con el *hầu đồng* del Phủ Tây Hồ.
+  - >-
+    No es solo museo de exposición: funciona además como **centro de investigación de género** sobre las
+    54 etnias del país.
+seenIn:
+  - ref: '#phu-tay-ho'
+    label: "El culto a las Diosas Madres"
+  - ref: '#dia-15-hanoi-trung-thu'
+    label: "Día 15 · tarde de lluvia"
