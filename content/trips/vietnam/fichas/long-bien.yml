@@ -1,0 +1,61 @@
+slug: long-bien
+navLabel: "Puente Long Biên"
+trip: vietnam
+part: vietnam
+order: 23
+zone: "Hanói"
+emblem: casa
+kicker: Vietnam · hierro, río y amanecer
+title: El puente Long Biên y la isla de los plátanos
+image:
+  src: img/fichas/long-bien.webp
+  alt: "La estructura de vigas de acero oxidado del puente Long Biên sobre el río Rojo, con un motorista cruzando el carril lateral y los huertos ribereños abajo."
+  credit: "calflier001 · CC BY-SA 2.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:LONG_BIEN_BRIDGE_HANOI_VIETNAM_FEB_2012.jpg"
+epithet: >-
+  El puente de hierro que todos atribuyen a Eiffel —y que Eiffel perdió—, bombardeado hasta el
+  esqueleto y remendado una y otra vez, con un campo de plataneras escondido bajo sus arcadas.
+sections:
+  - heading: El puente que Eiffel *perdió*
+    body: |
+      Lo levantaron entre **1899 y 1902** (inaugurado en 1903) la casa parisina **Daydé & Pillé**, y no,
+      **no fue Gustave Eiffel**: su empresa sucesora se presentó al concurso y **lo perdió** —el mito es
+      tan tenaz que hasta la cartelería turística lo repite—. Nació como **puente Paul-Doumer**, por el
+      gobernador general de la Indochina que sería luego presidente de Francia, y no recuperó su nombre
+      vietnamita hasta 1954. Con sus ~**2,3 km** sobre diecinueve vanos fue **uno de los más largos de
+      Asia** al abrirse, y durante décadas el **único paso sobre el río Rojo**: la arteria ferroviaria
+      que unía Hanoi con el puerto de Hải Phòng. Esa importancia sería, después, su condena.
+  - heading: El puente que *no se dejó matar*
+    body: |
+      Por ser el cordón umbilical del norte, fue **blanco prioritario** en la guerra. El 11 de agosto de
+      1967, veinte cazabombarderos F-105 tiraron el vano central; en 1972, la operación Linebacker lo
+      machacó con las **primeras bombas guiadas por láser**. Y sin embargo nunca dejó de funcionar: durante
+      los ocho meses de reparación de 1967, los ingenieros mantuvieron el tráfico con un **puente de
+      pontones fantasma** que montaban sobre barcazas **cada noche y desmontaban antes del amanecer** para
+      esconderlo de la aviación. Hoy solo **la mitad de la estructura es original**: fijaos en dónde cambia
+      el dibujo de la celosía y estaréis leyendo, tramo a tramo, la cicatriz de la guerra.
+  - heading: Bãi Giữa, el campo bajo el puente
+    body: |
+      A mitad del tablero, una **escalera** baja al secreto mejor guardado de Hanoi: **Bãi Giữa**, la
+      «isla del medio», un banco aluvial en pleno río Rojo cultivado con **plataneras y maíz**, con sus
+      huertos, sus cabras y sus pescadores a la sombra de las arcadas de hierro. Campo de verdad dentro de
+      la ciudad, y **cero turistas**. Es la mañana estrella del fotógrafo: **2:00–4:00** el mercado
+      mayorista de fruta rugiendo bajo el puente, **primera luz** arriba entre las vigas, y bajada a la
+      isla con el sol saliendo tras Hanoi. *(En septiembre el río va alto: la isla puede amanecer
+      parcialmente inundada — se valora sobre el terreno. Y el sector agrícola fotogénico está apartado de
+      las zonas de ribera donde se juntan nadadores locales.)*
+curiosidades:
+  - >-
+    **El puente que Eiffel perdió.** El mito de que lo diseñó Gustave Eiffel es tan popular que aparece
+    hasta en material oficial — pero su empresa sucesora se presentó al concurso y **quedó por detrás de
+    Daydé & Pillé**, los verdaderos constructores. Una placa en la celosía aún lo firma: «1899–1902».
+  - >-
+    Durante la reparación de 1967, un **puente de pontones** se montaba sobre barcazas cada anochecer y se
+    **desarmaba antes del alba** para que los aviones no lo vieran. El río tenía dos puentes: uno de día,
+    invisible; otro de noche, fantasma.
+  - >-
+    **La mitad del puente es de posguerra.** Los vanos derribados se reconstruyeron con otra celosía, así
+    que el Long Biên de hoy es un collage: cada cambio de estilo del hierro marca dónde cayó una bomba.
+seenIn:
+  - ref: '#dia-3-hanoi-cafes'
+    label: "Día 3 · el amanecer"

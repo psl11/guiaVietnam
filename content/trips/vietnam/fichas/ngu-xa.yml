@@ -1,0 +1,62 @@
+slug: ngu-xa
+navLabel: "Ngũ Xã"
+trip: vietnam
+part: vietnam
+order: 24
+zone: "Hanói"
+emblem: casa
+kicker: Vietnam · de las campanas a los fideos
+title: Ngũ Xã y los fundidores de bronce
+image:
+  src: img/fichas/ngu-xa.webp
+  alt: "La puerta de tres vanos del templo Quán Thánh en Hanói, que guarda la gran estatua de bronce negro fundida por los artesanos de Ngũ Xã."
+  credit: "Richard Mortel · CC BY 2.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Quan_Thanh_Taoist_Temple,_Hanoi,_11th_century_and_later_(1)_(38441404416).jpg"
+epithet: >-
+  El gremio de las «cinco aldeas» que fundió las campanas y los dioses de bronce de la vieja Thăng
+  Long, hoy una península tranquila del lago Trúc Bạch famosa por un rollito de fideo que se come frío.
+sections:
+  - heading: Cinco aldeas, un oficio
+    body: |
+      *Ngũ Xã* significa «**cinco aldeas**», y el nombre es casi un censo: la corte de los primeros **Lê**
+      reunió aquí a los fundidores de bronce de cinco pueblos de las actuales Bắc Ninh y Hưng Yên para
+      **acuñar moneda y fundir los objetos rituales de la corte**, y ellos bautizaron el sitio en memoria
+      de sus orígenes. Durante más de cuatro siglos, en esta **península del lago Trúc Bạch** —el vecino
+      pequeño del Lago del Oeste— se coló el bronce de las **campanas y las estatuas** de los templos de
+      la capital. El *đúc đồng* de Ngũ Xã es una de las **cuatro artes de la antigua Thăng Long**, junto a
+      la seda de Yên Thái, la cerámica de Bát Tràng y la orfebrería de Định Công.
+  - heading: Su obra maestra, a la orilla
+    body: |
+      La pieza que resume el oficio está a un paseo, en el templo **Quán Thánh**: el gran **Trấn Vũ**, el
+      guardián del Norte, un coloso de **bronce negro de casi cuatro metros y ~3,6 toneladas** fundido por
+      artesanos de Ngũ Xã en **1677** — la **segunda mayor estatua de bronce de Vietnam**. Junto al dios,
+      con estatua propia, está el maestro fundidor **Trùm Trọng**: los peregrinos aún le frotan el pie de
+      bronce para que se les pegue algo de su maña. Y en la propia **pagoda de Ngũ Xã** (chùa Thần Quang)
+      vela un **Amitabha de 12 toneladas** que el barrio fundió, ya en pleno siglo XX, entre 1949 y 1952.
+  - heading: De campanas a fideos
+    body: |
+      La urbanización de finales del XX vació casi todos los talleres —quedan un puñado—, y el barrio de
+      los fundidores se reconvirtió en **cuna del *phở cuốn***: la lámina de fideo de arroz **enrollada**
+      con ternera salteada, hierbas y lechuga, que aquí se sirve **fría, no en sopa** (ver *[su ficha de
+      plato](#pho-cuon)*). Sigue siendo un rincón **muy local**, sin cola de turistas, y encaja en el
+      circuito de atardecer del Lago del Oeste: pagoda Trấn Quốc con la última luz, el memorial de McCain
+      en el Trúc Bạch, y la cena de rollitos aquí. Del bronce de los dioses a la mesa de barrio, sin salir
+      de la misma orilla.
+curiosidades:
+  - >-
+    **El nombre es un censo.** *Ngũ Xã* = «cinco aldeas»: cinco pueblos de fundidores, desplazados por la
+    corte para trabajar el bronce de la capital, se juntaron en esta península y la bautizaron en memoria
+    de los cinco lugares de los que venían.
+  - >-
+    En el templo Quán Thánh, junto al coloso de bronce negro de casi 4 toneladas, hay una **estatua del
+    propio maestro fundidor, Trùm Trọng** — a quien los peregrinos frotan el pie descalzo para heredar su
+    destreza. Un artesano homenajeado al lado de un dios.
+  - >-
+    **De las campanas de los templos a los rollitos de fideo:** el barrio que fundió las campanas de
+    Thăng Long es hoy célebre por el *phở cuốn*, un plato que nació precisamente en estas calles del
+    lago Trúc Bạch.
+seenIn:
+  - ref: '#pho-cuon'
+    label: "El phở cuốn nació aquí"
+  - ref: '#dia-15-hanoi-trung-thu'
+    label: "Día 15 · Lago del Oeste"

@@ -1,0 +1,62 @@
+slug: lago-b52
+navLabel: "El B-52 del lago"
+trip: vietnam
+part: vietnam
+order: 25
+zone: "Hanói"
+emblem: incienso
+kicker: Vietnam · diciembre del 72
+title: El B-52 del lago Hữu Tiệp
+image:
+  src: img/fichas/lago-b52.webp
+  alt: "Los restos del bombardero B-52 asomando sobre el agua verde del lago Hữu Tiệp, en el barrio de Ngọc Hà (Hanói), con la estela roja conmemorativa y las casas del vecindario al fondo."
+  credit: "Pdhadam · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:B52_wreckage,_H%E1%BB%AFu_Ti%E1%BB%87p_Lake,_Hanoi_(landscape).jpg"
+epithet: >-
+  Los restos de un bombardero derribado en los bombardeos de Navidad de 1972, aún asomando de un
+  estanque de barrio entre las casas y la ropa tendida — el único que quedó donde cayó.
+sections:
+  - heading: La noche del 27 de diciembre de 1972
+    body: |
+      En diciembre de 1972, ante el estancamiento de las negociaciones de París, Estados Unidos lanzó la
+      **operación Linebacker II** —los **«bombardeos de Navidad»**, doce días (18–29 dic) en los que más
+      de doscientos **B-52** descargaron **veinte mil toneladas** de bombas sobre Hanoi y Hải Phòng—. La
+      noche del **27 de diciembre**, el **Batallón 72** del regimiento antiaéreo 285 alcanzó con un misil
+      SAM a un **B-52D**, que se vino abajo sobre el pequeño lago **Hữu Tiệp**, en el barrio de **Ngọc Hà**
+      — la antigua «aldea de las flores» que abastecía de flores a la ciudad. Un bombardero de decenas de
+      toneladas incrustado entre viveros y estanques.
+  - heading: Lo que sigue en el agua
+    body: |
+      Más de medio siglo después, **los restos siguen ahí**: el tren de aterrizaje y parte del fuselaje
+      asomando sobre el agua verde, con plantas creciéndoles encima y las casas del vecindario al borde
+      mismo del estanque. De las decenas de aviones caídos en aquellos doce días, **este es el único que
+      quedó *in situ* y a la vista** —los demás se retiraron o están en el Museo de la Victoria del B-52—,
+      lo que lo convierte en un monumento involuntario y doméstico a la vez. Declarado **Monumento
+      Histórico Nacional en 1992** y restaurado para el 50.º aniversario, el barrio lo llama, sin más, el
+      **«lago del B-52»**.
+  - heading: El hilo de la memoria
+    body: |
+      No se visita solo: es un vértice del mapa de la guerra en Hanoi. En **[Hỏa Lò](#hoa-lo)** —la
+      «Hanoi Hilton»— acabaron presos varios pilotos de estos mismos bombarderos; en el lago Trúc Bạch, el
+      **[memorial de McCain](#memorial-mccain)** marca dónde cayó su caza en el 67; y bajo el Bamboo Bar
+      del **[Metropole](#metropole)** se restauró el búnker donde Joan Baez cantó *mientras* caían estas
+      bombas. El B-52 del Hữu Tiệp cierra ese círculo, hoy con lectura de **reconciliación** más que de
+      revancha. Queda a ~20 min a pie al oeste del mausoleo, un **desvío** fácil de una mañana sin agenda.
+curiosidades:
+  - >-
+    **Un bombardero en un estanque de barrio.** El ala y el tren de aterrizaje del B-52 asoman del agua
+    rodeados de casas, tendederos y macetas — de los muchos aparatos caídos en diciembre del 72, el único
+    que permanece donde se estrelló.
+  - >-
+    **Ironía geográfica:** cayó sobre **Ngọc Hà, la «aldea de las flores»** que surtía de flores a Hanoi.
+    Decenas de toneladas de acero de guerra hundidas entre viveros.
+  - >-
+    En doce días, EE. UU. reconoció **16 B-52 perdidos** (Vietnam del Norte reclamó el doble). El del
+    lago Hữu Tiệp es el trozo de aquella batalla aérea que cualquiera puede tocar, sin entrar a un museo.
+seenIn:
+  - ref: '#hoa-lo'
+    label: "Hỏa Lò"
+  - ref: '#memorial-mccain'
+    label: "El memorial de McCain"
+  - ref: '#dia-15-hanoi-trung-thu'
+    label: "Día 15 · desvío"
