@@ -1,0 +1,46 @@
+slug: elephant-bar
+navLabel: "Elephant Bar"
+trip: vietnam
+part: camboya
+order: 14
+zone: "Alrededores y cultura viva"
+emblem: casa
+kicker: Camboya · la coda colonial
+title: El Elephant Bar del Raffles
+epithet: >-
+  La última copa en Camboya, bajo los ventiladores de techo del gran hotel colonial de 1932: el mismo
+  salón por el que pasaron Chaplin y Jackie Kennedy camino de Angkor.
+sections:
+  - heading: El gran hotel de 1932
+    body: |
+      Cuando la carretera y el ferrocarril trajeron a los primeros turistas de Angkor, Siem Reap
+      estrenó su gran hotel: el **Raffles Grand Hotel d'Angkor**, inaugurado en **1932**, con su
+      ascensor de jaula, sus jardines y su galería de columnas blancas. En un ala está el **Elephant
+      Bar**, el bar de siempre — madera oscura, ventiladores de techo y una carta de cócteles que hace
+      de máquina del tiempo.
+  - heading: Chaplin, Jackie Kennedy y los peregrinos de Angkor
+    body: |
+      Por aquí pasó el «grand tour» de Angkor del siglo XX. **Charlie Chaplin** se alojó en el hotel en
+      **1936**; y en noviembre de **1967**, en plena Guerra Fría, **Jacqueline Kennedy** cumplió su
+      sueño de infancia de ver Angkor en una visita semioficial que ayudó a **deshelar las relaciones**
+      entre Estados Unidos y la Camboya de Sihanouk. Durante décadas, este fue el vestíbulo occidental
+      del templo.
+  - heading: La copa, no la habitación
+    body: |
+      La jugada es la misma que con el Bamboo Bar del [Metropole](#metropole) en Hanoi: no hace falta
+      dormir aquí para tenerlo. Un cóctel al atardecer en el Elephant Bar —hay *happy hour*— compra el
+      decorado colonial entero por el precio de una copa, y cierra la etapa camboyana donde empezó su
+      hilo francés: en un gran hotel de otro siglo. La **coda** perfecta a dos días de piedra.
+curiosidades:
+  - >-
+    En noviembre de **1967**, **Jacqueline Kennedy** viajó a Camboya para ver Angkor —un sueño que
+    arrastraba desde niña— en una visita semioficial que ayudó a **deshelar las relaciones** entre
+    Washington y el Phnom Penh de Sihanouk. Se alojó en el Grand Hotel.
+  - >-
+    **Charlie Chaplin** pasó por el Grand Hotel d'Angkor en 1936. Durante casi un siglo, este fue el
+    salón donde el viajero occidental remataba —con una copa— su peregrinación a los templos.
+seenIn:
+  - ref: '#dia-13-angkor'
+    label: "Día 13 · la copa del atardecer"
+  - ref: '#metropole'
+    label: "Su gemelo de Hanoi"

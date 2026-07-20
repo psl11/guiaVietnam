@@ -31,15 +31,16 @@ blocks:
     body: >-
       El **lunes** juega en contra de los museos: casi todos cierran (Etnología, [la Mujer](#museo-mujer), y también Hoa
       Lo). Así que la tarde es de calle, café y templo — y el ancla es el [**Templo de la Literatura**](#van-mieu) (Văn
-      Miếu, 1070), la primera universidad de Vietnam, que **no** cierra los lunes (8:00–17:00). Si
-      preferís la noche, tiene una **visita nocturna con 3D-mapping** —«Tinh Hoa Đạo Học», 19:00–22:00—
-      sorprendentemente bien hecha y casi desconocida entre occidentales.
+      Miếu, 1070), la primera universidad de Vietnam, que **no** cierra los lunes (8:00–17:00). Tiene
+      además una **visita nocturna con 3D-mapping** —«Tinh Hoa Đạo Học», 19:00–22:00, sorprendentemente
+      bien hecha y casi desconocida entre occidentales—, pero **solo miércoles, sábados y domingos**: esta
+      noche de lunes no toca.
     window:
       label: Por qué hoy el Văn Miếu
       body: >-
-        Precisamente porque es lunes: con los museos cerrados, es el gran monumento que sigue abierto, y su
-        espectáculo nocturno de proyección es una carta que pocos extranjeros conocen para un lunes por la
-        tarde. Los patios de estelas de los doctores piden calma — y hoy, que es el día sin agenda, la hay.
+        Precisamente porque es lunes: con los museos cerrados, es el gran monumento que sigue abierto — y de
+        los que mejor absorben un lunes sin prisa. Los patios de estelas de los doctores piden calma, y
+        hoy, que es el día sin agenda, la hay.
   - block: Noche
     time: noche
     title: Recuperar, sin más

@@ -12,6 +12,8 @@
 >
 > El marcado empieza por los vuelos (lo único verificado hasta hoy) y se irá extendiendo según se compruebe cada cosa. **Lo que no lleva marca es `[~ research]` por defecto.**
 
+> **Sincronía con la guía** *(20 de julio de 2026)*. La guía HTML ha crecido más allá de este documento con fichas propias que viven canónicamente allí y no se replican aquí en detalle: en Hanoi, el puente **Long Biên** (mito Eiffel desmontado — los constructores fueron Daydé & Pillé), la isla de bronce de **Ngũ Xã** (con el Trấn Vũ de Quán Thánh, 1677), el **B-52 del lago Hữu Tiệp**, el **Templo de la Literatura** (Quốc Tử Giám, 82 estelas, Khuê Văn Các) y el **Museo de la Mujer**; en Camboya, **Preah Khan** (la estela de las 97.840 personas), la **capa astronómica de Angkor Wat** (Stencel/Mannikka, *Science*) y el **Elephant Bar** del Raffles como coda colonial. Este `.md` conserva el plan, los prácticos verificados y el corpus narrativo base; el detalle fino de esas fichas vive en la guía.
+
 ---
 
 ## 0.1 Veredicto sobre Camboya: SÍ, imprescindible
@@ -67,7 +69,7 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 | 8 | vie 18 | Ha Giang | Yen Minh → valle de Sung La → **palacio del rey hmong (Sa Phin)** → torre de Lung Cu → Dong Van |
 | 9 | sáb 19 | Ha Giang | Dong Van → **barca por el cañón del Nho Que a 1ª hora** → paso de Ma Pi Leng → noche en Meo Vac |
 | 10 | dom 20 | Ha Giang | **Mercado dominical de Meo Vac** (06:30–09:30) → regreso a Ha Giang (~5 h) → **noche en Ha Giang** (nada de bus nocturno) |
-| 11 | lun 21 | Hanoi | **Bus diurno a Hanoi** (6-7 h, salida de mañana). Colchón anti-tifón. Lunes = museos cerrados: Templo de la Literatura (o su visita nocturna con 3D-mapping) + recuperar del loop. **(El Lago del Oeste/Tran Quoc/McCain se movió al día 15 para no duplicar.)** |
+| 11 | lun 21 | Hanoi | **Bus diurno a Hanoi** (6-7 h, salida de mañana). Colchón anti-tifón. Lunes = museos cerrados: Templo de la Literatura (abre lunes; la nocturna 3D va mié/sáb/dom, no hoy) + recuperar del loop. **(El Lago del Oeste/Tran Quoc/McCain se movió al día 15 para no duplicar.)** |
 | 12 | mar 22 | Siem Reap | Mañana libre en Hanoi. **Vuelo VJ913 16:20→18:05 HAN→SAI** `[✓ RESERVADO 18-jul]`. Transfer del hotel (SAI está a 40-50 km, ~1 h) → llegada ~19:15. Cena rápida en Wat Bo → **circo Phare (~20:00)**, aprovechando la noche de llegada. Despertador a las 4:15 |
 | 13 | mié 23 | Siem Reap | **El día grande**: 4:45 amanecer del equinoccio en Angkor Wat → bajorrelieves con guía + Bakan → Ta Prohm → **Bayon a media mañana** + Angkor Thom (terrazas) → siesta → **14:30–19:00 Tonle Sap / Kampong Phluk**, agua alta y crepúsculo sobre el lago desde la barca |
 | 14 | jue 24 | (vuelo) | 5:15 → **Banteay Srei a la apertura** (7:30) → circuito grande: Preah Khan, **Neak Pean con agua**, Ta Som → hotel ~13:00, comida y ducha → **salir 15:30 → vuelo VJ914 19:05→20:50 SAI→HAN** `[✓]` → Hanoi ~20:50, noche libre |
@@ -138,8 +140,8 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 
    El Hòa Bình es **perfecto para las noches 12, 13 y 21** — el barrio francés es justo lo que se visita esos días (Metropole, Hoa Lo, la Ópera, el legado colonial), y de paso os guardan las mochilas durante el loop. Pero **la noche del 25 es otra cosa**: aterrizáis a las 20:50, llegáis sobre las 21:45 y Hàng Mã está a media hora andando; y la mañana del 26 es casco viejo puro (Hàng Mã vacía, egg coffee en el balcón del Café Đinh) con el vuelo a las 20:40. **Para esa última noche, dormir en el casco viejo.** No cuesta más — ya son tres estancias separadas de todas formas.
 
-   **El resto** `[~ research]`: 2 noches en Tam Cốc (Tam Coc Windy Fields o similar), **2 noches en Siem Reap** (mar+mié — plan revisado; Viroth's Villa, Baby Elephant o Rambutan, todos con piscina, zona Wat Bo/Wat Damnak; la piscina no es lujo aquí, es la siesta que hace posible el doble turno de luz de 2.2) y **una noche más en Hanoi** (la del jueves 24, que antes era en Siem Reap).
-4. **YA**: reservar **Cuisine Wat Damnak** (la cena-evento, mar-sáb; avisar menú vegetariano completo) y **Phare** (pharecircus.org) para el 23 o 24.
+   **El resto** `[~ research]`: 1 noche en Tam Cốc (Tam Coc Windy Fields o similar), **2 noches en Siem Reap** (mar+mié — plan revisado; Viroth's Villa, Baby Elephant o Rambutan, todos con piscina, zona Wat Bo/Wat Damnak; la piscina no es lujo aquí, es la siesta que hace posible el doble turno de luz de 2.2) y **una noche más en Hanoi** (la del jueves 24, que antes era en Siem Reap).
+4. **YA**: reservar **Cuisine Wat Damnak** (la cena-evento, mar-sáb; avisar menú vegetariano completo) **para el 23**, y **Phare** (pharecircus.org) para la noche de llegada, **el 22**.
 5. **Agosto**: **e-visa Camboya** en evisa.gov.kh (30 USD/persona, ~3 días hábiles; SOLO esa URL, hay clones que cobran el doble). **Vietnam: nada — exención de 45 días para España.** Comprobar pasaportes válidos hasta marzo 2027.
 6. **Agosto**: contratar **seguro para ella** (IATI/Heymondo, con evacuación). Centro de Vacunación Internacional: hepatitis A + tétanos al día (llegan a tiempo).
 7. **Del 15 al 21 de septiembre**: **e-Arrival Card de Camboya** en arrival.gov.kh (gratis, solo válida rellenada en los 7 días previos; guardar captura del QR).
@@ -152,7 +154,7 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 |---|---|
 | Vuelos HAN⇄SAI (VJ913 + VJ914 × 2) — RESERVADO | **~282 €** `[✓ 18-jul-2026]` |
 | Loop Ha Giang **5D/4N** privado (easy rider, todo incluido) | **430–590 €** `[⚠ estimado, no cotizado]` |
-| Alojamiento: 2n Tam Coc + 2n Siem Reap + ~6n Hanoi | 450–700 € |
+| Alojamiento: 1n Tam Coc + 2n Siem Reap + ~6n Hanoi | 450–700 € |
 | Pases de Angkor (3 días) | ~115 € (62 USD × 2) |
 | Tuk-tuk 2 días + guía 1 mañana + Tonle Sap | ~130–180 € |
 | e-visa Camboya × 2 | ~55 € |
@@ -325,7 +327,7 @@ Mejor zona: **el campo entre Tam Coc y Bich Dong** (arrozales + karst, a 5-10 mi
 **Pase Angkor (Angkor Enterprise, precios verificados 2026):**
 - 1 día: **37 US$** | 3 días: **62 US$** | 7 días: **72 US$**
 - El de 3 días es válido en una **ventana de 10 días** (no tienen que ser consecutivos). 2 US$ de cada entrada van al hospital infantil Kantha Bopha.
-- **Compra online**: ticket.angkorenterprise.gov.kh — QR en el móvil, válido como "soft copy", se elige fecha de inicio. **Es la opción para este viaje**: pase de 3 días con inicio el 23 (cubre 23, 24 y 25), comprado desde el hotel la noche del 22.
+- **Compra online**: ticket.angkorenterprise.gov.kh — QR en el móvil, válido como "soft copy", se elige fecha de inicio. **Es la opción para este viaje**: pase de 3 días con inicio el 23 (se usan el 23 y el 24 —no hay pase de 2 días—), comprado desde el hotel la noche del 22.
 - **Taquilla física**: ticket center oficial en la Road 60, a ~4 km del centro, 4:30–17:30. Aceptan tarjeta y efectivo. Hacen foto que va impresa en el pase. Pase **nominal e intransferible**; lo escanean en cada templo grande (llevarlo siempre; multa fuerte si no).
 - **Regla de las 17:00** (para referencia): el pase comprado en taquilla después de las ~17:00 vale desde el día siguiente pero permite entrar esa misma tarde para el atardecer gratis. Con llegada a las 17:10+ del día 22 no da tiempo a explotarla; si el vuelo elegido aterrizara antes de las 16:00, reconsiderar (taquilla a las 16:45 → atardecer en Pre Rup de regalo).
 
@@ -337,7 +339,7 @@ Mejor zona: **el campo entre Tam Coc y Bich Dong** (arrozales + karst, a 5-10 mi
 **Normas:** hombros y rodillas cubiertos — se aplica estrictamente, y en el nivel superior de Angkor Wat (Bakan) no dejan subir ni con pañuelo por encima. **Drones prohibidos** sin permiso de APSARA. La X100VI sin problema (los permisos solo aplican a equipo comercial evidente).
 
 **Aeropuerto SAI (Siem Reap–Angkor International, abierto fin de 2023):**
-- A **40–50 km al este de la ciudad, ~50–60 min de trayecto** (el viejo aeropuerto REP ya no opera vuelos comerciales). El día 25: **salida del hotel 3 h antes del vuelo**.
+- A **40–50 km al este de la ciudad, ~50–60 min de trayecto** (el viejo aeropuerto REP ya no opera vuelos comerciales). El día 24: **salida del hotel 3 h antes del vuelo**.
 - Opciones: **taxi oficial 24 h en llegadas ~30–35 US$** | shuttle bus ~8 US$/persona (~1 h) | minivan compartida ~10–12 US$/persona | Grab/PassApp (~25–30 US$). Lo más sensato: **transfer del hotel** (~28–35 US$ o incluido) — directos y sin regateo tras el vuelo de Hanoi.
 
 ## 2.2 Los 2 días organizados (filosofía: 2 sesiones de luz + siesta)
@@ -437,7 +439,7 @@ Hoteles con piscina en (o rozando) 30–80 €/noche en septiembre:
 **Verificado en fuente oficial:** España está en la lista de países con **exención unilateral de visado de 45 días** de Vietnam. La Resolución 44/NQ-CP (7 de marzo de 2025) prorroga la exención para 12 países —entre ellos el Reino de España— con efecto del 15/03/2025 al **14/03/2028**, "independientemente del tipo de pasaporte y del propósito de entrada". Lo confirman exteriores.gob.es y vietnam.travel.
 
 - **Requisitos:** pasaporte con **validez mínima de 6 meses** desde la entrada (válido hasta ~marzo de 2027) y, formalmente, prueba de salida (el vuelo del 26). Sin formulario previo ni tasa.
-- **La doble entrada (punto crítico, resuelto):** entrada el 12/09, salida a Siem Reap el 22/09 y **reentrada el 25/09**. La regla que obligaba a dejar pasar 30 días entre entradas sin visado fue **abolida el 1 de julio de 2020** (Ley 51/2019/QH14). La exención "puede usarse repetidamente"; cada entrada da un sello nuevo de 45 días. **No se necesita e-visa de múltiple entrada.** Matiz: algún agente de facturación en Siem Reap podría pedir prueba de salida de Vietnam — llevar el billete HAN–BCN del 26 a mano.
+- **La doble entrada (punto crítico, resuelto):** entrada el 12/09, salida a Siem Reap el 22/09 y **reentrada el 24/09**. La regla que obligaba a dejar pasar 30 días entre entradas sin visado fue **abolida el 1 de julio de 2020** (Ley 51/2019/QH14). La exención "puede usarse repetidamente"; cada entrada da un sello nuevo de 45 días. **No se necesita e-visa de múltiple entrada.** Matiz: algún agente de facturación en Siem Reap podría pedir prueba de salida de Vietnam — llevar el billete HAN–BCN del 26 a mano.
 - **Por si acaso (innecesario):** la URL oficial del e-visa es **https://evisa.gov.vn** (desconfiar de cualquier .com/.org). 25 USD entrada única / 50 USD múltiple, hasta 90 días. Errores típicos: nombre exactamente como en la línea de máquina del pasaporte, y el e-visa solo vale por el puerto de entrada declarado.
 
 ## 3.2 Camboya: e-visa + e-Arrival Card
@@ -705,12 +707,12 @@ El "36" nunca fue un número literal de calles sino de gremios/cofradías (*phư
 ## 5.2 Imprescindibles y su estado real 2026
 
 - **Lago Hoan Kiem + templo Ngoc Son**: el corazón simbólico (leyenda de la espada devuelta a la tortuga dorada). Puente rojo Thê Húc y templo en isleta: entrada ~50.000 VND, recato en la vestimenta. Fin de semana = todo peatonal desde el viernes 19:00. El amanecer del domingo en el lago (tai-chi, bádminton) es de lo mejor de Hanoi.
-- **Templo de la Literatura (Văn Miếu, 1070)**: 8:00–17:00, 70.000 VND. Además hay **visita nocturna "Tinh Hoa Đạo Học"** con 3D-mapping, 19:00–22:00, ~199.000 VND: sorprendentemente bien hecha y poco conocida entre occidentales — buena opción para la tarde del lunes 21.
+- **Templo de la Literatura (Văn Miếu, 1070)**: 8:00–17:00, 70.000 VND. Además hay **visita nocturna "Tinh Hoa Đạo Học"** con 3D-mapping, 19:00–22:00, ~199.000 VND: sorprendentemente bien hecha y poco conocida entre occidentales — **solo miércoles, sábados y domingos**, así que no cae en el lunes 21 de la visita (encajarla otra noche).
 - **Mausoleo de Ho Chi Minh**: cerrado 5 sep–3 nov 2026 (ver arriba). Ir igualmente temprano a la plaza Ba Dinh: exterior monumental + casa sobre pilotes + Pagoda del Pilar Único.
 - **Pagoda Tran Quoc (West Lake)**: la más antigua de Hanoi (~1.450 años, s. VI), en una península del Lago del Oeste sobre la carretera Thanh Niên. Gratis; nada de pantalones cortos ni tirantes. Al atardecer, la estupa roja de 11 pisos contra el lago es un clásico. Combinable con Truc Bach y el memorial McCain (mismo eje).
 - **Train Street**: **legalmente ambigua pero abierta en la práctica en 2026**. En marzo de 2025 se prohibieron los grupos guiados; hay barreras y vigilantes, y la vía de entrada aceptada es **consumir en un café autorizado**. Dos tramos: el famoso de **5 Trần Phú** y el de **Lê Duẩn** al sur de la estación (menos comercializado). Horarios orientativos (¡cambian, verificar allí!): entre semana solo tarde-noche (19:00, 19:45, 20:45, 21:30); **fines de semana también de día** (8:30, 9:30, 11:30, 15:20, 17:30, 19:20, 20:45). El sábado 12 o domingo 13 se puede pillar tren con luz. Durante el paso hay que estar sentados (pitan con silbato). Cafés citados: Coffee 74, Railway Café. Verdad incómoda: es una experiencia ya domesticada; id con expectativas de "espectáculo curioso", no de gema oculta.
 - **Barrio francés**: bulevares con tamarindos, villas amarillo mostaza. **OJO: la Ópera de Hanoi cerró el 31/12/2025 por renovación de ~2 años** — solo fachada. La catedral de San José (neogótica, 1886): interior solo en misas (entre semana 5:30 y 18:15). Paseo recomendado: Tràng Tiền → Ópera → Museo de Historia (el edificio de Hébrard, 1932, cumbre del estilo indochino) → Lý Thường Kiệt (villas) → Metropole. Mejor a primera o última hora.
-- **Puente Long Bien al amanecer**: puente de acero de 1902 (proyecto de la era Doumer; dañado por los B-52 y reparado mil veces — una cicatriz histórica en uso). Se cruza a pie/moto por los laterales. Al amanecer: neblina del río Rojo, trenes, ciclistas con mercancía. **Debajo, el mercado mayorista de frutas Long Biên hierve entre las 2:00 y las 5:00–6:00** — porteadoras con sombreros cónicos, montañas de fruta: la escena más "National Geographic" de Hanoi y casi sin turistas. De ahí, escalera metálica a mitad de puente baja a la **isla de los plátanos** (ver 5.7).
+- **Puente Long Bien al amanecer**: puente de acero de 1902 (proyecto de la era Doumer; los constructores fueron **Daydé & Pillé**, no Eiffel; dañado por los bombardeos —F-105 en 1967, bombas guiadas por láser en 1972— y reparado mil veces, una cicatriz histórica en uso). Se cruza a pie/moto por los laterales. Al amanecer: neblina del río Rojo, trenes, ciclistas con mercancía. **Debajo, el mercado mayorista de frutas Long Biên hierve entre las 2:00 y las 5:00–6:00** — porteadoras con sombreros cónicos, montañas de fruta: la escena más "National Geographic" de Hanoi y casi sin turistas. De ahí, escalera metálica a mitad de puente baja a la **isla de los plátanos** (ver 5.7).
 
 ## 5.3 Museos: priorización
 
@@ -803,7 +805,7 @@ Y encaja con el movimiento del Metropole al milímetro — **están a 7 minutos 
 # 6. Corpus cultural de Camboya y Angkor
 ### Para leer los templos, no solo verlos
 
-## 6.1 El imperio jemer en 4 actos
+## 6.1 El imperio jemer en cuatro actos (el quinto, la Camboya posterior, en 6.5)
 
 **Acto I — Orígenes: Funan, Chenla y el rey que se proclamó dios (siglos I–IX).** Mucho antes de Angkor, el delta del Mekong ya comerciaba con Roma y con China. Los anales chinos llaman *Funan* (siglos I–VI) a ese primer reino indianizado del sudeste asiático: puertos como Oc Eo, brahmanes llegados de la India, sánscrito en las cortes, dioses hindúes injertados sobre cultos locales de la tierra y el agua. A Funan lo sucede *Chenla* (siglos VI–VIII), un mosaico de principados jemeres río arriba, que los chinos dividían en "Chenla de tierra" y "Chenla de agua". La fecha fundacional que hay que retener es **802**: ese año, según una inscripción posterior (la estela de Sdok Kok Thom), un príncipe llamado **Jayavarman II** celebró un ritual en la montaña sagrada de **Phnom Kulen**, a 40 km de la actual Siem Reap, en el que se proclamó *chakravartin* (monarca universal) e instauró el culto del **devaraja** —literalmente "el dios que es rey" o "el rey de los dioses"—, vinculando para siempre la legitimidad del monarca jemer con Shiva y con una montaña. Toda la arquitectura que el viajero verá deriva de esa idea: el rey construye una montaña de piedra porque él mismo es el eje del cosmos. Kulen, por cierto, se puede visitar: allí están los mil lingas tallados en el lecho del río que "carga" de santidad el agua que baja hacia Angkor.
 

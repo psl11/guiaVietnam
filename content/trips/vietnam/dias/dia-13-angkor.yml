@@ -54,4 +54,19 @@ blocks:
       label: Ventana óptima
       body: >-
         En **septiembre** el lago está en su máximo y el bosque anegado es navegable (en seco queda
-        en tierra); y el **crepúsculo sobre el agua** desde la barca es la postal que cierra el día.
+        en tierra); y el **crepúsculo sobre el agua** desde la barca es la postal que cierra la jornada
+        de luz.
+  - block: Noche
+    time: "noche"
+    title: La cena jemer y el martini colonial
+    body: >-
+      De vuelta en la ciudad, la gran cena del viaje: [**Cuisine Wat Damnak**](#cuisine-wat-damnak), el
+      menú degustación de temporada de Siem Reap —cocina jemer contemporánea, reservada y con el aviso
+      vegetariano dado—. Y si aún queda cuerpo, la **coda colonial**: un cóctel en el [**Elephant
+      Bar**](#elephant-bar) del Raffles de 1932, el gemelo camboyano del martini de Greene en Hanoi.
+    window:
+      label: Por qué esta noche
+      body: >-
+        Es la única velada libre en Siem Reap —la de llegada fue el circo, y mañana se vuela—, así que
+        aquí va la cena-evento. **Cuisine Wat Damnak** solo abre de martes a sábado: el miércoles 23
+        entra justo.
