@@ -22,6 +22,7 @@ const RECO_KINDS = [
   { kind: 'dormir', label: 'Dónde dormir' },
   { kind: 'reservar', label: 'Reservas por hacer' },
   { kind: 'moverse', label: 'Cómo moverse' },
+  { kind: 'practico', label: 'En destino' },
 ] as const
 const recoGroups = computed(() => RECO_KINDS
   .map(k => ({ ...k, items: recos.value.filter(r => r.kind === k.kind) }))
