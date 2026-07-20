@@ -236,6 +236,7 @@ const indexOpen = ref(false)
         title="El viaje, *día a día*"
         dek="El eje no es la agenda por horas sino los bloques del día —amanecer, mañana, siesta, tarde, noche— y su «ventana óptima»: por qué *entonces* (la luz, el gentío, el calor), no a qué hora."
       />
+      <TripMap />
       <DiaCard
         v-for="d in dias"
         :key="d.slug"
