@@ -1,0 +1,55 @@
+slug: neak-pean
+navLabel: "Neak Pean"
+trip: vietnam
+part: camboya
+order: 11
+zone: "Angkor"
+emblem: templo
+kicker: Camboya · el hospital de agua
+title: Neak Pean, la isla que cura
+image:
+  src: img/fichas/neak-pean.webp
+  alt: "Pasarela de madera sobre el bosque inundado que da acceso a Neak Pean en la estación de lluvias, con los árboles reflejados en el agua a ambos lados."
+  credit: "Diego Delso · CC BY-SA 3.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Neak_Pean,_Angkor,_Camboya,_2013-08-17,_DD_01.JPG"
+epithet: >-
+  Una islita en cruz de cinco estanques en mitad de un lago, concebida por Jayavarman VII como un
+  balneario sagrado — y que solo se llena de agua en la estación húmeda. Es decir: ahora.
+sections:
+  - heading: El balneario de los dioses
+    body: |
+      Neak Pean —«las serpientes entrelazadas», por las dos **nagas** que ciñen su base— no es un templo
+      para recorrer por dentro, sino un **prodigio hidráulico** de Jayavarman VII (finales del siglo
+      XII). En el centro de un **gran estanque cuadrado** se alza una islita redonda con una torre; a su
+      alrededor, **cuatro estanques menores**, unidos al central por cuatro capillas con **surtidores
+      esculpidos**: cabeza de **elefante, caballo, león y hombre**. El conjunto reproduce el **lago
+      Anavatapta**, el lago mítico del Himalaya de cuyas aguas manaban los cuatro grandes ríos y cuya
+      agua **curaba**: los peregrinos bajaban al estanque que correspondía a su mal y se bañaban en el
+      chorro sagrado. Un **hospital espiritual** tallado en piedra.
+  - heading: El caballo que vuela
+    body: |
+      En el estanque central, una escultura cuenta una leyenda budista: el bodhisattva **Avalokiteshvara
+      transformado en el caballo volador Balaha** para rescatar a unos mercaderes náufragos de una isla
+      de ogresas. La compasión con forma de caballo — el mismo espíritu que movía todo el programa
+      constructor de Jayavarman VII, el rey que decía sufrir «el dolor del pueblo más que el suyo».
+  - heading: Solo con agua, y es ahora
+    body: |
+      Aquí está el porqué de la fecha: **Neak Pean solo tiene agua en la estación húmeda**, y
+      **septiembre es ese momento**. Los cinco estanques se llenan, el **bosque de alrededor se inunda**
+      y se llega por una **larga pasarela de madera sobre el agua**, con los árboles reflejados a ambos
+      lados — una de las estampas más mágicas de todo Angkor. En seco, en cambio, es un puñado de balsas
+      vacías. Caéis en la única ventana en que la isla es lo que fue pensada para ser.
+curiosidades:
+  - >-
+    Neak Pean se concibió como un **balneario sagrado**: reproduce el lago himalayo Anavatapta, cuya
+    agua curaba, y sus cuatro surtidores —elefante, caballo, león y hombre— vertían el agua «medicinal»
+    a los estanques donde se bañaban los peregrinos según su dolencia.
+  - >-
+    La escultura del estanque central es el **caballo Balaha**: el bodhisattva de la compasión
+    convertido en corcel volador para salvar a unos náufragos de una isla de ogresas.
+  - >-
+    **Solo tiene agua en la época de lluvias.** Quien lo visita en seco ve balsas vacías; quien va en
+    septiembre —como vosotros— lo cruza por una pasarela sobre el bosque inundado.
+seenIn:
+  - ref: '#dia-14-angkor-vuelta'
+    label: "Día 14 · el circuito grande"
