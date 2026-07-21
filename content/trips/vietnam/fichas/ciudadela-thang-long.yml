@@ -1,0 +1,56 @@
+slug: ciudadela-thang-long
+navLabel: "Ciudadela Imperial"
+trip: vietnam
+part: vietnam
+order: 28
+zone: "Hanói"
+emblem: casa
+kicker: Vietnam · opcional · trece siglos de poder
+title: La Ciudadela Imperial de Thăng Long
+image:
+  src: img/fichas/ciudadela-thang-long.webp
+  alt: "La puerta sur Đoan Môn de la Ciudadela Imperial de Thăng Long: muralla de ladrillo gris con cinco arcos y, encima, un pabellón amarillo con la bandera de Vietnam, entre jardines recortados."
+  credit: "Christophe95 · CC BY-SA 4.0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Doan_Mon_Gate_1.jpg"
+epithet: >-
+  Trece siglos de poder vietnamita apilados en un recinto: de la corte de los Lý al búnker desde el que
+  el Norte dirigió la guerra. Patrimonio de la UNESCO — más arqueología que espectáculo, pero qué capas.
+sections:
+  - heading: El centro del poder, mil años
+    body: |
+      Desde aquí se gobernó Vietnam durante trece siglos. Sobre la vieja **Đại La** china, **Lý Công
+      Uẩn** fundó **Thăng Long** en 1010 y plantó su ciudadela; sobre ella construyeron los Trần, los Lê
+      y —hasta que los Nguyễn se llevaron la corte a Huế— cada dinastía siguiente, **una encima de otra**.
+      Eso es lo que se ve: la puerta sur **Đoan Môn** (cinco arcos; el central, solo para el rey), la
+      **torre de la bandera** (Kỳ Đài, 1812) y, sobre todo, la escalinata del palacio **Kính Thiên** con
+      sus **balaustradas de dragones** de piedra, lo único que queda del salón del trono de los Lê. En
+      2002, al excavar el solar contiguo de **18 Hoàng Diệu**, salieron a la luz **mil trescientos años
+      de palacios superpuestos** — y con ellos la inscripción en la UNESCO, en **2010**.
+  - heading: El búnker de la guerra
+    body: |
+      Y en los mismos patios, la capa más inesperada: el **Nhà D67**, la casa-búnker desde la que el
+      alto mando norvietnamita **dirigió la guerra americana**. En su sala de mapas y en el refugio
+      subterráneo de hormigón se planeó, entre otras, la **ofensiva final de 1975** que tomó Saigón. La
+      corte imperial de hace mil años y el cuartel general de la guerra, en el mismo recinto: pocas
+      capas de historia se tocan tan de cerca.
+  - heading: Cómo encaja
+    body: |
+      Aviso honesto: **cierra los lunes** (mar–dom, 8:00–17:00; ~30.000–100.000 VND / ~1-3 €), así que
+      **no es plan del día colchón**. Su hueco es la **mañana libre del [día 15](#dia-15-hanoi-trung-thu)**,
+      camino del oeste: cae en Ba Đình, en la misma dirección que el Lago del Oeste de esa tarde. Un par
+      de horas, y más para el que disfruta leyendo capas que para el cazador de postales — pero la
+      combinación de la dinastía Lý y la sala de mapas del 75 no la da ningún otro sitio de Hanoi.
+curiosidades:
+  - >-
+    Al excavar el solar de **18 Hoàng Diệu** en 2002 aparecieron **mil trescientos años de palacios
+    unos sobre otros** — de la Đại La del siglo VII a los Nguyễn—: fue lo que llevó a la Ciudadela a la
+    lista de la UNESCO en 2010.
+  - >-
+    En el **búnker D67** del recinto, el alto mando del Norte planeó la **ofensiva final de 1975**. La
+    ciudadela de los emperadores y el cuartel general de la guerra comparten patios.
+  - >-
+    De todo el salón del trono de los Lê solo sobreviven las **balaustradas de dragones** de piedra de
+    la escalinata del **Kính Thiên** — los dragones más elegantes del arte vietnamita.
+seenIn:
+  - ref: '#dia-15-hanoi-trung-thu'
+    label: "Día 15 · opción de la mañana"
