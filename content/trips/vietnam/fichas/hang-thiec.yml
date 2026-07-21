@@ -7,6 +7,11 @@ zone: "Hanói"
 emblem: casa
 kicker: Vietnam · la calle-oficio
 title: "Hàng Thiếc, la calle del metal"
+image:
+  src: img/fichas/hang-thiec.webp
+  alt: "Autocromo de hacia 1915 de la «calle de los hojalateros» de Hanói, con flamboyanes en flor, casas-tienda de tejado bajo y un rickshaw."
+  credit: "Léon Busy, ~1915 · CC0"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Un_pousse-pousse_devant_des_boutiques,_surplomb%C3%A9es_de_flambloyants_en_fleurs_(Albizia),_dans_la_%22_rue_des_Ferblantiers_%22_-_A5569.jpg"
 epithet: >-
   La calle de los hojalateros: uno de los poquísimos gremios del metal que sigue vivo y sonando en el
   casco viejo. No una calle-museo, sino un taller a cielo abierto donde la mercancía todavía se
