@@ -1,16 +1,24 @@
 slug: e-visa-camboya
-navLabel: "e-visa Camboya"
+navLabel: "Visados y entradas"
 trip: vietnam
 order: 9
 kind: reservar
-title: e-visa de Camboya
-area: En agosto · online
+title: Visados y tarjetas de entrada
+area: Camboya en agosto · Vietnam 72 h antes
 status: pendiente
-note: "~36 US$/persona (30 + gestión) · ~3 días hábiles"
+note: "Camboya e-visa ~36 US$ · Vietnam: tarjeta de llegada digital (gratis, obligatoria)"
 body: >-
-  **En agosto.** Solo en la web **oficial** —hay clones que cobran el doble—; cuesta **~36 US$** (30 de visado + ~6 de gestión). Vietnam **no necesita
-  nada**: exención de 45 días para España (comprobar pasaportes válidos hasta marzo 2027). Y del 15
-  al 21 de septiembre, la **e-Arrival Card** de Camboya (gratis, en arrival.gov.kh; guardar el QR).
+  **Vietnam:** **sin e-visa** (exención de 45 días para España; pasaporte válido hasta marzo 2027).
+  **Pero desde el 15 de junio de 2026 es obligatoria la Tarjeta de Llegada Digital** —también para los
+  exentos de visado, y aplica a Noi Bai—: es **gratis**, en la web **oficial**
+  prearrival.immigration.gov.vn, se rellena en las **72 horas antes** de volar y genera un **QR** que se
+  guarda para inmigración. Ojo con los clones de pago; la oficial es gratuita.
+
+
+  **Camboya:** **e-visa en agosto**, solo en la web **oficial** (evisa.gov.kh) —hay clones que cobran el
+  doble—; cuesta **~36 US$** (30 de visado + ~6 de gestión). Y del **15 al 21 de septiembre**, la
+  **e-Arrival Card** de Camboya (gratis, en arrival.gov.kh; otro QR que guardar). Comprobad además que
+  los pasaportes valgan **6 meses** desde la entrada.
 link:
-  url: "https://www.evisa.gov.kh"
-  label: evisa.gov.kh
+  url: "https://prearrival.immigration.gov.vn"
+  label: prearrival.immigration.gov.vn
