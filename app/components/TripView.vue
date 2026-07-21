@@ -237,6 +237,16 @@ const indexOpen = ref(false)
         dek="El eje no es la agenda por horas sino los bloques del día —amanecer, mañana, siesta, tarde, noche— y su «ventana óptima»: por qué *entonces* (la luz, el gentío, el calor), no a qué hora."
       />
       <TripMap />
+      <section
+        v-if="trip?.rationale"
+        class="trip-why"
+        aria-label="Por qué este itinerario"
+      >
+        <p class="trip-why-eyebrow">
+          Por qué este viaje
+        </p>
+        <MDC :value="trip.rationale" />
+      </section>
       <DiaCard
         v-for="d in dias"
         :key="d.slug"

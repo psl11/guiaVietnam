@@ -226,6 +226,7 @@ export const TripSchema = z.object({
   quote: z.string().optional(),
   quoteAttr: z.string().optional(),
   lede: Md.optional(), // párrafo de entrada de la Parte II
+  rationale: Md.optional(), // el porqué del itinerario — se renderiza bajo el mapa del viaje
 })
 
 // ── Tipos TS derivados (una sola fuente de verdad) ────────────────────────────
