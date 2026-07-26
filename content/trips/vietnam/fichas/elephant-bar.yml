@@ -27,7 +27,7 @@ sections:
       del templo.
   - heading: La copa, no la habitación
     body: |
-      La jugada es la misma que con el Bamboo Bar del [Metropole](#metropole) en Hanoi: no hace falta
+      La jugada es la misma que con el Bamboo Bar del [Metropole](#metropole) en Hanói: no hace falta
       dormir aquí para tenerlo. Un cóctel al atardecer en el Elephant Bar —hay *happy hour*— compra el
       decorado colonial entero por el precio de una copa, y cierra la etapa camboyana donde empezó su
       hilo francés: en un gran hotel de otro siglo. La **coda** perfecta a dos días de piedra.
@@ -43,4 +43,4 @@ seenIn:
   - ref: '#dia-13-angkor'
     label: "Día 13 · la copa del atardecer"
   - ref: '#metropole'
-    label: "Su gemelo de Hanoi"
+    label: "Su gemelo de Hanói"

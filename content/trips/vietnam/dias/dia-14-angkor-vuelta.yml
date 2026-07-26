@@ -7,7 +7,7 @@ title: La *joya rosa* y el regreso
 dek: >-
   El segundo día grande de [Angkor](#angkor) mira al norte: la arenisca rosa de Banteay Srei a la apertura y un
   circuito de templos que la selva no ha soltado. A mediodía se cierra el capítulo camboyano; al
-  anochecer, de vuelta a Hanoi.
+  anochecer, de vuelta a Hanói.
 blocks:
   - block: Amanecer
     time: "05:15"
@@ -39,7 +39,7 @@ blocks:
       body: >-
         **Neak Pean solo tiene agua en la época húmeda** — y septiembre es ese momento: los cinco
         estanques llenos, el baray desbordado, la pasarela cruzando sobre el agua. En seca es un barrizal
-        agrietado que no dice nada. La estación que "estropea" otros viajes es aquí la que regala el templo.
+        agrietado que no dice nada. La estación que «estropea» otros viajes es aquí la que regala el templo.
   - block: Mediodía
     time: "13:00–15:30"
     title: Comida, ducha y cierre de Angkor
@@ -52,14 +52,14 @@ blocks:
       label: Por qué ahora
       body: >-
         Angkor se cierra a mediodía porque el plan lo quiso así: dos días bien armados en vez de tres,
-        para volar **hoy jueves** y no mañana. Lo que compra ese recorte es el **viernes entero en Hanoi**,
+        para volar **hoy jueves** y no mañana. Lo que compra ese recorte es el **viernes entero en Hanói**,
         sin prisas, para la noche de Trung Thu.
   - block: Tarde
     time: "15:30–20:50"
-    title: El vuelo VJ914 de vuelta a Hanoi
+    title: El vuelo VJ914 de vuelta a Hanói
     body: >-
       Salida del hotel hacia SAI a las **15:30** —el aeropuerto está lejos y conviene el colchón— y
-      **vuelo VJ914 (VietJet), ya reservado: Siem Reap 19:05 → Hanoi 20:50**. A Hanoi hacia las **20:50**
+      **vuelo VJ914 (VietJet), ya reservado: Siem Reap 19:05 → Hanói 20:50**. A Hanói hacia las **20:50**
       y al casco viejo con la noche del jueves por delante, solo para descansar. Mañana no hay
       despertador.
     window:

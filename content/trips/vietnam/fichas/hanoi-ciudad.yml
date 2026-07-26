@@ -1,26 +1,26 @@
 slug: hanoi-ciudad
-navLabel: "Hanoi"
+navLabel: "Hanói"
 trip: vietnam
 part: vietnam
 order: 7
 zone: "Hanói"
 emblem: casa
 kicker: Vietnam · la capital
-title: Hanoi, mil años de capital
+title: Hanói, mil años de capital
 image:
   src: img/fichas/hanoi-ciudad.webp
   alt: "La Torre de la Tortuga (Tháp Rùa) en su islote del lago Hoan Kiem, enmarcada por sauces llorones y flores anaranjadas."
   credit: "Rolf Müller · CC BY-SA 3.0"
   creditUrl: "https://commons.wikimedia.org/wiki/File:Hoan_kiem_lake_turtle_tower_hanoi_2007_01.jpg"
 epithet: >-
-  Hanoi no se recorre, se lee por capas: mil años de corte imperial, un casco viejo que todavía
+  Hanói no se recorre, se lee por capas: mil años de corte imperial, un casco viejo que todavía
   fabrica en la acera, un barrio francés de villas mostaza y una guirnalda de lagos — todo apilado en
   el mismo kilómetro. Entenderla es saber qué estrato estáis pisando.
 sections:
   - heading: El vaciado de Hoa Lư
     body: |
       En **1010**, con el país ya asegurado, **Lý Công Uẩn** sacó la corte de la ciudadela kárstica de
-      **Hoa Lư** —en Ninh Bình, *el molde* del que Hanoi es el vaciado— y la trasladó a la orilla del río
+      **Hoa Lư** —en Ninh Bình, *el molde* del que Hanói es el vaciado— y la trasladó a la orilla del río
       Rojo, donde fundó **Thăng Long**, «el dragón que asciende». Salvo el paréntesis en que los Nguyễn
       gobernaron desde Huế, ha sido capital durante un milenio: por eso es una ciudad de **sustratos**
       —dinástico, colonial, socialista— y no de monumentos sueltos. El nombre de hoy, **Hà Nội** («dentro
@@ -32,12 +32,12 @@ sections:
       producto**— sigue siendo una economía medieval en pie, con hojalateros y herbolarios trabajando en
       plena acera (ver *Las 36 calles del casco viejo*). Al sureste, el **barrio francés** de bulevares con
       tamarindos y villas amarillo mostaza es la Indochina firmada en piedra: la Ópera, la catedral, el
-      Metropole (ver *El Metropole* y *La Hanoi del cine, los libros y la guerra*). Y por debajo de ambos
-      late la Hanoi de la guerra —Hỏa Lò, el búnker del Metropole, el B-52 hundido—, que no es un barrio
+      Metropole (ver *El Metropole* y *La Hanói del cine, los libros y la guerra*). Y por debajo de ambos
+      late la Hanói de la guerra —Hỏa Lò, el búnker del Metropole, el B-52 hundido—, que no es un barrio
       sino una capa que asoma por todas partes.
   - heading: Los lagos, y por qué abre y cierra el viaje
     body: |
-      Hanoi respira por el agua. El **Hoàn Kiếm** es su corazón simbólico —el «lago de la espada devuelta»,
+      Hanói respira por el agua. El **Hoàn Kiếm** es su corazón simbólico —el «lago de la espada devuelta»,
       que los fines de semana se peatonaliza entero—; al norte, el vasto **Hồ Tây** (Lago del Oeste) y el
       pequeño **Trúc Bạch** son el respiro de las tardes, con la pagoda Trấn Quốc y el memorial de McCain en
       la misma orilla. Por todo esto es **el mejor primer y último acto del viaje**: se aterriza en ella
@@ -55,10 +55,10 @@ curiosidades:
     **Hoàn Kiếm** quiere decir «el lago de la espada devuelta»: la leyenda cuenta que el rey Lê Lợi devolvió
     allí, a una **tortuga dorada**, la espada mágica con la que había expulsado a los Ming.
   - >-
-    Si os tienta el **Mausoleo de Ho Chi Minh**, ojo con el mes: cada año, de **principios de
+    Si os tienta el **Mausoleo de Hồ Chí Minh**, ojo con el mes: cada año, de **principios de
     septiembre a principios de noviembre**, el cuerpo embalsamado viaja a Rusia para su mantenimiento y
     **no se puede ver** —justo vuestras fechas—; la plaza Ba Đình, la casa sobre pilotes y la Pagoda del
     Pilar Único siguen abiertas.
 seenIn:
   - ref: '#dia-2-hanoi-llegada'
-    label: Día 2 · llegada a Hanoi
+    label: Día 2 · llegada a Hanói

@@ -5,29 +5,29 @@ order: 12
 eyebrow: El plan · Día 12 · mar 22 sep
 title: "*Llegada* a Siem Reap"
 dek: >-
-  Un día partido entre dos países. La mañana todavía es Hanoi; al caer la tarde, un vuelo de hora y
+  Un día partido entre dos países. La mañana todavía es Hanói; al caer la tarde, un vuelo de hora y
   media os deja al otro lado del mapa de Indochina, en la ciudad de los templos. Y la noche se abre
   con un circo que es, en realidad, una escuela.
 blocks:
   - block: Mañana
     time: "mañana libre"
-    title: Última mañana en Hanoi
+    title: Última mañana en Hanói
     body: >-
       No hay directo matinal a Siem Reap —solo dos vuelos al día, y los dos vespertinos—, así que la
-      mañana del 22 se queda en Hanoi. Un café con calma, lo que quedara pendiente del casco viejo, y
+      mañana del 22 se queda en Hanói. Un café con calma, lo que quedara pendiente del casco viejo, y
       las mochilas hechas para el vuelo de la tarde (voláis a Camboya con lo puesto, solo cabina). Sin
       agenda: el día de verdad empieza en el aeropuerto.
     window:
       label: Por qué así
       body: >-
-        El brief soñaba con "llegar el martes por la mañana", pero en directo eso no existe. Aceptado el
+        El brief soñaba con «llegar el martes por la mañana», pero en directo eso no existe. Aceptado el
         hecho, la mañana libre deja de ser un fallo del plan y pasa a ser una mañana **ganada** — la única
         sin hora de salida antes de que empiece Angkor.
   - block: Tarde
     time: "16:20–19:15"
     title: El vuelo VJ913 a Siem Reap
     body: >-
-      Traslado a Nội Bài y **vuelo VJ913 (VietJet), ya reservado: Hanoi 16:20 → Siem Reap 18:05**,
+      Traslado a Nội Bài y **vuelo VJ913 (VietJet), ya reservado: Hanói 16:20 → Siem Reap 18:05**,
       directo, hora y media escasa rumbo al suroeste sobre Laos —el rato justo para llegar a Camboya con
       [los deberes hechos](#camboya-cine-libros): las películas y los libros que la piedra de Angkor no os
       va a contar—. Se aterriza en **SAI**, el aeropuerto
