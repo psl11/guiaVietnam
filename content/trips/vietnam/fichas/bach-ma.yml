@@ -1,0 +1,59 @@
+slug: bach-ma
+navLabel: "Bạch Mã"
+trip: vietnam
+part: vietnam
+order: 15
+zone: "Hanói"
+emblem: incienso
+kicker: Vietnam · el templo del caballo blanco
+title: Bạch Mã, el templo que marcó dónde iba la muralla
+epithet: >-
+  El lugar de culto más antiguo y más venerado del casco viejo está en mitad de una calle comercial,
+  con la puerta abierta y sin cola. Y su leyenda no es decorativa: cuenta por qué Hanói está donde
+  está.
+sections:
+  - heading: Un caballo blanco que trazó la ciudad
+    body: |
+      La historia va así. En el año **1010**, cuando el rey **Lý Thái Tổ** trasladó su capital a esta
+      curva del río Rojo y quiso levantar la muralla, **el muro se le derrumbaba una y otra vez**.
+      Fue a pedir ayuda al templo, y del recinto salió **un caballo blanco** que dio una vuelta
+      completa y desapareció. El rey mandó construir la muralla **siguiendo exactamente las huellas
+      del caballo**, y esta vez aguantó.
+
+      Desde entonces el kami del sitio —**Long Đỗ**, «el ombligo del dragón»— es el **espíritu
+      guardián de la ciudad**, y el templo se conoce como **Bạch Mã**, «caballo blanco». Dentro hay
+      una **estatua del caballo** y un **carro de madera tallado con dragones** que se saca en
+      procesión.
+
+      Es el **más antiguo de los cuatro templos guardianes** que protegían Thăng Long por sus cuatro
+      puntos cardinales: este es el del **este**.
+  - heading: Por qué merece los cinco minutos
+    body: |
+      Está en el **76 de Hàng Buồm**, la antigua calle de las velas de barco, en pleno recorrido
+      gremial del casco viejo — a un paso de Hàng Bạc y de Mã Mây. Se entra **gratis**, abre de
+      **8:00 a 11:00 y de 14:00 a 17:00** y cierra los lunes por la tarde.
+
+      Lo interesante no es el tamaño: es que estáis en un ***đình***-templo urbano que **lleva mil
+      años en el mismo solar**, encajado entre tiendas de dulces y maletas, con incienso encendido y
+      vecinos entrando a rezar entre recado y recado. El edificio actual es del **siglo XVIII**, con
+      añadidos del XIX, y conserva vigas, laca y un patio diminuto en penumbra.
+
+      La regla del casco viejo se aplica aquí mejor que en ningún sitio: **lo antiguo de Hanói no
+      está señalizado, está en un portal**. Ver [el casco viejo](#casco-viejo-hanoi).
+curiosidades:
+  - >-
+    Según la leyenda, la muralla de Hanói se derrumbaba una y otra vez hasta que **un caballo blanco
+    salió de este templo y trazó un círculo**: el rey mandó levantar el muro siguiendo sus huellas y
+    aguantó. De ahí el nombre — *Bạch Mã*, «caballo blanco».
+  - >-
+    Es el **más antiguo de los cuatro templos guardianes** de Thăng Long, uno por cada punto
+    cardinal. A este le tocó **el este**, y sigue en el mismo solar desde el siglo XI.
+  - >-
+    El espíritu que se venera aquí se llama **Long Đỗ**, «el ombligo del dragón», y es el guardián
+    de la ciudad — no un dios importado, sino el genio del propio suelo sobre el que se levantó
+    Hanói.
+seenIn:
+  - ref: '#casco-viejo-hanoi'
+    label: "El casco viejo"
+  - ref: '#dia-2-hanoi-llegada'
+    label: "Día 2 · el paseo gremial"
