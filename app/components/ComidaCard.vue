@@ -74,7 +74,8 @@ const mapsUrl = computed(() =>
       class="comida-veg"
       :class="vegClass"
     >
-      <span class="comida-veg-tag">Veg</span> {{ comida.veg }}
+      <span class="comida-veg-tag">Veg</span>
+      <span v-html="inlineMd(comida.veg)" />
     </div>
 
     <div

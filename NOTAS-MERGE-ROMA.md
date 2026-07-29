@@ -24,6 +24,39 @@
 - Los **chips "dónde lo veréis" como `<span>`**: en Vietnam apuntan a una Parte I que aún no existe; en Roma los destinos (monumentos) están en la misma página, así que siguen siendo `<a>` válidos.
 - El **favicon "V"**: el de Roma ("R") es correcto para Roma.
 
+## D. El offline estaba roto en las DOS guías (29 jul 2026) — aplicar a Roma sin falta
+
+Descubierto porque las dos guías dieron un **500 de Nuxt en un avión**. Tres fallos encadenados y
+**ninguno visible con cobertura**: la web funciona perfecta online, así que nada avisa. Roma-Nuxt
+hereda la misma configuración de `@vite-pwa/nuxt`, así que le pasará igual.
+
+1. **El SW no se instalaba nunca.** Nuxt genera `200.html` y `404.html` (fallback de GitHub Pages) y
+   workbox los mete en el manifiesto **sin extensión** (`/guiaVietnam/200`), URL que no existen. Como
+   `precacheAndRoute` usa `addAll()`, **una petición fallida aborta la instalación entera**: se
+   cacheaban 8 de 166 entradas y el SW no llegaba a `active`.
+   → `globIgnores: ['**/200.html', '**/404.html']`
+2. **El payload no se encontraba en caché.** Nuxt lo pide con query de build
+   (`_payload.json?<uuid>`) y workbox lo guarda sin query.
+   → `ignoreURLParametersMatching: [/.*/]`
+3. **El contenido no se podía leer.** Content v3 usa SQLite en WASM (2 × 836 KB) y `wasm` no estaba
+   en `globPatterns`. Los `sql_dump.txt` sí, el motor no.
+   → añadir `wasm` a `globPatterns`
+
+**Cómo se comprueba** (no había forma de verlo antes): `pnpm generate`, servir `.output/public` bajo
+el subpath real, cargar, esperar a que el SW esté `active`, **matar el servidor** y recargar. Si sale
+el 500, no hay offline. Y contar las entradas del precache: muchas menos que ficheros del build =
+instalación abortando.
+
+## E. Nivelación con guiaJapon (29 jul 2026)
+
+Portados desde Japón, que iba por delante: `app/utils/inline-md.ts`, `tests/unit/inlineMd.spec.ts` y
+`tests/data/inline-md-subset.spec.ts`. Y `ComidaCard`/`PlatoCard` pasan `veg` y `dondeMejor` por
+`inlineMd`: se pintaban con interpolación cruda y enseñaban los asteriscos.
+
+**Ojo al mergear la rama de hidratación**: ella también crea `app/utils/inline-md.ts`. Es el mismo
+fichero y el conflicto debería ser trivial, pero hay que mirarlo — y de paso hacer lo que la sección
+de diferidos ya pedía: consolidar los `inlineTitle` locales de DiaCard e InversionCard.
+
 ---
 
 *Actualizar este fichero conforme aparezcan más cosas al construir Vietnam. Ver [[plataforma-guias-nuxt]] en memoria.*

@@ -68,6 +68,7 @@ const vegClass = computed(() => {
       class="plato-donde"
     >
       <span class="plato-donde-label">Dónde mejor</span> {{ plato.dondeMejor }}
+      <span v-html="inlineMd(plato.dondeMejor)" />
     </div>
 
     <div
