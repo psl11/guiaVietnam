@@ -42,10 +42,18 @@ hereda la misma configuración de `@vite-pwa/nuxt`, así que le pasará igual.
    en `globPatterns`. Los `sql_dump.txt` sí, el motor no.
    → añadir `wasm` a `globPatterns`
 
-**Cómo se comprueba** (no había forma de verlo antes): `pnpm generate`, servir `.output/public` bajo
-el subpath real, cargar, esperar a que el SW esté `active`, **matar el servidor** y recargar. Si sale
-el 500, no hay offline. Y contar las entradas del precache: muchas menos que ficheros del build =
-instalación abortando.
+**Ya hay puerta automática: `scripts/check-offline.mjs`**, que corre en el `deploy.yml` justo antes
+de publicar y falla con código 1 si vuelve a pasar cualquiera de las tres. Mira el `sw.js` generado
+—que es donde vive el fallo y donde ningún test de datos llega— y está probada contra los tres bugs
+reales: se reintrodujo cada uno y los cazó. **Copiarla a Roma junto con los tres arreglos.**
+
+**Y la comprobación manual**, para cuando se toque el service worker: `pnpm generate`, servir
+`.output/public` bajo el subpath real, cargar, esperar a que el SW esté `active`, **matar el
+servidor** y recargar. Si sale el 500, no hay offline.
+
+**Verificado en producción** (29 jul 2026): las 166 entradas devuelven 200 en el servidor real, el SW
+llega a ACTIVO con las 166 —antes 8 sin activar— y desde caché salen el shell, el payload con query
+inventado, el wasm de SQLite y las fotos.
 
 ## E. Nivelación con guiaJapon (29 jul 2026)
 
