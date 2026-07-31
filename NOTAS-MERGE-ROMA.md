@@ -65,6 +65,28 @@ Portados desde Japón, que iba por delante: `app/utils/inline-md.ts`, `tests/uni
 fichero y el conflicto debería ser trivial, pero hay que mirarlo — y de paso hacer lo que la sección
 de diferidos ya pedía: consolidar los `inlineTitle` locales de DiaCard e InversionCard.
 
+## F. Desbordamiento en móvil (29 jul 2026) — también aplica a Roma
+
+En la gastronomía de Japón el body sacaba **37 px de scroll horizontal a 375 px**. La causa no era el
+contenido largo sino una pareja de propiedades en los chips que lo llevan: **`white-space: nowrap` +
+`flex-shrink: 0`**. Juntas impiden partir línea Y encoger, así que un valor largo estira su fila flex
+por encima de la pantalla. **En escritorio no se ve**, por eso llevaba meses ahí.
+
+Afectaba a `.comida-badge`, `.inversion-badge`, `.dia-btime` y `.reco-status` — los cuatro reciben
+texto libre. Roma comparte el CSS base, así que hereda el problema.
+
+- Los cuatro chips: `flex-shrink: 1; min-width: 0; max-width: 100%; overflow-wrap: anywhere` y fuera
+  el `nowrap`. Solo es seguro mantenerlo si además trunca con `text-overflow: ellipsis`.
+- `.ficha-head > *:not(.ficha-emblem) { min-width: 0 }` — sin eso la columna de texto no puede
+  encoger por debajo de su palabra más larga y desborda a 320 px.
+- `@media (max-width: 560px)`: `.comida-head`, `.plato-head` e `.inversion-head` se apilan.
+- Regla global `overflow-wrap: break-word` en `p, li, td…`: un token indivisible más ancho que su
+  columna rompe la caja igual (aquí fue `ticket.angkorenterprise.gov.kh`, 236 px en una de 209).
+
+**Puerta:** `tests/unit/cssOverflow.spec.ts` comprueba la causa de forma estática. **La medición real
+es en el navegador a 320 y 375 px**, contando elementos con `scrollWidth > clientWidth` o borde
+derecho fuera del viewport. Antes: 37 px y 116 elementos. Después: cero y cero.
+
 ---
 
 *Actualizar este fichero conforme aparezcan más cosas al construir Vietnam. Ver [[plataforma-guias-nuxt]] en memoria.*
