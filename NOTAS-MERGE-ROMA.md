@@ -87,6 +87,25 @@ texto libre. Roma comparte el CSS base, así que hereda el problema.
 es en el navegador a 320 y 375 px**, contando elementos con `scrollWidth > clientWidth` o borde
 derecho fuera del viewport. Antes: 37 px y 116 elementos. Después: cero y cero.
 
+## G. Campo `dormir` en los días (29 jul 2026)
+
+Añadido a `DiaSchema`: `dormir: { lugar, ref? }`, que `DiaCard` pinta como línea de cierre («Esta
+noche · Hanói · casco viejo»), enlazando a su reco de dormir.
+
+**El porqué**, que es lo que hay que replicar en las demás guías: las fichas de dormir tenían las
+fechas en su `note` («Noches 12·13·21·24 sep»), así que la información *estaba*. Pero no donde se
+usa: sobre la marcha abres el día, en el móvil y a veces sin cobertura, y quieres la cama de esta
+noche — no cruzar fechas entre dos secciones. Seis de los dieciséis días ni siquiera la mencionaban
+en la prosa.
+
+`ref` se valida en `tests/data/schema.spec.ts` junto a los `seenIn`; probado rompiendo un ancla a
+propósito para confirmar que falla. Las noches sin cama (vuelo de ida y de vuelta) llevan `lugar`
+sin `ref` y se pintan sin enlace.
+
+**Vale la pena en Japón todavía más**, porque allí se duerme en dos barrios distintos de Tokio
+—Akihabara las cinco primeras noches, Shinjuku las cinco últimas— y «dónde dormís» no es un sitio
+fijo. Está anotado como trampa en su CLAUDE.md.
+
 ---
 
 *Actualizar este fichero conforme aparezcan más cosas al construir Vietnam. Ver [[plataforma-guias-nuxt]] en memoria.*

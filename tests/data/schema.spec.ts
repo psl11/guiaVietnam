@@ -24,6 +24,7 @@ interface Doc {
   slug?: string
   city?: string
   seenIn?: { ref?: string, label?: string }[]
+  dormir?: { lugar?: string, ref?: string }
   image?: { src?: string }
   raw: string // texto YAML crudo, para escanear enlaces de cuerpo [txt](#ancla)
 }
@@ -66,7 +67,7 @@ for (const trip of trips) {
       const data = parse(raw)
       const res = c.schema.safeParse(data)
       if (!res.success) parseErrors.push({ rel, issues: res.error.issues.map(i => `${i.path.join('.') || '(root)'}: ${i.message}`) })
-      docs.push({ rel, collection: c.name, part: data?.part, order: data?.order, slug: data?.slug, city: data?.city, seenIn: data?.seenIn, image: data?.image, raw })
+      docs.push({ rel, collection: c.name, part: data?.part, order: data?.order, slug: data?.slug, city: data?.city, seenIn: data?.seenIn, dormir: data?.dormir, image: data?.image, raw })
     }
   }
 }
@@ -117,6 +118,10 @@ describe('contenido · integridad de anclas seenIn', () => {
         if (typeof l?.ref !== 'string' || !l.ref.startsWith('#')) continue
         const target = l.ref.slice(1)
         if (!slugs.has(target) && !PENDING_ANCHORS.has(target)) unknown.push(`${d.rel}: ${l.ref}`)
+      }
+      if (d.dormir?.ref) {
+        const target = d.dormir.ref.replace(/^#/, '')
+        if (!slugs.has(target) && !PENDING_ANCHORS.has(target)) unknown.push(`${d.rel}: dormir → ${d.dormir.ref}`)
       }
     }
     const report = `anclas desconocidas (¿typo, o ficha nueva sin declarar en PENDING_ANCHORS?):\n  ${unknown.join('\n  ')}`

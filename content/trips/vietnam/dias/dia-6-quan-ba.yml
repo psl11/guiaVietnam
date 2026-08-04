@@ -66,3 +66,6 @@ blocks:
         La primera noche de homestay cae pronto, y bien: quedan cuatro jornadas de moto por delante y el
         altiplano invita a recogerse temprano. No es recuperación de ningún mal viaje —se llegó ayer
         descansados— sino el ritmo natural del norte rural, donde la vida sigue al sol.
+dormir:
+  lugar: "Homestay en Nậm Đăm · lo pone el easy rider"
+  ref: '#loop-reserva'

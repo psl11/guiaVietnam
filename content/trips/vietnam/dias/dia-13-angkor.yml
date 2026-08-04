@@ -70,3 +70,6 @@ blocks:
         Es la única velada libre en Siem Reap —la de llegada fue el circo, y mañana se vuela—, así que
         aquí va la cena-evento. **Cuisine Wat Damnak** solo abre de martes a sábado: el miércoles 23
         entra justo.
+dormir:
+  lugar: "Siem Reap · Wat Bo"
+  ref: '#siem-reap-hotel'

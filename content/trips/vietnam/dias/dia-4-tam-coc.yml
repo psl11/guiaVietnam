@@ -73,3 +73,6 @@ blocks:
         Mañana el plan arranca a las **06:30 en Hang Múa**, subiendo escalones antes de que aprieten
         el sol y los autobuses. Esta noche —sin nada que coger todavía— es la que sobra para dormir de
         un tirón antes del único gran madrugón de Ninh Bình.
+dormir:
+  lugar: "Tam Cốc, entre los arrozales"
+  ref: '#tam-coc'

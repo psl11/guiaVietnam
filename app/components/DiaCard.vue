@@ -77,5 +77,17 @@ function inlineTitle(md: string): string {
         </div>
       </section>
     </div>
+
+    <div
+      v-if="dia.dormir"
+      class="dia-dormir"
+    >
+      <span class="dia-dormir-label">Esta noche</span>
+      <a
+        v-if="dia.dormir.ref"
+        :href="dia.dormir.ref"
+      >{{ dia.dormir.lugar }}</a>
+      <span v-else>{{ dia.dormir.lugar }}</span>
+    </div>
   </article>
 </template>

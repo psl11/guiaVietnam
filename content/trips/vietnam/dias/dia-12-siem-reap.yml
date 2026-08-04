@@ -57,3 +57,6 @@ blocks:
         madrugáis. Las dos tardes de templos que vienen se reservan para el crepúsculo sobre el agua, y
         esta noche —sin amanecer todavía que preparar— es la que sobra para sentarse bajo la carpa. Eso
         sí: el despertador suena a las **4:15**, así que a la cama pronto.
+dormir:
+  lugar: "Siem Reap · Wat Bo"
+  ref: '#siem-reap-hotel'

@@ -86,3 +86,6 @@ blocks:
         Entre semana los trenes de la Train Street solo pasan de noche; **los fines de semana también de día**.
         Aterrizar en sábado es lo único que pone sobre la mesa un tren con algo de luz —imposible para quien
         llega un martes—. Y si el museo se alarga o el cuerpo dice basta, las marionetas nunca fallan.
+dormir:
+  lugar: "Hanói · barrio francés"
+  ref: '#hoa-binh'

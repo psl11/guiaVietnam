@@ -55,3 +55,6 @@ blocks:
         pasar la noche en un autobús para llegar molidos**. Se duerme en cama, se baja de día —con el
         conductor viendo bien la carretera de montaña, que en septiembre no es poco— y Hanói
         hace de colchón sin prisa. El norte se despide en horizontal.
+dormir:
+  lugar: "Hà Giang ciudad, al bajar de la montaña"
+  ref: '#ha-giang-ciudad'

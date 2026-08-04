@@ -122,6 +122,10 @@ export const DiaSchema = z.object({
     window: z.object({ label: z.string(), body: Md }).optional(),
     dim: z.boolean().optional(), // bloque de descanso (siesta) → nodo en oro, no cinabrio
   })),
+  // Dónde se duerme ESA noche. Va en el día y no solo en la ficha de dormir porque es lo que se
+  // consulta sobre la marcha: estás en el día 15, en el móvil y sin cobertura, y quieres la cama.
+  // `ref` apunta a la reco correspondiente; el test comprueba que el ancla exista.
+  dormir: z.object({ lugar: z.string(), ref: z.string().optional() }).optional(),
 })
 
 // ── RECOMENDACIÓN — el directorio práctico (Parte I): dónde dormir + qué reservar ──

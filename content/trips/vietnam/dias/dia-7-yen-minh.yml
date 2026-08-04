@@ -52,3 +52,6 @@ blocks:
         Mañana es la jornada más cargada: Sủng Là, el palacio de los Vương, el extremo norte de Lũng Cú
         y, al final, Đồng Văn. Conviene llegar descansado y con el depósito lleno —el de la moto y el de
         las baterías.
+dormir:
+  lugar: "Yên Minh · lo pone el easy rider"
+  ref: '#loop-reserva'

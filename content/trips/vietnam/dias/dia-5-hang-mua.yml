@@ -59,3 +59,6 @@ blocks:
         loop **descansados**. Mañana el día empieza con calma —conocer al piloto, revisar la moto, rodar
         una primera etapa corta—; el descanso con vistas se toma ya en el altiplano, no en un cruce de
         carreteras a las cuatro de la mañana.
+dormir:
+  lugar: "Hà Giang ciudad, antes del loop"
+  ref: '#ha-giang-ciudad'

@@ -70,3 +70,6 @@ blocks:
         Đồng Văn es la base natural para la noche: mañana, a primera hora, arranca el tramo más
         espectacular del loop —la barca por el cañón del Nho Quế y el paso de **Mã Pí Lèng**—, y conviene
         dormir cerca del arranque para salir con el amanecer.
+dormir:
+  lugar: "Đồng Văn · lo pone el easy rider"
+  ref: '#loop-reserva'

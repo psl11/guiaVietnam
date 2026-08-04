@@ -68,3 +68,6 @@ blocks:
         Volar el **jueves** y no el viernes es la decisión que ordena todo el final del viaje. Ambos
         directos son vespertinos; da igual llegar a las 20:50 que una hora antes, porque en los dos casos
         el viernes queda libre. Y un retraso aquí no amenaza nada — el vuelo largo de vuelta a casa es el 26.
+dormir:
+  lugar: "Hanói · barrio francés"
+  ref: '#hoa-binh'

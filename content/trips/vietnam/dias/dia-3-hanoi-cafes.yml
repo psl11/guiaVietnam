@@ -88,3 +88,6 @@ blocks:
         El Ca Trù Hanói Club solo toca **miércoles, viernes y domingo** a las 20:00, y hoy es domingo: el
         calendario os regala la sesión sin tener que forzarla. No es un espectáculo para turistas hecho a
         escala industrial, sino lo contrario — la gema de la noche, y de las que corren peligro de perderse.
+dormir:
+  lugar: "Hanói · barrio francés"
+  ref: '#hoa-binh'

@@ -55,3 +55,6 @@ blocks:
         Hay tentación de exprimir la vuelta, pero este día se defiende vacío por una razón, y el viaje aún
         guarda un día entero de Hanói sin prisas (el 15). Mejor llegar a Camboya descansados que arañar un
         atardecer más hoy: lo que hoy se ahorra, el viernes se disfruta con calma.
+dormir:
+  lugar: "Hanói · barrio francés"
+  ref: '#hoa-binh'

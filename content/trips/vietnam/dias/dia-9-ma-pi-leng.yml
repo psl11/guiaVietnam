@@ -61,3 +61,6 @@ blocks:
         km de puerto de montaña. La cena con la familia del homestay es, además, la autenticidad de verdad
         del loop —no el colchón donde durmáis—. Mañana es el corazón del viaje al norte: hoy se madruga poco
         y se acuesta pronto.
+dormir:
+  lugar: "Mèo Vạc · lo pone el easy rider"
+  ref: '#loop-reserva'
