@@ -1,0 +1,48 @@
+slug: mau-dich-37
+trip: vietnam
+part: vietnam
+city: Hanói
+category: cena
+order: 26
+title: Mậu Dịch Số 37
+navLabel: "Mậu Dịch 37 (bao cấp)"
+tipo: Comedor temático del *bao cấp* · se paga con cartilla de racionamiento
+area: 37 Nam Tràng, isla de Trúc Bạch
+cuando: Trúc Bạch / Lago del Oeste · Día 15
+badge: Guía Michelin (recomendado)
+precio: platos ~60–150k ₫ (~2,4–6 €)
+reserva: Recomendable los fines de semana
+colas: "No"
+veg: >-
+  Opciones razonables — la cocina del *bao cấp* es de verdura, tofu y encurtidos **por escasez**, no
+  por elección. Ojo igualmente al *nước mắm* y a los caldos de hueso: hay que pedirlo explícito.
+quePedir: >-
+  La carta de la carestía, que es el sentido del sitio: **rau muống xào** (espinaca de agua salteada),
+  **đậu phụ** (tofu frito), **cà pháo muối** (berenjenita encurtida), **canh** clara y arroz. Platos
+  humildes servidos en **loza esmaltada** y bandejas de aluminio de la época.
+body: >-
+  El único restaurante del viaje donde **la comida es lo de menos**. Mậu Dịch Số 37 reconstruye una
+  *cửa hàng mậu dịch* —una **tienda estatal de racionamiento**— de hacia 1980: carteles de propaganda,
+  bicicletas Thống Nhất, radios de baquelita y la colección de antigüedades del dueño. En la mesa hay
+  una **cartilla**; se cambia por **cupones** (*tem phiếu*) y con ellos se paga al final. No es un
+  disfraz gracioso: es exactamente cómo se comía en Hanói.
+
+
+  El **bao cấp** («subsidio») fue el periodo entre la reunificación de 1976 y las reformas del **Đổi
+  Mới de 1986**: una década de economía planificada en la que el arroz, la carne y hasta el
+  queroseno se conseguían con cupón, había que hacer cola de madrugada y la carne aparecía un par de
+  veces al mes. Los padres de cualquier hanoiense de cuarenta años lo vivieron. Cenar aquí después
+  de haber visto Hỏa Lò y el Museo de Etnología cierra el arco: **la historia de Vietnam que no es
+  guerra ni templos, sino la cola del arroz**.
+
+
+  Cae en **Trúc Bạch**, a un paso de [Ngũ Xã](#ngu-xa-truc-bach) y de [Aummee](#aummee), así que encaja
+  sin desviarse en la tarde del Lago del Oeste.
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=C%E1%BB%ADa%20H%C3%A0ng%20%C4%82n%20U%E1%BB%91ng%20M%E1%BA%ADu%20D%E1%BB%8Bch%20S%E1%BB%91%2037%20H%C3%A0%20N%E1%BB%99i"
+  label: Ver en Google Maps
+seenIn:
+  - ref: '#dia-15-hanoi-trung-thu'
+    label: Día 15 · Trúc Bạch
+  - ref: '#cong-ca-phe'
+    label: la misma nostalgia, en café

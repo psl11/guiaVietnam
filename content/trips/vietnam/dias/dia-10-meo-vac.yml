@@ -22,10 +22,10 @@ blocks:
     window:
       label: Ventana óptima
       body: >-
-        Esta mañana es la razón de que el loop dure **cinco días y no cuatro**: el formato estándar del
-        mercado os habría devuelto a Hà Giang el sábado, con el domingo ya en la carretera. Un evento con
-        fecha fija no se negocia. Y dentro de la mañana, la ventana es estrecha: **luz rasante y gentío en
-        su punto antes de las nueve**; a las once no queda mercado que fotografiar.
+        Esta mañana es la razón de que el loop **termine en domingo**: se diseñó hacia atrás desde aquí.
+        Es un evento con fecha fija —solo domingos— y por eso lo que se cierra con el operador es el día
+        de vuelta, no la duración del tour. Y dentro de la mañana, la ventana es estrecha: **luz rasante y
+        gentío en su punto antes de las nueve**; a las once no queda mercado que fotografiar.
   - block: Mediodía · el regreso
     time: "~10:00–15:00"
     title: El regreso a la ciudad de Hà Giang
@@ -49,12 +49,16 @@ blocks:
       diurno** (6-7 h, con salida de mañana). Cena, ducha caliente y a la cama — cinco días de moto y
       karst se cierran con el altiplano ya a la espalda y sin más carretera hasta mañana.
     window:
-      label: Por qué de día
+      label: Por qué aquí sí el bus de día
       body: >-
-        Existe un sleeper nocturno que ahorraría un día, pero ya sabéis la respuesta del viaje: **nada de
-        pasar la noche en un autobús para llegar molidos**. Se duerme en cama, se baja de día —con el
-        conductor viendo bien la carretera de montaña, que en septiembre no es poco— y Hanói
-        hace de colchón sin prisa. El norte se despide en horizontal.
+        El bus cama funcionó a la ida porque compraba un día entero de Ninh Bình. **A la vuelta no
+        compra nada**: el 21 es el día colchón, deliberadamente vacío, así que adelantar la llegada no
+        libera ninguna visita — y el 22 se vuela a Siem Reap, con la fecha ya cerrada. Lo que sí compra
+        dormir aquí es lo que hoy hace falta: **ducha larga, lavandería y una cama**, después de cinco
+        días de moto con la ropa húmeda y el equipo lleno de polvo.
+
+        Guardad el sleeper como **palanca de emergencia**: si un temporal ha retrasado el loop y hay que
+        recuperar horas, bajar esta noche en vez de mañana devuelve el margen de golpe.
 dormir:
   lugar: "Hà Giang ciudad, al bajar de la montaña"
   ref: '#ha-giang-ciudad'

@@ -5,10 +5,10 @@ order: 5
 eyebrow: El plan · Día 5 · mar 15 sep
 title: Del *dragón* al altiplano
 dek: >-
-  El día pivota hacia el norte. De madrugada, los quinientos escalones del dragón antes de que
-  lleguen el sol y los autobuses; y luego, el gran salto: de Ninh Bình a Hà Giang, de día y por
-  carretera, para llegar a la puerta del loop con una noche de cama por delante, no un bus-cama a la
-  espalda.
+  El día que el bus cama rescata. De madrugada, los quinientos escalones del dragón antes de que
+  lleguen el sol y los autobuses; luego, en vez de meter la jornada entera en un coche, Ninh Bình
+  entera: la primera capital del país y el humedal silencioso de Vân Long. El salto al norte se hace
+  de noche y durmiendo, y el altiplano amanece por la ventanilla.
 blocks:
   - block: Amanecer
     time: "06:30"
@@ -25,40 +25,66 @@ blocks:
         A las seis y media se sube en fresco y casi a solas: los tours que salen de Hanói no llegan
         **hasta pasadas las nueve**, y el calor de mediodía en estas escaleras al descubierto es serio. A
         esa hora, además, la niebla aún se deshilacha sobre los arrozales y la luz entra rasante — la
-        montaña se gana de un tirón y con su mejor cara. Y madrugar aquí encaja con lo que viene: hoy toca
-        viajar.
-  - block: Día
-    time: "~09:30–18:00"
-    title: El salto al norte, de día
+        montaña se gana de un tirón y con su mejor cara.
+  - block: Mañana
+    time: "~10:00"
+    title: Hoa Lư, donde empezó el país
     body: >-
-      Bajados del dragón y con el desayuno hecho, arranca el gran traslado: **de Ninh Bình a la ciudad de
-      Hà Giang**, unas siete u ocho horas. Se hace **de día** —lo más cómodo, un coche privado; la
-      alternativa, furgoneta hasta Hanói y limousine de enlace hasta Hà Giang—, con una parada tranquila
-      para comer por el camino. Se llega a Hà Giang a media tarde, a tiempo de conocer al **easy rider**,
-      cenar sin prisa y dormir en cama antes de que el loop arranque mañana.
+      Con el desayuno hecho, doce kilómetros al noroeste está [**Hoa Lư**](#ninh-binh-historia), capital de Vietnam
+      entre **968 y 1010**. Queda poco en pie —los templos que se visitan son del XVII, dedicados a **Đinh
+      Bộ Lĩnh** y a **Lê Hoàn**—, y por eso lo que importa aquí no es el monumento sino el emplazamiento:
+      se entiende de un vistazo por qué se eligió este valle. Los farallones que lleváis dos días
+      fotografiando **eran las murallas**. Bastaba tapiar los pasos entre agujas de roca para tener una
+      ciudadela que la caballería china no podía tomar.
     window:
-      label: Por qué de día y no de noche
+      label: Por qué ahora existe este hueco
       body: >-
-        Existe un bus-cama directo que hace esta ruta de noche y ahorra un día — pero **pasar la noche
-        entera en un autobús se paga al día siguiente reventado**, y el loop es demasiado exigente para
-        empezarlo así. Mejor un traslado de día, aunque cueste la tarde: se madruga con Hang Múa, se viaja
-        descansando en el coche (parando donde apetezca) y se llega a Hà Giang con la noche por delante
-        para dormir de verdad. La logística cede un poco; el cuerpo lo agradece toda la semana.
+        Porque el traslado al norte ya no se come el día. Hasta ahora esta mañana era carretera; con el
+        bus cama, Ninh Bình pasa de día y medio a **dos días y medio**, y el hueco se llena con lo que
+        antes se caía del plan. Hoa Lư es media mañana justa: se ve en hora y media y queda de camino al
+        humedal.
+
+        *La otra forma de gastar el día ganado*: cambiar Hoa Lư **y** Vân Long por la catedral de
+        [**Phát Diệm**](#phat-diem), 26 km al sureste — media jornada, y el campanario desde el que
+        Graham Greene miró la guerra antes de escribir *El americano impasible*. Es una u otra cosa, no
+        las dos.
+  - block: Tarde
+    time: "~15:00–16:45"
+    title: Vân Long, el karst en silencio
+    body: >-
+      La tarde es el mejor hallazgo del bloque: la reserva de [**Vân Long**](#van-long), un humedal de juncales
+      veinte kilómetros al norte. Es el **mismo karst de Tràng An sin nada de lo que cansa de Tràng An**:
+      **una barca de remo, dos pasajeros, hora y media** de agua quieta, sin cola de embarcaciones, sin
+      motores —la reserva los prohíbe— y sin vendedores abordando a media travesía. Cuesta **20.000 ₫ de
+      entrada y 60.000 ₫ la barca**: unos tres euros los dos.
+
+      El premio, si hay suerte, trepa por la pared: el **langur de Delacour**, negro con los cuartos
+      traseros blancos, **endémico de Vietnam y con menos de trescientos ejemplares vivos en el mundo**.
+      Vân Long guarda la mayor colonia que queda.
+    window:
+      label: Ventana óptima
+      body: >-
+        Media tarde, y por dos razones que caen a la misma hora: es cuando **los langures bajan a comer**
+        y cuando la luz entra rasante sobre el juncal. A mediodía el humedal es un espejo blanco sin nada
+        que ver ni que fotografiar. Cierra a las **16:45**, así que la última barca sale antes — y aquí sí
+        compensa cargar con el teleobjetivo.
   - block: Noche
-    time: "noche"
-    title: Primera noche en Hà Giang
+    time: "cena → ~21:00"
+    title: El salto al norte, durmiendo
     body: >-
-      Cena tranquila en la ciudad de **Hà Giang** y a la cama pronto. No hay mucho que ver aquí —es la
-      puerta del altiplano, no el destino—, y por eso conviene aprovecharla solo para lo que hace falta:
-      descansar en horizontal antes de cinco días de moto, con las baterías —las de la cámara y las
-      vuestras— a plena carga.
+      Cena sin prisa en Ninh Bình —es la última oportunidad del **dê núi**, la cabra de monte que es el
+      plato de la provincia— y a la estación. El [**bus cama a Hà Giang**](#traslado-ha-giang) sale **directo, sin
+      pasar por Hanói**: unos **370-440 km en 7 h 30**, con salidas escalonadas **entre las 18:00 y las
+      21:15** y llegada al altiplano de madrugada. Cogiendo uno de los últimos se amanece allí. No es un
+      asiento reclinable: son literas tumbadas, y por poco más hay **cabina doble con puerta**.
     window:
-      label: Por qué aquí
+      label: Por qué de noche, ahora sí
       body: >-
-        Dormir esta noche en Hà Giang, en vez de rodar de madrugada, es justo lo que permite arrancar el
-        loop **descansados**. Mañana el día empieza con calma —conocer al piloto, revisar la moto, rodar
-        una primera etapa corta—; el descanso con vistas se toma ya en el altiplano, no en un cruce de
-        carreteras a las cuatro de la mañana.
+        Porque el día que se ahorra vale más que la calidad del sueño, **y porque mañana está diseñado
+        para absorberlo**: la primera etapa del loop son 52 km, corta a propósito. Se llega a Hà Giang de
+        madrugada, el operador da habitación para **ducha y siesta hasta media mañana** —es la práctica
+        normal allí, pero pedidlo por escrito al reservar— y las ruedas empiezan a rodar descansados.
+        Esto es lo que permite **mantener el loop en cinco días sin pagarlo con otro día del viaje**.
 dormir:
-  lugar: "Hà Giang ciudad, antes del loop"
-  ref: '#ha-giang-ciudad'
+  lugar: "Bus cama Hanói → Hà Giang"
+  ref: '#traslado-ha-giang'

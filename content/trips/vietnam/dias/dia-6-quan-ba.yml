@@ -5,24 +5,29 @@ order: 6
 eyebrow: El plan · Día 6 · mié 16 sep
 title: Arranca el *loop*
 dek: >-
-  Habéis dormido en Hà Giang, así que [el loop](#el-loop) empieza descansados —cinco días en moto con
-  conductor-guía—, con una primera etapa corta a propósito: no para recuperar de un mal viaje, sino
-  para rodar el cuerpo y el ojo antes de exigirlo todo.
+  El altiplano amanece por la ventanilla del bus cama. Un par de horas de ducha y siesta en Hà Giang, y
+  [el loop](#el-loop) arranca a media mañana —cinco días en moto con conductor-guía—, con una primera
+  etapa corta a propósito: hoy no se devoran kilómetros, se rueda el cuerpo y el ojo antes de exigirlo
+  todo.
 blocks:
   - block: Amanecer
-    time: "al amanecer"
-    title: Llegada a Hà Giang y arranque del loop
+    time: "04:00–09:00"
+    title: Bajar del bus, ducha y siesta
     body: >-
-      Se despierta en **Hà Giang** —dormidos y sin bus a la espalda—, y tras el desayuno empieza lo
-      bueno: se conoce al **easy rider** —el piloto local que será conductor y guía durante cinco días—
-      y se revisa la moto antes de pagar. Con **dos mochilas de cabina** vais ligeros; a la moto sube
-      solo lo del día, el chubasquero y las baterías cargadas. A las ruedas.
+      El [**bus cama**](#traslado-ha-giang) deja en **Hà Giang** entre las cuatro y las seis de la mañana, con el
+      altiplano ya insinuado en la ventanilla. No se empieza a rodar de golpe: en la habitación que ha
+      apartado el operador —**pedida por escrito al reservar**— se cae una ducha y un par de horas de
+      sueño horizontal. Después, desayuno y ya sí lo bueno: se conoce al **easy rider** —el piloto local
+      que será conductor y guía durante cinco días— y se revisa la moto antes de pagar. Con **dos
+      mochilas de cabina** vais ligeros; a la moto sube solo lo del día, el chubasquero y las baterías
+      cargadas.
     window:
-      label: Por qué así
+      label: Por qué esto funciona
       body: >-
-        Se podría descansar un día en Hà Giang ciudad, pero no tiene nada que ofrecer; mejor arrancar
-        el loop hoy mismo y hacer corta la primera etapa. Así el descanso se toma en el altiplano, con
-        vistas, y no en un cruce de carreteras.
+        Porque hoy es el único día del loop que puede absorberlo: **52 km y nada más**. Cruzar de noche
+        le devuelve un día entero a Ninh Bình sin tocar el loop, y la etapa corta de hoy paga la factura
+        del madrugón. La condición es no improvisar la mañana — sin la habitación apartada, la ducha se
+        convierte en cinco horas sentados en una acera con las mochilas.
   - block: Mañana
     time: "~52 km"
     title: La primera etapa, corta a propósito
@@ -63,9 +68,9 @@ blocks:
     window:
       label: Por qué ahora
       body: >-
-        La primera noche de homestay cae pronto, y bien: quedan cuatro jornadas de moto por delante y el
-        altiplano invita a recogerse temprano. No es recuperación de ningún mal viaje —se llegó ayer
-        descansados— sino el ritmo natural del norte rural, donde la vida sigue al sol.
+        La primera noche de homestay cae pronto, y hoy se agradece el doble: se lleva una noche de bus a
+        la espalda y quedan cuatro jornadas de moto por delante. No es solo cansancio — es el ritmo
+        natural del norte rural, donde la vida sigue al sol y a las nueve ya no hay nadie despierto.
 dormir:
   lugar: "Homestay en Nậm Đăm · lo pone el easy rider"
   ref: '#loop-reserva'

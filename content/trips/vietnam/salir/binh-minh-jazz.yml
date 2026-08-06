@@ -15,10 +15,25 @@ body: >-
   padres del jazz vietnamita. Nada de turistas de paso: aquí vienen los músicos locales a tocar y a
   escuchar, con **jazz en directo cada noche (21:00–23:00)** en una sala íntima. El plan de noche
   redondo: cena en el casco viejo → aquí a por jazz → y a cerrar con un cóctel en el Haflington.
+
+
+  **Y detrás del nombre en la puerta hay medio siglo de país.** Minh, nacido en 1954, aprendió solo
+  —de adolescente, **pescando emisoras extranjeras por la radio durante la guerra**—, cuando el
+  Estado tenía la cultura bajo control estricto y el jazz sonaba a música del enemigo. Su propio
+  padre, guitarrista y saxofonista, se opuso hasta **1974**, el año en que acabó regalándole un saxo
+  alto. Del que tocaba a escondidas al club con su apellido a cien metros de la Ópera. Hoy toca a
+  menudo con su hijo.
+
+
+  **Dónde encaja mejor: el Día 11**, el del colchón. Un lunes sin agenda, con los museos cerrados y
+  el cuerpo molido de cinco días de moto, un sitio al que se entra a las nueve sin reservar y del que
+  se sale cuando apetece es lo único que ese día admite.
 link:
   url: https://minhjazzvietnam.com/
   label: minhjazzvietnam.com
 seenIn:
+  - ref: '#dia-11-hanoi-vuelta'
+    label: Día 11 · la noche del colchón
   - ref: '#the-haflington'
     label: cierre · The Haflington
   - ref: '#ne-cocktail-bar'

@@ -63,12 +63,12 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 | 2 | sáb 12 | Hanoi | Llegada 06:40, Grab al casco viejo (~7 €). Día suave: Hoan Kiem peatonal (fin de semana), casco viejo gremial, pho Bát Đàn. Tarde: **Museo de Etnología** (la preparación perfecta para Ha Giang; cierra lunes). Train Street con tren diurno (solo fin de semana) o marionetas de agua |
 | 3 | dom 13 | Hanoi | Amanecer: puente Long Bien + mercado de frutas + isla de los plátanos. Cafés históricos (Giảng, Lâm). Hoa Lo. Barrio francés + martini Graham Greene en el Bamboo Bar del Metropole. Bun cha Hương Liên. Noche: ca trù en Hàng Bạc |
 | 4 | lun 14 | Ninh Binh | Limousine van a Tam Coc (~10 €/p, puerta a puerta). Tarde: **barca de Trang An (ruta 3, cuevas + escenarios de Kong)** → atardecer: bici entre arrozales + pagoda Bich Dong |
-| 5 | mar 15 | Ha Giang | 06:30 Hang Mua (antes del calor y los tours) → **traslado DE DÍA a Ha Giang** (coche privado ~7-8 h, o Ninh Bình→Hanoi→Ha Giang; **NO bus nocturno** — ver 1.1 revisado) → noche en Ha Giang, descansados |
-| 6 | mié 16 | Ha Giang | **Descansados tras dormir en Ha Giang.** Inicio del loop (**5D/4N**, easy rider privado). Etapa corta a propósito (52 km, para rodar el cuerpo): Heaven's Gate de Quan Ba → noche en Nam Dam/Quan Ba (aquí sí, terrazas doradas) |
+| 5 | mar 15 | Ninh Binh → bus | 06:30 Hang Mua (antes del calor y los tours) → **Hoa Lu** (la primera capital) → comida (dê núi) → **Vân Long** ~15:00-16:45 (humedal a remo, langures de Delacour) → cena → **bus cama DIRECTO Ninh Binh→Ha Giang** ~21:00, sin pasar por Hanoi (ver 1.1 re-revisado) |
+| 6 | mié 16 | Ha Giang | **Llegada de madrugada en bus cama** → habitación del operador para ducha y siesta → inicio del loop a media mañana (**5D/4N**, easy rider privado). Etapa corta a propósito (52 km, y hoy además absorbe el madrugón): Heaven's Gate de Quan Ba → noche en Nam Dam/Quan Ba (aquí sí, terrazas doradas) |
 | 7 | jue 17 | Ha Giang | Quan Ba → aldea del lino de Lung Tam → Yen Minh |
 | 8 | vie 18 | Ha Giang | Yen Minh → valle de Sung La → **palacio del rey hmong (Sa Phin)** → torre de Lung Cu → Dong Van |
 | 9 | sáb 19 | Ha Giang | Dong Van → **barca por el cañón del Nho Que a 1ª hora** → paso de Ma Pi Leng → noche en Meo Vac |
-| 10 | dom 20 | Ha Giang | **Mercado dominical de Meo Vac** (06:30–09:30) → regreso a Ha Giang (~5 h) → **noche en Ha Giang** (nada de bus nocturno) |
+| 10 | dom 20 | Ha Giang | **Mercado dominical de Meo Vac** (06:30–09:30) → regreso a Ha Giang (~5 h) → **noche en Ha Giang** (aquí sí de día mañana: el 21 es colchón y no hay nada que rescatar; se prioriza ducha y lavandería. El sleeper queda como palanca si el loop se ha retrasado) |
 | 11 | lun 21 | Hanoi | **Bus diurno a Hanoi** (6-7 h, salida de mañana). Colchón anti-tifón. Lunes = museos cerrados: Templo de la Literatura (abre lunes; la nocturna 3D va mié/sáb/dom, no hoy) + recuperar del loop. **(El Lago del Oeste/Tran Quoc/McCain se movió al día 15 para no duplicar.)** |
 | 12 | mar 22 | Siem Reap | Mañana libre en Hanoi. **Vuelo VJ913 16:20→18:05 HAN→SAI** `[✓ RESERVADO 18-jul]`. Transfer del hotel (SAI está a 40-50 km, ~1 h) → llegada ~19:15. Cena rápida en Wat Bo → **circo Phare (~20:00)**, aprovechando la noche de llegada. Despertador a las 4:15 |
 | 13 | mié 23 | Siem Reap | **El día grande**: 4:45 amanecer del equinoccio en Angkor Wat → bajorrelieves con guía + Bakan → Ta Prohm → **Bayon a media mañana** + Angkor Thom (terrazas) → siesta → **14:30–19:00 Tonle Sap / Kampong Phluk**, agua alta y crepúsculo sobre el lago desde la barca |
@@ -179,21 +179,26 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 
 **Recomendación**: limousine van a media mañana del 14 — deja en la puerta del homestay. El tren es más barato y pintoresco pero añade el taxi final.
 
-### Ninh Binh → Ha Giang — DE DÍA (plan revisado)
+### Ninh Binh → Ha Giang — BUS CAMA DIRECTO (plan vigente)
 
-> **PLAN REVISADO (18 jul 2026): SIN buses nocturnos.** Pablo prefiere no pasar la noche entera en un autobús —se paga al día siguiente reventado, y el loop es exigente de sobra—. No le importa madrugar para coger un bus, pero sí dormir en ruta. Así que el traslado a Ha Giang se hace **de DÍA el día 5**: un **coche privado (~7-8 h)** tras subir a Hang Mua al amanecer, o **Ninh Bình→Hanoi→Ha Giang en limousine**; se llega a media tarde para **dormir en cama** antes de arrancar el loop. Coste: media jornada del día 5 (se sacrifica Hoa Lu y la tarde libre; **Trang An se movió al día 4**). Lo de abajo queda como referencia del bus directo, **descartado**.
+> **PLAN RE-REVISADO (6 ago 2026): vuelve el bus nocturno, y con él un día entero de Ninh Binh.** Pablo y su pareja se abren a coger bus cama, revirtiendo la decisión del 18 de julio. El traslado pasa a hacerse **de noche el 15 en sleeper directo Ninh Binh→Ha Giang** (sin volver por Hanoi), y **el día 5 deja de ser un día de carretera**: Hang Mua al amanecer, **Hoa Lu** por la mañana y **Vân Long** por la tarde. Ninh Binh sube de día y medio a **dos días y medio** — que era su punto flaco.
+>
+> **La condición que lo sostiene**: pedir al operador del loop **habitación para ducha y siesta la mañana del 16** (pregunta 8 del mensaje a operadores). Sin eso, el ahorro se convierte en cinco horas en una acera. Y **coger una salida tardía** (~21:00), no la de las 18:00, que llega a la una de la madrugada.
+>
+> Descartado ahora el coche privado de día (~7-8 h), que costaba media jornada. Queda como plan B si alguno duerme mal en movimiento.
 
-**Existía un bus directo nocturno, sin volver a Hanoi** (descartado, ver arriba):
+**El bus directo nocturno, sin volver a Hanoi** `[✓ el elegido]`:
 - **Compañías**: **Bằng Phấn** (la especialista de la ruta, cabinas sleeper modernas, salida más temprana ~17:30–18:00), **Quang Nghi** y **Toán Oanh**. Recogen en la estación de Ninh Binh y algunas en la zona de Tam Coc.
 - **Duración real**: 7,5–11 h según servicio (el rápido de las 17:30 tarda ~7h30). ~370–440 km según ruta.
 - **Precio**: 290.000–400.000 VND (~10–14 €); cabina VIP/limousine sleeper ~450.000 VND (~15,5 €).
 - **Cómo funciona**: se sale la tarde-noche del 15 y se llega a Ha Giang ciudad de madrugada/al amanecer del 16, desayuno y arranque del loop ese mismo día. Es exactamente lo que hacen los operadores del loop.
 - **Reserva**: Vexere.com (3 operadores listados en la ruta), 12Go o vía el tour del loop (muchos gestionan el bus).
-- **Matiz honesto**: dormir en bus-cama la noche antes de empezar el loop cansa. Compensación: el día 16 la etapa es corta (Ha Giang→Quan Ba, 46–52 km) y se duerme pronto.
+- **Salidas escalonadas 18:00–21:15** `[✓ verificado en Vexere, ago 2026]`. **Coger una de las últimas**: la de las 18:00 llega hacia la 01:00, la peor hora posible; saliendo ~21:00 se amanece en Ha Giang. Bằng Phấn puntúa 4,6–4,8/5 con >1.500 reseñas y tiene cabina doble.
+- **Matiz honesto**: dormir en bus-cama la noche antes de empezar el loop cansa. Compensaciones: el día 16 la etapa es corta (Ha Giang→Quan Ba, 46–52 km), hay ducha y siesta a la llegada si se pide, y se duerme pronto.
 
 ### Ha Giang → Hanoi — lun 21 sep (de día)
 - **Diurno limousine** `[✓ el elegido]`: 6–7 h reales (~300 km, la mitad por carretera de montaña), 350.000–500.000 VND (~12–17 €). Salidas de mañana (07:00–10:00) y primera hora de tarde. Llegada a Hanoi a media tarde. Se duerme la noche del 20 en Ha Giang y se baja el 21 de día.
-- **Nocturno sleeper** `[descartado — sin buses nocturnos]`: existía (sale ~20:00–21:00, llega 03:30–04:30), pero por la misma razón que la ida: nada de dormir en ruta. El día 21 hace de colchón de todas formas.
+- **Nocturno sleeper** `[descartado aquí, pero por otro motivo]`: existe (sale ~20:00–21:00, llega 03:30–04:30). A la ida el bus cama compra un día entero de Ninh Binh; **aquí no compra nada**, porque el 21 es el colchón y está vacío a propósito, y el 22 el vuelo a Siem Reap ya tiene fecha. Lo que sí hace falta el 20 por la noche es ducha larga, lavandería y cama tras cinco días de moto. **Guardarlo como palanca de emergencia**: si un temporal ha retrasado el loop, bajar esa misma noche devuelve el margen de golpe.
 - Operadores habituales: Quang Nghi, Bang Phan, Ha Giang Limousine, Cầu Mè; reserva en Vexere/12Go o vía el operador del loop. Bajar de día tiene, además, la ventaja de la **visibilidad del conductor** en la carretera de montaña (relevante en septiembre).
 
 ### Hanoi ↔ aeropuerto Noi Bai (~27 km)
@@ -213,7 +218,14 @@ Además, dos mejoras logísticas: **existe bus nocturno directo Ninh Binh→Ha G
 > 1. **El estándar del mercado "4D/3N" fusiona la primera etapa** (Ha Giang→Quan Ba→Yen Minh de un tirón, 90-105 km) y duerme en Yen Minh, Dong Van y Meo Vac. Si lo pedís **empezando el 16, se vuelve el sábado 19 y os quedáis sin el mercado dominical de Meo Vac** — uno de los hallazgos del capítulo 0.
 > 2. **Los precios de la tabla de abajo son tarifas de 4D/3N.** Vuestro 5D/4N añade un día: a ~60-75 €/día/pp, sale sobre **215-295 €/persona** (430-590 € la pareja), no 155-220 €.
 >
-> **La primera etapa corta es deliberada**: llegáis al amanecer de un bus nocturno desde Ninh Binh, y 52 km hasta Quan Ba es lo que el cuerpo aguanta ese día. Además la noche de Nam Dam es **donde veréis arroz dorado** — y con Hoang Su Phi descartado (1.3), es la única. *Alternativa más barata si se quisiera recortar: 4D/3N del **17 al 20** (rescata el mercado dominical, pierde la noche de Nam Dam) y el 16 de descanso en Ha Giang ciudad. Peor: Ha Giang ciudad no tiene nada, y el arroz dorado se pierde.*
+> ⚠️ **Cuidado con cómo se formula el punto 1, porque es donde es fácil razonar mal** (la guía lo tuvo mal escrito hasta el 6 ago 2026): **lo que pierde el mercado no es la duración del tour, es terminar en un día que no sea domingo.** Un 4D/3N del 16 al 19 lo pierde; uno del **17 al 20** lo pillaría igual. Con el operador, por tanto, **se cierra la fecha de FIN, no el número de días**.
+>
+> **Los tres motivos reales para pedir cinco días** (ninguno es el mercado):
+> 1. **La primera etapa corta es deliberada.** Llegáis al amanecer de un bus nocturno desde Ninh Binh, y 52 km hasta Quan Ba es lo que el cuerpo aguanta ese día. Comprimir obliga a hacer ~100 km de montaña justo el día del madrugón.
+> 2. **La noche de Nam Dam es donde veréis arroz dorado** — y con Hoang Su Phi descartado (1.3), es la única del viaje. Un 4D/3N del 17 al 20 la pierde.
+> 3. **El margen antitifón.** Vais en septiembre. Cinco días con una etapa corta tienen holgura si se corta una carretera; cuatro apretados de principio a fin, ninguna. Es el motivo de más peso.
+>
+> *Alternativa si aun así se quisiera recortar: 4D/3N del **17 al 20**, con el 16 libre. Pero Ha Giang ciudad no tiene nada que ofrecer ese día, se pierde el arroz dorado y se pierde el colchón. No compensa.*
 
 | Formato | Precio de mercado **4D/3N** (por persona, en pareja) — *sumar ~60-75 €/pp para vuestro 5D/4N* | Qué incluye |
 |---|---|---|
@@ -279,7 +291,9 @@ Esta es **la decisión que más tienta** al criterio de "el dinero no es la rest
 ### Qué sí / qué no en 2 días
 - **SÍ — Hang Mua** (mirador del dragón): 100.000 VND + 10.000 parking, ~500 escalones. **Ir a las 06:00-07:00**: los tours desde Hanoi no llegan hasta después de las 9 y el calor de mediodía es serio. Abre 06:00–19:00. El atardecer también funciona pero con más gente.
 - **SÍ — Bich Dong**: pagoda-cueva en tres niveles, gratis, 45–60 min, ideal en bici desde Tam Coc al atardecer del día de llegada.
-- **Neutral — Hoa Lu** (capital antigua): pequeña, 45 min; parada corta si se pasa cerca (el contexto histórico está en el cap. 5).
+- **Neutral — Hoa Lu** (capital antigua): pequeña, 45 min; parada corta si se pasa cerca (el contexto histórico está en el cap. 5). **Con el día ganado por el bus cama, entra en la mañana del 15.**
+- **SÍ (nuevo, 6 ago 2026) — Vân Long** `[ficha #van-long]`: reserva de humedal 23 km al norte, el anti-Tam Coc. Barca **a remo** (la reserva prohíbe motores), 2 pasajeros, 1 h 30, **sin vendedores abordando**. Entrada 20.000 ₫ + barca 60.000 ₫ (~3 € los dos), 07:00–16:45. Es el último gran refugio del **langur de Delacour**, endémico de Vietnam, **<300 ejemplares vivos**. Mejor a media tarde: bajan a comer y la luz entra rasante. Ocupa la tarde del 15.
+- **ALTERNATIVA — Phát Diệm** `[ficha #phat-diem]`: catedral de 1891 construida con gramática sinovietnamita, 26 km al SE (~1 h en bus directo, media jornada). El obispo gobernó la región con ejército propio hasta 1951, y **Graham Greene miró los combates desde su campanario** — sale en *El americano impasible*. **Compite con Hoa Lu + Vân Long, no cabe además**: karst y fauna → Vân Long; icono con historia → Phát Diệm.
 - **NO — Bai Dinh**: complejo budista moderno gigantesco (5 km², bus interno, 3-4 h). Con 2 días se lo come todo y es lo menos "Ninh Binh".
 
 ### Dónde dormir (2 noches, con encanto, 30–80 €)

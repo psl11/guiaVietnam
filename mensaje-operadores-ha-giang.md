@@ -22,7 +22,7 @@
 > - **Day 4 (Sat 19):** Đồng Văn → **Nho Quế canyon boat trip early** → Mã Pí Lèng pass → **night in Mèo Vạc.**
 > - **Day 5 (Sun 20):** **Mèo Vạc Sunday market (06:30–09:30)** → back to Hà Giang city (~5 h).
 >
-> **The Mèo Vạc Sunday market on day 5 is essential to us** — please confirm the itinerary keeps us in Mèo Vạc on the night of Saturday 19 so we can do it.
+> **The Mèo Vạc Sunday market on day 5 is essential to us** — please confirm the itinerary keeps us in Mèo Vạc on the night of Saturday 19 so we can do it. **What we cannot move is the end date: we must be in Mèo Vạc on the morning of Sunday 20.**
 >
 > Could you confirm the following, in writing?
 >
@@ -33,6 +33,7 @@
 > 5. **Private room** — which of the 4 nights can we have a private room instead of a dormitory, and what is the extra cost?
 > 6. **Riders' licence** — do your riders hold a valid A licence? We need this in writing because my partner's travel insurance only covers her as a motorbike passenger if the rider is licensed.
 > 7. **Vegetarian food** — my partner is vegetarian (no meat, no fish, no fish sauce). Meals are included in the tour: can the homestays cater for her for all 4 nights? Please be honest if this is difficult.
+> 8. **Day room on arrival (Wed 16)** — our night bus arrives in Hà Giang between 04:00 and 06:00. Can you provide a room where we can shower and sleep for a couple of hours before we set off, and at what time would the tour then start? Please confirm this in writing.
 >
 > Thank you very much,
 > Pablo
@@ -50,9 +51,10 @@
 | **5** | La autenticidad del homestay es la cena con la familia, no el colchón del altillo. 28-41 €/noche. |
 | **6** | **La trampa gorda.** La mayoría de las pólizas excluyen al pasajero de moto si el piloto no tiene licencia. Condiciona el seguro de ella (acción 6 del 0.4) — y esto hay que tenerlo **antes** de contratarlo en agosto. |
 | **7** | Las comidas van incluidas y ella es vegetariana. En homestays hmong de montaña esto **no es trivial**: el *nước mắm* (salsa de pescado) está en todo por defecto y "sin carne" no siempre se entiende como "sin caldo de carne". Ver 4.4 "Comer vegetariano en el norte". Mejor saberlo ahora que en Đồng Văn. |
+| **8** | El bus cama es lo que le devuelve un día entero a Ninh Bình, pero **solo funciona si hay dónde ducharse al llegar**. Casi todos los operadores lo ofrecen y casi nadie lo pregunta: sin confirmarlo, la mañana del 16 son cinco horas sentados en una acera con las mochilas. |
 
 ## Lo que hay que vigilar en las respuestas
 
-- **Si cotizan un 4D/3N**: no han leído bien, o te están vendiendo el paquete estándar. Ese formato **empezando el 16 termina el sábado 19 y pierde el mercado dominical**.
+- **Si cotizan un 4D/3N**: casi seguro te están vendiendo el paquete estándar sin leer las fechas. Ojo al matiz, porque es donde es fácil equivocarse: **lo que pierde el mercado no es la duración, es terminar en un día que no sea domingo**. Un 4D/3N del 16 al 19 lo pierde; uno del 17 al 20 no. Aun así queremos los cinco días, y por otro motivo: comprimir funde las dos primeras etapas —las cortas— en una sola de ~100 km justo el primer día, el que además absorbe la llegada del bus nocturno, y deja el plan **sin margen para un temporal de septiembre**.
 - **Si el precio es sospechosamente bajo**: comprueba si es formato de grupo (Jasmine parte las salidas grandes en grupos de ~10).
 - **Si esquivan la 3 o la 6**: descártalos. Son las dos que protegen el viaje y a tu pareja.

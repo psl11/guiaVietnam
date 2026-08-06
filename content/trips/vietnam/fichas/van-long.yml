@@ -1,0 +1,58 @@
+slug: van-long
+navLabel: "Vân Long"
+trip: vietnam
+part: vietnam
+order: 34
+zone: "Ninh Bình"
+emblem: loto
+kicker: Vietnam · Ninh Bình
+title: La reserva de Vân Long
+epithet: >-
+  El mismo karst de Tam Cốc y Tràng An, pero *sin la procesión de barcas*: un humedal de juncos donde
+  se rema en silencio y vive uno de los primates **más raros del planeta**.
+sections:
+  - heading: El anti-Tam Cốc
+    body: |
+      **Vân Long** es una reserva de humedal a unos 20 km al norte de Tam Cốc, y funciona como el
+      reverso exacto del circuito turístico de Ninh Bình. Aquí no hay cuevas ampliadas a martillo para
+      que quepan las barcas, ni cola de embarcaciones, ni vendedores abordándoos a media travesía: la
+      travesía es **una barca de remo, dos pasajeros, hora y media** por un espejo de agua quieta entre
+      juncales, con los mismos farallones calcáreos levantándose de la nada.
+
+      Todas las barcas se mueven **a remo, sin motor**, por decisión de la reserva para no alterar el
+      humedal — que es también la razón de que aquí el sonido dominante sea el de los pájaros y no el
+      de un fueraborda. Es barato hasta el ridículo: **20.000 ₫ de entrada y 60.000 ₫ la barca** (unos
+      3 € los dos).
+  - heading: El langur de Delacour
+    body: |
+      Vân Long es **el último gran refugio del langur de Delacour**, un primate de pelaje negro con
+      los cuartos traseros blancos —como si llevara pantalón corto— que **no existe en ningún otro
+      país del mundo**: es endémico de este rincón de Vietnam. Quedan **menos de trescientos
+      ejemplares en total**, y la mayor colonia superviviente trepa por estos farallones.
+
+      Verlos no está garantizado —son animales salvajes en pared vertical—, pero se ven con cierta
+      frecuencia a primera hora y al caer la tarde, cuando bajan a comer. Conviene llevar el **teleobjetivo
+      y la paciencia**: es, con diferencia, la fauna más difícil de encontrar de todo el viaje.
+  - body: |
+      **Cuándo venir:** a primera hora de la mañana o a última de la tarde, por dos razones que
+      coinciden: es cuando los langures se mueven y cuando la luz entra rasante sobre el juncal. A
+      mediodía el humedal es un espejo blanco y no hay nada que ver ni fotografiar. Abre de **07:00 a
+      16:45**.
+
+      Encaja en la tarde del [día 5](#dia-5-hang-mua), cuando el traslado al norte ha dejado de comerse
+      la jornada.
+curiosidades:
+  - >-
+    El **langur de Delacour solo existe en Vietnam** y quedan **menos de 300 en el mundo entero**.
+    Vân Long guarda la mayor colonia que sobrevive — el animal más raro que vais a tener a tiro en
+    todo el viaje.
+  - >-
+    **Ninguna barca lleva motor**: la reserva obliga a remar para no alterar el humedal. Es la razón
+    de que aquí se oigan los pájaros y no el fueraborda — y de que la travesía cueste **unos 3 € para
+    los dos**.
+  - >-
+    Es el reverso de Tam Cốc en lo que peor lleva Tam Cốc: **aquí los vendedores no abordan la barca a
+    media travesía**. El mismo paisaje, sin el peaje.
+seenIn:
+  - ref: '#dia-5-hang-mua'
+    label: Día 5 · Vân Long

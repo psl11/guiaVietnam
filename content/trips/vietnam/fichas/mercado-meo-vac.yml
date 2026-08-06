@@ -2,7 +2,7 @@ slug: mercado-meo-vac
 navLabel: "El mercado de Mèo Vạc"
 trip: vietnam
 part: vietnam
-order: 45
+order: 47
 zone: "El loop de Hà Giang"
 emblem: cuenco
 kicker: Vietnam · el loop
@@ -14,7 +14,8 @@ image:
   creditUrl: "https://commons.wikimedia.org/wiki/File:M%C3%A8o_V%E1%BA%A1c_market_-_02.jpg"
 epithet: >-
   El gran chợ phiên semanal, el latido social del altiplano: una vez por semana, hmong, dao y lô lô
-  bajan a pie con el traje bueno. Solo es el domingo — y por eso el loop dura cinco días y no cuatro.
+  bajan a pie con el traje bueno. Solo es el domingo — y por eso el loop se diseñó *hacia atrás* desde
+  esta mañana.
 sections:
   - heading: El chợ phiên
     body: |
@@ -24,14 +25,15 @@ sections:
       cambian de dueño—, montañas de **thổ cẩm** (el brocado de las minorías, la palabra que buscar
       para comprar lo auténtico), **rượu ngô** (licor de maíz), **barberos al aire libre**… y ese
       trasiego que en el fondo es otra cosa: los mayores se ponen al día, los jóvenes se miran.
-  - heading: Por qué el loop dura cinco días
+  - heading: Por qué el loop termina en domingo
     body: |
       El mercado **solo** es el domingo por la mañana temprano: arranca hacia las **05:00**, llega a
-      su pico entre las **07:00 y las 09:30** y hacia las diez u once se ha disuelto. Por eso vuestro
-      loop es de **cinco días y no de cuatro**: el formato estándar «4D/3N» os devolvería el sábado y
-      os dejaría sin esto. Dormir en Mèo Vạc en vez de retroceder a Đồng Văn es lo que os pone, al
-      amanecer del domingo, en la puerta del mayor y más auténtico de los mercados de la zona —con
-      ganado y menos turistas que el de Đồng Văn.
+      su pico entre las **07:00 y las 09:30** y hacia las diez u once se ha disuelto. Un evento con
+      fecha fija no se negocia, y por eso todo el loop se construyó marcha atrás desde aquí: lo que hay
+      que cerrar con el operador **no es cuántos días dura el tour, sino que termine el domingo 20**.
+      Dormir en Mèo Vạc en vez de retroceder a Đồng Văn es lo que os pone, al amanecer, en la puerta
+      del mayor y más auténtico de los mercados de la zona —con ganado y menos turistas que el de Đồng
+      Văn, que además cerró como mercado grande en 2012.
   - heading: El fotógrafo, con permiso
     body: |
       Aquí la ética **es** la ventana. **Pedir permiso siempre** (gesto de cámara y sonrisa basta) y
@@ -41,8 +43,9 @@ sections:
       primera hora y gentío en su punto; a las once ya no hay mercado.
 curiosidades:
   - >-
-    El mercado **solo** existe el domingo temprano: pedir el loop estándar «4D/3N» en vez del «5D/4N»
-    os lo haría perder por un solo día — uno de los hallazgos del viaje al norte.
+    El mercado **solo** existe el domingo temprano, así que con el operador **se cierra la fecha de
+    vuelta, no la duración**: cualquier formato que no termine en domingo os lo hace perder por un
+    solo día — uno de los hallazgos del viaje al norte.
   - >-
     De esa mirada entre jóvenes en el mercado nació la institución más bella de estos valles, el
     **mercado del amor de Khâu Vai** (una vez al año, desde 1919): el día en que antiguos enamorados,
