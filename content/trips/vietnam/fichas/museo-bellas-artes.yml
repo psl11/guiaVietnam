@@ -1,0 +1,62 @@
+slug: museo-bellas-artes
+navLabel: "Museo de Bellas Artes"
+trip: vietnam
+part: vietnam
+order: 30
+zone: "Hanói"
+emblem: libro
+kicker: Vietnam · Hanói
+title: El Museo de Bellas Artes
+epithet: >-
+  El museo que ata todos los cabos del viaje: los tambores de bronce que veréis en Lũng Cú, la
+  estatuaria del tam giáo — y la **laca y la seda**, donde Vietnam se inventó una modernidad propia.
+sections:
+  - heading: Por qué este y no otro
+    body: |
+      El **Bảo tàng Mỹ thuật Việt Nam** (66 Nguyễn Thái Học, pegado al Văn Miếu) ocupa un edificio
+      colonial de los años treinta y guarda cerca de **20.000 piezas**. No es un museo de «arte
+      vietnamita» en abstracto: es, planta a planta, **el índice ilustrado de lo que habréis estado
+      viendo por el país**.
+
+      Abajo, la **prehistoria**: los **tambores de bronce Đông Sơn** —incluido el célebre **tambor de
+      Ngọc Lũ**, cubierto de escenas de la vida cotidiana de hace más de dos mil años—, que son
+      exactamente los mismos que los **lô lô** siguen guardando al pie de la torre de
+      [Lũng Cú](#lung-cu). Después, la estatuaria budista y la escultura cham; el
+      [tam giáo](#tam-giao) en madera dorada, con la famosa **Quan Âm de los mil brazos**.
+  - heading: La laca y la seda
+    body: |
+      Y arriba está lo que casi nadie espera y es lo mejor del museo: **la laca (*sơn mài*) y la
+      pintura sobre seda**. La laca era una técnica artesanal para decorar objetos de culto hasta que,
+      en los años treinta, los pintores salidos de la **Escuela de Bellas Artes de Indochina** —fundada
+      en Hanói en 1925— decidieron usarla como pintura de caballete. El resultado no se parece a nada:
+      capas de resina pulida sobre las que se incrustan **pan de oro, plata y cáscara de huevo
+      machacada** para conseguir los blancos, con una profundidad que ninguna foto reproduce.
+
+      La seda hace lo contrario: acuarela absorbida por la tela, luz difusa, escenas domésticas. Entre
+      las dos cuentan cómo un país colonizado cogió una herramienta europea —el cuadro— y la rellenó
+      con materiales y una mirada que no lo eran.
+  - body: |
+      **Práctico:** **martes a domingo, 08:30-17:00**; **cierra los lunes**, así que no sirve para el
+      día colchón del [día 11](#dia-11-hanoi-vuelta) —cae en lunes— y sí para la mañana libre del
+      [día 15](#dia-15-hanoi-trung-thu), que es viernes. Entrada barata. Con dos horas se ve bien; con
+      una, la planta de laca y seda.
+curiosidades:
+  - >-
+    Los blancos de la pintura en laca no son pintura: son **cáscara de huevo machacada e incrustada**
+    en la resina. La laca vietnamita no tenía blanco, y los pintores de los años treinta se lo
+    inventaron rompiendo huevos.
+  - >-
+    El **tambor de Ngọc Lũ** es la pieza cumbre del bronce Đông Sơn — y sus grabados son la mejor
+    fotografía que existe de cómo se vivía aquí **hace más de dos mil años**: casas sobre pilotes,
+    barcas, músicos y danzantes con plumas.
+  - >-
+    La **Escuela de Bellas Artes de Indochina** se fundó en Hanói en **1925** para enseñar técnica
+    europea a alumnos vietnamitas. Salió al revés de lo previsto: sus alumnos cogieron el caballete
+    francés y lo llenaron de laca y seda — y de ahí nació la pintura moderna del país.
+seenIn:
+  - ref: '#dia-15-hanoi-trung-thu'
+    label: Día 15 · la mañana libre
+  - ref: '#tam-giao'
+    label: El tam giáo
+  - ref: '#vietnam-artes-vivas'
+    label: Las artes vivas
