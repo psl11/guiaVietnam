@@ -7,7 +7,8 @@ title: El domingo en *Mèo Vạc*
 dek: >-
   La mañana alrededor de la cual se construyó todo el loop de cinco días: el gran mercado dominical de
   Mèo Vạc, el latido social del altiplano una vez por semana. Y luego el largo tirón de vuelta, cerrando
-  el círculo de karst para dormir una última noche en Hà Giang antes de bajar a Hanói, mañana y de día.
+  el círculo de karst — y esa misma noche, el bus cama a Hanói: el que convierte mañana en un día de
+  Angkor en vez de un día de autobús.
 blocks:
   - block: Amanecer · el mercado
     time: "06:30–09:30"
@@ -39,26 +40,39 @@ blocks:
       label: Por qué el mercado primero
       body: >-
         Hacer el de Mèo Vạc en vez del de Đồng Văn evita retroceder 23 km de puerto de montaña, así que el
-        regreso es una sola línea limpia en lugar de un rodeo. Saliendo a las diez, se llega a Hà Giang con
-        la tarde por delante para descansar, y **el día colchón en Hanói queda garantizado con margen**.
-  - block: Noche
-    time: noche
-    title: Última noche en Hà Giang
+        regreso es una sola línea limpia en lugar de un rodeo. Saliendo a las diez se llega a Hà Giang
+        sobre las tres, con **tarde de sobra antes del bus de las ocho** — que es lo que hoy hay que
+        proteger, porque el sleeper es el que sostiene el día de Angkor que se ha ganado.
+  - block: Tarde
+    time: "15:00–19:30"
+    title: Ducha, colada y despedir al piloto
     body: >-
-      Y en Hà Giang, la última noche del norte: se duerme aquí y mañana se baja a Hanói en el **bus
-      diurno** (6-7 h, con salida de mañana). Cena, ducha caliente y a la cama — cinco días de moto y
-      karst se cierran con el altiplano ya a la espalda y sin más carretera hasta mañana.
+      Se llega a Hà Giang sobre las tres, y hay cuatro horas antes del autobús. Son justo las que hacen
+      falta: **habitación de día** para ducharse a fondo y meter la ropa en una lavandería exprés —bajáis
+      con cinco días de polvo y humedad encima—, cena temprana, y la **propina al easy rider**, que se le
+      da en đồng y en mano al despedirse (está en [la ficha del loop](#loop-reserva)).
     window:
-      label: Por qué aquí sí el bus de día
+      label: No os saltéis la habitación de día
       body: >-
-        El bus cama funcionó a la ida porque compraba un día entero de Ninh Bình. **A la vuelta no
-        compra nada**: el 21 es el día colchón, deliberadamente vacío, así que adelantar la llegada no
-        libera ninguna visita — y el 22 se vuela a Siem Reap, con la fecha ya cerrada. Lo que sí compra
-        dormir aquí es lo que hoy hace falta: **ducha larga, lavandería y una cama**, después de cinco
-        días de moto con la ropa húmeda y el equipo lleno de polvo.
-
-        Guardad el sleeper como **palanca de emergencia**: si un temporal ha retrasado el loop y hay que
-        recuperar horas, bajar esta noche en vez de mañana devuelve el margen de golpe.
+        Es barata y es la diferencia entre subir limpio a una litera o pasar ocho horas de autobús con la
+        ropa del altiplano puesta. Se pide al mismo hotel o al operador del loop, que suelen tenerla
+        resuelta. Ver [Hà Giang ciudad](#ha-giang-ciudad).
+  - block: Noche
+    time: "~20:00"
+    title: El bus cama de vuelta, y lo que compra
+    body: >-
+      Sleeper nocturno **Hà Giang → Hanói**: unos 300 km, 6-7 horas, con llegada entre las **03:30 y las
+      05:00**. Cabina otra vez, no litera abierta. Se cierra el norte durmiendo y se amanece ya en la
+      capital.
+    dim: true
+    window:
+      label: Por qué la vuelta también es de noche
+      body: >-
+        Aquí está el cambio que reordenó el final del viaje. Antes se dormía en Hà Giang y se bajaba de
+        día, porque el 21 era un colchón vacío y adelantar no servía de nada. **Ahora sí sirve**: bajando
+        de noche se vuela a Camboya el mismo lunes 21 en vez del martes 22, y **Angkor pasa de día y
+        medio a tres días**. Lo que se paga es que el colchón antitifón desaparece — ver
+        [el día 11](#dia-11-hanoi-vuelta), donde está contado en qué consiste ese riesgo y cómo se cubre.
 dormir:
-  lugar: "Hà Giang ciudad, al bajar de la montaña"
-  ref: '#ha-giang-ciudad'
+  lugar: "Bus cama Hà Giang → Hanói"
+  ref: '#traslado-ha-giang'
