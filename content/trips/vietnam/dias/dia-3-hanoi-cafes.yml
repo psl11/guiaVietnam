@@ -59,6 +59,26 @@ blocks:
         cola. Pero el orden también cuenta un relato — del traje de McCain colgado en Hỏa Lò a Obama comiendo
         aquí medio siglo después: la distancia entre la guerra y la reconciliación cabe en una mañana y en un
         cuenco de fideos.
+  - block: Tarde
+    time: "13:30–16:00"
+    title: El Museo de Bellas Artes, que hoy o nunca
+    body: >-
+      Quince minutos al oeste, en el 66 de Nguyễn Thái Học, está el
+      [**Museo de Bellas Artes**](#museo-bellas-artes) — y **hoy es el único día que cabe**: cierra los
+      lunes, así que el 21 queda descartado, y con Saigón en el plan no hay más días de Hanói.
+
+      Es donde se atan los cabos del viaje. Abajo, los **tambores de bronce Đông Sơn** —incluido el de
+      **Ngọc Lũ**, cubierto de escenas de hace dos mil años— que son los mismos que los lô lô siguen
+      guardando al pie de Lũng Cú. Y arriba lo que casi nadie espera: la **laca (*sơn mài*)** y la
+      **pintura sobre seda**, donde Vietnam se inventó una modernidad propia. Los blancos de la laca no
+      son pintura: son **cáscara de huevo machacada** incrustada en la resina.
+    window:
+      label: Con una hora, dónde ir
+      body: >-
+        **A la planta de laca y seda**, directo. Lo demás está bien pero eso es lo irrepetible. Y si
+        preferís cambiarlo por la **Ciudadela de Thăng Long**, la única forma que os queda es su
+        **visita nocturna, que solo se hace sábados y domingos, de 18:00 a 21:00** — o sea, esta noche o
+        la de ayer, a cambio del ca trù o del Train Street.
   - block: Atardecer
     time: "atardecer"
     title: El barrio francés y el martini de Graham Greene
