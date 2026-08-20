@@ -1,75 +1,62 @@
 slug: dia-12-siem-reap
-navLabel: "Día 12 · Angkor Thom"
+navLabel: "Día 12 · Siem Reap"
 trip: vietnam
 order: 12
 eyebrow: El plan · Día 12 · mar 22 sep
-title: La ciudad *dentro* de la ciudad
+title: "*Llegada* a Siem Reap"
 dek: >-
-  El día que no existía. Con la vuelta movida al jueves y el vuelo de ida adelantado al lunes, Angkor
-  pasa de dos jornadas a tres — y la primera se dedica entera a **Angkor Thom**, la capital amurallada
-  de nueve kilómetros cuadrados que en el plan viejo había que despachar en una mañana.
+  Un día partido entre dos países. La mañana todavía es Hanói; al caer la tarde, un vuelo de hora y
+  media os deja al otro lado del mapa de Indochina, en la ciudad de los templos. Y la noche se abre
+  con un circo que es, en realidad, una escuela.
 blocks:
-  - block: Amanecer
-    time: "07:30–10:00"
-    title: Ta Prohm a la apertura
+  - block: Mañana
+    time: "mañana libre"
+    title: Última mañana en Hanói
     body: >-
-      Se abre el capítulo por [**Ta Prohm**](#ta-prohm), el templo que la selva no soltó: los **spung**
-      de raíces blancas derramadas sobre los muros, el patio donde rodó *Tomb Raider*, la sensación de
-      ruina encontrada que la École française d'Extrême-Orient decidió **conservar a propósito** en vez
-      de restaurar. Es una decisión de conservación, no un descuido: se apuntaló lo justo para que no se
-      cayera y se dejó el resto como estaba.
+      No hay directo matinal a Siem Reap —solo dos vuelos al día, y los dos vespertinos—, así que la
+      mañana del 22 se queda en Hanói. Un café con calma, lo que quedara pendiente del casco viejo, y
+      las mochilas hechas para el vuelo de la tarde (voláis a Camboya con lo puesto, solo cabina). Sin
+      agenda: el día de verdad empieza en el aeropuerto.
+    window:
+      label: Por qué así
+      body: >-
+        El brief soñaba con «llegar el martes por la mañana», pero en directo eso no existe. Aceptado el
+        hecho, la mañana libre deja de ser un fallo del plan y pasa a ser una mañana **ganada** — la única
+        sin hora de salida antes de que empiece Angkor.
+  - block: Tarde
+    time: "16:20–19:15"
+    title: El vuelo VJ913 a Siem Reap
+    body: >-
+      Traslado a Nội Bài y **vuelo VJ913 (VietJet), ya reservado: Hanói 16:20 → Siem Reap 18:05**,
+      directo, hora y media escasa rumbo al suroeste sobre Laos —el rato justo para llegar a Camboya con
+      [los deberes hechos](#camboya-cine-libros): las películas y los libros que la piedra de Angkor no os
+      va a contar—. Se aterriza en **SAI**, el aeropuerto
+      nuevo (inaugurado a finales de 2023, a unos 45 km al este de la ciudad): transfer del hotel, casi
+      una hora entre campos, y a la habitación de la zona de **Wat Bo** hacia las 19:15.
+    window:
+      label: Por qué este vuelo
+      body: >-
+        De los dos únicos directos —los dos de tarde— este es el barato, y llega con margen de sobra: da
+        tiempo a dejar las mochilas, cenar algo y sentarse en el circo. El colchón contra un retraso se guarda
+        para lo que de verdad importa —el amanecer de mañana—; esta noche, si VietJet se demora, no se
+        pierde nada irremplazable.
+  - block: Noche
+    time: "~20:00"
+    title: Cena en Wat Bo y el circo Phare
+    body: >-
+      Cena rápida en la zona de **Wat Bo** y, a las **20:00**, [**Phare, el circo camboyano**](#phare-circo):
+      teatro-circo narrativo, sin animales, unos setenta minutos bajo una carpa pequeña. No es solo un
+      espectáculo. Phare nació de **Phare Ponleu Selpak**, la escuela de artes que nueve jóvenes
+      ex-refugiados fundaron en Battambang en 1994 —habían aprendido a dibujar como terapia en un campo
+      tras los jemeres rojos—, y los artistas de la pista son sus alumnos becados: cada entrada financia
+      la escuela. La manera de que la primera noche en Camboya no sea solo un traslado.
     window:
       label: Ventana óptima
       body: >-
-        **A la apertura y sin discusión.** Ta Prohm es de los tres o cuatro puntos de Angkor que se
-        colapsan, y a media mañana los patios estrechos se convierten en una cola. A las siete y media
-        hay penumbra verde, humedad y silencio — que es exactamente lo que se viene a ver aquí.
-  - block: Mediodía · siesta
-    time: "11:00–15:00"
-    title: Piscina y horizontal
-    dim: true
-    body: >-
-      Vuelta al hotel, comida tranquila y siesta larga. Aquí la piscina no es un lujo de folleto: es lo
-      que hace **físicamente posible** salir otra vez a las tres. Y hoy además se arrastra un bus
-      nocturno y un vuelo de ayer.
-    window:
-      label: Por qué tanto rato
-      body: >-
-        Porque a mediodía el calor de Camboya aprieta y la luz cae **plana y dura** — la peor hora para
-        la piedra. En Angkor no se gana nada resistiendo al sol: se pierde la foto y se llega muerto a la
-        hora buena.
-  - block: Tarde
-    time: "15:00–18:00"
-    title: El Bayon en su hora, por fin
-    body: >-
-      Y aquí está el regalo de verdad del día nuevo. Se entra en [**Angkor Thom**](#angkor-thom) por la
-      **puerta sur** —con sus filas de dioses y demonios tirando de la serpiente a ambos lados de la
-      calzada— y se va al [**Bayon**](#el-bayon) **a media tarde**: **doscientas dieciséis caras** que
-      sonríen desde cincuenta y tantas torres, con el sol ya bajo entrando de lado y marcando cada
-      párpado y cada labio. Después, la **Terraza de los Elefantes** y la **del Rey Leproso**, que son
-      trescientos metros de bajorrelieve de desfile militar, y el **Baphuon** si queda cuerpo.
-    window:
-      label: El conflicto que este día resuelve
-      body: >-
-        Con dos días en Angkor había un choque sin solución: **el Bayon en su hora mágica (16-17 h,
-        semivacío) y el Tonlé Sap al crepúsculo** son dos últimas luces en lados opuestos de la ciudad, y
-        había que elegir. Con tres días **ya no hay que elegir**: el Bayon se lleva esta tarde y el lago,
-        la de mañana. Las caras se leen mejor con luz rasante que con el sol alto y de frente.
-  - block: Noche
-    time: "20:00"
-    title: El circo Phare
-    body: >-
-      A las **20:00**, [**Phare, el circo camboyano**](#phare-circo): teatro-circo narrativo, sin
-      animales, unos setenta minutos bajo una carpa pequeña. No es solo un espectáculo. Phare nació de
-      **Phare Ponleu Selpak**, la escuela de artes que nueve jóvenes ex-refugiados fundaron en Battambang
-      en 1994 —habían aprendido a dibujar como terapia en un campo tras los jemeres rojos—, y los
-      artistas de la pista son sus alumnos becados: **cada entrada financia la escuela**.
-    window:
-      label: Por qué esta noche y no la de llegada
-      body: >-
-        Porque mañana **no hay amanecer que preparar**: el equinoccio en Angkor Wat es pasado mañana. En
-        el plan viejo el Phare caía la noche del aterrizaje, con el despertador a las 4:15 encima; ahora
-        cae en la única velada de Camboya que puede alargarse sin pagarlo. Reservar con antelación.
+        El Phare se mete **en la noche de llegada** a propósito: es la única velada en que aún no
+        madrugáis. Las dos tardes de templos que vienen se reservan para el crepúsculo sobre el agua, y
+        esta noche —sin amanecer todavía que preparar— es la que sobra para sentarse bajo la carpa. Eso
+        sí: el despertador suena a las **4:15**, así que a la cama pronto.
 dormir:
   lugar: "Siem Reap · Wat Bo"
   ref: '#siem-reap-hotel'

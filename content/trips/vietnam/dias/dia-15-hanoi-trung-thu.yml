@@ -1,72 +1,87 @@
 slug: dia-15-hanoi-trung-thu
-navLabel: "Día 15 · Trung Thu"
+navLabel: "Día 15 · Saigón"
 trip: vietnam
 order: 15
 eyebrow: El plan · Día 15 · vie 25 sep
-title: Hanói, y la noche de *Trung Thu*
+title: Saigón, y la *otra mitad* de la guerra
 dek: >-
-  El día que el plan revisado regaló: Hanói entera, sin un solo vuelo ni traslado. Los lagos del
-  oeste al atardecer, el martini de Graham Greene donde se gestó su novela, y una noche —la más
-  luminosa del año— entre farolillos en Hàng Mã.
+  El único día completo en el sur, y va cargado a propósito. Por la mañana, la guerra contada desde el
+  bando contrario al que la habéis venido oyendo. Por la tarde, un barrio chino que es una ciudad
+  dentro de la ciudad. Y de noche, Trung Thu — porque hoy es la fiesta y aquí también tienen su calle
+  de farolillos.
 blocks:
   - block: Mañana
-    time: "sin prisas"
-    title: Hanói sin agenda
+    time: "07:30–10:00"
+    title: El Museo de los Vestigios de la Guerra
     body: >-
-      Primer día del viaje sin nada que coger —ni vuelo, ni bus, ni tour—. La mañana es para lo que
-      quedara pendiente: un cà phê trứng en un balcón sobre el lago **Hoàn Kiếm**, el casco viejo de los
-      gremios, un museo si apetece —el [Museo de la Mujer](#museo-mujer), o un desvío al
-      oeste para ver el [B-52 del lago Hữu Tiệp](#lago-b52) asomando entre las casas, o la [Ciudadela Imperial de Thăng Long](#ciudadela-thang-long), camino del Lago del Oeste—. El plan viejo llenaba este viernes de aeropuerto; el revisado lo dejó
-      en blanco a propósito.
+      A la apertura, en el 28 de Võ Văn Tần, antes del calor y de los autobuses. Dos horas y media
+      largas, y no son fáciles: las salas de crímenes de guerra, la del **agente naranja** —dura de
+      verdad— y, arriba, la que justifica el viaje entero.
 
-
-      **Y si queréis que la mañana ate cabos, el mejor candidato es el [Museo de Bellas Artes](#museo-bellas-artes)**
-      (Bảo tàng Mỹ thuật, 66 Nguyễn Thái Học, junto al Văn Miếu; **mar-dom 08:30-17:00**, hoy es
-      viernes). Es donde se ve, en una sola planta tras otra, lo que lleváis dos semanas pisando: los
-      **tambores de bronce Đông Sơn** —los mismos que guardan los lô lô al pie de Lũng Cú—, la
-      estatuaria budista del tam giáo, y luego la **laca (sơn mài)** y la **pintura sobre seda**, que es
-      donde Vietnam se inventó una modernidad propia.
+      Se llama ***Requiem***. Es la colección que montaron **Tim Page y Horst Faas** con el trabajo de
+      **134 fotógrafos de todos los bandos que murieron cubriendo Indochina entre 1945 y 1975**. Las
+      copias van impresas en grande y con la luz muy baja, colocadas para que se camine despacio. Es la
+      planta donde la gente deja de hablar.
     window:
-      label: Por qué así
+      label: Por qué esto es el corazón del día
       body: >-
-        Es el único hueco del viaje sin hora de salida. Todo lo demás se ha ganado su sitio a fuerza de
-        logística; hoy no hay más ventana que perseguir que la de no perseguir ninguna. Guardar fuerzas,
-        eso sí, para la noche.
+        Porque en Hanói habréis visto [**Hỏa Lò**](#hoa-lo), el «Hanoi Hilton», y el
+        [**B-52 caído en el lago Hữu Tiệp**](#lago-b52). Eso es la guerra contada desde el norte, desde
+        quien la ganó. Esto es el otro lado del espejo. **El viaje pasa de contar media guerra a
+        contarla entera** — y ese es, más que Saigón, el motivo real de estar aquí.
+  - block: Media mañana
+    time: "10:15–11:45"
+    title: El Palacio de la Reunificación
+    body: >-
+      A diez minutos andando. Es, literalmente, **donde se acabó la guerra**: el **30 de abril de 1975**
+      un tanque del ejército del norte derribó la verja y entró en el jardín, y esa fotografía dio la
+      vuelta al mundo. En el césped hay dos tanques de aquel día.
+
+      Por dentro está **congelado en los sesenta** —moqueta, teléfonos de baquelita, salas de recepción
+      de estado, la sala de mapas— y abajo se bajan **los búnkeres**: pasillos estrechos, radios de
+      campaña y los mapas todavía colgados en las paredes.
+  - block: Mediodía · siesta
+    time: "12:00–15:00"
+    title: Comer y desaparecer del sol
+    dim: true
+    body: >-
+      Comida por la zona y siesta. No es opcional: finales de septiembre en Saigón son **treinta y
+      tantos grados con humedad alta y chaparrón casi diario por la tarde**, y lleváis quince días de
+      viaje encima.
   - block: Tarde
-    time: "atardecer"
-    title: El Lago del Oeste y el martini de Greene
+    time: "15:30–18:00"
+    title: Chợ Lớn, la ciudad dentro de la ciudad
     body: >-
-      Circuito de tarde por el noroeste: la [**pagoda Trấn Quốc**](#pagoda-tran-quoc), la más antigua de Hanói (unos 1.450
-      años), con su estupa roja de once pisos sobre una península del **Lago del Oeste (Hồ Tây)**; y en
-      el vecino lago **Trúc Bạch**, el [**memorial de John McCain**](#memorial-mccain) —el relieve de 1985 que marca dónde
-      cayó su A-4 Skyhawk en octubre de 1967, hoy casi un monumento a la reconciliación—. De ahí, a la
-      puerta de al lado de vuestra propia historia colonial: un **martini «Graham Greene» en el Bamboo
-      Bar del [Metropole](#metropole)**, el hotel donde el escritor gestó *El americano impasible* en 1951. Y, si el
-      cuerpo pide cena, phở cuốn en la isla de [**Ngũ Xã**](#ngu-xa), el barrio de los fundidores de bronce.
+      Veinte minutos al oeste está **Chợ Lớn**, que no es un barrio chino: es **el barrio chino más
+      grande de Vietnam** y lleva ahí desde el siglo XVIII. La parada obligatoria es la **pagoda Thiên
+      Hậu**, dedicada a la diosa del mar que protegía a los que cruzaban desde Fujian: dentro cuelgan del
+      techo **espirales de incienso enormes que arden durante días**, y la luz entra por el patio central
+      entre el humo. Al lado, el mercado de **Bình Tây**, con su torre del reloj afrancesada.
     window:
-      label: Ventana óptima
+      label: Ojo con la hora
       body: >-
-        El Lago del Oeste es un atardecer, no un mediodía: la estupa de Trấn Quốc **contra el sol bajo**,
-        los pescadores y las parejas en scooter mirando cómo se apaga la luz. Es el respiro perfecto —agua
-        y horizonte— antes de zambullirse en el gentío de Hàng Mã al caer la noche.
+        **Thiên Hậu cierra a media tarde** —sobre las 16:30—, así que es lo primero al llegar. El mercado
+        aguanta más. Y conviene quedarse por la zona en vez de volver al centro: lo de esta noche es aquí
+        mismo.
   - block: Noche
-    time: "noche"
-    title: Trung Thu en Hàng Mã
+    time: "19:00–21:00"
+    title: Trung Thu en la calle de los farolillos
     body: >-
-      Y la culminación: la calle **Hàng Mã** en la noche de **Tết Trung Thu**, el Festival del Medio
-      Otoño. La calle del papel votivo y la decoración festiva estalla una vez al año en farolillos de
-      colores, cabezas de león, tambores y una marea de familias con niños. Se llega **a pie y con
-      tiempo** —el casco viejo está al lado— para verla en plena ebullición, no de refilón. Es, sin
-      discusión, la noche más fotogénica del año en Hanói.
+      Y aquí está el remate del viaje. **Lương Nhữ Học**, a diez minutos de la pagoda: **trescientos
+      metros de calle con miles de farolillos**, más de **cincuenta años** de tradición ligada a la
+      comunidad china del barrio, con faroles de carpa, estrella y mariposa **hechos a mano en bambú y
+      celofán** junto a los modernos de led y música.
+
+      Y hoy no es una noche cualquiera: **hoy es Trung Thu**, el día 15 de la octava luna. La fiesta de
+      los niños. Familias enteras con los críos y la linterna, danzas del león, pasteles de luna.
     window:
-      label: Ventana óptima
+      label: La hora buena, y por qué aquí y no en Hanói
       body: >-
-        La noche del **25 de septiembre de 2026 cae exactamente en Trung Thu**: Hàng Mã no vuelve a
-        arder así hasta dentro de un año. Y aquí está el porqué del plan revisado — en la versión vieja se
-        volaba desde Siem Reap este mismo viernes y se llegaba pasadas las nueve, con prisa y recién
-        bajados del avión.
-        Ahora llegáis **andando y descansados**, con la noche entera por delante. Y mañana temprano, la
-        misma calle decorada y vacía: la otra foto.
+        **De siete a nueve**, que es cuando la calle está llena y todavía se puede andar. Y sí: en Hanói
+        habríais tenido Hàng Mã, que es la otra gran calle de farolillos del país. Pero Hàng Mã está
+        decorada **desde principios de septiembre** y Lương Nhữ Học es **la tradición más antigua de las
+        dos**. No habéis cambiado la fiesta por una ciudad — habéis cambiado de calle, y en la noche que
+        toca.
 dormir:
-  lugar: "Hanói · casco viejo, por Trung Thu"
-  ref: '#casco-viejo-noche'
+  lugar: "Saigón · Distrito 1"
+  ref: '#saigon-hotel'

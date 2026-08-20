@@ -1,78 +1,87 @@
 slug: dia-11-hanoi-vuelta
-navLabel: "Día 11 · a Camboya"
+navLabel: "Día 11 · Hanói"
 trip: vietnam
 order: 11
 eyebrow: El plan · Día 11 · lun 21 sep
-title: Del altiplano a *Angkor* en un día
+title: El *último* día en Hanói
 dek: >-
-  El día que el bus cama convierte en puente. Se amanece bajando de la montaña en literas, se cae en
-  una cama de Hanói a las cuatro de la mañana, y a media tarde se vuela a Camboya. No es un día de
-  ver cosas: es el día que le regala **una jornada entera a Angkor**, que era la pieza peor tratada
-  del viaje.
+  Con Saigón en el plan, este deja de ser un día colchón sin agenda y pasa a ser **la última vez que
+  pisáis la capital**. Sigue siendo el airbag antitifón —esa función no se pierde—, pero si el loop
+  salió bien hay que exprimirlo: el circuito del Lago del Oeste, que antes vivía en el día 15, se ha
+  mudado aquí.
 blocks:
-  - block: Madrugada
-    time: "~04:00"
-    title: Llegar a Hanói dormidos
+  - block: Cómo llegar, y la decisión del domingo
+    time: "según el bus"
+    title: De Hà Giang a Hanói
     body: >-
-      El sleeper de Hà Giang deja en Hanói entre las **03:30 y las 05:00**. Por eso la habitación del
-      [Hòa Bình](#hoa-binh) está reservada **desde la noche del 20**, aunque esa noche se pase en el
-      autobús: es la única forma de entrar de madrugada, ducharse y dormir tres o cuatro horas más en
-      horizontal en vez de esperar a las dos de la tarde con las mochilas a cuestas.
-    dim: true
-    window:
-      label: Por qué se paga una noche que no se duerme
-      body: >-
-        Porque cuesta unos sesenta euros y compra lo único que hoy no se puede improvisar: **una ducha y
-        una cama a las cuatro de la mañana** después de cinco días de moto. Sin eso, este día se convierte
-        en diez horas de deambular por el casco viejo esperando un vuelo.
-  - block: Mañana
-    time: "hasta ~13:00"
-    title: Recuperar, y nada más
-    body: >-
-      Dormir, la colada —que después del loop no es un capricho—, y cargar del todo las baterías, las de
-      la cámara y las vuestras. Si queda cuerpo, el casco viejo está en la puerta y hay un
-      [egg coffee](#cafe-giang) esperando; si no, la mejor decisión del día es no hacer nada.
+      Hay dos formas, y **se decide el domingo por la tarde, no antes**:
 
-      Las mochilas, ligeras: a Camboya se va **solo con cabina**.
-    dim: true
+      **Si el loop terminó en hora**, coged el **bus cama la noche del 20** (salidas de 20:15 a 22:00,
+      6-7 h): llegáis entre las cuatro y las seis de la mañana, dormís unas horas más en el hotel y
+      **tenéis el lunes entero**. Reservad la habitación desde la noche del 20 para poder entrar de
+      madrugada.
+
+      **Si el loop se retrasó** por lluvia o carretera cortada, dormid en Hà Giang y bajad en el **bus
+      diurno** del lunes (6-7 h, salida de mañana, llegada a media tarde). Perdéis media jornada de
+      Hanói, pero **no perdéis el vuelo de mañana**, que es lo que importa.
     window:
-      label: El único día del viaje que se defiende vacío a propósito
+      label: Por qué esto sigue siendo el airbag
       body: >-
-        Antes era el colchón antitifón y se guardaba en blanco por si el loop se retrasaba. Ahora ese
-        colchón ya no existe —se ha gastado en ganar un día de Angkor— y este espacio pasa a tener otro
-        trabajo, igual de importante: **que no lleguéis a Camboya reventados**. Mañana el despertador
-        suena de madrugada.
+        Porque **el vuelo a Camboya es el martes 22 y no se mueve**. Este lunes es lo único que separa el
+        final del loop de un vuelo internacional: si un temporal os retrasa un día, se come este día y no
+        el viaje. Por eso el bus nocturno es **un premio si todo fue bien**, no una obligación.
+  - block: Mediodía
+    time: "si llegasteis de madrugada"
+    title: El Templo de la Literatura, que abre los lunes
+    body: >-
+      El **lunes** juega en contra: cierran casi todos los museos —Etnología, Hỏa Lò, Bellas Artes—. Pero
+      el [**Templo de la Literatura**](#van-mieu) **no** (8:00–17:00): Văn Miếu, de **1070**, la primera
+      universidad de Vietnam, cincuenta y cuatro mil metros cuadrados en cinco patios sucesivos con las
+      estelas de los doctores sobre tortugas de piedra. Es el gran monumento que absorbe bien un lunes
+      sin prisa.
+    window:
+      label: Solo si bajasteis de noche
+      body: >-
+        Si llegáis a media tarde en el bus diurno, esto se cae y el día empieza directamente en el Lago
+        del Oeste. No pasa nada: **Văn Miếu también cabe la mañana del domingo 13**.
   - block: Tarde
-    time: "16:20–19:15"
-    title: El vuelo VJ913 a Siem Reap
+    time: "15:30–18:30"
+    title: El circuito del Lago del Oeste
     body: >-
-      Traslado a Nội Bài y **vuelo VJ913 (VietJet): Hanói 16:20 → Siem Reap 18:05**, directo, hora y
-      media escasa rumbo al suroeste sobre Laos — el rato justo para llegar a Camboya con
-      [los deberes hechos](#camboya-cine-libros): las películas y los libros que la piedra de Angkor no
-      os va a contar. Se aterriza en **SAI**, el aeropuerto nuevo, a unos 45 km al este de la ciudad:
-      transfer del hotel, casi una hora entre campos, y a la habitación de **Wat Bo** hacia las 19:15.
+      La tarde se va al noroeste, y es el mejor paseo que le queda a Hanói. La
+      [**pagoda Trấn Quốc**](#pagoda-tran-quoc): **la más antigua de la ciudad**, unos **mil
+      cuatrocientos cincuenta años**, con su estupa roja de once pisos sobre una península del **Hồ Tây**.
+      Al lado, el [**Phủ Tây Hồ**](#phu-tay-ho), templo del culto a las diosas madre.
+
+      Y entre las callejas, dos cosas que no se buscan solas: el
+      [**B-52 caído en el lago Hữu Tiệp**](#lago-b52), derribado en 1972 y todavía medio sumergido entre
+      las casas, y el [**memorial de McCain**](#memorial-mccain) a la orilla del Trúc Bạch, donde cayó su
+      avión.
     window:
-      label: Lo que hay que asegurar al comprarlo
+      label: Ventana óptima
       body: >-
-        Este billete es el que absorbe todo el riesgo del plan nuevo, porque **entre el final del loop y
-        este despegue no queda ni un día de margen**. Cómpralo en **tarifa modificable**, no en la
-        básica: la diferencia de precio es exactamente el seguro que se ha quitado del itinerario. El
-        VJ913 vuela **a diario**, así que si algo se tuerce, hay vuelo al día siguiente — pero solo si la
-        tarifa deja moverlo.
+        **Al caer la tarde.** El Lago del Oeste mira al poniente y la estupa de Trấn Quốc se pone de
+        color con el sol bajo; a mediodía es una postal plana. Y en septiembre el chubasco suele venir a
+        media tarde: si cae, se espera en un café y se sale después, que es cuando mejor queda.
   - block: Noche
-    time: "~20:00"
-    title: Primera cena jemer
+    time: "19:00 en adelante"
+    title: Trúc Bạch, y una última copa
     body: >-
-      Cena tranquila en la zona de **Wat Bo** y a la cama pronto: lleváis un bus nocturno y un vuelo a
-      la espalda y mañana empieza Angkor de verdad. El [circo Phare](#phare-circo) se ha movido a
-      **mañana por la noche**, que es donde ahora encaja sin apretar.
-    dim: true
+      Se cena donde acaba el paseo. En la isla de [**Ngũ Xã**](#ngu-xa) nació el ***phở cuốn*** —el phở
+      convertido en rollito fresco— y hay una calle entera dedicada a él. Al lado, dos opciones muy
+      distintas: [**Aummee**](#aummee), chay budista en cuatro plantas, o el
+      [**Mậu Dịch Số 37**](#mau-dich-37), que reconstruye una tienda estatal de racionamiento de 1980 —
+      con cartilla en la mesa y cupones para pagar.
+
+      Y si queda cuerpo, el [**Bình Minh Jazz Club**](#binh-minh-jazz), a cien metros de la Ópera:
+      directo a las 21:00 todas las noches, sin reserva, en el club que fundó el primer jazzman del país.
     window:
-      label: Por qué el circo ya no es hoy
+      label: Lo que hay que aceptar
       body: >-
-        Antes el Phare iba en la noche de llegada porque era la única velada sin madrugón al día
-        siguiente. Con un día más en Camboya eso deja de ser cierto: **hoy llegáis molidos de verdad** y
-        mañana no hay amanecer que preparar. El circo gana y vosotros también.
+        Que Hanói se queda en **el 12, el 13 y hoy**. Con Saigón dentro, la capital pierde el viernes y
+        el sábado que tenía, y cosas como el **Museo de Bellas Artes** o la **Ciudadela de Thăng Long**
+        solo entran si les hacéis hueco el domingo 13. Es el precio del cambio, y conviene tenerlo en la
+        cabeza al planificar los dos primeros días — no al descubrirlo hoy.
 dormir:
-  lugar: "Siem Reap · Wat Bo"
-  ref: '#siem-reap-hotel'
+  lugar: "Hanói · barrio francés"
+  ref: '#hoa-binh'

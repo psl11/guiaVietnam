@@ -12,8 +12,9 @@ lede: >-
 ledger:
   - label: Lo reservado
     body: >-
-      **Ida** — lun **21 sep**, **VJ913** HAN **16:20 → SAI 18:05** (1 h 45, directo). **Vuelta** — jue
-      **24 sep**, **VN836** de Vietnam Airlines, SAI **18:05 → HAN ~19:50**. Solo cabina, sin maleta
+      **Ida** — mar **22 sep**, **VJ913** HAN **16:20 → SAI 18:05** (1 h 45, directo) `[✓ comprado]`.
+      **Salida de Camboya** — jue **24 sep**, a Saigón por la tarde. **Vuelta a Hanói** — sáb **26 sep**,
+      SGN → HAN a las 13:00, enlazando con el vuelo largo. Solo cabina, sin maleta
       facturada. Ojo con el aeropuerto: **SAI** es el **nuevo** de Siem Reap (abierto en 2023,
       sustituyó al viejo REP), y está a ~45 km del centro — el traslado al hotel es de casi una hora.
   - label: Por qué encajan

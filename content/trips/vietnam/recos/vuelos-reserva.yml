@@ -1,29 +1,39 @@
 slug: vuelos-reserva
-navLabel: "Vuelos internos ✓"
+navLabel: "Vuelos internos"
 trip: vietnam
 order: 6
 kind: reservar
-title: Vuelos internos HAN ⇄ SAI
-area: Camboya
+title: Los tres vuelos del final
+area: Hanói → Camboya → Saigón → Hanói
 status: pendiente
-note: "VJ913 (21 sep) + VN836 (24 sep) · ojo: cambian los dos"
+note: "VJ913 ✓ comprado · faltan SAI-SGN (24) y SGN-HAN (26)"
 body: >-
-  **Los dos billetes cambian, y hay que rehacerlos.** El plan original (VJ913 el 22 + VJ914 el 24) se
-  cayó por un motivo que conviene saber: **el VJ914 no vuela los jueves** —opera lunes, martes,
-  miércoles, viernes y sábado—, así que VietJet canceló la vuelta y ofreció adelantarla al miércoles
-  23, lo que se llevaba por delante un día entero de Angkor.
+  El final del viaje se sostiene sobre tres vuelos, y **solo uno está comprado**.
 
 
-  **La combinación nueva:**
+  **1 · Ida a Camboya — VJ913, martes 22 sep** `[✓ comprado]`. HAN **16:20 → SAI 18:05**, directo,
+  hora y media. Esta fecha es fija y todo lo demás se ordena a partir de ella.
 
 
-  - **Ida · VJ913, lunes 21 sep**, HAN 16:20 → SAI 18:05. Un día antes de lo previsto: es lo que
-    convierte Angkor de día y medio en tres días. Vuela **a diario**. **Cómpralo en tarifa
-    modificable** — entre el final del loop y este despegue no queda margen, y esa diferencia de
-    precio es el único seguro que queda.
-  - **Vuelta · VN836, jueves 24 sep**, SAI 18:05 → HAN ~19:50. **Vietnam Airlines**, que sí cubre la
-    ruta todos los días. Más cara que VietJet, pero incluye maleta y salva el itinerario.
+  **2 · Camboya → Saigón, jueves 24 sep** `[pendiente]`. **Cogedlo entre las 15:00 y las 16:30**: antes
+  os come la mañana de Banteay Srei, y mucho más tarde llegáis de noche cerrada. Hay **cuatro diarios**
+  entre **Vietnam Airlines** y **Air Cambodia**, hora y media de vuelo — pero **el primero no sale hasta
+  las 10:00**, así que las opciones de tarde son pocas y conviene mirarlo pronto.
 
 
-  **Y exigid a VietJet el reembolso íntegro de la vuelta**, no un bono: fue una cancelación suya, no
-  un cambio vuestro. Confirmad el horario del VN836 para esa fecha **antes** de aceptar nada.
+  **3 · Saigón → Hanói, sábado 26 sep** `[pendiente]`. **A las 13:00, no más tarde.** Aterrizáis sobre
+  las 15:15 y el vuelo a casa sale a las 20:40: más de cuatro horas de margen. Es el tramo del que
+  depende todo el regreso, así que **Vietnam Airlines antes que las low-cost**, y ojo con la trampa: en
+  septiembre **Tân Sơn Nhất acumula retrasos por la tarde** —hay días de 45 minutos a dos horas en la
+  ruta de Hanói— y los retrasos crecen según avanza la jornada.
+
+
+  **Y lo que hay que tener claro de este último:** son **billetes separados** del vuelo de casa. Si se
+  retrasa, la aerolínea larga no responde. La ruta tiene salidas **cada media hora**, así que saliendo a
+  las 13:00 os quedan doce o quince vuelos por detrás; saliendo a las 17:00, tres. Ahí está toda la
+  diferencia.
+
+
+  *(El VJ914 de vuelta que se canceló ya no hace falta: **el VJ914 no vuela los jueves** —opera lunes,
+  martes, miércoles, viernes y sábado—, y por eso VietJet tumbó la reserva original. Exigidles el
+  **reembolso íntegro**, que fue cancelación suya y no cambio vuestro.)*

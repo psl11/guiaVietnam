@@ -36,9 +36,10 @@ sections:
       las dos cuentan cómo un país colonizado cogió una herramienta europea —el cuadro— y la rellenó
       con materiales y una mirada que no lo eran.
   - body: |
-      **Práctico:** **martes a domingo, 08:30-17:00**; **cierra los lunes**. Su hueco es la mañana libre
-      del [día 15](#dia-15-hanoi-trung-thu), que es viernes. Entrada barata. Con dos horas se ve bien; con
-      una, la planta de laca y seda.
+      **Práctico:** **martes a domingo, 08:30-17:00**; **cierra los lunes**. Y ahí está el problema: con
+      Saigón en el plan, los días de Hanói se quedan en el 12, el 13 y la tarde del 21 — **y el 21 es
+      lunes**. Así que este museo **solo entra si le hacéis hueco el domingo 13**, robándole un par de
+      horas al casco viejo. Entrada barata. Con dos horas se ve bien; con una, la planta de laca y seda.
 curiosidades:
   - >-
     Los blancos de la pintura en laca no son pintura: son **cáscara de huevo machacada e incrustada**
@@ -53,8 +54,6 @@ curiosidades:
     europea a alumnos vietnamitas. Salió al revés de lo previsto: sus alumnos cogieron el caballete
     francés y lo llenaron de laca y seda — y de ahí nació la pintura moderna del país.
 seenIn:
-  - ref: '#dia-15-hanoi-trung-thu'
-    label: Día 15 · la mañana libre
   - ref: '#tam-giao'
     label: El tam giáo
   - ref: '#vietnam-artes-vivas'

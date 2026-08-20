@@ -1,55 +1,79 @@
 slug: dia-16-despedida
-navLabel: "Día 16 · Despedida"
+navLabel: "Día 16 · adiós"
 trip: vietnam
 order: 16
 eyebrow: El plan · Día 16 · sáb 26 sep
-title: "*Adiós*, Hanói"
+title: La mañana de *Greene*, y a casa
 dek: >-
-  La última mañana es un regalo tramposo de belleza: Hàng Mã amanece decorada y desierta, la resaca
-  luminosa del festival de anoche, y el casco viejo es todo vuestro antes de que despierte. Un egg coffee
-  de despedida en el balcón que mira al lago —el que abrió la hija del hombre que lo inventó— y, ya sin
-  prisa, el camino al aeropuerto para el vuelo de las 20:40.
+  El último día empieza con el único cabo que el viaje llevaba suelto desde Hanói: la calle donde
+  transcurre *El americano impasible*, en la ciudad donde se escribió. Un kilómetro andando, un café en
+  la terraza correcta, y al aeropuerto.
 blocks:
-  - block: Amanecer
-    time: "05:30"
-    title: El casco viejo al alba y Hàng Mã en calma
+  - block: Mañana
+    time: "08:00–10:30"
+    title: Đồng Khởi, la vieja rue Catinat
     body: >-
-      Una última vuelta a pie por el casco viejo con la luz recién nacida: los mercadillos improvisados, el
-      tai-chi junto al lago, los repartidores, la luz dorada rasante entre las paredes desconchadas. Y el
-      clímax, la calle **Hàng Mã**: la calle del papel votivo y la decoración festiva, que anoche —noche del
-      Festival del Medio Otoño— fue una marea humana de farolillos, cabezas de león y tambores. Esta mañana
-      siguen los farolillos, pero no la gente.
+      Desayuno y andando, que aquí todo cae junto. **Đồng Khởi** —«levantamiento de masas»— es el nombre
+      actual de la **rue Catinat**, el kilómetro que baja de la catedral al río Saigón y por el que
+      respira entera la novela de Greene.
+
+      Café en la **terraza del Hotel Continental** (1880), que los corresponsales de guerra apodaron
+      **«Radio Catinat»** porque allí se cruzaban periodistas, mandos militares y espías. **Greene se
+      alojaba en la habitación 214**, la de la esquina de la primera planta, elegida para dominar la
+      plaza de la Ópera y la calle. Está justo encima de vuestra mesa.
+
+      Enfrente, la **Ópera Municipal** (1897). Y calle abajo, hasta el **Hotel Majestic**, en la orilla
+      del río.
     window:
-      label: Ventana óptima
+      label: Por qué esto cierra el viaje y no otra cosa
       body: >-
-        Hàng Mã la mañana después de Trung Thu es la foto que nadie tiene: **decorada pero vacía**, mientras el
-        barrio duerme la fiesta. El contraste con la marea de anoche es, en sí mismo, un proyecto fotográfico —
-        y solo existe en esta única mañana del año, y solo si madrugáis antes de que la calle se despierte.
-  - block: Media mañana
-    time: "media mañana"
-    title: El último egg coffee, en el balcón del Café Đinh
+        Porque es el tercer vértice. En Hanói os bebisteis el martini de Greene en el
+        [Bamboo Bar del Metropole](#metropole); en Ninh Bình pasasteis por
+        [Phát Diệm](#phat-diem), desde cuyo campanario miró los combates en 1951. **Pero la novela no
+        transcurre en el norte: transcurre aquí.** Y el movimiento es el mismo del Metropole — no dormir
+        dentro del icono, sino pagar la consumición y quedarse con el relato.
+
+        *(La **catedral de Notre-Dame sigue en obras hasta 2027** y con andamios. Se ve por fuera, pero no
+        esperéis la postal.)*
+  - block: Mediodía
+    time: "10:45–15:15"
+    title: Tân Sơn Nhất y el salto a Hanói
     body: >-
-      El café de despedida se toma en el **Cà Phê Đinh** (13 Đinh Tiên Hoàng): se sube por una escalera que
-      parece de vivienda privada hasta un balcón destartalado, en un segundo piso, asomado al lago Hoàn Kiếm.
-      Un egg coffee más ligero que el del origen, y unas vistas que valen la despedida.
+      Al aeropuerto sobre las **10:45** —está a siete kilómetros, pero el tráfico de Saigón es lo que
+      es— y **vuelo a Hanói hacia las 13:00**, dos horas y cuarto, con llegada sobre las **15:15**.
     window:
-      label: Por qué aquí
+      label: Por qué a las 13:00 y no más tarde
       body: >-
-        Porque cierra el círculo. El tercer día probasteis el café-huevo en su cuna, el Giảng del padre que lo
-        inventó; hoy os despedís en el balcón de la **hija**, la Sra. Bích, que abrió esta casa en 1984. Empezar
-        el viaje en el origen y terminarlo en su heredera, con el lago debajo, es el mejor punto final posible.
+        Porque **Tân Sơn Nhất se atasca por las tardes** y estáis en temporada de lluvias: hay tardes en
+        que a las cinco los paneles dan retrasos de **45 minutos a dos horas** en los vuelos a Hanói. Los
+        retrasos se acumulan a lo largo del día, así que cuanto más temprano, más puntual.
+
+        Saliendo a las 13:00 aterrizáis a las 15:15 y os sobran **más de cuatro horas**; aunque os caiga
+        un retraso de dos, seguís cogiendo el vuelo a casa. Saliendo a las 16:00, ese mismo retraso os
+        deja fuera. Y **Vietnam Airlines antes que las low-cost** en este tramo, que es del que depende
+        todo.
   - block: Tarde
-    time: "tarde"
-    title: La tarde se deshace hacia el vuelo de vuelta
+    time: "15:15–20:40"
+    title: El enlace en Nội Bài, y el vuelo largo
     body: >-
-      Lo que quedara pendiente, las mochilas hechas, una última comida sin reloj — y el traslado a Nội Bài (unos 27 km)
-      con margen de sobra. El vuelo de vuelta despega a las **20:40**, así que la tarde no tiene por qué correr:
-      es el epílogo tranquilo de dieciséis días.
+      Aterrizáis en **T1** (nacional) y salís por **T2** (internacional). Los une una **lanzadera
+      eléctrica gratuita cada quince minutos**, con **cuatro o cinco minutos** de trayecto; se coge en la
+      zona A de la planta baja de T1. Como **voláis solo con cabina**, no hay maletas que recoger: de
+      pisar la pasarela a estar en el mostrador de T2 son unos cuarenta minutos.
+
+      En la terminal internacional sobre las **16:00**, y el vuelo largo a casa a las **20:40**.
     window:
-      label: Por qué así
+      label: El único riesgo del día
       body: >-
-        Que el vuelo largo salga por la noche convierte todo el día en un regalo: no hay que sacrificar la
-        mañana de Hàng Mã ni el café del balcón a una salida de madrugada. La única cautela es el tráfico hacia
-        el aeropuerto — con salir a media tarde, sobra tiempo. Hanói os deja marchar despacio.
-dormir:
-  lugar: "Vuelo de vuelta a Barcelona"
+        Son **billetes separados**: si el vuelo de Saigón se retrasa, la aerolínea de casa no responde
+        por vosotros. Por eso el margen no es un lujo. Llevad el localizador del vuelo largo a mano y, si
+        algo se tuerce en Saigón, **cambiad al siguiente vuelo en el mostrador, no esperando** — la ruta
+        SGN-HAN tiene salidas cada media hora y a las 13:00 os quedan doce o quince por detrás.
+  - block: Noche
+    time: "20:40"
+    title: Se acabó
+    dim: true
+    body: >-
+      Dieciséis días desde el casco viejo de Hanói hasta aquí, con el altiplano de Đồng Văn, el karst de
+      Ninh Bình, el equinoccio sobre Angkor Wat y una calle de farolillos en Chợ Lớn por el camino. Se
+      duerme en el avión.

@@ -1,75 +1,80 @@
 slug: dia-14-angkor-vuelta
-navLabel: "Día 14 · Angkor + vuelta"
+navLabel: "Día 14 · Angkor → Saigón"
 trip: vietnam
 order: 14
 eyebrow: El plan · Día 14 · jue 24 sep
-title: La *joya rosa* y el regreso
+title: La *joya rosa*, y el salto al sur
 dek: >-
-  El segundo día grande de [Angkor](#angkor) mira al norte: la arenisca rosa de Banteay Srei a la apertura y un
-  circuito de templos que la selva no ha soltado. A mediodía se cierra el capítulo camboyano; al
-  anochecer, de vuelta a Hanói.
+  La mañana se gasta en lo mejor que queda de Angkor: la arenisca rosa de Banteay Srei a la apertura y
+  un par de templos que la selva no ha soltado, de vuelta por el circuito norte. Y por la tarde, el
+  cambio de país y de mundo — de la piedra jemer al Vietnam del sur.
 blocks:
   - block: Amanecer
-    time: "05:15"
+    time: "05:45–08:30"
     title: Banteay Srei, la joya rosa
     body: >-
-      Salida a las **5:15**: [**Banteay Srei**](#banteay-srei) está a 37 km del recinto central, y esa lejanía es justo
-      la razón de ir primero. Se llega a su **apertura, a las 7:30**, al templo de 967 d.C. cuya
-      arenisca rosada permite la talla más fina y minuciosa de todo el arte jemer. Es pequeño —tres
-      cuartos de hora— y se saborea despacio; fue aquí donde un joven **André Malraux** fue detenido en
-      1923 por arrancar y llevarse bajorrelieves, episodio que noveló en *La Vía Real*. Mirad los
-      dinteles con esos ojos.
+      Salida a las **5:45**: [**Banteay Srei**](#banteay-srei) está a 37 km del recinto central, y esa
+      lejanía es justo la razón de ir primero. Se llega a su **apertura, a las 7:30**, al templo de **967
+      d.C.** cuya arenisca rosada permite **la talla más fina y minuciosa de todo el arte jemer** — tan
+      fina que durante décadas se dudó de que fuera obra jemer.
+
+      Es pequeño y se ve en tres cuartos de hora. Fue aquí donde un joven **André Malraux** fue detenido
+      en 1923 por arrancar y llevarse bajorrelieves, episodio que después noveló en *La Vía Real*.
     window:
       label: Ventana óptima
       body: >-
-        Llegar a la apertura es la jugada entera. A las 9:30 descargan los autobuses; antes, los patios
-        son casi vuestros. Y la piedra rosa **pide luz de primera hora**: rasante y suave, saca el relieve
-        de cada dintel — a mediodía la misma talla se aplana y se apaga.
+        **A la apertura, sin discusión.** Es un templo diminuto y con talla de orfebre: con veinte
+        personas dentro ya no se ve nada. A las siete y media hay luz rasante sobre la arenisca rosa —que
+        es cuando el rosa es rosa de verdad— y prácticamente nadie.
   - block: Mañana
-    time: "hasta ~13:00"
-    title: "El circuito grande: Preah Khan, Neak Pean, Ta Som"
+    time: "09:30–11:30"
+    title: La vuelta por el circuito norte
     body: >-
-      De vuelta hacia el sur, el **circuito grande** enhebra tres templos que la jungla sigue
-      abrazando. [**Preah Khan**](#preah-khan), hermano de Ta Prohm pero sin sus multitudes: corredores de un
-      kilómetro, la mejor relación piedra/silencio del parque. [**Neak Pean**](#neak-pean), la isla de cinco estanques
-      en cruz sobre el gran baray de Jayatataka. Y **Ta Som**, cuya puerta oriental desaparece bajo las
-      raíces de una higuera. Hacia las **13:00**, de vuelta al hotel.
+      De regreso quedan de camino los dos que más compensan de lo que falta:
+      [**Preah Khan**](#preah-khan), que es como Ta Prohm pero sin gente —un templo-monasterio enorme y
+      derrumbado que se cruza de punta a punta por un eje de puertas cada vez más pequeñas—, y
+      [**Neak Pean**](#neak-pean), la islita en cruz de cinco estanques.
     window:
-      label: Ventana óptima
+      label: Neak Pean solo existe ahora
       body: >-
-        **Neak Pean solo tiene agua en la época húmeda** — y septiembre es ese momento: los cinco
-        estanques llenos, el baray desbordado, la pasarela cruzando sobre el agua. En seca es un barrizal
-        agrietado que no dice nada. La estación que «estropea» otros viajes es aquí la que regala el templo.
+        **Neak Pean solo tiene agua en la época húmeda**, y septiembre es su momento: los cinco estanques
+        llenos, el baray desbordado y la pasarela cruzando por encima del agua. En seca es un barrizal
+        agrietado que no dice nada. Si el tiempo aprieta y hay que elegir uno de los dos, **es este**.
   - block: Mediodía
-    time: "12:30–14:30"
-    title: Comida, ducha y cierre de Angkor
+    time: "12:00–13:30"
+    title: Ducha, comida y cierre de Camboya
     body: >-
-      Comida tranquila en el hotel, ducha y equipaje. Es la despedida de Angkor y de Camboya: **tres
-      días** que han ido de las doscientas dieciséis caras del Bayon a media tarde al amanecer del
-      equinoccio sobre Angkor Wat, y del crepúsculo sobre el Tonlé Sap a esta arenisca rosa. Un último
-      café con calma antes de deshacer la habitación de Wat Bo.
-    window:
-      label: Por qué se cierra hoy y no mañana
-      body: >-
-        Porque mañana es **25 de septiembre y en Hanói es Trung Thu**, la noche de los farolillos, que
-        tiene fecha fija y no se mueve. Un cuarto día en Angkor sonaba tentador —sería Beng Mealea, Koh
-        Ker, los templos de Roluos—, pero se pagaría con el viernes entero en Hanói y con llegar a Hàng
-        Mã a las nueve y media de la noche recién bajados de un avión. No compensa.
+      Vuelta al hotel, comida, ducha y equipaje. Se cierra Angkor: **un amanecer de equinoccio, el templo
+      más grande del mundo, doscientas dieciséis caras, la selva sobre Ta Prohm y la talla más fina del
+      arte jemer** en poco más de dos días. No está todo, pero está lo que importa.
+    dim: true
   - block: Tarde
-    time: "14:30–19:50"
-    title: El vuelo VN836 de vuelta a Hanói
+    time: "13:30–18:00"
+    title: El vuelo a Saigón
     body: >-
-      Salida del hotel hacia SAI a las **14:30** —el aeropuerto está a 45 km y conviene el colchón— y
-      **vuelo VN836 (Vietnam Airlines): Siem Reap 18:05 → Hanói ~19:50**. Al casco viejo con la noche
-      del jueves por delante, solo para descansar. Mañana no hay despertador.
+      Salida hacia **SAI** a las **13:30** —el aeropuerto está a unos 45 km al este y conviene el
+      colchón— y **vuelo a Ciudad Ho Chi Minh**, hora y media. Hay **cuatro diarios** entre Vietnam
+      Airlines y Air Cambodia; el primero sale a las 10:00, así que hay que coger **uno de los de la
+      tarde** para no perder la mañana de Banteay Srei.
+
+      Se aterriza en **Tân Sơn Nhất**, que —a diferencia del de Siem Reap— está **a siete kilómetros del
+      centro**: media hora de taxi y estáis en el hotel.
     window:
-      label: Por qué este vuelo y no el VJ914
+      label: Lo que hay que mirar al comprarlo
       body: >-
-        Porque **el VJ914 no vuela los jueves**: opera lunes, martes, miércoles, viernes y sábado, y por
-        eso VietJet canceló el billete original y quiso empujarnos al miércoles 23 — lo que se habría
-        llevado por delante este día entero. La salida fue cambiar de compañía: **Vietnam Airlines cubre
-        la ruta a diario**. Cuesta más, pero incluye maleta facturada y mantiene el itinerario en pie.
-        Sale una hora antes que el VJ914, así que hoy se sale del hotel a las 14:30 y no a las 15:30.
+        Que salga **entre las 15:00 y las 16:30**. Antes os come Banteay Srei; mucho después, llegáis de
+        noche cerrada y perdéis la primera tarde de Saigón, que es cuando la ciudad se enciende.
+  - block: Noche
+    time: "~19:00"
+    title: Primera noche en el sur
+    body: >-
+      Nada exigente: **Nguyễn Huệ**, la avenida peatonal, y el **Cafe Apartments** del número 42 — un
+      bloque de viviendas de los sesenta donde cada apartamento es hoy una cafetería distinta, con los
+      balcones encendidos como un panal. Cena por la zona y a dormir.
+
+      Y notad el cambio: **esto ya no es el norte**. Hace más calor, se habla más alto, hay más coches
+      que motos y la calle huele distinto. Habéis cruzado a otro Vietnam.
+    dim: true
 dormir:
-  lugar: "Hanói · barrio francés"
-  ref: '#hoa-binh'
+  lugar: "Saigón · Distrito 1"
+  ref: '#saigon-hotel'

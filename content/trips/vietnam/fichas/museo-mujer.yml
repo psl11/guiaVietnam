@@ -37,7 +37,7 @@ sections:
     body: |
       Abre **a diario, de 8:00 a 17:00** —así lo dan casi todas las fuentes, aunque alguna lo cierra los
       lunes: **confirmadlo si caéis en lunes**—. Su hueco es la
-      **mañana sin agenda del [día 15](#dia-15-hanoi-trung-thu)**, o cualquier chaparrón: está en pleno
+      **tarde del [día 11](#dia-11-hanoi-vuelta)**, o cualquier chaparrón: está en pleno
       centro, a un paso del lago, y una hora y media basta.
 curiosidades:
   - >-
@@ -53,5 +53,5 @@ curiosidades:
 seenIn:
   - ref: '#phu-tay-ho'
     label: "El culto a las Diosas Madres"
-  - ref: '#dia-15-hanoi-trung-thu'
-    label: "Día 15 · tarde de lluvia"
+  - ref: '#dia-11-hanoi-vuelta'
+    label: "Día 11 · tarde de lluvia"
