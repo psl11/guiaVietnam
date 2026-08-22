@@ -1,39 +1,38 @@
 slug: vuelos-reserva
-navLabel: "Vuelos internos"
+navLabel: "Vuelos internos ✓"
 trip: vietnam
 order: 6
 kind: reservar
 title: Los tres vuelos del final
 area: Hanói → Camboya → Saigón → Hanói
-status: pendiente
-note: "VJ913 ✓ comprado · faltan SAI-SGN (24) y SGN-HAN (26)"
+status: reservado
+note: "Los tres comprados · VJ913 (22) + K6 824 (24) + VJ142 (26)"
 body: >-
-  El final del viaje se sostiene sobre tres vuelos, y **solo uno está comprado**.
+  **Cerrado.** El final del viaje se sostiene sobre tres vuelos y los tres están comprados.
 
 
-  **1 · Ida a Camboya — VJ913, martes 22 sep** `[✓ comprado]`. HAN **16:20 → SAI 18:05**, directo,
-  hora y media. Esta fecha es fija y todo lo demás se ordena a partir de ella.
+  - **VJ913 · martes 22 sep** — HAN **16:20 → Siem Reap 18:05** (VietJet, 1 h 45, directo).
+  - **K6 824 · jueves 24 sep** — Siem Reap **18:30 → Saigón 19:50** (Air Cambodia, 1 h 25). Vuela lunes,
+    martes, miércoles, jueves y sábado; el 24 es jueves, así que entra.
+  - **VJ142 · sábado 26 sep** — Saigón **13:25 → Hanói 15:35** (VietJet, 2 h 10, diario).
 
 
-  **2 · Camboya → Saigón, jueves 24 sep** `[pendiente]`. **Cogedlo entre las 15:00 y las 16:30**: antes
-  os come la mañana de Banteay Srei, y mucho más tarde llegáis de noche cerrada. Hay **cuatro diarios**
-  entre **Vietnam Airlines** y **Air Cambodia**, hora y media de vuelo — pero **el primero no sale hasta
-  las 10:00**, así que las opciones de tarde son pocas y conviene mirarlo pronto.
+  **Lo que hay que saber de cada uno, más allá de la hora:**
 
 
-  **3 · Saigón → Hanói, sábado 26 sep** `[pendiente]`. **A las 13:00, no más tarde.** Aterrizáis sobre
-  las 15:15 y el vuelo a casa sale a las 20:40: más de cuatro horas de margen. Es el tramo del que
-  depende todo el regreso, así que **Vietnam Airlines antes que las low-cost**, y ojo con la trampa: en
-  septiembre **Tân Sơn Nhất acumula retrasos por la tarde** —hay días de 45 minutos a dos horas en la
-  ruta de Hanói— y los retrasos crecen según avanza la jornada.
+  **El K6 sale tarde, y eso es bueno y malo a la vez.** Bueno porque os deja **el jueves entero en
+  Angkor** —hay que salir del hotel sobre las 15:45, no a mediodía—. Malo porque llegáis al hotel de
+  Saigón hacia las **21:00**: esa noche no da para nada más que cenar. Todo lo de Saigón se concentra
+  en el viernes y el sábado por la mañana.
 
 
-  **Y lo que hay que tener claro de este último:** son **billetes separados** del vuelo de casa. Si se
-  retrasa, la aerolínea larga no responde. La ruta tiene salidas **cada media hora**, así que saliendo a
-  las 13:00 os quedan doce o quince vuelos por detrás; saliendo a las 17:00, tres. Ahí está toda la
-  diferencia.
+  **El VJ142 es el que sostiene el regreso**, y va holgado: aterriza a las 15:35 en **T1** y el vuelo a
+  casa sale a las **20:40 desde T2**. Como voláis solo con cabina, no hay maletas que recoger; la
+  **lanzadera entre terminales es gratuita, cada quince minutos y tarda cuatro**. En T2 sobre las
+  16:20, con **más de cuatro horas de margen**.
 
 
-  *(El VJ914 de vuelta que se canceló ya no hace falta: **el VJ914 no vuela los jueves** —opera lunes,
-  martes, miércoles, viernes y sábado—, y por eso VietJet tumbó la reserva original. Exigidles el
-  **reembolso íntegro**, que fue cancelación suya y no cambio vuestro.)*
+  Dos avisos sobre ese último tramo: son **billetes separados** del vuelo de casa, así que un retraso
+  no lo cubre nadie — y el VJ142 acumula **retrasos frecuentes, de unos 38 minutos de media**. Con el
+  margen que hay, incluso un retraso de dos horas os deja llegar; pero si en Saigón veis que se va de
+  las manos, **cambiad al siguiente en el mostrador**: la ruta tiene salidas cada media hora.

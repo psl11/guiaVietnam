@@ -64,7 +64,7 @@ blocks:
         aguanta más. Y conviene quedarse por la zona en vez de volver al centro: lo de esta noche es aquí
         mismo.
   - block: Noche
-    time: "19:00–21:00"
+    time: "19:00–23:00"
     title: Trung Thu en la calle de los farolillos
     body: >-
       Y aquí está el remate del viaje. **Lương Nhữ Học**, a diez minutos de la pagoda: **trescientos
@@ -74,6 +74,15 @@ blocks:
 
       Y hoy no es una noche cualquiera: **hoy es Trung Thu**, el día 15 de la octava luna. La fiesta de
       los niños. Familias enteras con los críos y la linterna, danzas del león, pasteles de luna.
+
+      Y para cerrar el viaje, de vuelta al Distrito 1: el **Saigon Saigon Bar**, la azotea del
+      **Caravelle** (1959), que abre hasta tarde. Ahí tuvieron oficina las delegaciones de **NBC, ABC y
+      CBS**, y desde la **décima planta** los corresponsales veían el frente **con la cerveza en la
+      mano** — en la ofensiva del Tet del 68 y en el asalto final de 1975. Apenas ha cambiado.
+
+      Es el otro extremo del hilo que mañana se cierra en la terraza del **Continental**: allí es el
+      Saigón de Greene y los años cincuenta; aquí, el de los reporteros de la guerra americana. Dos
+      barras y dos guerras, a cuatro manzanas.
     window:
       label: La hora buena, y por qué aquí y no en Hanói
       body: >-
