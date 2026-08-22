@@ -1,0 +1,47 @@
+slug: cao-lau-thanh
+navLabel: "Cao lầu Thanh"
+trip: vietnam
+part: vietnam
+city: "Hoi An"
+category: comida
+order: 96
+title: Cao lầu Thanh
+tipo: familiar de toda la vida
+area: "Calle Thái Phiên · fuera del circuito de las tiendas"
+cuando: "Hoi An · comida del día 10, nada más llegar"
+precio: "40-60k ₫ (~1,5-2,2 €)"
+reserva: "No"
+colas: "A mediodía, algo"
+veg: >-
+  **Piden aviso.** El fideo en sí es vegetal, pero el clásico va con cerdo y con su jugo. Hay que pedir
+  ***cao lầu chay*** y no todas las casas lo tienen — aquí sí, con seta, pero es mejor confirmarlo al
+  sentarse. Para ir sobre seguro, **Minh Hiền**.
+quePedir: >-
+  Cao lầu y punto. Y **no lo revolváis nada más servirlo**: se mezcla desde abajo, poco a poco, para que
+  los cuadraditos fritos no se ablanden todos a la vez.
+body: >-
+  El [**cao lầu**](#cao-lau) es **el fideo de un solo pueblo** y este es de los sitios donde se hace
+  como se hacía: casa de familia en Thái Phiên, tres mesas, sin carta en inglés y con la abuela en la
+  olla. Está a cuatro calles del puente japonés y a cero metros del circuito de las tiendas de
+  farolillos, que es exactamente lo que lo salva.
+
+  Fijaos en lo que llega al plato, porque es un cruce que no existe en ningún otro sitio de Vietnam: el
+  **fideo grueso y correoso** parece *udon* japonés, el cerdo va laqueado a la manera del ***char siu***
+  cantonés y encima van **cuadraditos de la propia masa fritos** — japonés, chino y vietnamita en el
+  mismo cuenco, que es literalmente la historia de este puerto.
+
+  Y la leyenda que todo el mundo os va a contar: que **solo puede hacerse aquí**, porque el arroz se
+  trata con **lejía de ceniza de las islas Cham** y con agua del **pozo Bá Lễ**. Cierto o no, en Hanói
+  no sabe igual.
+
+  *(La alternativa barata y muy buena son los puestos del **mercado central**, a mediodía. Menos
+  cómodos, mismo fideo. Y si hay dudas con lo vegetariano, [**Minh Hiền**](#minh-hien-chay) lo resuelve
+  sin preguntas.)*
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Cao+lau+Thanh+Thai+Phien+Hoi+An"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#cao-lau'
+    label: El cao lầu
+  - ref: '#hoi-an'
+    label: Hoi An

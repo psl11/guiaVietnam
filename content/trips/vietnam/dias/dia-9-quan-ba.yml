@@ -1,0 +1,79 @@
+slug: dia-9-quan-ba
+navLabel: "Día 9 · vuelta a Hà Giang"
+trip: vietnam
+order: 9
+eyebrow: El plan · Día 9 · sáb 19 sep
+title: La *Puerta del Cielo*, y bajar
+dek: >-
+  La última etapa es corta y va cuesta abajo. Una cueva, el mirador que cierra el altiplano y el gran
+  puerto de bajada al valle. A las cuatro estáis en Hà Giang, y entonces empiezan cinco horas que
+  parecen sobrar y no sobran: ducha, colada, la cena de despedida con los pilotos y, a las diez, el bus
+  cama a Hanói.
+blocks:
+  - block: Mañana
+    time: "08:00–09:30"
+    title: La cueva de Lũng Khuy y la Puerta del Cielo
+    body: >-
+      Se arranca desde Nậm Đăm hacia la **cueva de Lũng Khuy**, que se abrió al público en 2015 y todavía
+      va poco visitada: un kilómetro de galerías con pasarela, estalactitas y una boca colgada sobre el
+      valle.
+
+      Y después, el mirador que cierra el altiplano: la [**Puerta del Cielo de Quản Bạ**](#quan-ba)
+      —**Cổng Trời**, a 1.500 m—, que hasta 1939 estuvo literalmente cerrada con una puerta de madera
+      para controlar el paso al feudo de los Vương. Desde el balcón se ven abajo las **montañas
+      gemelas**, dos colinas cónicas casi idénticas que la leyenda hmong explica como los pechos de un
+      hada que se quedó a criar a su hijo.
+    window:
+      label: La mejor hora del viaje para este mirador
+      body: >-
+        **Entre las ocho y las nueve y media**, y por la niebla. En septiembre el valle de Quản Bạ
+        amanece **relleno de nube hasta media ladera**, y las dos colinas asoman por encima como dos
+        islas. Va deshaciéndose a lo largo de la mañana y a mediodía es un valle normal y verde. Es la
+        razón de que este mirador caiga hoy y no el primer día, y conviene saberlo para no
+        entretenerse desayunando.
+  - block: Mediodía
+    time: "10:00–14:00"
+    title: El paso de Bắc Sum, y abajo
+    body: >-
+      La bajada al valle por el **paso de Bắc Sum**, la gran rampa de curvas de herradura que enlaza el
+      altiplano con el río Lô — el mismo tramo que subisteis el miércoles pero al revés, que es cuando
+      de verdad se ve, porque bajando lo tenéis todo de frente. Comida por el camino y una última parada
+      en la **cascada de Hà Thành** antes de entrar en la ciudad.
+  - block: Tarde
+    time: "16:00–21:15"
+    title: Las cinco horas de Hà Giang
+    body: >-
+      Se llega a **Hà Giang sobre las cuatro** y el bus no sale hasta las diez. Parece tiempo muerto y
+      es lo contrario: es la única ventana del viaje para dejar el equipaje en condiciones antes de que
+      empiece el bloque del sur. El detalle de qué hacer con cada hora está en
+      [la ficha de la ciudad](#ha-giang-ciudad), pero el orden importa —**la colada, lo primero, que es
+      lo único que tiene reloj**— y la cena de despedida con los pilotos es de lo que se recuerda del
+      loop.
+
+      Aquí es también donde se da **la propina**: **100.000-170.000 ₫ por día y viajero**, en đồng y en
+      mano. Para cuatro días y dos personas salen unos **800.000-1.400.000 ₫** (28-48 €). No es
+      obligatoria y es la norma.
+    window:
+      label: Por qué el bus de las diez y no el de las cinco
+      body: >-
+        BiBi vende tres salidas —17:00, 19:30 y 22:00— y **la de las cinco es una trampa**: el tour
+        vuelve *a las cuatro*, así que serían sesenta minutos de margen para un día que termina con un
+        puerto de montaña donde una lluvia mete hora y media de retraso. Con la de las diez tenéis
+        **seis horas de colchón**, tiempo para ducha y colada, y el traslado se convierte en sueño en
+        vez de comerse una tarde. La de las 19:30 llega a Hanói a las dos o las tres de la madrugada,
+        que es la peor hora posible.
+  - block: Noche
+    time: "22:00"
+    title: El bus cama a Hanói
+    body: >-
+      **VIP cabina, recogida en el hotel a las 21:30 y salida a las 22:00**, siete horas hasta el casco
+      viejo de Hanói. Va reservado con BiBi junto con el tour — los detalles, en
+      [los traslados de Hà Giang](#traslado-ha-giang).
+
+      Y con esto se cierra el norte: **cuatro días de moto, el cañón del Nho Quế, Mã Pí Lèng, el punto
+      más al norte del país y una noche en casa de una familia dao**. Mañana os despertáis en Hanói a
+      las cinco de la mañana y voláis al centro, que es otro Vietnam.
+    dim: true
+dormir:
+  lugar: "Bus cama Hà Giang → Hanói"
+  ref: '#traslado-ha-giang'

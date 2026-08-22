@@ -69,22 +69,25 @@ blocks:
         que ver ni que fotografiar. Cierra a las **16:45**, así que la última barca sale antes — y aquí sí
         compensa cargar con el teleobjetivo.
   - block: Noche
-    time: "cena → ~21:00"
+    time: "17:30 → 18:30"
     title: El salto al norte, durmiendo
     body: >-
-      Cena sin prisa en Ninh Bình —es la última oportunidad del **dê núi**, la cabra de monte que es el
-      plato de la provincia— y a la estación. El [**bus cama a Hà Giang**](#traslado-ha-giang) sale **directo, sin
-      pasar por Hanói**: unos **370-440 km en 7 h 30**, con salidas escalonadas **entre las 18:00 y las
-      21:15** y llegada al altiplano de madrugada. Cogiendo uno de los últimos se amanece allí. No es un
-      asiento reclinable: son literas tumbadas, y por poco más hay **cabina doble con puerta**.
+      Cena temprana en Ninh Bình —es la última oportunidad del **dê núi**, la cabra de monte que es el
+      plato de la provincia— y a la estación de **Đồng Giừng**. El
+      [**bus cama a Hà Giang**](#traslado-ha-giang) va **reservado con BiBi junto con el loop** y sale
+      **directo, sin pasar por Hanói**: **recogida a las 18:30**, cabina VIP, y llegada a Hà Giang
+      **entre las tres y las cuatro de la madrugada**. No es un asiento reclinable: es una cabina con
+      puerta y colchón, y esta noche tiene que hacer de hotel.
     window:
-      label: Por qué de noche, ahora sí
+      label: Lo que hay que dejar listo antes de subir
       body: >-
-        Porque el día que se ahorra vale más que la calidad del sueño, **y porque mañana está diseñado
-        para absorberlo**: la primera etapa del loop son 52 km, corta a propósito. Se llega a Hà Giang de
-        madrugada, el operador da habitación para **ducha y siesta hasta media mañana** —es la práctica
-        normal allí, pero pedidlo por escrito al reservar— y las ruedas empiezan a rodar descansados.
-        Esto es lo que permite **mantener el loop en cinco días sin pagarlo con otro día del viaje**.
+        Dos cosas, y las dos se hacen aquí y no allí. **La primera, partir el equipaje**: en la moto solo
+        van cuatro días de ropa y el resto se queda en consigna en Hà Giang — hacer ese reparto a las
+        cuatro de la mañana con sueño es como se pierden las cosas. **La segunda, cenar de verdad ahora**,
+        porque el bus sale a las seis y media y hasta el desayuno del miércoles no hay nada.
+
+        Y la buena noticia del horario: la **noche previa al tour va incluida** en el hotel de Hà Giang,
+        con *check-in* a cualquier hora. Bajáis del bus a las tres y tenéis ducha y cama hasta las ocho.
 dormir:
-  lugar: "Bus cama Hanói → Hà Giang"
+  lugar: "Bus cama Ninh Bình → Hà Giang"
   ref: '#traslado-ha-giang'

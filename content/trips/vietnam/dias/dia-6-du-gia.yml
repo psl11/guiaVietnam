@@ -1,0 +1,93 @@
+slug: dia-6-du-gia
+navLabel: "Día 6 · Du Già"
+trip: vietnam
+order: 6
+eyebrow: El plan · Día 6 · mié 16 sep
+title: Arranca el *loop*
+dek: >-
+  El bus os descarga de madrugada, hay unas horas de cama en Hà Giang y a media mañana empieza lo que
+  vinisteis a hacer. La primera etapa sube al altiplano por el oeste y luego corta hacia el este, y
+  termina en un valle que no se parece a nada de lo que viene después: Du Già, el único sitio del loop
+  con arroz en terraza.
+blocks:
+  - block: Madrugada
+    time: "03:00–08:00"
+    title: Bajar del bus, ducha y dormir
+    dim: true
+    body: >-
+      El bus cama para en **Hà Giang entre las tres y las cuatro**, y ahí está el detalle que salva la
+      jornada: **la noche previa al tour va incluida** en el **Numa Hotel** (nº 71, calle 19/5), que
+      hace *check-in* a cualquier hora. Son **camas de dormitorio**, no habitación —eso son 550.000 ₫
+      más si lo queréis privado—, pero a las cuatro de la mañana lo que importa es que haya ducha
+      caliente y colchón horizontal.
+
+      Cuatro horas de sueño, ducha y desayuno. **No es poco: es exactamente lo que el día necesita**,
+      porque la primera etapa no arranca hasta media mañana.
+    window:
+      label: Lo que hay que dejar hecho anoche
+      body: >-
+        **La mochila del loop, separada.** En la moto van cuatro días de ropa; el resto se queda en
+        consigna en el Numa hasta el sábado. Hacer ese reparto a las cuatro de la mañana con sueño es
+        cómo se pierden las cosas: dejadlo hecho en Ninh Bình, antes de subir al bus.
+  - block: Media mañana
+    time: "08:30–09:30"
+    title: El easy rider, el papeleo y la moto
+    body: >-
+      Desayuno en el hotel y presentación del equipo. Aquí se cierran tres cosas antes de dar la primera
+      patada de arranque:
+
+      **El permiso de zona fronteriza**, que se tramita con vuestros pasaportes y **no va incluido en el
+      precio** — son 260.000 ₫ por cabeza que se pagan aquí. Sin él no se pasa el control de Lũng Cú
+      pasado mañana.
+
+      **El equipo**: casco, coderas, rodilleras y poncho. Poneos las rodilleras aunque haga calor; en la
+      grava mojada de un puerto no se negocia.
+
+      **Y las tres peticiones del viaje**, que es ahora o nunca — están en
+      [la ficha de la reserva](#loop-reserva) y conviene repetirlas en voz alta el primer día.
+  - block: Mañana y tarde
+    time: "~110 km"
+    title: Al altiplano por el oeste, y luego al este
+    body: >-
+      La etapa sube desde el valle del río Lô hacia **Thuận Hòa**, cruza a **Thái An** ya en el distrito
+      de [**Quản Bạ**](#quan-ba) —donde se come— y desde ahí corta hacia el este por **Dương Thượng**
+      camino de Du Già. Es la ruta *contraria* a la del catálogo: la mayoría de los tours suben por la
+      QL4C hacia Đồng Văn y bajan por aquí. **Ir al revés tiene premio**, y es que os cruzáis con el
+      grueso de las motos de frente en vez de ir en su cola.
+
+      A media tarde se para en una **cascada escondida** del valle. Es baño, no foto: llevad el
+      bañador a mano y no en el fondo de la mochila.
+    window:
+      label: Que no os engañe la primera hora
+      body: >-
+        Los primeros treinta kilómetros son carretera ancha de valle y se hace fácil pensar que el loop
+        es esto. **No lo es.** A partir de Thái An la calzada se estrecha y empieza a haber vacío al
+        lado. Es el tramo del viaje para acostumbrar el cuerpo a ir de paquete — no os agarréis al
+        conductor, agarraos al asa de detrás y **mirad por encima del hombro del piloto en las curvas,
+        nunca al lado contrario**.
+  - block: Noche
+    time: "atardecer en adelante"
+    title: Du Già, el valle verde
+    body: >-
+      Se duerme en un **homestay de Du Già**, un valle tày y hmong metido entre montañas al que solo se
+      llega por carreteras malas — y esa es toda su virtud. **Es el único sitio de todo el loop con
+      arroz en terraza**: el altiplano de Đồng Văn que veréis a partir de mañana es roca gris y maíz
+      entre piedras, mineral y seco. Aquí todavía hay agua y verde.
+
+      Y la fecha juega a favor: **finales de septiembre es la siega en el norte**, así que las terrazas
+      están en su punto de dorado justo estos días. Es la postal que la gente cree que va a encontrar en
+      Hà Giang y en realidad solo hay aquí y en Hoàng Su Phì.
+
+      Cena en el homestay —va incluida— y **licor de maíz**, que aparecerá lo queráis o no. Ver
+      [cómo se come en el loop](#comer-en-el-loop) para lo de siempre, que aquí es más agudo que en
+      ningún otro sitio del viaje.
+    window:
+      label: La luz de aquí
+      body: >-
+        Las terrazas piden **primera hora**, no atardecer: el valle es estrecho y el sol se va pronto
+        detrás de la cresta oeste. Si queréis las terrazas con luz rasante, **poned el despertador
+        mañana a las seis** y salid a andar veinte minutos antes del desayuno. Es la única vez del loop
+        que compensa madrugar por cuenta propia.
+dormir:
+  lugar: "Homestay en Du Già · lo pone el easy rider"
+  ref: '#loop-reserva'

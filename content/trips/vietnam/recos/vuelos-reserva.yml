@@ -1,12 +1,12 @@
 slug: vuelos-reserva
 navLabel: "Vuelos internos ✓"
 trip: vietnam
-order: 6
+order: 7
 kind: reservar
 title: Los tres vuelos del final
 area: Hanói → Camboya → Saigón → Hanói
 status: reservado
-note: "Los tres comprados · VJ913 (22) + K6 824 (24) + VJ142 (26)"
+note: "Los tres del bloque Camboya, comprados · VJ913 (22) + K6 824 (24) + VJ142 (26)"
 body: >-
   **Cerrado.** El final del viaje se sostiene sobre tres vuelos y los tres están comprados.
 
@@ -35,3 +35,8 @@ body: >-
   no lo cubre nadie — y el VJ142 acumula **retrasos frecuentes, de unos 38 minutos de media**. Con el
   margen que hay, incluso un retraso de dos horas os deja llegar; pero si en Saigón veis que se va de
   las manos, **cambiad al siguiente en el mostrador**: la ruta tiene salidas cada media hora.
+
+
+  **Y falta un bloque, que no es este.** Los dos vuelos de **Hoi An** —Hanói ⇄ Đà Nẵng, los días 20 y
+  21— siguen **sin comprar** y tienen su propia ficha: [los vuelos a Hoi An](#vuelos-hoi-an). Son lo
+  único que queda de toda la logística del viaje.

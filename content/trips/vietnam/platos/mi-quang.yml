@@ -17,8 +17,13 @@ queEs: >-
 historia: >-
   De la provincia de **Quảng Nam** (región de Đà Nẵng y Hội An), es la comida de diario, de casa y de
   mercado del centro. Reconocido **Patrimonio Cultural Inmaterial** nacional.
-dondeMejor: Đà Nẵng y Quảng Nam (centro); también se encuentra en Hanói
+dondeMejor: Đà Nẵng y Quảng Nam — o sea, el día 11 en Hoi An, que es donde es comida de diario y no imitación
 picante: Medio (la guindilla, al gusto)
 veg: >-
   **Mì Quảng chay** es habitual en el centro (tofu y seta, sin gamba ni huevo) — pedidlo *«chay»*. El
   fideo, el cacahuete y las hierbas ya son vegetales.
+seenIn:
+  - ref: '#minh-hien-chay'
+    label: Minh Hiền (chay)
+  - ref: '#dia-11-hoi-an-hanoi'
+    label: Día 11 · la última comida

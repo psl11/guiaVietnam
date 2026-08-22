@@ -79,6 +79,27 @@ blocks:
         preferís cambiarlo por la **Ciudadela de Thăng Long**, la única forma que os queda es su
         **visita nocturna, que solo se hace sábados y domingos, de 18:00 a 21:00** — o sea, esta noche o
         la de ayer, a cambio del ca trù o del Train Street.
+  - block: Media tarde
+    time: "16:15–17:30"
+    title: Văn Miếu, que está pared con pared
+    body: >-
+      Y aprovechando que estáis aquí, **doscientos metros al sur**: el
+      [**Templo de la Literatura**](#van-mieu). Es de **1070** y fue la primera universidad de Vietnam —
+      **cincuenta y cuatro mil metros cuadrados en cinco patios sucesivos**, y en el tercero las
+      **ochenta y dos estelas de los doctores** sobre tortugas de piedra, con los nombres de todos los
+      que aprobaron el examen imperial entre 1442 y 1779.
+
+      Es el mejor sitio del viaje para entender el [**tam giáo**](#tam-giao) por el lado confuciano, que
+      es el que menos se ve en los templos y el que más explica cómo funciona este país.
+    window:
+      label: Por qué aquí y no otro día
+      body: >-
+        Porque **es su único hueco**. Con Hoi An en el plan, los días de Hanói son el 12, el 13 y la
+        mañana del 22 — y esa mañana se va entera en el circuito del Lago del Oeste, que está al otro
+        extremo de la ciudad. Está literalmente al lado de Bellas Artes y cierra a las 17:00-18:00 según
+        temporada, así que **encadenarlos es la jugada**: museo hasta las cuatro, templo hasta las cinco
+        y media, y de ahí al barrio francés.
+
   - block: Atardecer
     time: "atardecer"
     title: El barrio francés y el martini de Graham Greene

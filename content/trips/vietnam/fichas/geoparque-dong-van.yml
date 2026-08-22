@@ -13,7 +13,7 @@ image:
   credit: "NKSTTSSHNVN · CC BY-SA 4.0"
   creditUrl: "https://commons.wikimedia.org/wiki/File:Cao_nguy%C3%AAn_%C4%91%C3%A1_%C4%90%E1%BB%93ng_V%C4%83n_-_NKS.jpg"
 epithet: >-
-  El escenario de los cinco días tiene nombre propio y sello de la UNESCO: **2.350 km²** donde el fondo
+  El escenario de los cuatro días tiene nombre propio y sello de la UNESCO: **2.350 km²** donde el fondo
   de un mar tropical de hace *550 millones de años* quedó levantado, disuelto por la lluvia y, después,
   plantado de maíz.
 sections:
@@ -21,7 +21,7 @@ sections:
     body: |
       Desde **2010**, todo el altiplano es el **primer Geoparque Global de la UNESCO de Vietnam**: 2.350
       km² de caliza en el extremo norte del país. No es un parque con taquilla ni un mirador concreto —
-      **es el suelo entero por el que rueda el loop**. Cada hito de los cinco días cae dentro: Quản Bạ,
+      **es el suelo entero por el que rueda el loop**. Cada hito de los cuatro días cae dentro: Quản Bạ,
       Yên Minh, Đồng Văn, el paso de Mã Pí Lèng, Mèo Vạc. Entender qué se pisa cambia lo que se ve: no
       es «montaña bonita», es un archivo geológico a cielo abierto que se atraviesa en moto.
   - heading: De qué está hecho
@@ -54,7 +54,7 @@ curiosidades:
     El famoso **trigo sarraceno rosa** que tapiza estas laderas en las fotos florece de octubre a
     diciembre — a mediados de septiembre es pronto, así que lo veréis verde, no rosa.
 seenIn:
-  - ref: '#dia-8-dong-van'
-    label: Día 8 · el altiplano
-  - ref: '#dia-9-ma-pi-leng'
-    label: Día 9 · el cañón del Nho Quế
+  - ref: '#dia-7-ma-pi-leng'
+    label: Día 7 · el altiplano
+  - ref: '#dia-8-lung-cu'
+    label: Día 8 · el extremo norte

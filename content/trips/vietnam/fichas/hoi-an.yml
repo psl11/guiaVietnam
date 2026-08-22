@@ -1,0 +1,86 @@
+slug: hoi-an
+navLabel: "Hoi An"
+trip: vietnam
+part: vietnam
+order: 49
+zone: "Hoi An"
+emblem: casa
+kicker: Vietnam · el centro
+title: Hoi An, el puerto que se durmió
+epithet: >-
+  Durante trescientos años fue **el gran puerto del mar de la China Meridional**. Después el río se
+  cegó, el comercio se marchó a Đà Nẵng y la ciudad se quedó parada — y por eso, y solo por eso, sigue
+  entera.
+sections:
+  - heading: Por qué existe, y por qué es tan rara
+    body: |
+      Se llamaba **Faifo** y entre los siglos **XVI y XVIII** fue el puerto más importante del sudeste
+      asiático: seda, cerámica, pimienta, canela y nidos de golondrina cargados en juncos chinos, barcos
+      japoneses de sello rojo, naos portuguesas y holandesas.
+
+      Y aquí está la clave de todo, porque explica la arquitectura: **el comercio dependía del
+      monzón**. Los barcos llegaban con el viento del nordeste y **tenían que esperar meses** a que
+      girara para volver. Así que los comerciantes no pasaban — **se quedaban**. Construyeron casas,
+      almacenes, templos y barrios enteros, y se casaron con vietnamitas. Hubo un **barrio japonés** y
+      un **barrio chino**, cada uno con su jefe y sus propias leyes.
+  - heading: El puente, y el imperio que se cerró
+    body: |
+      El **Chùa Cầu** —el puente cubierto japonés— es de finales del siglo XVI y lo levantó la comunidad
+      japonesa para cruzar al barrio chino. Es un puente con **un templo encima**, dedicado a
+      *Trấn Vũ*, el guardián del norte, y en cada extremo hay una pareja de guardianes de piedra:
+      **perros a un lado y monos al otro**.
+
+      Y entonces pasó algo que congeló ese barrio para siempre: en la década de **1630 el shogunato
+      Tokugawa cerró Japón** —el *sakoku*— y prohibió a sus súbditos salir y volver. La colonia japonesa
+      de Faifo quedó cortada de su país y en dos generaciones se disolvió en la vietnamita. **El puente
+      es lo único que queda de ella.**
+
+      Los chinos, en cambio, siguieron llegando, y de ahí salen los **hội quán**, las casas de reunión
+      por provincia de origen: **Phúc Kiến** (Fujian), **Quảng Đông** (Cantón), **Triều Châu** y
+      **Hải Nam**. La de Phúc Kiến está dedicada a **Thiên Hậu**, la diosa que protege a los que cruzan
+      el mar — **la misma a la que rezan en Chợ Lớn**, en Saigón, y que veréis el día 15. Es el mismo
+      hilo de la diáspora de Fujian, cosido de punta a punta del viaje.
+  - heading: Y por qué sigue en pie
+    body: |
+      Por dos abandonos. El primero, a finales del **siglo XVIII**: el **río Thu Bồn se fue llenando de
+      sedimentos** y los barcos grandes dejaron de poder entrar. Cuando llegaron los franceses eligieron
+      **Đà Nẵng**, con calado y bahía, y Hoi An se quedó sin razón de ser. No hubo dinero para derribar
+      y reconstruir, que es lo que le pasó a todas las demás ciudades del país.
+
+      El segundo, en el siglo XX: **no tenía ningún valor militar**, así que ni la guerra de Indochina ni
+      la americana la tocaron. Mientras Huế quedaba destrozada en la ofensiva del Tet, aquí no cayó
+      nada.
+
+      El resultado son **más de mil edificios históricos** en una retícula intacta, y **Patrimonio de la
+      Humanidad desde 1999**. Fijaos en el tipo de casa: **estrechísima de fachada y muy profunda**
+      —pagaban impuestos por metro de calle—, con la tienda delante, un **patio abierto en medio** y el
+      almacén al fondo, dando al río.
+  - body: |
+      **Práctico:** la entrada al casco viejo son **120.000 ₫** y funciona distinto de lo que parece —
+      es un **talonario de cinco cupones** canjeables por cinco visitas de una lista de veintitantas
+      casas y templos. **Pasear por las calles es gratis.** Gastadlos en el puente japonés, el
+      **hội quán de Phúc Kiến**, la **casa de Tấn Ký**, el de **Quảng Đông** y una casa más; los museos
+      pequeños son flojos. Todo se anda en veinte minutos de punta a punta.
+curiosidades:
+  - >-
+    El puente japonés está **en el billete de 20.000 ₫**. Lo lleváis en el bolsillo desde el primer día
+    del viaje.
+  - >-
+    Las parejas de guardianes del puente —**perros en un extremo, monos en el otro**— se leen como una
+    fecha: la tradición dice que la obra **se empezó en un año del mono y se terminó en uno del perro**.
+  - >-
+    En el zaguán de la **casa de Tấn Ký**, habitada por la misma familia desde hace **siete
+    generaciones**, hay marcas en la pared con las **alturas de las grandes inundaciones**. La de 1964
+    llegó al techo de la planta baja.
+  - >-
+    Hoi An sobrevivió **porque dejó de importar**. Es el único caso del país en que la ruina económica
+    fue lo que salvó la ciudad — cualquier otro puerto con dinero se habría reconstruido en hormigón.
+seenIn:
+  - ref: '#dia-10-hoi-an'
+    label: Día 10 · la tarde del casco viejo
+  - ref: '#dia-11-hoi-an-hanoi'
+    label: Día 11 · el amanecer
+  - ref: '#cao-lau'
+    label: El cao lầu
+  - ref: '#my-son'
+    label: Mỹ Sơn

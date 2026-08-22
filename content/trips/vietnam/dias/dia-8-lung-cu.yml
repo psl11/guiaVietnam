@@ -1,0 +1,94 @@
+slug: dia-8-lung-cu
+navLabel: "Día 8 · Lũng Cú"
+trip: vietnam
+order: 8
+eyebrow: El plan · Día 8 · vie 18 sep
+title: Hasta el *extremo norte*
+dek: >-
+  El día de las minorías. Se sube a la torre que marca el punto más al norte de Vietnam, se baja a la
+  aldea lô lô que vive a sus pies, y la tarde es índigo: la cooperativa de cáñamo de Lũng Tám y la noche
+  en un homestay dao con baño de hierbas. Es el día que menos kilómetros tiene y más se recuerda.
+blocks:
+  - block: Mañana temprano
+    time: "07:00–08:00"
+    title: Đồng Văn de día
+    body: >-
+      La [**plaza vieja**](#dong-van-casco) a primera hora, antes de salir: café en una de las casas de
+      adobe y el mercadillo de diario montándose. No tiene nada que ver con lo de anoche — de día se ve
+      la arquitectura, y de noche los faroles.
+    dim: true
+  - block: Mañana
+    time: "08:30–11:30"
+    title: La torre de la bandera de Lũng Cú
+    body: >-
+      Veinticuatro kilómetros al norte, hasta donde se acaba el país. La [**torre de Lũng
+      Cú**](#lung-cu) se levanta sobre un cerro cónico y ondea una bandera de **54 metros cuadrados** —
+      uno por cada etnia reconocida de Vietnam. Se suben **839 escalones** hasta la base y luego una
+      escalera de caracol dentro del fuste. Desde arriba se ven los dos estanques que la leyenda hmong
+      llama **los ojos del dragón** y, al fondo, China.
+
+      Aquí es donde **os piden el permiso fronterizo dos veces**: en la policía turística y otra vez en
+      el control militar al pie de la torre. Llevad el pasaporte encima, no en la mochila de la moto.
+    window:
+      label: La niebla de septiembre
+      body: >-
+        En septiembre el cerro amanece **metido en nube** y suele despejar entre las nueve y las once.
+        Si al llegar no se ve nada, **no os vayáis**: subid igual y esperad arriba veinte minutos. La
+        nube rompiendo por debajo de la torre es mejor foto que el día despejado, y es lo que suele
+        pasar a media mañana.
+  - block: Mediodía
+    time: "11:30–13:00"
+    title: Lô Lô Chải, la aldea al pie de la torre
+    body: >-
+      A los pies del cerro está [**Lô Lô Chải**](#lo-lo-chai), una aldea de **casas de tapial con tejado
+      de teja** habitada por los **lô lô**, una de las minorías más pequeñas de Vietnam —apenas unos
+      miles de personas— y una de las que mejor conserva el traje bordado y los tambores de bronce.
+      Comida aquí, y café en la casa vieja de la plaza. Al volver, parada en **Lao Chải**, ya en el
+      camino de bajada.
+  - block: Tarde
+    time: "13:30–16:30"
+    title: El índigo de Lũng Tám
+    body: >-
+      La bajada por la QL4C hasta la cooperativa de tejido de [**Lũng Tám**](#lung-tam), fundada en
+      **2001** por una mujer hmong para que no se perdiera el oficio: se cultiva el **cáñamo**, se hila
+      a mano, se tiñe con **índigo natural** en tinajas que fermentan semanas y se abrillanta el paño
+      golpeándolo con un rodillo de piedra. Una pieza puede llevar **meses**.
+
+      No es una tienda con demostración: es un taller de cincuenta y pico mujeres que trabajan ahí. Lo
+      que se compra se paga a quien lo hizo.
+    window:
+      label: Dos paradas que hay que pedir, y están en el camino
+      body: >-
+        El programa de BiBi no las nombra, pero **la carretera de Đồng Văn a Quản Bạ pasa literalmente
+        por delante de las dos** y parar cuesta media hora. La primera, [**Sủng Là**](#sung-la), el
+        valle que llaman «la flor del karst» y donde se rodó *Chuyện của Pao*. La segunda, el
+        [**palacio del rey hmong de Sà Phìn**](#palacio-vuong), la residencia fortificada de la dinastía
+        Vương levantada entre 1919 y 1928 con el dinero del opio. **Pedidlas el primer día, no sobre la
+        marcha.**
+  - block: Noche
+    time: "17:00 en adelante"
+    title: Nậm Đăm, y el baño de hierbas
+    body: >-
+      Se duerme en un **homestay dao de Nậm Đăm**, una aldea de casas de tapial con patio en el valle de
+      [Quản Bạ](#quan-ba), gestionada en cooperativa por el propio pueblo.
+
+      Y aquí está el remate del día: el ***tắm lá thuốc***, el **baño de hierbas dao**. Más de cien
+      plantas de monte hervidas durante horas, servidas en una tina de madera a **38-42 °C**, veinte
+      minutos dentro. Los dao rojos lo llevan usando generaciones para el frío y el cansancio, y a las
+      parturientas las meten al día siguiente de dar a luz. **Después de tres días de moto, es
+      exactamente lo que el cuerpo pide** — y por eso viene tan bien que caiga en la tercera noche y no
+      en la primera.
+
+      Antes de nada, repasad **las reglas de la casa** en la [ficha de las minorías](#minorias-norte):
+      el altar de los antepasados, el pilar central, el umbral y las piedras del hogar. Son cuatro
+      cosas y evitan el único mal rato posible aquí.
+    window:
+      label: Pedidlo al llegar, no después de cenar
+      body: >-
+        Hervir las hierbas **lleva un par de horas**, así que el baño hay que encargarlo **nada más
+        entrar por la puerta**. Si lo pedís al terminar la cena, el agua no estará hasta las once. Y si
+        el easy rider os lleva a Yên Minh en vez de a Nậm Đăm —el programa admite las dos—, **decid que
+        preferís Nậm Đăm**: es donde está el baño.
+dormir:
+  lugar: "Homestay dao en Nậm Đăm · lo pone el easy rider"
+  ref: '#loop-reserva'

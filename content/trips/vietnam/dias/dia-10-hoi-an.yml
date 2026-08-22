@@ -1,0 +1,102 @@
+slug: dia-10-hoi-an
+navLabel: "Día 10 · Hoi An"
+trip: vietnam
+order: 10
+eyebrow: El plan · Día 10 · dom 20 sep
+title: El salto al *centro*
+dek: >-
+  El día que existe porque el loop se hizo en cuatro días y no en cinco. Amanecéis en Hanói bajando de
+  un bus cama, desayunáis phở, voláis mil kilómetros al sur y a mediodía estáis en el único sitio de
+  Vietnam donde el siglo XVII sigue en pie. La tarde es el casco viejo y la noche, los farolillos.
+blocks:
+  - block: Amanecer
+    time: "05:00–06:45"
+    title: Llegar a Hanói y desayunar bien
+    body: >-
+      El bus cama descarga en el **casco viejo sobre las cinco**. Hay hora y media antes de salir hacia
+      el aeropuerto y la mejor manera de gastarla es la obvia: **un cuenco de phở de pie**, que después
+      de cuatro días de arroz de homestay sabe distinto. [**Phở Bát Đàn**](#pho-bat-dan) abre a las seis
+      y está a cuatro manzanas de donde para el bus.
+
+      **No hace falta hotel** —dormisteis en el bus— ni consigna: lleváis solo el equipaje de mano.
+    window:
+      label: Por qué no el bus directo al aeropuerto
+      body: >-
+        BiBi vende el mismo billete hasta **Nội Bài** al mismo precio, y es tentador. Pero os deja en la
+        terminal **a las cinco de la mañana** con tres horas por delante y nada abierto salvo una
+        cafetería. Entrando por el casco viejo desayunáis de verdad y el Grab al aeropuerto son
+        cuarenta minutos. **Solo cogedlo si acabáis volando antes de las 08:00.**
+  - block: Mañana
+    time: "07:00–11:30"
+    title: Nội Bài, el vuelo y la bajada a Hoi An
+    body: >-
+      Grab hasta **Nội Bài** —unos 40 minutos, 300-350k ₫— y vuelo a **Đà Nẵng**, hora y veinte. Es una
+      de las rutas más frecuentadas del país, con salidas casi cada media hora desde las seis de la
+      mañana; el detalle de qué comprar y cuándo está en [los vuelos a Hoi An](#vuelos-hoi-an).
+
+      De **Đà Nẵng a Hoi An** hay **30 km y unos 45 minutos** por la carretera de la costa. Taxi o Grab,
+      unos 400k ₫. Llegáis al hotel **sobre las once y media**.
+    window:
+      label: La hora del vuelo, que la decide el desayuno
+      body: >-
+        La ventana buena es **entre las 08:00 y las 09:00**. Antes os quita el phở y os mete en la
+        terminal de noche; después llegáis a Hoi An con el día ya perdido. Con un vuelo a las ocho y
+        media estáis comiendo en el casco viejo. Y **no facturéis** —vais con equipaje de mano— porque
+        en Nội Bài eso son cuarenta minutos de diferencia.
+  - block: Mediodía · siesta
+    time: "12:00–15:30"
+    title: Comer, y desaparecer del sol
+    dim: true
+    body: >-
+      **Cao lầu** de entrada, que es lo primero que hay que hacer aquí: es
+      [**el fideo de un solo pueblo**](#cao-lau), y de verdad solo existe en Hoi An — la lejía de ceniza
+      de las islas Cham y el agua del pozo **Bá Lễ**. En [**Cao lầu Thanh**](#cao-lau-thanh) lo hacen
+      como se hacía.
+
+      Y después, siesta larga y sin remordimiento. Lleváis **una noche de bus, un vuelo y cuatro días de
+      moto** encima, y además el casco viejo a mediodía es lo peor del día: treinta y tantos grados y
+      los autobuses de Đà Nẵng descargando por horas. **A las tres y media casi todos se han ido.**
+  - block: Tarde
+    time: "15:30–18:30"
+    title: El casco viejo, cuando se vacía
+    body: >-
+      [**Hoi An**](#hoi-an) fue durante trescientos años **el gran puerto del mar de la China
+      Meridional**: japoneses, chinos de Fujian y Cantón, portugueses y holandeses cargando seda,
+      cerámica y especias. Después el río **Thu Bồn se cegó de sedimentos**, el comercio se fue a Đà
+      Nẵng y la ciudad se quedó dormida — y por eso está entera. Es **Patrimonio de la Humanidad desde
+      1999**.
+
+      El recorrido: el [**puente cubierto japonés**](#hoi-an) de finales del XVI —el que sale en el
+      billete de 20.000 ₫—, la **casa de Tấn Ký** con siete generaciones de la misma familia dentro, y
+      al menos dos **hội quán**, las casas de reunión de las comunidades chinas: la de **Phúc Kiến**
+      (Fujian), que es la más espectacular, y la de **Quảng Đông**.
+    window:
+      label: El billete, que confunde a todo el mundo
+      body: >-
+        La entrada al casco viejo son **120.000 ₫** y **no es una entrada**: es un talonario de
+        **cinco cupones** que se canjean por cinco visitas de una lista de veintitantos monumentos.
+        Andar por las calles es gratis. Así que **elegid las cinco** —el puente japonés, Phúc Kiến,
+        Tấn Ký, Quảng Đông y una casa más— y no las gastéis en los museos pequeños, que son flojos.
+  - block: Noche
+    time: "18:30–22:00"
+    title: Los farolillos sobre el Thu Bồn
+    body: >-
+      Y esto es lo que la gente viene a ver. Al caer la noche **se encienden varios miles de farolillos
+      de seda** por todo el casco viejo y por las dos orillas del río, y en el muelle venden **farolillos
+      de papel con una vela** para echarlos al agua desde una barca de remos. Es turístico y es
+      irresistible, y a un fotógrafo le da la mejor hora del viaje.
+
+      Cena por el barrio —hay [**bánh mì**](#banh-mi) de campeonato en
+      [**Phượng**](#banh-mi-phuong), el que Bourdain llamó el mejor sándwich del mundo— y paseo sin
+      rumbo. Mañana se madruga, pero poco.
+    window:
+      label: La media hora buena, y una advertencia
+      body: >-
+        **De 18:15 a 18:45**, la hora azul: los farolillos ya encendidos y el cielo todavía con color.
+        Media hora después es negro sobre naranja y se pierde el río. Y una cosa que conviene saber: la
+        **gran noche de luna llena** —el *Đêm Rằm*, cuando apagan la luz eléctrica del casco antiguo— es
+        el día 14 de cada mes lunar, y este mes cae el **24 de septiembre**, con vosotros ya en Camboya.
+        Los farolillos se encienden igual todas las noches; lo que no habrá es el apagón.
+dormir:
+  lugar: "Hoi An · casco viejo"
+  ref: '#hoi-an-hotel'

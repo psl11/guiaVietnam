@@ -26,13 +26,13 @@ body: >-
 
 
   **Dónde encaja mejor: el Día 11**, el del colchón. Un lunes sin agenda, con los museos cerrados y
-  el cuerpo molido de cinco días de moto, un sitio al que se entra a las nueve sin reservar y del que
+  el cuerpo molido de cuatro días de moto, un sitio al que se entra a las nueve sin reservar y del que
   se sale cuando apetece es lo único que ese día admite.
 link:
   url: https://minhjazzvietnam.com/
   label: minhjazzvietnam.com
 seenIn:
-  - ref: '#dia-11-hanoi-vuelta'
+  - ref: '#dia-11-hoi-an-hanoi'
     label: Día 11 · la noche del colchón
   - ref: '#the-haflington'
     label: cierre · The Haflington

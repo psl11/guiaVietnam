@@ -4,11 +4,20 @@
 // importa como datos. Hereda la paleta de laca vía var(--…), así que cambia con el tema.
 import { viewBox, vnPath, khPath, cities as C } from './tripMapGeo.js'
 
-// Ruta por tierra en orden de días: Hanói → Ninh Bình → Hà Giang → (bucle) → Hanói.
-const routeKeys = ['ninhBinh', 'hanoi', 'haGiang', 'quanBa', 'yenMinh', 'dongVan', 'meoVac', 'haGiang', 'hanoi']
+// Ruta por tierra en orden de días: Hanói → Ninh Bình → (bus directo) Hà Giang → el loop → Hanói.
+// El loop va en sentido antihorario, como lo hace el tour: Hà Giang → Du Già → Mèo Vạc → Đồng Văn →
+// Quản Bạ → Hà Giang. `yenMinh` hace de vértice de Du Già, que cae casi encima.
+const routeKeys = ['hanoi', 'ninhBinh', 'haGiang', 'yenMinh', 'meoVac', 'dongVan', 'quanBa', 'haGiang', 'hanoi']
 const routePoints = routeKeys.map((k) => `${C[k].x},${C[k].y}`).join(' ')
-// Vuelo Hanói ↔ Siem Reap: arco de puntos.
-const flightPath = `M${C.hanoi.x},${C.hanoi.y} Q55,250 ${C.siemReap.x},${C.siemReap.y}`
+
+// Los cuatro saltos en avión: Hanói ⇄ Đà Nẵng (Hoi An), Hanói → Siem Reap, Siem Reap → Saigón
+// y Saigón → Hanói para enlazar con el vuelo de vuelta.
+const flights = [
+  `M${C.hanoi.x},${C.hanoi.y} Q212,188 ${C.daNang.x},${C.daNang.y}`,
+  `M${C.hanoi.x},${C.hanoi.y} Q46,244 ${C.siemReap.x},${C.siemReap.y}`,
+  `M${C.siemReap.x},${C.siemReap.y} Q104,486 ${C.saigon.x},${C.saigon.y}`,
+  `M${C.saigon.x},${C.saigon.y} Q258,318 ${C.hanoi.x},${C.hanoi.y}`,
+]
 
 // Paradas etiquetadas (el bucle queda como trazo con 3 anclas: Hà Giang, Đồng Văn, Mèo Vạc).
 const stops = [
@@ -17,11 +26,8 @@ const stops = [
   { key: 'haGiang', label: 'Hà Giang', dx: -7, dy: 3, anchor: 'end' },
   { key: 'dongVan', label: 'Đồng Văn', dx: 7, dy: -3, anchor: 'start' },
   { key: 'meoVac', label: 'Mèo Vạc', dx: 7, dy: 8, anchor: 'start' },
+  { key: 'daNang', label: 'Hoi An', dx: 7, dy: 4, anchor: 'start' },
   { key: 'siemReap', label: 'Siem Reap · Angkor', dx: 0, dy: 14, anchor: 'middle' },
-]
-// Referencias apagadas: lo que NO se visita, para que el vacío del sur sea información.
-const refs = [
-  { key: 'daNang', label: 'Đà Nẵng', dx: -7, dy: 3, anchor: 'end' },
   { key: 'saigon', label: 'Saigón', dx: 7, dy: 4, anchor: 'start' },
 ]
 </script>
@@ -29,24 +35,17 @@ const refs = [
 <template>
   <figure class="tripmap" aria-labelledby="tripmap-cap">
     <svg :viewBox="viewBox" role="img"
-         aria-label="Mapa del viaje: todo el norte de Vietnam y el rincón de Angkor en Camboya; el centro y el sur del país quedan fuera de la ruta.">
+         aria-label="Mapa del viaje: el norte de Vietnam recorrido por tierra, y cuatro saltos en avión que enlazan Hoi An, Angkor y Saigón.">
       <!-- países -->
       <path :d="vnPath" class="land" />
       <path :d="khPath" class="land" />
       <!-- rótulos de país, al fondo -->
       <text x="282" y="330" class="country" transform="rotate(90 282 330)">VIETNAM</text>
       <text x="70" y="512" class="country">CAMBOYA</text>
-      <!-- vuelo -->
-      <path :d="flightPath" class="flight" />
+      <!-- vuelos -->
+      <path v-for="(f, i) in flights" :key="i" :d="f" class="flight" />
       <!-- ruta por tierra -->
       <polyline :points="routePoints" class="route" />
-      <!-- referencias no visitadas -->
-      <g class="ref">
-        <template v-for="r in refs" :key="r.key">
-          <circle :cx="C[r.key].x" :cy="C[r.key].y" r="2.6" class="ref-dot" />
-          <text :x="C[r.key].x + r.dx" :y="C[r.key].y + r.dy" :text-anchor="r.anchor" class="ref-label">{{ r.label }}</text>
-        </template>
-      </g>
       <!-- paradas del viaje -->
       <g class="stops">
         <template v-for="s in stops" :key="s.key">
@@ -57,8 +56,8 @@ const refs = [
     </svg>
     <figcaption id="tripmap-cap" class="tripmap-cap">
       <span class="tripmap-legend"><i class="k-route" /> ruta por tierra&ensp;<i class="k-flight" /> vuelo</span>
-      El viaje, de un vistazo: <strong>todo el norte de Vietnam</strong> y el rincón de Angkor.
-      El centro y el sur —Đà Nẵng, Saigón— quedan fuera de la ruta.
+      El viaje, de un vistazo: <strong>el norte entero recorrido por tierra</strong>, y cuatro vuelos
+      que cosen Hoi An, Angkor y Saigón. Lo que queda fuera es el sur profundo.
     </figcaption>
   </figure>
 </template>

@@ -36,9 +36,10 @@ sections:
   - heading: Cuándo
     body: |
       Abre **a diario, de 8:00 a 17:00** —así lo dan casi todas las fuentes, aunque alguna lo cierra los
-      lunes: **confirmadlo si caéis en lunes**—. Su hueco es la
-      **tarde del [día 11](#dia-11-hanoi-vuelta)**, o cualquier chaparrón: está en pleno
-      centro, a un paso del lago, y una hora y media basta.
+      lunes: **confirmadlo si caéis en lunes**—. Con Hoi An en el plan **ya no tiene hueco propio**:
+      es la carta que se juega **si cae un chaparrón** el [día 2](#dia-2-hanoi-llegada) o el
+      [día 3](#dia-3-hanoi-cafes), o si el Train Street está cerrado. Está en pleno centro, a un paso
+      del lago, y una hora y media basta.
 curiosidades:
   - >-
     La sección de **vendedoras ambulantes** funciona con testimonios grabados: mujeres que dejan a sus
@@ -53,5 +54,5 @@ curiosidades:
 seenIn:
   - ref: '#phu-tay-ho'
     label: "El culto a las Diosas Madres"
-  - ref: '#dia-11-hanoi-vuelta'
-    label: "Día 11 · tarde de lluvia"
+  - ref: '#dia-3-hanoi-cafes'
+    label: "Día 3 · tarde de lluvia"

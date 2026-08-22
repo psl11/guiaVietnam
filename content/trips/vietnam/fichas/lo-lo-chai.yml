@@ -20,9 +20,10 @@ sections:
     body: |
       A los pies de la **torre de la bandera de Lũng Cú** —el punto más septentrional de Vietnam, con
       China al otro lado del horizonte— se esconde la aldea de **Lô Lô Chải**, la de los **lô lô
-      negros**. Es de esas paradas que merecen más que la foto de rigor: si podéis, quedaos a dormir
-      en uno de sus **homestays**, casas de la propia aldea abiertas al viajero, para amanecer en el
-      extremo mismo del país en lugar de cruzarlo de paso.
+      negros**. Es de esas paradas que merecen más que la foto de rigor, y vosotros la hacéis
+      **al mediodía del día 8**, bajando de la torre: comida en la aldea y café en la casa vieja de la
+      plaza. *(Los **homestays** de aquí —casas del propio pueblo abiertas al viajero— son la opción de
+      quien monte un loop con noche en el extremo norte; con cuatro días no cabe.)*
   - heading: Los trajes de un año
     body: |
       Los lô lô son una minoría diminuta, **apenas unos miles** de personas repartidas por este
@@ -35,5 +36,5 @@ curiosidades:
     Un traje de fiesta de las mujeres **lô lô** lleva miles de triángulos de tela cosidos a mano:
     puede ser **un año entero de trabajo** en una sola prenda.
 seenIn:
-  - ref: '#dia-8-dong-van'
+  - ref: '#dia-8-lung-cu'
     label: Día 8 · Lô Lô Chải

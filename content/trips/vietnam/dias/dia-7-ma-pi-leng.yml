@@ -1,0 +1,104 @@
+slug: dia-7-ma-pi-leng
+navLabel: "Día 7 · Mã Pí Lèng"
+trip: vietnam
+order: 7
+eyebrow: El plan · Día 7 · jue 17 sep
+title: El cañón y *el rey de los pasos*
+dek: >-
+  El día grande del loop, y con diferencia. Se sale del valle verde, se sube al altiplano de piedra, se
+  cruza Mèo Vạc y se llega a lo que justifica todo el viaje al norte: el cañón del Nho Quế ochocientos
+  metros más abajo y el paso de Mã Pí Lèng tallado en su flanco. Es una jornada larga y hay que
+  negociarla bien.
+blocks:
+  - block: Amanecer
+    time: "06:00–07:30"
+    title: Las terrazas de Du Già antes del desayuno
+    body: >-
+      Veinte minutos andando desde el homestay, con luz rasante y niebla en el fondo del valle. Es el
+      único madrugón por cuenta propia de todo el loop y compensa: a partir de hoy el paisaje se vuelve
+      **mineral** y no vuelve a haber arroz hasta que bajéis el sábado.
+    window:
+      label: Por qué ahora
+      body: >-
+        El valle es estrecho y encajado, así que **la luz buena dura poco**: entra por el este sobre las
+        seis y media y a las nueve ya está plana y dura. Con la siega de finales de septiembre, además,
+        hay gente trabajando las terrazas a esa hora — que es cuando la foto tiene a alguien dentro.
+  - block: Mañana
+    time: "08:00–12:00"
+    title: La balsa de Ngọc Long y la subida al altiplano
+    body: >-
+      Se arranca hacia el este por el mirador de **Lũng Hồ** y se para en **Ngọc Long**, donde hay
+      **balsa de bambú por el río y un baño en la cueva de Thẩm Lin**. Después, comida en **Mậu Duệ** y
+      el llamado **«dốc M»**, la rampa que sube en zigzag hasta dibujar una eme en la ladera.
+
+      Y a partir de ahí cambia todo: se entra en el **altiplano kárstico de Đồng Văn**, que es
+      [geoparque mundial de la UNESCO](#geoparque-dong-van) — cuatrocientos millones de años de caliza
+      levantada del mar, con **más del ochenta por ciento de roca desnuda** y el maíz creciendo en los
+      huecos entre las piedras. Se acabó el verde.
+  - block: Mediodía
+    time: "~13:00"
+    title: Mèo Vạc, y el mercado que hoy no toca
+    body: >-
+      Se cruza **Mèo Vạc**, la capital del distrito más aislado del país. Y conviene decirlo con todas
+      las letras: [**su mercado dominical**](#mercado-meo-vac) —el latido social del altiplano, el que
+      llena la plaza de hmong, dao y lô lô con el traje bueno— **es solo los domingos, y hoy es
+      jueves**. Se sabía al elegir estas fechas y está contado en
+      [el porqué del itinerario](#el-loop): con el vuelo a Camboya cerrado el martes 22, no había
+      ninguna combinación que lo pillara.
+
+      Lo que sí queda es la plaza vacía, que también dice algo, y el pueblo funcionando en día normal.
+    dim: true
+  - block: Tarde
+    time: "13:30–15:30"
+    title: La barca por el cañón del Nho Quế
+    body: >-
+      Y aquí está **lo que hay que pelear con el operador**, porque no viene en el programa. Desde el
+      alto de Mã Pí Lèng baja una pista de curvas cerradas hasta el embarcadero de **Tà Làng**, y desde
+      ahí sale la barca que se mete por el [**cañón del Nho Quế**](#nho-que): el desfiladero de
+      **Tu Sản**, la garganta más profunda del sudeste asiático, con paredes de **ochocientos metros** y
+      el agua de un verde jade que no parece real.
+
+      **No está incluido** —son unos 4 € por cabeza más el traslado en moto hasta el embarcadero— y en
+      el itinerario de BiBi solo figura el Skywalk. **Pedidlo por escrito al reservar y recordadlo el
+      primer día.** Es, junto al paso, lo mejor del norte.
+    window:
+      label: Y por qué justo a esta hora
+      body: >-
+        Porque el cañón es **estrecho y hondo**, y el sol solo llega al agua **entre las once y las
+        tres**. Antes o después estáis navegando por un pasillo en sombra y el jade se vuelve gris. Si
+        el día se retrasa y llegáis pasadas las cuatro, **es mejor renunciar a la barca que hacerla mal**
+        — y esa decisión hay que tomarla en Mèo Vạc, no en el embarcadero.
+  - block: Atardecer
+    time: "16:00–17:30"
+    title: Mã Pí Lèng, el rey de los pasos
+    body: >-
+      Se vuelve a subir y se cruza el [**Mã Pí Lèng**](#ma-pi-leng), que es el motivo mismo del loop.
+      Veinte kilómetros de cornisa colgados del flanco del cañón, con el Nho Quế como un hilo verde muy
+      abajo. Lo abrieron a mano entre **1959 y 1965**: miles de trabajadores de las minorías del norte
+      picando la caliza con mazo y cincel, descolgados con cuerdas sobre el vacío, y once meses solo
+      para los seis kilómetros del tramo del desfiladero. Se llama **«la carretera de la Felicidad»**.
+
+      Parada en el **Skywalk**, la plataforma volada sobre la garganta —esa sí va incluida—, y en el
+      mirador del monumento.
+
+      Y aquí es donde se entiende por qué se hace en moto y no en coche: **desde una ventanilla esto es
+      una postal; con el vacío a un palmo y el viento del cañón, es otra cosa**.
+    window:
+      label: La hora del paso
+      body: >-
+        **Última hora de la tarde, sin discusión.** El cañón mira al norte y a mediodía se aplana; a
+        partir de las cuatro la luz entra de lado, la piedra se pone dorada y la sombra dibuja los
+        pliegues del desfiladero. Y como la mayoría de los grupos cruzan el paso a media mañana camino
+        de Đồng Văn, a esta hora está **notablemente más vacío**.
+  - block: Noche
+    time: "18:30 en adelante"
+    title: Đồng Văn y su casco antiguo
+    body: >-
+      Se llega a [**Đồng Văn**](#dong-van-casco) al anochecer. Su **plaza vieja es de los años veinte**
+      —casas de adobe y teja con faroles rojos, una arquitectura mestiza de hmong, tày y chino que no se
+      repite en ningún otro sitio de Vietnam— y a esa hora está encendida y tranquila.
+
+      Cena en el pueblo, incluida, y a dormir pronto: mañana se sube al punto más al norte del país.
+dormir:
+  lugar: "Đồng Văn · lo pone el easy rider"
+  ref: '#loop-reserva'

@@ -25,3 +25,6 @@ veg: >-
   Sí, como **bánh mì chay**: relleno de tofu, seta y paté de soja — pedidlo *«chay»*. Ojo: el paté,
   la mayonesa y los embutidos del clásico **no** lo son. Alternativa fácil: *bánh mì trứng* (con huevo)
   o solo con tofu y encurtidos.
+seenIn:
+  - ref: '#banh-mi-phuong'
+    label: Bánh Mì Phượng (Hoi An)

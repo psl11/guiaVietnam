@@ -1,0 +1,78 @@
+slug: my-son
+navLabel: "Mỹ Sơn"
+trip: vietnam
+part: vietnam
+order: 50
+zone: "Hoi An"
+emblem: templo
+kicker: Vietnam · el centro
+title: Mỹ Sơn, el santuario cham
+epithet: >-
+  Setenta templos de ladrillo en un valle cerrado, levantados entre los siglos **IV y XIII** por un
+  reino que hoy casi nadie recuerda. Es la *otra* rama del hinduismo del sudeste asiático — y el mejor
+  prólogo posible a Angkor.
+sections:
+  - heading: Quiénes eran los cham
+    body: |
+      **Champa** no fue una provincia de Vietnam: fue **un reino rival** que ocupó toda la franja
+      costera del centro durante más de mil años. Su gente era **malayo-polinesia** —parientes lejanos
+      de los malayos y los javaneses, no de los vietnamitas—, vivían del mar y del comercio con la India,
+      y adoptaron el **hinduismo** y el sánscrito como lengua de culto.
+
+      Mỹ Sơn fue su **santuario nacional**, el sitio donde se coronaba y se enterraba a los reyes,
+      durante **más de nueve siglos seguidos** — una continuidad que en el sudeste asiático solo iguala
+      Angkor. El dios titular es **Śiva bajo el nombre de Bhadreśvara**, y lo que se venera en la cámara
+      central de cada torre es un ***linga*** sobre su *yoni*: la piedra vertical y su base, el
+      principio masculino y el femenino.
+
+      Los vietnamitas fueron empujando hacia el sur y **en 1471 acabaron con el reino**. Pero los cham
+      siguen ahí: unos **160.000** en Vietnam, sobre todo en Ninh Thuận, y una parte de ellos son hoy
+      **musulmanes**.
+  - heading: El ladrillo que nadie sabe repetir
+    body: |
+      Y aquí está lo que hace único el sitio. Los templos son de **ladrillo cocido**, no de piedra, y
+      están levantados **sin juntas visibles**: los ladrillos encajan uno contra otro sin argamasa
+      aparente, y la decoración está **tallada directamente sobre el muro ya construido**, no en piezas
+      montadas después.
+
+      Nadie ha conseguido reproducirlo. Se han propuesto resinas vegetales, aceites de árbol local,
+      recocido del muro entero una vez levantado — y ninguna hipótesis explica del todo el resultado.
+      Los ladrillos modernos que se han usado en las restauraciones **se distinguen a simple vista**, y
+      envejecen peor que los del siglo X.
+  - heading: Lo que falta, y por qué
+    body: |
+      El grupo A tenía la torre más alta y mejor del conjunto, la **A1**, de veinticuatro metros — el
+      arquitecto francés **Henri Parmentier** la documentó a principios del siglo XX y la llamó la obra
+      maestra del arte cham.
+
+      Ya no existe. En **1969** el Viet Cong usó el valle como base y **la aviación estadounidense
+      bombardeó el santuario**: una semana de ataques que arrasaron el grupo A entero. Todavía se ven
+      **cráteres de bomba** entre las torres, y los alrededores estuvieron minados durante años.
+
+      De los **setenta y tantos** templos originales quedan en pie unos **veinte**. Es **Patrimonio de
+      la Humanidad desde 1999**.
+  - body: |
+      **Práctico:** está a **45 km de Hoi An**, una hora por carretera. Abre a las **06:00** y las
+      excursiones estándar salen sobre las 08:00; hay danza cham incluida en la entrada a media mañana.
+      **Aviso serio: es un yacimiento abierto y sin sombra**, y a las once de la mañana de septiembre
+      pega de verdad — o se va a la apertura, o no se va. Con el amanecer de Hoi An hecho a las siete y
+      media, la ventana que queda es **08:00-12:30**.
+curiosidades:
+  - >-
+    Los cham y los jemeres eran **vecinos y enemigos**: en **1177** una flota cham remontó el Mekong y el
+    Tonlé Sap y **saqueó Angkor**. Jayavarman VII los expulsó cuatro años después — y esa guerra es lo
+    que está contado en los bajorrelieves del Bayon que veréis el día 13.
+  - >-
+    La torre **A1** que hoy no existe la había medido y dibujado **Henri Parmentier** décadas antes del
+    bombardeo. **Los planos franceses son lo único que queda de ella.**
+  - >-
+    Mỹ Sơn es de **ladrillo**; Angkor es de **arenisca**. Misma religión, mismo esquema de templo-montaña
+    y dos materiales que dan dos mundos distintos — es la comparación más útil que podéis llevaros a
+    Camboya.
+seenIn:
+  - ref: '#dia-11-hoi-an-hanoi'
+    label: Día 11 · la alternativa de la mañana
+  - ref: '#como-leer-templo-jemer'
+    label: Cómo leer un templo jemer
+  - ref: '#el-bayon'
+    label: El Bayon

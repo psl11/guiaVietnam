@@ -5,24 +5,42 @@ order: 12
 eyebrow: El plan · Día 12 · mar 22 sep
 title: "*Llegada* a Siem Reap"
 dek: >-
-  Un día partido entre dos países. La mañana todavía es Hanói; al caer la tarde, un vuelo de hora y
-  media os deja al otro lado del mapa de Indochina, en la ciudad de los templos. Y la noche se abre
-  con un circo que es, en realidad, una escuela.
+  Un día partido entre dos países. La mañana es el último Hanói, y no una mañana muerta de espera —es el
+  circuito del Lago del Oeste, que cierra el hilo de la guerra del norte y encima va camino del
+  aeropuerto—. Al caer la tarde, un vuelo de hora y media os deja al otro lado del mapa de Indochina, en
+  la ciudad de los templos. Y la noche se abre con un circo que es, en realidad, una escuela.
 blocks:
   - block: Mañana
-    time: "mañana libre"
-    title: Última mañana en Hanói
+    time: "08:00–12:00"
+    title: El circuito del Lago del Oeste
     body: >-
-      No hay directo matinal a Siem Reap —solo dos vuelos al día, y los dos vespertinos—, así que la
-      mañana del 22 se queda en Hanói. Un café con calma, lo que quedara pendiente del casco viejo, y
-      las mochilas hechas para el vuelo de la tarde (voláis a Camboya con lo puesto, solo cabina). Sin
-      agenda: el día de verdad empieza en el aeropuerto.
+      No hay vuelo matinal a Siem Reap —solo dos al día y los dos vespertinos—, así que la mañana del 22
+      es de Hanói. Y hay una forma de gastarla que no es matar el tiempo, porque **todo el circuito va
+      en línea recta hacia el norte, que es hacia el aeropuerto**. Se sale del hotel con las mochilas y
+      no se vuelve.
+
+      Primero, el [**B-52 caído en el lago Hữu Tiệp**](#lago-b52): derribado en la Navidad de **1972**,
+      todavía medio sumergido en un estanque de barrio, entre casas y tendederos. Después, a la orilla
+      del Trúc Bạch, el [**memorial de McCain**](#memorial-mccain), donde cayó su avión en 1967 — el
+      mismo hombre que acabaría siendo candidato a la presidencia de Estados Unidos y empujando la
+      normalización con Vietnam.
+
+      Y luego lo tranquilo: la [**pagoda Trấn Quốc**](#pagoda-tran-quoc), **la más antigua de Hanói**
+      —unos mil cuatrocientos cincuenta años— con su estupa roja de once pisos sobre una península del
+      **Hồ Tây**; y arriba del todo, el [**Phủ Tây Hồ**](#phu-tay-ho), el templo del culto a las diosas
+      madre, el *đạo Mẫu* que la UNESCO reconoció como patrimonio inmaterial. Comida junto al lago y a
+      Nội Bài por el **puente Nhật Tân**, que sale justo de ahí.
     window:
-      label: Por qué así
+      label: Lo que se gana y lo que se pierde por hacerlo de mañana
       body: >-
-        El brief soñaba con «llegar el martes por la mañana», pero en directo eso no existe. Aceptado el
-        hecho, la mañana libre deja de ser un fallo del plan y pasa a ser una mañana **ganada** — la única
-        sin hora de salida antes de que empiece Angkor.
+        **Se pierde la luz.** El Hồ Tây mira al poniente y la estupa de Trấn Quốc con el sol bajo es la
+        postal clásica de Hanói; de mañana es correcta y poco más. **Y se gana el sitio vacío**: al
+        atardecer esa península es el punto más fotografiado de la ciudad y a las diez de la mañana no
+        hay nadie. Es un intercambio consciente — el precio de haber estado ayer en Hoi An.
+
+        Lo que no depende de la hora es el otro hilo, y es el que importa: con el B-52 y el memorial de
+        McCain habréis visto **la guerra contada por quien la ganó**. El viernes, en Saigón, veréis el
+        otro lado del espejo.
   - block: Tarde
     time: "16:20–19:15"
     title: El vuelo VJ913 a Siem Reap

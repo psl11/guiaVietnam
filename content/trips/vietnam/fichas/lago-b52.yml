@@ -58,5 +58,5 @@ seenIn:
     label: "Hỏa Lò"
   - ref: '#memorial-mccain'
     label: "El memorial de McCain"
-  - ref: '#dia-11-hanoi-vuelta'
-    label: "Día 11 · desvío"
+  - ref: '#dia-12-siem-reap'
+    label: "Día 12 · desvío"

@@ -1,0 +1,41 @@
+slug: minh-hien-chay
+navLabel: "Minh Hiền"
+trip: vietnam
+part: vietnam
+city: "Hoi An"
+category: comida
+order: 97
+title: Minh Hiền
+tipo: vegetariano de barrio, treinta años abierto
+area: "50 Trần Cao Vân · diez minutos andando del casco viejo"
+cuando: "Hoi An · la comida del día 11, antes del aeropuerto"
+precio: "40-70k ₫ (~1,5-2,5 €)"
+reserva: "No"
+colas: "No"
+veg: "**100% vegetariano.** Cocina *chay* budista, sin cebolla ni ajo en varios platos."
+quePedir: >-
+  El ***cao lầu chay*** —con seta en vez de cerdo— y las ***bánh vạc***, las «rosas blancas» de masa de
+  arroz. Y el ***mì Quảng chay***, que aquí sale con tofu y cacahuete.
+body: >-
+  **Es la solución al problema de Hoi An para ella**, y por eso está aquí. El recetario de esta ciudad
+  —cao lầu, rosas blancas, *hoành thánh*, cơm gà— es de cerdo, gamba y pollo de arriba abajo, y en el
+  casco viejo cada segunda carta lleva salsa de pescado escondida. Minh Hiền lleva **más de treinta
+  años** haciendo **todo ese repertorio en versión *chay***, y no como concesión: es lo único que
+  hacen.
+
+  Es una casa de barrio, sin decoración de farolillos ni carta plastificada, a diez minutos andando del
+  puente japonés. Cocina budista de verdad — la que se come en los templos los días 1 y 15 del mes
+  lunar.
+
+  Y viene bien justo el día 11, porque es **la última comida en Vietnam antes de Camboya** y os pilla de
+  camino al aeropuerto de Đà Nẵng.
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Minh+Hien+Vegetarian+Hoi+An"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#cao-lau'
+    label: El cao lầu
+  - ref: '#mi-quang'
+    label: El mì Quảng
+  - ref: '#dia-11-hoi-an-hanoi'
+    label: Día 11 · antes del vuelo

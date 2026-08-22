@@ -35,10 +35,13 @@ sections:
       pliegue.
   - heading: La base para la noche
     body: |
-      Đồng Văn es la base natural para dormir: a primera hora de la mañana siguiente arranca el tramo
-      **más espectacular del loop** —la **barca por el cañón del Nho Quế** y el paso de **Mã Pí
-      Lèng**—, y conviene descansar cerca del arranque para **salir con el amanecer**. Una noche en el
-      casco viejo y, con la luz, la carretera más bonita del viaje.
+      Đồng Văn es la base natural para dormir, y en este itinerario se llega **al anochecer del día 7**,
+      justo después de haber cruzado el paso de **Mã Pí Lèng** con la última luz. Esa es la mejor manera
+      de entrar aquí: con el cañón todavía en la cabeza y la plaza ya encendida.
+
+      Y hay dos ciudades en una. **De noche**, los faroles rojos y las casas de adobe con la luz cálida;
+      **a primera hora de la mañana siguiente**, antes de subir a Lũng Cú, el mercadillo de diario
+      montándose y la arquitectura a la vista. **Merece la pena madrugar media hora para ver las dos.**
 curiosidades:
   - >-
     Bajo el casco viejo hay **550 millones de años de caliza**: cuando esto era **fondo marino
@@ -51,5 +54,5 @@ curiosidades:
     El **altiplano entero es Geoparque Global de la UNESCO desde 2010**, el primero de Vietnam:
     **2.350 km²** de karst habitado.
 seenIn:
-  - ref: '#dia-8-dong-van'
-    label: Día 8 · Đồng Văn
+  - ref: '#dia-7-ma-pi-leng'
+    label: Día 7 · Đồng Văn

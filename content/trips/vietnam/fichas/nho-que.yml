@@ -32,7 +32,7 @@ sections:
 
       El color tampoco es casual: **el verde jade viene de la caliza disuelta**, no de las algas, y por
       eso se apaga cuando llueve fuerte y el río arrastra tierra. Cómo se baja al embarcadero y cuánto
-      dura, en el [día 9](#dia-9-ma-pi-leng).
+      dura, en el [día 7](#dia-7-ma-pi-leng).
   - heading: A primera hora
     body: |
       Ir **a primera hora** no es un consejo cualquiera: al alba el agua está en calma y sin viento
@@ -40,6 +40,12 @@ sections:
       época, con el caudal alto y el verde en su punto. Para la X100VI ese reflejo quieto de las
       paredes solo existe temprano; hacia media mañana entran la brisa y los grupos. (Tras una lluvia
       torrencial la travesía puede suspenderse por caudal.)
+
+      **Y ahora la parte honesta: vosotros no vais a tener esa hora.** El amanecer del día 7 os pilla en
+      Du Già, a cuatro horas de moto de aquí, así que la barca cae **a primera hora de la tarde**. No es
+      un mal cambio — a esa hora el sol **sí llega al fondo del cañón**, que es cuando el jade es jade
+      de verdad; al alba el desfiladero está en sombra profunda. Se cambia el espejo por el color. La
+      ventana es **de once a tres**: más tarde, el sol se va detrás de la pared y el agua se apaga.
 curiosidades:
   - >-
     El **cañón de Tu Sản** está tenido por la **garganta más profunda del sudeste asiático**: paredes
@@ -48,8 +54,11 @@ curiosidades:
     Al amanecer el agua queda tan quieta que **refleja las paredes como un espejo** — la ventana en la
     que existe la foto que buscáis, antes de que entren la brisa y las otras barcas.
   - >-
-    La travesía cuesta una miseria (**~3,5-5 € por persona**) y suele venir incluida en el tour del
-    loop; lo caro es madrugar lo bastante para pillar el cañón vacío.
+    La travesía cuesta una miseria (**~3,5-5 € por persona**) pero **no viene incluida en el tour de
+    BiBi**, que solo lleva el Skywalk. Hay que pedirla por escrito al reservar y recordarla el primer
+    día — es la petición más importante de las seis de [la reserva](#loop-reserva).
 seenIn:
-  - ref: '#dia-9-ma-pi-leng'
-    label: Día 9 · Nho Quế
+  - ref: '#dia-7-ma-pi-leng'
+    label: Día 7 · el cañón
+  - ref: '#loop-reserva'
+    label: Hay que pedirla aparte

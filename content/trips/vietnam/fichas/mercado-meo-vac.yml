@@ -14,8 +14,8 @@ image:
   creditUrl: "https://commons.wikimedia.org/wiki/File:M%C3%A8o_V%E1%BA%A1c_market_-_02.jpg"
 epithet: >-
   El gran chợ phiên semanal, el latido social del altiplano: una vez por semana, hmong, dao y lô lô
-  bajan a pie con el traje bueno. Solo es el domingo — y por eso el loop se diseñó *hacia atrás* desde
-  esta mañana.
+  bajan a pie con el traje bueno. Solo es el domingo — y **este viaje pasa por Mèo Vạc en jueves**.
+  Esta ficha cuenta lo que os perdéis, y por qué no había forma de evitarlo.
 sections:
   - heading: El chợ phiên
     body: |
@@ -25,15 +25,21 @@ sections:
       cambian de dueño—, montañas de **thổ cẩm** (el brocado de las minorías, la palabra que buscar
       para comprar lo auténtico), **rượu ngô** (licor de maíz), **barberos al aire libre**… y ese
       trasiego que en el fondo es otra cosa: los mayores se ponen al día, los jóvenes se miran.
-  - heading: Por qué el loop termina en domingo
+  - heading: Por qué no cabe, y qué se compró con él
     body: |
-      El mercado **solo** es el domingo por la mañana temprano: arranca hacia las **05:00**, llega a
-      su pico entre las **07:00 y las 09:30** y hacia las diez u once se ha disuelto. Un evento con
-      fecha fija no se negocia, y por eso todo el loop se construyó marcha atrás desde aquí: lo que hay
-      que cerrar con el operador **no es cuántos días dura el tour, sino que termine el domingo 20**.
-      Dormir en Mèo Vạc en vez de retroceder a Đồng Văn es lo que os pone, al amanecer, en la puerta
-      del mayor y más auténtico de los mercados de la zona —con ganado y menos turistas que el de Đồng
-      Văn, que además cerró como mercado grande en 2012.
+      El mercado **solo** es el domingo por la mañana temprano: arranca hacia las **05:00**, llega a su
+      pico entre las **07:00 y las 09:30** y hacia las diez u once se ha disuelto. Es un evento con
+      fecha fija y no se negocia — y ahí está el problema, porque **el vuelo a Camboya del martes 22
+      tampoco se negocia**.
+
+      Durante meses el loop fueron **cinco días diseñados marcha atrás desde esta mañana**, terminando
+      en domingo. Funcionaba, y costaba caro: dejaba **día y medio** entre el final del loop y el vuelo,
+      o sea Hanói y nada más. Al pasar a cuatro días, el loop cruza Mèo Vạc **el jueves** y esa mañana
+      se pierde entera.
+
+      Lo que se compró con ella son **dos días libres**, y esos dos días son [Hoi An](#hoi-an). Dicho
+      sin adornos: se cambió el mercado más auténtico del altiplano por la ciudad más intacta del país.
+      Es un intercambio discutible y está hecho a conciencia.
   - heading: El fotógrafo, con permiso
     body: |
       Aquí la ética **es** la ventana. **Pedir permiso siempre** (gesto de cámara y sonrisa basta) y
@@ -41,11 +47,19 @@ sections:
       «pagar» un retrato es dejar el dinero en la artesanía de quien la hace—. Es un mercado local,
       no turístico: el regateo es suave y nada de esto está puesto para vosotros. Luz rasante de
       primera hora y gentío en su punto; a las once ya no hay mercado.
+
+      **Y lo que sí tenéis.** El mismo mundo social, en pequeño, aparece en los **mercadillos de diario**
+      de Đồng Văn y Quản Bạ, que sí pilláis: menos gente y menos traje de fiesta, pero las mismas
+      cestas, el mismo licor de maíz a media mañana y la misma mezcla de etnias. Y el
+      [**mercado dominical de Bắc Hà**](#minorias-norte), el otro grande del norte, queda para el viaje
+      que se haga a Sapa y al noroeste.
 curiosidades:
   - >-
-    El mercado **solo** existe el domingo temprano, así que con el operador **se cierra la fecha de
-    vuelta, no la duración**: cualquier formato que no termine en domingo os lo hace perder por un
-    solo día — uno de los hallazgos del viaje al norte.
+    **Por qué cae fuera, con las fechas delante.** El vuelo a Camboya es el **martes 22** y no se mueve;
+    el loop pasa por Mèo Vạc **el segundo día**. Para que ese segundo día fuese domingo, el tour tendría
+    que empezar un sábado — y los únicos sábados posibles son el **12**, con vosotros recién aterrizados
+    en Hanói, o el **19**, que terminaría el mismo día del vuelo. **No existe la combinación.** Es el
+    precio de haber metido Angkor, Saigón y Hoi An en dieciséis días.
   - >-
     De esa mirada entre jóvenes en el mercado nació la institución más bella de estos valles, el
     **mercado del amor de Khâu Vai** (una vez al año, desde 1919): el día en que antiguos enamorados,
@@ -55,5 +69,7 @@ curiosidades:
     La regla del fotógrafo aquí: **comprar antes de fotografiar**. Un textil de thổ cẩm comprado a
     quien lo teje vale más que cualquier propina, y convierte el retrato en un trato entre iguales.
 seenIn:
-  - ref: '#dia-10-meo-vac'
-    label: Día 10 · Mèo Vạc
+  - ref: '#dia-7-ma-pi-leng'
+    label: Día 7 · se cruza en jueves
+  - ref: '#minorias-norte'
+    label: Las minorías del norte

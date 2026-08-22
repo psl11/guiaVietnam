@@ -1,0 +1,45 @@
+slug: banh-mi-phuong
+navLabel: "Bánh Mì Phượng"
+trip: vietnam
+part: vietnam
+city: "Hoi An"
+category: street-food
+order: 95
+title: Bánh Mì Phượng
+tipo: puesto de barrio con cola
+area: "2B Phan Châu Trinh · borde este del casco viejo"
+cuando: "Hoi An · cena del día 10 o desayuno del 11"
+precio: "25-40k ₫ (~1-1,5 €)"
+reserva: "No"
+colas: "Sí, y van rápidas"
+veg: >-
+  Hacen versión ***chay*** con tofu, seta y paté vegetal. **Preguntad por la salsa**, que la de la casa
+  lleva base de pescado — se puede pedir sin ella y con más aguacate y hierbas.
+badge: "Anthony Bourdain"
+quePedir: >-
+  El **thập cẩm** (mixto) si vale todo, o el de cerdo a la parrilla. Y pedidlo **«ít ớt»** si no queréis
+  que pique, porque por defecto lleva.
+body: >-
+  En 2009 **Anthony Bourdain** rodó aquí un episodio y lo llamó *«el mejor sándwich del mundo»*. Quince
+  años después la frase sigue colgada en la pared y la cola sigue dando la vuelta a la esquina — y lo
+  notable es que **el bánh mì sigue estando bueno**, que no es lo habitual cuando pasa algo así.
+
+  La diferencia está en la salsa: una emulsión propia de la casa, hecha cada día, que es lo que ata el
+  paté, el cerdo, el pepinillo y las hierbas. El pan lo hornean allí y va **crujiente y hueco**, que es
+  la mitad del asunto.
+
+  **Un aviso, por transparencia:** en septiembre de 2023 el local cerró unos días tras un episodio de
+  intoxicación que afectó a más de un centenar de personas; reabrió después de la inspección sanitaria
+  y sigue funcionando. Con la cola que tiene, la rotación es altísima y nada se queda parado — pero
+  conviene saberlo y, como siempre en Vietnam, **comer lo que sale caliente y recién montado**.
+
+  Si la cola desanima, **Madam Khánh — The Banh Mi Queen** (115 Trần Cao Vân) es la otra mitad de la
+  discusión local, y hay quien la prefiere.
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Banh+Mi+Phuong+Hoi+An"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#banh-mi'
+    label: El bánh mì
+  - ref: '#dia-10-hoi-an'
+    label: Día 10 · la noche de los farolillos

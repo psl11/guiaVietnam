@@ -1,34 +1,43 @@
 slug: vuelos-internos
-navLabel: "Vuelos HAN ⇄ SAI"
+navLabel: "Los cinco vuelos internos"
 trip: vietnam
 order: 1
-kicker: Reservado · vuelos internos
-title: Los vuelos HAN ⇄ Siem Reap
+kicker: Reservar · vuelos internos
+title: Los cinco vuelos de dentro
 verdict: imprescindible
-verdictLabel: Reservado ✓
+verdictLabel: Tres comprados, dos por comprar
 lede: >-
-  **Reservados los dos directos de la tarde.** Sin vuelo interno no hay Camboya en dos días —la
-  alternativa es un bus de doce horas—, así que estos billetes son el esqueleto del tramo jemer.
+  Sin vuelos internos este itinerario no existe: ni Camboya en tres días, ni Hoi An en dos, ni el
+  regreso desde Saigón. Son **cinco billetes**, tres ya cerrados y dos pendientes — y el orden en que
+  se compran importa.
 ledger:
-  - label: Lo reservado
+  - label: Lo cerrado · el bloque de Camboya
     body: >-
-      **Ida** — mar **22 sep**, **VJ913** HAN **16:20 → SAI 18:05** (1 h 45, directo) `[✓ comprado]`.
-      **Salida de Camboya** — jue **24 sep**, a Saigón por la tarde. **Vuelta a Hanói** — sáb **26 sep**,
-      SGN → HAN a las 13:00, enlazando con el vuelo largo. Solo cabina, sin maleta
-      facturada. Ojo con el aeropuerto: **SAI** es el **nuevo** de Siem Reap (abierto en 2023,
-      sustituyó al viejo REP), y está a ~45 km del centro — el traslado al hotel es de casi una hora.
+      **VJ913** — mar **22 sep**, Hanói **16:20 → Siem Reap 18:05** (1 h 45, directo). **K6 824** — jue
+      **24 sep**, Siem Reap **15:00 → Saigón 15:50** (Air Cambodia). **VJ142** — sáb **26 sep**, Saigón
+      **13:25 → Hanói 15:35**, enlazando con el vuelo largo a casa. Los tres, solo cabina. Ojo con el
+      aeropuerto: **SAI** es el **nuevo** de Siem Reap (abierto en 2023), a unos 45 km del centro.
+  - label: Lo pendiente · Hoi An
+    body: >-
+      **Hanói → Đà Nẵng** el domingo **20** entre las 08:00 y las 09:00, y **Đà Nẵng → Hanói** el lunes
+      **21** entre las 16:00 y las 17:00. Unos **120-200 € los dos, ida y vuelta**, en una de las rutas
+      más frecuentadas del país. Es **lo único de la logística que falta por comprar** y lo único cuyo
+      precio sube solo por esperar.
+  - label: La regla que no se salta
+    body: >-
+      **La vuelta de Hoi An es el lunes 21, no el martes 22.** Es tentador volar el mismo día del
+      VJ913 —sale a las 16:20 y llega al mismo aeropuerto—, pero son **billetes separados sin
+      protección de conexión**: un retraso de dos horas de VietJet no os cuesta un vuelo interno, os
+      cuesta **Angkor**. El colchón del viaje se gasta en un temporal en la montaña, no en ahorrarse
+      una noche de hotel.
   - label: Por qué encajan
     body: >-
-      La **vuelta el jueves 24 por la tarde** —no el viernes— deja **el viernes 25 entero libre para
-      Trung Thu** en Hanói, y aterriza a las 20:50, con margen de sobra ante el vuelo largo del 26. La
-      **ida** llega a las 18:05: da para el traslado, la cena y el circo **Phare** esa misma noche,
-      antes de que el despertador suene a las **4:15** para el amanecer del equinoccio en Angkor Wat.
-  - label: El upgrade que no hizo falta
-    body: >-
-      Se sopesó pagar ~22 € más por el VN837 de Vietnam Airlines (llega a las 17:10, una hora antes)
-      como colchón ante un posible retraso la víspera del amanecer. Al final, VietJet ida y vuelta:
-      más simple, y el margen de la noche del 22 basta.
+      El **K6 824 del jueves 24** aterriza en Saigón a las 15:50 y deja **la primera tarde entera** en
+      el sur, con el Trung Thu del viernes 25 en la calle de los farolillos de Lương Nhữ Học. Y el
+      **VJ142** llega a las 15:35 en **T1**, con más de cinco horas antes del vuelo largo desde **T2**
+      — margen suficiente para los 38 minutos de retraso medio que acumula esa ruta.
   - label: El veredicto
     body: >-
-      **Cerrado.** Los internos eran el punto sin retorno del plan de Camboya; con la vuelta
-      protegiendo el viernes de Trung Thu y el vuelo del 26, esta era la combinación buena.
+      **Comprad los de Đà Nẵng ya.** Los tres de Camboya eran el punto sin retorno y están cerrados; los
+      dos que quedan son baratos hoy y caros en agosto, y sin ellos el domingo y el lunes vuelven a ser
+      dos días de Hanói.
