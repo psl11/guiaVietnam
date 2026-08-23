@@ -5,96 +5,128 @@ order: 13
 eyebrow: El plan · Día 13 · mié 23 sep
 title: El día grande de *Angkor*
 dek: >-
-  El día alrededor del cual gira el viaje, y cae justo en el equinoccio. Es la única jornada completa
-  en Angkor, así que va cargada de punta a punta: el sol naciendo alineado con la torre central, el
-  templo más grande del mundo por dentro, las doscientas dieciséis caras del Bayon y, al caer la
-  tarde, la selva devorando Ta Prohm.
+  El día alrededor del cual gira el viaje, y cae justo en el equinoccio. Va en dos mitades: la primera
+  es vuestra —el sol naciendo alineado con la torre central y el templo más grande del mundo vacío por
+  dentro—, y a partir de las ocho y media entra el guía. Ocho horas seguidas de piedra jemer, que es
+  mucho: la mitad del trabajo de hoy es administrar el cuerpo.
 blocks:
   - block: Amanecer
-    time: "04:45"
-    title: Angkor Wat, el sol del equinoccio
+    time: "04:45–08:30"
+    title: El sol del equinoccio, y el templo vacío
     body: >-
-      Despertador a las 4:15, tuk-tuk a oscuras y cruzáis el foso antes que nadie. Se espera frente al
-      **estanque norte** —menos gentío que el sur y mejor reflejo—.
+      Esta parte **no la lleva el guía y es la más importante del día**. Despertador a las 4:15,
+      desayuno de caja pedido al hotel la víspera, tuk-tuk a oscuras y cruzáis el foso antes que nadie.
+      Se espera frente al **estanque norte** —menos gentío que el sur y mejor reflejo—.
+
+      Y salido el sol, **no os vayáis**: el gentío del amanecer se deshace hacia las siete y el templo
+      se queda vacío. Esa es la hora de la **galería de bajorrelieves**, ochocientos metros de piedra
+      narrada, y de la subida al **Bakan**, el santuario superior que es la cumbre del monte Meru.
+      Volveréis luego con el guía, pero **verlo solos primero es lo que hace que lo de después se
+      entienda**.
     window:
-      label: Ventana óptima
+      label: Hoy es el equinoccio, y hay que pedir una cosa
       body: >-
-        **En 2026 el equinoccio cae hoy, a las 07:06 hora de Camboya**: hora y media después de este
-        amanecer. No es «cerca del equinoccio», es el equinoccio — y el sol nace **alineado con la torre
-        central**, que es la razón de que el templo mire al oeste. En marzo esa misma alineación junta a
-        decenas de miles de personas; en septiembre no lo sabe casi nadie. Ver [la ficha de la
-        geometría](#angkor-wat-geometria).
+        **En 2026 el equinoccio cae hoy, a las 07:06 hora de Camboya.** No es «cerca del equinoccio»:
+        el sol nace **alineado con la torre central**, que es la razón de que el templo mire al oeste.
+        En marzo esa alineación junta a decenas de miles de personas; en septiembre no lo sabe casi
+        nadie. Ver [la geometría de Angkor Wat](#angkor-wat-geometria).
+
+        **Y la petición al guía: que os recoja en Angkor Wat a las 08:30, no en el hotel.** Si no,
+        tendríais que volver corriendo a Siem Reap a las siete y media, desayunar de pie y salir otra
+        vez — cuarenta minutos de tuk-tuk tirados y la mejor hora del día perdida.
   - block: Mañana
-    time: "06:30–09:00"
-    title: Angkor Wat por dentro, ya sin gente
+    time: "08:30–11:30"
+    title: Angkor Thom, con el guía
     body: >-
-      Salido el sol, el gentío del amanecer se deshace y **el templo se queda vacío**: es entonces cuando
-      se ve. La **galería de bajorrelieves**, ochocientos metros de piedra narrada, con el *Batido del
-      Océano de Leche* —ochenta y ocho asuras y noventa y dos devas tirando de una serpiente durante mil
-      años para sacar el elixir de la inmortalidad— y la batalla de Kurukshetra. Y la subida al
-      **Bakan**, el santuario superior, que es la cumbre del monte Meru.
+      Entra el guía y empieza la parte contada. Se accede a [**Angkor Thom**](#angkor-thom) por la
+      **puerta sur**, con sus filas de **cincuenta y cuatro dioses y cincuenta y cuatro demonios**
+      tirando de la serpiente a ambos lados de la calzada, y se va al [**Bayon**](#el-bayon):
+      **doscientas dieciséis caras** sonriendo desde cincuenta y tantas torres.
+
+      Después, las **terrazas reales**: la **de los Elefantes**, trescientos metros de plataforma
+      tallada con una procesión de elefantes y sus *mahouts* desde la que el rey presidía los desfiles,
+      y la **del Rey Leproso**, con su doble muro de figuras superpuestas.
     window:
-      label: El error que comete todo el mundo
+      label: Pedidle que empiece por aquí y no por Angkor Wat
       body: >-
-        Irse a desayunar en cuanto sale el sol. La hora siguiente al amanecer es **la mejor del día** en
-        Angkor Wat: la luz entra baja por la galería oeste, los relieves cogen relieve de verdad y los
-        autobuses todavía no han llegado.
-  - block: Media mañana
-    time: "09:30–11:30"
-    title: Angkor Thom y las caras del Bayon
-    body: >-
-      Se entra en [**Angkor Thom**](#angkor-thom) por la **puerta sur**, con sus filas de dioses y demonios
-      tirando de la serpiente a ambos lados de la calzada, y se va al [**Bayon**](#el-bayon): **doscientas
-      dieciséis caras** sonriendo desde cincuenta y tantas torres. Después, la **Terraza de los Elefantes**
-      y la **del Rey Leproso**, trescientos metros de bajorrelieve de desfile.
-  - block: Mediodía · siesta
-    time: "12:00–15:00"
-    title: Piscina y horizontal
+        Es el cambio que más rendimiento da a las ocho horas contratadas. **Vosotros ya habréis hecho
+        Angkor Wat al amanecer**, así que repetirlo a las nueve es gastar la mejor luz dos veces. Y el
+        Bayon **necesita justo esta hora**: las caras son relieve profundo y solo se leen con **luz
+        lateral de mañana** — a mediodía se aplanan y desaparecen.
+  - block: Mediodía
+    time: "11:30–13:00"
+    title: Comer pronto, y a la sombra
     dim: true
     body: >-
-      Vuelta al hotel, comida tranquila y siesta larga. Aquí la piscina no es un lujo de folleto: es lo
-      que hace **físicamente posible** volver a salir después de haberse levantado a las cuatro y cuarto.
-    window:
-      label: Por qué tanto rato
-      body: >-
-        A mediodía el calor de Camboya aprieta y la luz cae **plana y dura** — la peor hora para la
-        piedra. En Angkor no se gana nada resistiendo al sol: se pierde la foto y se llega muerto a la
-        hora buena.
+      **Confirmadle al guía que la pausa de comida es a las once y media y no a la una.** No es
+      capricho: lleváis en pie desde las cuatro y cuarto, en septiembre en Camboya se juntan **treinta y
+      tantos grados con humedad alta**, y comer en el peor momento del calor es lo que decide si la
+      tarde se disfruta o se sufre.
+
+      Hay restaurantes dentro del recinto, cerca de la puerta sur y junto a Ta Prohm. Y llevad **dos
+      litros de agua por cabeza**, sales, gorra y protección: hoy no hay siesta.
   - block: Tarde
-    time: "15:30–17:30"
+    time: "13:00–14:30"
+    title: Angkor Wat leído
+    body: >-
+      Vuelta a **Angkor Wat**, esta vez con quien sabe leerlo — y a esta hora, además, porque
+      **la galería de bajorrelieves está techada** y es de los pocos sitios donde se está fresco a
+      mediodía.
+
+      Lo que hay que pedirle que cuente, si no lo hace solo: el **Batido del Océano de Leche**
+      —ochenta y ocho *asuras* y noventa y dos *devas* tirando de una serpiente durante mil años para
+      sacar el elixir de la inmortalidad—, la batalla de **Kurukshetra** del *Mahabharata* y el desfile
+      histórico de **Suryavarman II**, el rey que lo mandó construir. Está todo en
+      [la ficha de los bajorrelieves](#bajorrelieves-angkor-wat).
+  - block: Media tarde
+    time: "14:45–16:30"
     title: Ta Prohm, el templo que la selva no soltó
     body: >-
-      [**Ta Prohm**](#ta-prohm) al final del día: los **spung** de raíces blancas derramadas sobre los
-      muros, el patio donde rodó *Tomb Raider*, y esa sensación de ruina encontrada que la École
-      française d'Extrême-Orient decidió **conservar a propósito** en vez de restaurar — se apuntaló lo
-      justo para que no se cayera y se dejó el resto como estaba.
+      Y se cierra donde tenía que cerrarse. [**Ta Prohm**](#ta-prohm): los **spung** de raíces blancas
+      derramadas sobre los muros, el patio donde rodó *Tomb Raider*, y esa sensación de ruina
+      encontrada que la École française d'Extrême-Orient decidió **conservar a propósito** en vez de
+      restaurar — se apuntaló lo justo para que no se cayera y se dejó el resto como estaba.
     window:
-      label: Por qué a última hora y no a primera
+      label: Por qué al final y no a primera hora
       body: >-
-        Porque a las siete y media de la mañana estabais en Angkor Wat, que es donde había que estar. Y
-        porque Ta Prohm funciona igual de bien al final: **la luz verde de la tarde entre las raíces** es
-        su mejor momento, y hacia las cinco los grupos ya se han ido a buscar sitio para la puesta de sol.
+        Por dos cosas. La **luz verde de la tarde entre las raíces** es su mejor momento y no se parece
+        a nada. Y hacia las cuatro los grupos ya se han ido a buscar sitio para la puesta de sol, así
+        que el patio de la ceiba grande se queda razonablemente tranquilo. Además está en **sombra de
+        selva todo el rato**, que después de diez horas se agradece más de lo que parece.
   - block: Atardecer
-    time: "17:30–18:30"
-    title: La última luz desde Pre Rup
+    time: "16:30–18:15"
+    title: El atardecer, si el cuerpo aguanta
     body: >-
-      Para cerrar, **Pre Rup**: un templo-montaña de laterita del siglo X que se pone naranja con el sol
-      bajo y desde cuyas terrazas se domina la llanura y los arrozales. Es el atardecer clásico de Angkor
+      El guía termina a las **16:30** y a esa hora lleváis **doce horas en pie**. Así que esto va en
+      condicional, y sin culpa si se cae.
+
+      Si tiráis: **Srah Srang** está a cinco minutos de Ta Prohm — el estanque real del siglo X, con su
+      embarcadero de laterita y leones, mirando al oeste. Es tranquilo, no cobra aforo y no exige
+      moverse. La alternativa clásica es **Pre Rup**, un templo-montaña de laterita que se pone naranja
+      con el sol bajo y domina la llanura, a un cuarto de hora — mejor vista y algo más de gente, pero
       **sin la aglomeración de Phnom Bakheng**, donde limitan el aforo y se hace cola.
+    window:
+      label: Decidlo por la mañana, no a las cuatro y media
+      body: >-
+        **Pedid al guía que os deje en Ta Prohm o en Srah Srang, no de vuelta en el hotel**, y tened el
+        tuk-tuk avisado para recogeros a las seis y cuarto. Si a las cuatro y media ya estáis en Siem
+        Reap, nadie va a volver a salir — y esa decisión se toma sin querer, por inercia, al subirse al
+        coche.
+  - block: Noche
+    time: noche
+    title: Cena jemer y a la cama
+    dim: true
+    body: >-
+      Cena tranquila —es la noche de [**Cuisine Wat Damnak**](#cuisine-wat-damnak-reserva) si la
+      reservasteis— y pronto a dormir: mañana el despertador vuelve a sonar de madrugada para Banteay
+      Srei, y por la tarde se vuela a Saigón.
     window:
       label: Y la ausencia que hay que asumir
       body: >-
         Con un solo día completo en Angkor, **el Tonlé Sap se cae del plan**. Duele, porque el bosque
         inundado de [Kampong Phluk](#kampong-phluk) solo es navegable en la estación húmeda y septiembre
-        es justo su máximo. Es el precio de meter Saigón, y conviene saberlo de antemano en vez de
-        descubrirlo el jueves.
-  - block: Noche
-    time: noche
-    title: Cena jemer en Wat Damnak
-    body: >-
-      Cena tranquila y pronto a la cama: mañana el despertador vuelve a sonar de madrugada para Banteay
-      Srei, y por la tarde se vuela.
-    dim: true
+        es justo su máximo. Es el precio de haber metido Saigón, y conviene saberlo de antemano en vez
+        de descubrirlo el jueves.
 dormir:
   lugar: "Siem Reap · Wat Bo"
   ref: '#siem-reap-hotel'
