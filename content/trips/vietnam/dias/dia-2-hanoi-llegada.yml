@@ -56,6 +56,36 @@ blocks:
         A mediodía se alían el calor y el desfase horario, y la luz cae plana y dura para la foto. Una siesta
         corta es lo que hace que la tarde de museo y la noche de trenes o marionetas no se vengan abajo. Se
         pierde poco y se gana el resto del día.
+  - block: Media tarde
+    time: "14:00–15:00"
+    title: Tres paradas de camino, y dos son de guerra
+    body: >-
+      Son diez minutos cada una y están en la línea que va del barrio francés al museo, así que no
+      cuestan día: **hacedlas de camino**.
+
+      La primera, a la orilla del lago Trúc Bạch: el [**memorial de McCain**](#memorial-mccain), un
+      relieve modesto que marca donde cayó su avión en **1967** — el mismo hombre que acabaría empujando
+      la normalización con Vietnam treinta años después.
+
+      La segunda, a trescientos metros por la carretera Thanh Niên, entre los dos lagos: la
+      [**pagoda Trấn Quốc**](#pagoda-tran-quoc), **la más antigua de Hanói** —unos mil cuatrocientos
+      cincuenta años— con su estupa roja de once pisos asomada al **Hồ Tây**. Veinte minutos, y es de lo
+      más bonito de la ciudad.
+
+      Y la tercera, en el barrio de Ngọc Hà: el [**B-52 caído en el lago Hữu Tiệp**](#lago-b52),
+      derribado en la Navidad de **1972** y todavía medio sumergido entre casas y tendederos, con la
+      gente lavando ropa al lado.
+    window:
+      label: Por qué se ven ahora y no al final
+      body: >-
+        Porque el B-52 y el memorial son **la guerra contada por quien la ganó**, y hay que verlos
+        *antes* de Saigón para que el Museo de los Vestigios del día 15 sea el otro lado del espejo y no
+        una postal suelta. En el plan original caían el último día en Hanói; con Hoi An dentro ese día
+        ya no existe, así que se cuelgan de este traslado, que pasa por delante de los tres.
+
+        Lo que sí se cae del viaje es el **Phủ Tây Hồ**, el templo del culto a las diosas madre, que
+        está al otro extremo del Hồ Tây y no queda de camino de nada. Queda anotado como lo que es: una
+        ausencia, no un descuido.
   - block: Tarde
     time: "15:00–17:30"
     title: El Museo de Etnología, o Hà Giang en miniatura

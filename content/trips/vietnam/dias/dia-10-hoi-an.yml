@@ -9,39 +9,47 @@ dek: >-
   un bus cama, desayunáis phở, voláis mil kilómetros al sur y a mediodía estáis en el único sitio de
   Vietnam donde el siglo XVII sigue en pie. La tarde es el casco viejo y la noche, los farolillos.
 blocks:
-  - block: Amanecer
-    time: "05:00–07:30"
-    title: Bajar del bus dentro del aeropuerto
+  - block: Madrugada
+    time: "03:00–05:40"
+    title: Del autobús al avión, sin salir del aeropuerto
     dim: true
     body: >-
-      El bus cama para **en Nội Bài sobre las cinco**, que es exactamente donde hay que estar: sin Grab
-      que coger, sin cruzar la ciudad y sin depender del tráfico. Café y algo de desayuno en la terminal
-      —poca cosa a esa hora, pero hay—, facturación en cuanto abra y a esperar sentados.
+      El bus cama para **en Nội Bài entre las tres y las cuatro**, que es exactamente donde hay que
+      estar: sin Grab que coger, sin cruzar la ciudad y sin depender del tráfico. Y **VJ501 sale a las
+      05:40**, así que el margen es de una hora larga incluso en el peor caso.
 
-      **No hay nada que resolver**: lleváis solo las dos mochilas de cabina y la noche ya está dormida.
+      Café de máquina, y a esperar sentados. Es un rato raro y corto — pero es el precio de lo que
+      viene después, que es un día entero en Hoi An.
     window:
-      label: Lo que se cambia, y por qué compensa
+      label: La única cosa que hay que dejar hecha
       body: >-
-        Se pierde el cuenco de phở de pie en el casco viejo, que apetecía después de cuatro días de
-        arroz de homestay. A cambio se gana **media jornada en Hoi An** —llegáis a las diez y no a
-        mediodía— y, sobre todo, se quita del plan el único punto donde un atasco de Hanói podía costar
-        un vuelo. Phở hay de sobra los días 2 y 3.
-  - block: Mañana
-    time: "07:30–10:00"
+        **Facturad por internet la noche del sábado, antes de subir al bus**, con el wifi del hotel de
+        Hà Giang. Con las tarjetas de embarque en el móvil el mostrador deja de importar y solo cuenta
+        la puerta, que cierra a las **05:25** — y eso convierte una hora de margen en hora y media.
+        Lleváis solo cabina, así que no hay nada que dejar en la cinta.
+
+        Y si aun así el autobús llegara tardísimo y perdierais el vuelo: **hay salidas a Đà Nẵng casi
+        cada media hora** toda la mañana. Costaría treinta o cuarenta euros y un par de horas, no el
+        viaje. Ese es el motivo de que este riesgo sí se pueda correr y el del martes no.
+  - block: Amanecer
+    time: "05:40–08:00"
     title: El vuelo, y la bajada a Hoi An
     body: >-
-      **Hanói → Đà Nẵng a las 07:30**, hora y veinte, directo. Se aterriza a las **08:50** y de ahí a
-      Hoi An hay **30 km y unos 45 minutos** por la carretera de la costa — taxi o Grab, unos 400.000 ₫,
-      o el traslado del hotel por un precio parecido. **En el casco viejo a las diez.**
+      **Hanói → Đà Nẵng, hora y veinte**, con el sol saliendo sobre el mar de la China por la
+      ventanilla derecha. Se aterriza a las **07:00** y de ahí a Hoi An hay **30 km y unos 45 minutos**
+      por la carretera de la costa — taxi o Grab, unos 400.000 ₫.
 
-      El detalle de qué comprar y con qué margen está en [los vuelos a Hoi An](#vuelos-hoi-an).
+      **En el casco viejo a las ocho de la mañana**, que es la mejor hora que da esta ciudad y os la
+      encontráis de regalo el primer día: los autobuses de Đà Nẵng no empiezan a descargar hasta las
+      nueve.
     window:
-      label: Y el encargo del sastre, si os tienta
+      label: Reservad el hotel desde la noche del 19
       body: >-
-        Llegar a las diez cambia una cosa concreta: **da tiempo a encargar hoy y probar mañana**. Hoi An
-        vive de la sastrería a medida en 24 horas y con dos noches el ciclo entra entero —encargo esta
-        tarde, prueba mañana al mediodía, recogida mañana por la noche—. Si os interesa, hacedlo **antes
-        de la siesta**, no después.
+        Es la recomendación más importante de este día y cuesta una noche de hotel. **Llegáis a las
+        ocho de la mañana y la entrada normal es a las dos de la tarde**: con la habitación pagada desde
+        la víspera, entráis, os ducháis y dormís dos horas — y el domingo se convierte en un día de
+        verdad en vez de en un día de supervivencia. Sin eso, llegáis con una noche de autobús encima y
+        seis horas por delante sin sitio donde tumbaros.
   - block: Mediodía · siesta
     time: "12:00–15:30"
     title: Comer, y desaparecer del sol

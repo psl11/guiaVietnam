@@ -6,10 +6,10 @@ fecha: dom 20 sep
 tipo: vuelo
 desde: Hanói (HAN)
 hasta: Đà Nẵng (DAD)
-salida: "07:30"
-llegada: "08:50"
+salida: "05:40"
+llegada: "07:00"
 duracion: 1 h 20
-medio: VietJet · directo
-status: pendiente
-nota: Con el bus llegando a Nội Bài sobre las cinco quedan dos horas y media de margen.
+medio: VJ501 · VietJet · Deluxe
+status: reservado
+nota: Facturad por internet antes de subir al bus en Hà Giang. Con eso el mostrador deja de importar.
 ref: '#vuelos-hoi-an'

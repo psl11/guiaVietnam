@@ -5,13 +5,13 @@ order: 12
 eyebrow: El plan · Día 12 · mar 22 sep
 title: Hoi An al *amanecer*, y el salto a Camboya
 dek: >-
-  El día con más piezas del viaje, y todas cortas. Empieza con el casco viejo de Hoi An vacío a las
-  seis de la mañana —que es la mejor hora que da esta ciudad—, sigue con un vuelo al norte y, si el
-  reloj acompaña, un último mordisco de Hanói camino del aeropuerto. Al caer la tarde ya estáis al
-  otro lado del mapa de Indochina.
+  Un día partido en dos países y con una sola costura delicada. Empieza con el casco viejo de Hoi An
+  vacío a las seis de la mañana —que es la mejor hora que da esta ciudad—, sigue con una última mañana
+  sin prisa y a mediodía se vuela al norte para enlazar con Camboya. Al caer la tarde ya estáis al otro
+  lado del mapa de Indochina.
 blocks:
   - block: Amanecer
-    time: "05:45–07:45"
+    time: "05:45–08:00"
     title: El casco viejo, sin nadie
     body: >-
       Fuera de la cama a las cinco y media, y esta es la razón de haber dormido dos noches aquí.
@@ -21,7 +21,7 @@ blocks:
 
       El **puente japonés** sin cola, el **mercado central** montándose sobre las seis y media —pescado
       del Thu Bồn, hierbas de Trà Quế, sombreros cónicos de trabajar y no de recuerdo— y las barcas
-      saliendo a remo. Desayuno en un puesto del mercado y a por las mochilas.
+      saliendo a remo.
     window:
       label: Por qué esta hora y no otra
       body: >-
@@ -30,43 +30,34 @@ blocks:
         Antes de las ocho es un pueblo de pescadores del siglo XVIII. Si solo pudierais estar aquí dos
         horas, **son estas** — y por eso caen el último día, cuando ya sabéis dónde mirar.
   - block: Mañana
-    time: "08:00–11:20"
-    title: A Đà Nẵng y vuelta al norte
+    time: "08:00–10:30"
+    title: La última mañana, sin prisa
     body: >-
-      Coche a **Đà Nẵng** (45 min, 30 km) y vuelo a **Hanói**, hora y veinte. La ventana buena es
-      **entre las nueve y las diez y media** — el porqué, con todos los números, está en
-      [los vuelos a Hoi An](#vuelos-hoi-an), y no es un detalle menor: es la única costura del viaje
-      donde dos billetes separados se tocan.
-    window:
-      label: La regla de hoy, y es una sola
-      body: >-
-        **Todo lo que viene después de aterrizar es opcional; el VJ913 de las 16:20 no.** Si el vuelo
-        de Đà Nẵng sale con retraso, se cancela el paseo por Hanói y se va directo a la terminal
-        internacional. No se improvisa sobre la marcha: la decisión se toma **al embarcar en Đà Nẵng**,
-        mirando la hora real de salida.
-  - block: Mediodía
-    time: "11:45–14:40"
-    title: El último mordisco de Hanói
-    body: >-
-      Si habéis aterrizado en hora, queda tiempo para lo mejor que le quedaba a la ciudad — y encima
-      **cae de camino al aeropuerto**, al norte, cruzando después el puente **Nhật Tân**.
+      Desayuno largo, la recogida del sastre si encargasteis algo, y lo que quedara del casco viejo — un
+      **hội quán** que no diera tiempo, la casa de **Tấn Ký**, un café en la orilla. Es el único rato de
+      todo el viaje que no tiene nada programado, y con dos noches aquí os lo habéis ganado.
 
-      El [**B-52 caído en el lago Hữu Tiệp**](#lago-b52): derribado en la Navidad de **1972** y todavía
-      medio sumergido en un estanque de barrio, entre casas y tendederos. A la orilla del Trúc Bạch, el
-      [**memorial de McCain**](#memorial-mccain), donde cayó su avión en 1967 — el mismo hombre que
-      acabaría empujando la normalización con Vietnam. Y para cerrar, la
-      [**pagoda Trấn Quốc**](#pagoda-tran-quoc), **la más antigua de Hanói**, con su estupa roja de once
-      pisos sobre una península del **Hồ Tây**.
-
-      Comida rápida junto al lago y a **Nội Bài**, terminal internacional, sobre las **14:40**.
+      A las **10:30**, coche a **Đà Nẵng**: 30 km, unos 45 minutos por la carretera de la costa.
     dim: true
+  - block: Mediodía
+    time: "12:40–14:45"
+    title: El vuelo al norte, y el cambio de terminal
+    body: >-
+      **VJ1504, Đà Nẵng 12:40 → Hanói 14:00**, hora y veinte, llegada a la **terminal nacional (T1)**. Y
+      de ahí a la **internacional (T2)** por la lanzadera gratuita, que pasa cada quince minutos y tarda
+      cuatro. Sin equipaje que recoger en la cinta, en T2 sobre las **14:45**.
     window:
-      label: Qué se cae si vais justos
+      label: La costura delicada del viaje, y cómo se maneja
       body: >-
-        **Por este orden: primero el [Phủ Tây Hồ](#phu-tay-ho), después Trấn Quốc.** Lo que no se toca
-        es el B-52 y el memorial, y no por bonitos: con ellos habréis visto **la guerra contada por
-        quien la ganó**, y el viernes en Saigón veréis el otro lado del espejo. Sin esa mitad, el
-        Museo de los Vestigios pierde la mitad de su fuerza.
+        Son **dos billetes separados sin protección de conexión**: entre aterrizar y el cierre de
+        facturación del VJ913 quedan **cuarenta y cinco minutos reales**. Sale bien y no hay que fiarlo
+        a la suerte, porque los dos vuelos van en **tarifa flexible** y eso da la carta que hace falta.
+
+        **La regla es una y se aplica en Đà Nẵng, no en Hanói:** mirad el panel al llegar al aeropuerto,
+        sobre las once y cuarto. **Si el VJ1504 lleva cualquier retraso anunciado, cambiadlo en el
+        mostrador al vuelo anterior en ese mismo momento** — hay salidas casi cada media hora y con la
+        tarifa flexible es gratis o casi. Lo que no se puede hacer es embarcar con retraso y confiar en
+        recuperarlo en el aire.
   - block: Tarde
     time: "16:20–19:15"
     title: El vuelo VJ913 a Siem Reap

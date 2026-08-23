@@ -5,11 +5,11 @@ order: 1
 kicker: Reservar · vuelos internos
 title: Los cinco vuelos de dentro
 verdict: imprescindible
-verdictLabel: Tres comprados, dos por comprar
+verdictLabel: Los cinco, comprados ✓
 lede: >-
   Sin vuelos internos este itinerario no existe: ni Camboya en tres días, ni Hoi An en dos, ni el
-  regreso desde Saigón. Son **cinco billetes**, tres ya cerrados y dos pendientes — y el orden en que
-  se compran importa.
+  regreso desde Saigón. Son **cinco billetes y ya están los cinco**. Lo que queda no es comprar: es
+  saber **cuál de ellos es intocable y cuál se puede sacrificar**, porque no valen lo mismo.
 ledger:
   - label: Lo cerrado · el bloque de Camboya
     body: >-
@@ -17,21 +17,26 @@ ledger:
       **24 sep**, Siem Reap **15:00 → Saigón 15:50** (Air Cambodia). **VJ142** — sáb **26 sep**, Saigón
       **13:25 → Hanói 15:35**, enlazando con el vuelo largo a casa. Los tres, solo cabina. Ojo con el
       aeropuerto: **SAI** es el **nuevo** de Siem Reap (abierto en 2023), a unos 45 km del centro.
-  - label: Lo pendiente · Hoi An
+  - label: Lo cerrado · Hoi An
     body: >-
-      **Hanói → Đà Nẵng** el domingo **20 a las 07:30** —elegido, y encaja: el bus cama llega a Nội Bài
-      sobre las cinco— y **Đà Nẵng → Hanói** el martes **22**, hora por decidir. Unos **67 € por
-      persona ida y vuelta**. Es **lo único de la logística que falta por comprar** y lo único cuyo
-      precio sube solo por esperar.
-  - label: La regla que no se salta
+      **VJ501** — dom **20 sep**, Hanói **05:40 → Đà Nẵng 07:00**. **VJ1504** — mar **22 sep**, Đà Nẵng
+      **12:40 → Hanói 14:00**. Tarifa **Deluxe**, **148,46 € los dos**. La ida os pone en el casco viejo
+      **a las ocho de la mañana**, antes que los autobuses de excursión; la vuelta deja la última mañana
+      de Hoi An entera.
+  - label: Por qué la tarifa flexible vale lo que cuesta
     body: >-
-      **La vuelta del 22 tiene que ser de mañana, entre las 09:00 y las 10:30.** El VJ913 sale a las
-      16:20 de la terminal internacional y el interno llega a la nacional: con el vuelo de las 12:40
-      quedan **tres cuartos de hora reales** de margen una vez descontados el desembarque y la
-      lanzadera entre terminales. Son **billetes separados sin protección de conexión** — un retraso de
-      dos horas de VietJet no cuesta un vuelo interno, cuesta **Angkor**. Lo que se compra con la hora
-      de la mañana es la peor parte del día en Hoi An; lo que se vende con la de mediodía es todo el
-      margen del viaje.
+      Porque los dos horarios son ajustados y **la flexibilidad es lo que los vuelve razonables**. De
+      ida, si el bus cama llegara tarde, perder el VJ501 cuesta un cambio y dos horas — hay salidas cada
+      media hora. De vuelta, el enlace con el VJ913 son **cuarenta y cinco minutos reales**, así que la
+      regla es mirar el panel **en Đà Nẵng a las 11:15** y, ante cualquier retraso anunciado, **cambiar
+      al vuelo anterior allí mismo**. Usada a tiempo, la flexibilidad resuelve; usada al aterrizar en
+      Hanói, ya no sirve.
+  - label: La jerarquía, por si hay que elegir
+    body: >-
+      **El VJ913 del martes es intocable** — detrás va Angkor, el hotel de Siem Reap, el guía del día 23
+      y el K6 del jueves. Los dos de Đà Nẵng son **sacrificables**: si un temporal complica el centro,
+      se dejan caer y el domingo y el lunes vuelven a ser Hanói. Tenerlo claro de antemano es lo que
+      permite decidir rápido en un mostrador.
   - label: Por qué encajan
     body: >-
       El **K6 824 del jueves 24** aterriza en Saigón a las 15:50 y deja **la primera tarde entera** en

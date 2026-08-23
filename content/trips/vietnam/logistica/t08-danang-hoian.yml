@@ -6,9 +6,9 @@ fecha: dom 20 sep
 tipo: coche
 desde: Đà Nẵng (DAD)
 hasta: Hoi An
-salida: "09:15"
-llegada: "10:00"
+salida: "07:15"
+llegada: "08:00"
 duracion: 45 min
 medio: Taxi o Grab · 30 km
-nota: Unos 400.000 ₫. Casi todos los hoteles de Hoi An lo organizan por un precio parecido.
-ref: '#vuelos-hoi-an'
+nota: Llegáis antes que los autobuses de excursión. El casco viejo está vacío hasta las nueve.
+ref: '#hoi-an-hotel'
