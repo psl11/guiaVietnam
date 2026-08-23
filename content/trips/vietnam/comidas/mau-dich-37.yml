@@ -42,7 +42,7 @@ link:
   url: "https://www.google.com/maps/search/?api=1&query=C%E1%BB%ADa%20H%C3%A0ng%20%C4%82n%20U%E1%BB%91ng%20M%E1%BA%ADu%20D%E1%BB%8Bch%20S%E1%BB%91%2037%20H%C3%A0%20N%E1%BB%99i"
   label: Ver en Google Maps
 seenIn:
-  - ref: '#dia-11-hoi-an-hanoi'
-    label: Día 11 · Trúc Bạch
+  - ref: '#dia-2-hanoi-llegada'
+    label: Día 2 o 3 · la cena que se elige
   - ref: '#cong-ca-phe'
     label: la misma nostalgia, en café

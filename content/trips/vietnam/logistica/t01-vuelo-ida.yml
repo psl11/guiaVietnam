@@ -1,0 +1,15 @@
+slug: t01-vuelo-ida
+trip: vietnam
+order: 1
+dia: 1
+fecha: vie 11 sep
+tipo: vuelo
+desde: Barcelona
+hasta: Hanói (Nội Bài)
+salida: "10:45"
+llegada: "06:40 +1"
+duracion: ~16 h
+medio: Etihad · escala en Abu Dabi
+status: reservado
+nota: Solo equipaje de mano, dos mochilas de 7 kg. El tramo Abu Dabi-Hanói es el nocturno.
+ref: '#dia-1-vuelo'

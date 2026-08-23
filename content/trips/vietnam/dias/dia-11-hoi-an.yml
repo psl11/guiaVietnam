@@ -1,0 +1,84 @@
+slug: dia-11-hoi-an
+navLabel: "Día 11 · Hoi An"
+trip: vietnam
+order: 11
+eyebrow: El plan · Día 11 · lun 21 sep
+title: Los templos *cham* y la playa
+dek: >-
+  El único día entero sin desplazamientos de todo el viaje, y cae justo donde hacía falta. La mañana
+  se va a Mỹ Sơn —setenta templos de ladrillo en un valle cerrado, el mejor prólogo posible a Angkor—,
+  la tarde a la playa y los arrozales, y la noche otra vez a los farolillos, que se dejan ver dos
+  veces sin cansar.
+blocks:
+  - block: Mañana
+    time: "08:00–12:30"
+    title: Mỹ Sơn, el santuario cham
+    body: >-
+      Cuarenta y cinco kilómetros al oeste, una hora de coche, y aparece
+      [**Mỹ Sơn**](#my-son) — el santuario nacional de **Champa**, que no fue una provincia de Vietnam
+      sino **un reino rival** que ocupó toda la costa del centro durante mil años. Su gente era
+      malayo-polinesia, comerciaba con la India y adoptó el **hinduismo**: lo que se venera en cada
+      torre es un ***linga*** sobre su *yoni*.
+
+      Lo que hay que mirar es **el ladrillo**. Las torres están levantadas **sin juntas visibles**, con
+      la decoración tallada directamente sobre el muro ya construido, y **nadie ha conseguido
+      reproducir la técnica**: los ladrillos de las restauraciones modernas se distinguen a simple
+      vista y envejecen peor que los del siglo X.
+
+      Y falta la mejor. La torre **A1**, de veinticuatro metros, la arrasó **la aviación estadounidense
+      en 1969** cuando el Viet Cong usó el valle como base. Todavía se ven **cráteres de bomba** entre
+      las ruinas.
+    window:
+      label: A la apertura o nada
+      body: >-
+        Abre a las **06:00** y las excursiones estándar salen sobre las ocho. **Es un yacimiento abierto
+        y sin una sola sombra**, y a las once de la mañana de septiembre pega de verdad — con la humedad
+        del centro, más. Salid a las siete y media y estaréis de vuelta para comer. Y hay **danza cham**
+        incluida en la entrada a media mañana, que dura veinte minutos y merece la parada.
+  - block: Mediodía · siesta
+    time: "13:00–15:30"
+    title: Comer y esperar a que baje el sol
+    dim: true
+    body: >-
+      Vuelta a Hoi An, comida y siesta. Hoy no es negociable: venís de un yacimiento a pleno sol y por
+      la tarde toca playa. Es también el rato para pasar por el sastre si encargasteis algo ayer —**se
+      trabaja en 24 horas** y hoy es cuando se prueba.
+  - block: Tarde
+    time: "15:30–18:30"
+    title: Trà Quế y la playa de An Bàng, en bici
+    body: >-
+      Casi todos los hoteles prestan bicicleta, y es como se ve lo que hay alrededor. Tres kilómetros
+      al norte está la **aldea de Trà Quế**, cuatrocientos años cultivando hierbas aromáticas entre el
+      río y una laguna, abonadas **solo con alga del agua**: de ahí sale el cilantro, la menta y la
+      albahaca de media cocina de la región.
+
+      Desde ahí, camino de tierra entre arrozales hasta la **playa de An Bàng**, cuatro kilómetros al
+      este — la playa que le queda a Hoi An sin hormigón, con chiringuitos de madera. Baño, cerveza y
+      vuelta pedaleando con el sol bajo sobre los arrozales, que es de las mejores horas del viaje para
+      una cámara.
+    window:
+      label: Por qué la playa a esta hora
+      body: >-
+        Porque a mediodía es un horno y porque **la marea de gente de An Bàng se va sobre las cinco**.
+        De cinco y media a seis y media queda la arena medio vacía y la luz de lado. Y el camino de
+        vuelta entre los bancales de Trà Quế a esa hora tiene a los hortelanos todavía trabajando.
+  - block: Noche
+    time: "19:00–22:30"
+    title: La segunda noche de farolillos
+    body: >-
+      Y aquí está la ventaja de dormir dos noches en Hoi An: **la primera se mira y la segunda se
+      elige**. Ya sabéis qué calle vale, dónde está el puente sin gente y a qué hora se pone el río.
+
+      Esta es la noche para lo que ayer no cupo: la **barca de remos** con el farolillo de papel y la
+      vela, un par de **hội quán** iluminados —el de **Quảng Đông** abre hasta tarde— y cena sin plan.
+      Y para ella, [**Minh Hiền**](#minh-hien-chay), que lleva treinta años haciendo en versión *chay*
+      todo el recetario de la ciudad, cao lầu incluido.
+    window:
+      label: La hora azul, otra vez
+      body: >-
+        **De 18:15 a 18:45.** Media hora después el cielo es negro y el río se pierde. Con dos noches
+        tenéis dos intentos de la misma foto, que en septiembre —con chaparrón casi diario a media
+        tarde— no es un lujo: es lo que hace que la probabilidad juegue a favor.
+dormir:
+  lugar: "Hoi An · casco viejo"
+  ref: '#hoi-an-hotel'

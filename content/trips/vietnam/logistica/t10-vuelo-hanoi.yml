@@ -1,0 +1,15 @@
+slug: t10-vuelo-hanoi
+trip: vietnam
+order: 10
+dia: 12
+fecha: mar 22 sep
+tipo: vuelo
+desde: Đà Nẵng (DAD)
+hasta: Hanói (HAN)
+salida: "09:00–10:30"
+llegada: "+1 h 20"
+duracion: 1 h 20
+medio: VietJet · por comprar
+status: pendiente
+nota: La hora es lo más delicado de todo el viaje. Leed el aviso de la ficha antes de comprar.
+ref: '#vuelos-hoi-an'

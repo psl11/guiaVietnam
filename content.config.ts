@@ -1,5 +1,5 @@
 import { defineCollection, defineContentConfig } from '@nuxt/content'
-import { TripSchema, ActoSchema, FichaSchema, InversionSchema, DiaSchema, RecoSchema, ComidaSchema, PlatoSchema, SalirSchema } from './shared/schemas'
+import { TripSchema, ActoSchema, FichaSchema, InversionSchema, DiaSchema, RecoSchema, ComidaSchema, PlatoSchema, SalirSchema, TramoSchema } from './shared/schemas'
 
 // Colecciones de la guía. El esquema zod vive en `shared/schemas.ts` y NO inline aquí porque lo
 // comparten este config (tipos/columnas) y los tests de tests/data (validación real — Content v3
@@ -21,5 +21,6 @@ export default defineContentConfig({
     comida: defineCollection({ type: 'data', source: 'trips/*/comidas/*.yml', schema: ComidaSchema }),
     plato: defineCollection({ type: 'data', source: 'trips/*/platos/*.yml', schema: PlatoSchema }),
     salir: defineCollection({ type: 'data', source: 'trips/*/salir/*.yml', schema: SalirSchema }),
+    tramo: defineCollection({ type: 'data', source: 'trips/*/logistica/*.yml', schema: TramoSchema }),
   },
 })

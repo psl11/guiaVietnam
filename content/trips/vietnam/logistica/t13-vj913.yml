@@ -1,0 +1,15 @@
+slug: t13-vj913
+trip: vietnam
+order: 13
+dia: 12
+fecha: mar 22 sep
+tipo: vuelo
+desde: Hanói (HAN)
+hasta: Siem Reap (SAI)
+salida: "16:20"
+llegada: "18:05"
+duracion: 1 h 45
+medio: VJ913 · VietJet
+status: reservado
+nota: El vuelo que sostiene todo el calendario. Es el que nunca se arriesga.
+ref: '#vuelos-reserva'

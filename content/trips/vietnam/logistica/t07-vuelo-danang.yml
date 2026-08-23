@@ -1,0 +1,15 @@
+slug: t07-vuelo-danang
+trip: vietnam
+order: 7
+dia: 10
+fecha: dom 20 sep
+tipo: vuelo
+desde: Hanói (HAN)
+hasta: Đà Nẵng (DAD)
+salida: "07:30"
+llegada: "08:50"
+duracion: 1 h 20
+medio: VietJet · directo
+status: pendiente
+nota: Con el bus llegando a Nội Bài sobre las cinco quedan dos horas y media de margen.
+ref: '#vuelos-hoi-an'

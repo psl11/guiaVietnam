@@ -221,6 +221,30 @@ export const SalirSchema = z.object({
   seenIn: z.array(Link).optional(),
 })
 
+// ── TRAMO — una fila de la tabla de Logística ─────────────────────────────────
+// El esquema de MOVIMIENTO: un vuelo, un bus cama, un traslado al aeropuerto. Existe porque con
+// cinco vuelos, dos buses nocturnos y ocho traslados el itinerario ya no cabe en la cabeza, y esa
+// información está hoy dispersa por dieciséis días. Aquí se lee en una tabla, de un vistazo.
+// NO duplica el contenido del día: solo el dato duro (hora, trayecto, medio, estado) + un puntero.
+export const TramoSchema = z.object({
+  slug: z.string(),
+  trip: z.string(),
+  order: z.number(), // orden cronológico global del viaje
+  dia: z.number(), // día del viaje al que pertenece (para agrupar)
+  diaHasta: z.number().optional(), // tramos que abarcan varios días (el loop)
+  fecha: z.string(), // 'sáb 19 sep'
+  tipo: z.enum(['vuelo', 'bus', 'coche', 'moto', 'lanzadera']), // decide el icono y el color
+  desde: z.string(),
+  hasta: z.string(),
+  salida: z.string().optional(), // '22:00'
+  llegada: z.string().optional(), // '05:00 +1'
+  duracion: z.string().optional(), // '7 h'
+  medio: z.string().optional(), // 'VJ913 · VietJet' / 'Cabina VIP · BiBi'
+  status: z.enum(['reservado', 'pendiente', 'opcional']).optional(),
+  nota: z.string().optional(), // texto plano corto (se sirve con inlineMd: sin enlaces)
+  ref: z.string().optional(), // '#vuelos-reserva' — a la ficha práctica que lo detalla
+})
+
 // ── TRIP — metadatos de portada ──────────────────────────────────────────────
 export const TripSchema = z.object({
   slug: z.string(), // 'vietnam'
@@ -242,4 +266,5 @@ export type Reco = z.infer<typeof RecoSchema>
 export type Comida = z.infer<typeof ComidaSchema>
 export type Plato = z.infer<typeof PlatoSchema>
 export type Salir = z.infer<typeof SalirSchema>
+export type Tramo = z.infer<typeof TramoSchema>
 export type Trip = z.infer<typeof TripSchema>

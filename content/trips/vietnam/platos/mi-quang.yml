@@ -25,5 +25,5 @@ veg: >-
 seenIn:
   - ref: '#minh-hien-chay'
     label: Minh Hiền (chay)
-  - ref: '#dia-11-hoi-an-hanoi'
-    label: Día 11 · la última comida
+  - ref: '#dia-11-hoi-an'
+    label: Día 11 · comida de diario aquí

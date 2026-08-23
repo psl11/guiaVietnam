@@ -66,14 +66,16 @@ blocks:
     time: "22:00"
     title: El bus cama a Hanói
     body: >-
-      **VIP cabina, recogida en el hotel a las 21:30 y salida a las 22:00**, siete horas hasta el casco
-      viejo de Hanói. Va reservado con BiBi junto con el tour — los detalles, en
-      [los traslados de Hà Giang](#traslado-ha-giang).
+      **VIP cabina, recogida en el hotel a las 21:30 y salida a las 22:00**, siete horas de bajada. Y
+      una decisión que hay que tomar al reservar y no la víspera: **coged la variante que termina en
+      Nội Bài, no la del casco viejo**. Cuesta lo mismo y mañana voláis a las 7:30 — entrando por
+      Hanói tendríais que cruzar la ciudad en Grab a las cinco y cuarto de la mañana con todo el peso
+      en que no haya tráfico. Los detalles, en [los traslados de Hà Giang](#traslado-ha-giang).
 
       Y con esto se cierra el norte: **cuatro días de moto, el cañón del Nho Quế, Mã Pí Lèng, el punto
       más al norte del país y una noche en casa de una familia dao**. Mañana os despertáis en Hanói a
       las cinco de la mañana y voláis al centro, que es otro Vietnam.
     dim: true
 dormir:
-  lugar: "Bus cama Hà Giang → Hanói"
+  lugar: "Bus cama Hà Giang → Nội Bài"
   ref: '#traslado-ha-giang'

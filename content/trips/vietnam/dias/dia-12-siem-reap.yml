@@ -1,46 +1,72 @@
 slug: dia-12-siem-reap
-navLabel: "Día 12 · Siem Reap"
+navLabel: "Día 12 · Hoi An → Siem Reap"
 trip: vietnam
 order: 12
 eyebrow: El plan · Día 12 · mar 22 sep
-title: "*Llegada* a Siem Reap"
+title: Hoi An al *amanecer*, y el salto a Camboya
 dek: >-
-  Un día partido entre dos países. La mañana es el último Hanói, y no una mañana muerta de espera —es el
-  circuito del Lago del Oeste, que cierra el hilo de la guerra del norte y encima va camino del
-  aeropuerto—. Al caer la tarde, un vuelo de hora y media os deja al otro lado del mapa de Indochina, en
-  la ciudad de los templos. Y la noche se abre con un circo que es, en realidad, una escuela.
+  El día con más piezas del viaje, y todas cortas. Empieza con el casco viejo de Hoi An vacío a las
+  seis de la mañana —que es la mejor hora que da esta ciudad—, sigue con un vuelo al norte y, si el
+  reloj acompaña, un último mordisco de Hanói camino del aeropuerto. Al caer la tarde ya estáis al
+  otro lado del mapa de Indochina.
 blocks:
-  - block: Mañana
-    time: "08:00–12:00"
-    title: El circuito del Lago del Oeste
+  - block: Amanecer
+    time: "05:45–07:45"
+    title: El casco viejo, sin nadie
     body: >-
-      No hay vuelo matinal a Siem Reap —solo dos al día y los dos vespertinos—, así que la mañana del 22
-      es de Hanói. Y hay una forma de gastarla que no es matar el tiempo, porque **todo el circuito va
-      en línea recta hacia el norte, que es hacia el aeropuerto**. Se sale del hotel con las mochilas y
-      no se vuelve.
+      Fuera de la cama a las cinco y media, y esta es la razón de haber dormido dos noches aquí.
+      **Entre las seis y las siete y media no hay nadie**: las casas de madera cerradas, los farolillos
+      colgados y apagados, el río quieto y la luz entrando rasante por Nguyễn Thái Học. Es literalmente
+      la misma ciudad de anoche sin las cuatro mil personas de anoche.
 
-      Primero, el [**B-52 caído en el lago Hữu Tiệp**](#lago-b52): derribado en la Navidad de **1972**,
-      todavía medio sumergido en un estanque de barrio, entre casas y tendederos. Después, a la orilla
-      del Trúc Bạch, el [**memorial de McCain**](#memorial-mccain), donde cayó su avión en 1967 — el
-      mismo hombre que acabaría siendo candidato a la presidencia de Estados Unidos y empujando la
-      normalización con Vietnam.
-
-      Y luego lo tranquilo: la [**pagoda Trấn Quốc**](#pagoda-tran-quoc), **la más antigua de Hanói**
-      —unos mil cuatrocientos cincuenta años— con su estupa roja de once pisos sobre una península del
-      **Hồ Tây**; y arriba del todo, el [**Phủ Tây Hồ**](#phu-tay-ho), el templo del culto a las diosas
-      madre, el *đạo Mẫu* que la UNESCO reconoció como patrimonio inmaterial. Comida junto al lago y a
-      Nội Bài por el **puente Nhật Tân**, que sale justo de ahí.
+      El **puente japonés** sin cola, el **mercado central** montándose sobre las seis y media —pescado
+      del Thu Bồn, hierbas de Trà Quế, sombreros cónicos de trabajar y no de recuerdo— y las barcas
+      saliendo a remo. Desayuno en un puesto del mercado y a por las mochilas.
     window:
-      label: Lo que se gana y lo que se pierde por hacerlo de mañana
+      label: Por qué esta hora y no otra
       body: >-
-        **Se pierde la luz.** El Hồ Tây mira al poniente y la estupa de Trấn Quốc con el sol bajo es la
-        postal clásica de Hanói; de mañana es correcta y poco más. **Y se gana el sitio vacío**: al
-        atardecer esa península es el punto más fotografiado de la ciudad y a las diez de la mañana no
-        hay nadie. Es un intercambio consciente — el precio de haber estado ayer en Hoi An.
+        Porque **Hoi An tiene dos ciudades y comparten calles**. Los autobuses de Đà Nẵng empiezan a
+        descargar sobre las nueve y hasta las cuatro de la tarde el casco viejo es un pasillo de gente.
+        Antes de las ocho es un pueblo de pescadores del siglo XVIII. Si solo pudierais estar aquí dos
+        horas, **son estas** — y por eso caen el último día, cuando ya sabéis dónde mirar.
+  - block: Mañana
+    time: "08:00–11:20"
+    title: A Đà Nẵng y vuelta al norte
+    body: >-
+      Coche a **Đà Nẵng** (45 min, 30 km) y vuelo a **Hanói**, hora y veinte. La ventana buena es
+      **entre las nueve y las diez y media** — el porqué, con todos los números, está en
+      [los vuelos a Hoi An](#vuelos-hoi-an), y no es un detalle menor: es la única costura del viaje
+      donde dos billetes separados se tocan.
+    window:
+      label: La regla de hoy, y es una sola
+      body: >-
+        **Todo lo que viene después de aterrizar es opcional; el VJ913 de las 16:20 no.** Si el vuelo
+        de Đà Nẵng sale con retraso, se cancela el paseo por Hanói y se va directo a la terminal
+        internacional. No se improvisa sobre la marcha: la decisión se toma **al embarcar en Đà Nẵng**,
+        mirando la hora real de salida.
+  - block: Mediodía
+    time: "11:45–14:40"
+    title: El último mordisco de Hanói
+    body: >-
+      Si habéis aterrizado en hora, queda tiempo para lo mejor que le quedaba a la ciudad — y encima
+      **cae de camino al aeropuerto**, al norte, cruzando después el puente **Nhật Tân**.
 
-        Lo que no depende de la hora es el otro hilo, y es el que importa: con el B-52 y el memorial de
-        McCain habréis visto **la guerra contada por quien la ganó**. El viernes, en Saigón, veréis el
-        otro lado del espejo.
+      El [**B-52 caído en el lago Hữu Tiệp**](#lago-b52): derribado en la Navidad de **1972** y todavía
+      medio sumergido en un estanque de barrio, entre casas y tendederos. A la orilla del Trúc Bạch, el
+      [**memorial de McCain**](#memorial-mccain), donde cayó su avión en 1967 — el mismo hombre que
+      acabaría empujando la normalización con Vietnam. Y para cerrar, la
+      [**pagoda Trấn Quốc**](#pagoda-tran-quoc), **la más antigua de Hanói**, con su estupa roja de once
+      pisos sobre una península del **Hồ Tây**.
+
+      Comida rápida junto al lago y a **Nội Bài**, terminal internacional, sobre las **14:40**.
+    dim: true
+    window:
+      label: Qué se cae si vais justos
+      body: >-
+        **Por este orden: primero el [Phủ Tây Hồ](#phu-tay-ho), después Trấn Quốc.** Lo que no se toca
+        es el B-52 y el memorial, y no por bonitos: con ellos habréis visto **la guerra contada por
+        quien la ganó**, y el viernes en Saigón veréis el otro lado del espejo. Sin esa mitad, el
+        Museo de los Vestigios pierde la mitad de su fuerza.
   - block: Tarde
     time: "16:20–19:15"
     title: El vuelo VJ913 a Siem Reap

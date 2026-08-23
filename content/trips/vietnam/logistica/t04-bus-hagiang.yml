@@ -1,0 +1,15 @@
+slug: t04-bus-hagiang
+trip: vietnam
+order: 4
+dia: 5
+fecha: mar 15 sep
+tipo: bus
+desde: Ninh Bình (Đồng Giừng)
+hasta: Hà Giang
+salida: "18:30"
+llegada: "03:00–04:00 +1"
+duracion: ~9 h
+medio: Cabina VIP · BiBi
+status: pendiente
+nota: Directo, sin pasar por Hanói. Al bajar hay cama esperando en el Numa Hotel, incluida.
+ref: '#traslado-ha-giang'

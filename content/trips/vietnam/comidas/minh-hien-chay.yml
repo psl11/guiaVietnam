@@ -8,7 +8,7 @@ order: 97
 title: Minh Hiền
 tipo: vegetariano de barrio, treinta años abierto
 area: "50 Trần Cao Vân · diez minutos andando del casco viejo"
-cuando: "Hoi An · la comida del día 11, antes del aeropuerto"
+cuando: "Hoi An · la cena del día 11"
 precio: "40-70k ₫ (~1,5-2,5 €)"
 reserva: "No"
 colas: "No"
@@ -37,5 +37,5 @@ seenIn:
     label: El cao lầu
   - ref: '#mi-quang'
     label: El mì Quảng
-  - ref: '#dia-11-hoi-an-hanoi'
-    label: Día 11 · antes del vuelo
+  - ref: '#dia-11-hoi-an'
+    label: Día 11 · la segunda noche

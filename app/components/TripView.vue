@@ -7,7 +7,7 @@
 // "Añadir un viaje = añadir ficheros": las páginas son one-liners <TripView :slug>.
 const props = defineProps<{ slug: string }>()
 
-const { trip, actos, fichas, inversiones, dias, recos, comidas, platos, salir } = await useTrip(props.slug)
+const { trip, actos, fichas, inversiones, dias, recos, comidas, platos, salir, tramos } = await useTrip(props.slug)
 
 const vietnamActos = computed(() => actos.value.filter(a => a.part === 'vietnam'))
 const vietnamFichas = computed(() => fichas.value.filter(f => f.part === 'vietnam'))
@@ -15,6 +15,7 @@ const camboyaActos = computed(() => actos.value.filter(a => a.part === 'camboya'
 const camboyaFichas = computed(() => fichas.value.filter(f => f.part === 'camboya'))
 const hayCamboya = computed(() => camboyaActos.value.length + camboyaFichas.value.length > 0)
 const hayPlan = computed(() => dias.value.length + inversiones.value.length > 0)
+const hayLogistica = computed(() => tramos.value.length > 0)
 
 // Recomendaciones (Parte I · prácticos): agrupadas por tipo, en orden fijo de grupo.
 // 'comer' ya no está: la comida vive en la sección Gastronomía. Quedan dormir · reservar · moverse.
@@ -84,7 +85,7 @@ const knownAnchors = computed(() => new Set<string>([
   ...comidas.value.map(c => c.slug),
   ...platos.value.map(p => p.slug),
   ...salir.value.map(s => s.slug),
-  'el-plan', 'gasto', 'reservas', 'gastronomia', 'salir', 'vietnam', 'camboya',
+  'el-plan', 'logistica', 'gasto', 'reservas', 'gastronomia', 'salir', 'vietnam', 'camboya',
 ]))
 
 // Índice flotante ─────────────────────────────────────────────────────────────
@@ -120,6 +121,14 @@ const nav = computed(() => {
       label: 'El viaje, día a día',
       anchor: 'el-plan',
       items: dias.value.map(d => ({ id: d.slug, label: d.navLabel ?? stripMd(d.title), kind: 'dia' as const })),
+    })
+  }
+  if (tramos.value.length) {
+    groups.push({
+      key: 'logistica',
+      label: 'Logística',
+      anchor: 'logistica',
+      items: [{ id: 'logistica', label: 'Todos los movimientos', kind: 'reco' as const }],
     })
   }
   if (inversiones.value.length) {
@@ -252,6 +261,19 @@ const indexOpen = ref(false)
         :key="d.slug"
         :dia="d"
       />
+
+      <template v-if="hayLogistica">
+        <Threshold
+          id="logistica"
+          overline="El esquema de movimientos"
+          title="*Logística*"
+          dek="Todo el viaje visto como desplazamientos: dónde dormís cada noche y cada vuelo, autobús y traslado con su hora y su estado. Es la página que se mira *antes* de cada salida, cuando ya no hay tiempo de leer el día entero."
+        />
+        <LogisticaTable
+          :dias="dias"
+          :tramos="tramos"
+        />
+      </template>
 
       <template v-if="inversiones.length">
         <Threshold

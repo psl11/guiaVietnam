@@ -1,0 +1,14 @@
+slug: t21-vuelo-vuelta
+trip: vietnam
+order: 21
+dia: 16
+fecha: sáb 26 sep
+tipo: vuelo
+desde: Hanói (Nội Bài)
+hasta: Barcelona
+salida: "20:40"
+llegada: "+1"
+duracion: ~17 h
+medio: Etihad · escala en Abu Dabi
+status: reservado
+ref: '#dia-16-despedida'

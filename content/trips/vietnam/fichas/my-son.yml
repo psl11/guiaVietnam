@@ -54,9 +54,9 @@ sections:
   - body: |
       **Práctico:** está a **45 km de Hoi An**, una hora por carretera. Abre a las **06:00** y las
       excursiones estándar salen sobre las 08:00; hay danza cham incluida en la entrada a media mañana.
-      **Aviso serio: es un yacimiento abierto y sin sombra**, y a las once de la mañana de septiembre
-      pega de verdad — o se va a la apertura, o no se va. Con el amanecer de Hoi An hecho a las siete y
-      media, la ventana que queda es **08:00-12:30**.
+      **Aviso serio: es un yacimiento abierto y sin una sola sombra**, y a las once de la mañana de
+      septiembre pega de verdad — o se va temprano, o no se va. Con dos noches en Hoi An, su hueco es
+      **la mañana del día 11, de 08:00 a 12:30**, dejando el amanecer del casco viejo para el 12.
 curiosidades:
   - >-
     Los cham y los jemeres eran **vecinos y enemigos**: en **1177** una flota cham remontó el Mekong y el
@@ -70,8 +70,8 @@ curiosidades:
     y dos materiales que dan dos mundos distintos — es la comparación más útil que podéis llevaros a
     Camboya.
 seenIn:
-  - ref: '#dia-11-hoi-an-hanoi'
-    label: Día 11 · la alternativa de la mañana
+  - ref: '#dia-11-hoi-an'
+    label: Día 11 · la mañana entera
   - ref: '#como-leer-templo-jemer'
     label: Cómo leer un templo jemer
   - ref: '#el-bayon'
