@@ -11,24 +11,24 @@ dek: >-
   con arroz en terraza.
 blocks:
   - block: Madrugada
-    time: "03:00–08:00"
+    time: "04:00–08:00"
     title: Bajar del bus, ducha y dormir
     dim: true
     body: >-
-      El bus cama para en **Hà Giang entre las tres y las cuatro**, y ahí está el detalle que salva la
-      jornada: **la noche previa al tour va incluida** en el **Numa Hotel** (nº 71, calle 19/5), que
+      El bus cama para en **Hà Giang sobre las cuatro de la mañana**, y ahí está el detalle que salva
+      la jornada: **la noche previa al tour va incluida** en el **Numa Hotel** (nº 71, calle 19/5), que
       hace *check-in* a cualquier hora. Son **camas de dormitorio**, no habitación —eso son 550.000 ₫
       más si lo queréis privado—, pero a las cuatro de la mañana lo que importa es que haya ducha
       caliente y colchón horizontal.
 
-      Cuatro horas de sueño, ducha y desayuno. **No es poco: es exactamente lo que el día necesita**,
-      porque la primera etapa no arranca hasta media mañana.
+      Tres o cuatro horas de sueño, ducha y desayuno. **No es poco: es exactamente lo que el día
+      necesita**, porque la primera etapa no arranca hasta media mañana.
     window:
       label: Lo que hay que dejar hecho anoche
       body: >-
         **La mochila del loop, separada.** En la moto van cuatro días de ropa; el resto se queda en
-        consigna en el Numa hasta el sábado. Hacer ese reparto a las cuatro de la mañana con sueño es
-        cómo se pierden las cosas: dejadlo hecho en Ninh Bình, antes de subir al bus.
+        consigna en el Numa hasta el sábado. Hacer ese reparto a las cuatro de la mañana y sin dormir es
+        cómo se pierden las cosas: dejadlo hecho en Tam Cốc, antes de subir al bus.
   - block: Media mañana
     time: "08:30–09:30"
     title: El easy rider, el papeleo y la moto

@@ -69,25 +69,31 @@ blocks:
         que ver ni que fotografiar. Cierra a las **16:45**, así que la última barca sale antes — y aquí sí
         compensa cargar con el teleobjetivo.
   - block: Noche
-    time: "17:30 → 18:30"
+    time: "17:30 → 20:30"
     title: El salto al norte, durmiendo
     body: >-
-      Cena temprana en Ninh Bình —es la última oportunidad del **dê núi**, la cabra de monte que es el
-      plato de la provincia— y a la estación de **Đồng Giừng**. El
-      [**bus cama a Hà Giang**](#traslado-ha-giang) va **reservado con BiBi junto con el loop** y sale
-      **directo, sin pasar por Hanói**: **recogida a las 18:30**, cabina VIP, y llegada a Hà Giang
-      **entre las tres y las cuatro de la madrugada**. No es un asiento reclinable: es una cabina con
-      puerta y colchón, y esta noche tiene que hacer de hotel.
+      Vuelta de Vân Long sobre las cinco y media, ducha con calma y **cena sin prisa** — es la última
+      oportunidad del **dê núi**, la cabra de monte criada en las peñas calizas que es el plato de la
+      provincia y no se encuentra bien fuera de aquí.
+
+      Y a las ocho y media, el [**bus cama a Hà Giang**](#traslado-ha-giang), reservado con BiBi junto
+      con el loop: **cabina VIP, salida a las 20:30 y llegada sobre las cuatro de la madrugada**,
+      directo y sin pasar por Hanói. No es un asiento reclinable: es una cabina con puerta y colchón, y
+      esta noche tiene que hacer de hotel.
     window:
-      label: Lo que hay que dejar listo antes de subir
+      label: Dos cosas que hay que dejar listas
       body: >-
-        Dos cosas, y las dos se hacen aquí y no allí. **La primera, partir el equipaje**: en la moto solo
-        van cuatro días de ropa y el resto se queda en consigna en Hà Giang — hacer ese reparto a las
-        cuatro de la mañana con sueño es como se pierden las cosas. **La segunda, cenar de verdad ahora**,
-        porque el bus sale a las seis y media y hasta el desayuno del miércoles no hay nada.
+        **La primera, el traslado hasta el autobús.** Dormís en Tam Cốc y la estación de **Đồng Giừng
+        está en la ciudad de Ninh Bình, a siete u ocho kilómetros** — veinte minutos de taxi. Si BiBi no
+        recoge en el alojamiento, **dejadlo hablado la víspera** con el homestay, que a las ocho de la
+        tarde encontrar coche desde Tam Cốc no es inmediato.
+
+        **La segunda, partir el equipaje**: en la moto solo van cuatro días de ropa y el resto se queda
+        en consigna en Hà Giang. Hacer ese reparto a las cuatro de la mañana con sueño es como se
+        pierden las cosas.
 
         Y la buena noticia del horario: la **noche previa al tour va incluida** en el hotel de Hà Giang,
-        con *check-in* a cualquier hora. Bajáis del bus a las tres y tenéis ducha y cama hasta las ocho.
+        con *check-in* a cualquier hora. Bajáis del bus a las cuatro y tenéis ducha y cama hasta las ocho.
 dormir:
   lugar: "Bus cama Ninh Bình → Hà Giang"
   ref: '#traslado-ha-giang'
