@@ -1,0 +1,43 @@
+slug: chay-garden
+navLabel: "Chay Garden"
+trip: vietnam
+part: vietnam
+city: "Saigón"
+category: comida
+order: 110
+title: Chay Garden
+tipo: vegetariano, jardín interior
+area: "52 Võ Văn Tần · Distrito 3"
+cuando: "Saigón · la comida del día 15, saliendo del Palacio"
+precio: "60-150k ₫ (~2,2-5,5 €)"
+reserva: "Recomendable el día 15"
+colas: "Sí a mediodía"
+veg: "**100 % vegetariano**, y con estrella de la casa — el ***phở chay***, que es lo que le valió el Bib."
+badge: "Bib Gourmand"
+quePedir: >-
+  El ***phở chay*** —el que Michelin le premió—, hecho con caldo de setas y raíces en vez de huesos. Y
+  las ensaladas de flor de plátano.
+body: >-
+  **La solución al día más difícil del viaje para ella, y está en la misma calle que el museo.** El
+  [Museo de los Vestigios de la Guerra](#dia-15-hanoi-trung-thu) está en el **28 de Võ Văn Tần**; esto
+  está en el **52**. Se sale de la mañana más dura del viaje y se come a doscientos metros.
+
+  Es **Bib Gourmand de la Guía Michelin**, que en Vietnam significa exactamente lo que debe significar:
+  cocina buena a precio de barrio. Y no es un vegetariano de concesión —tofu escondido entre platos de
+  carne— sino una casa *chay* entera, de tradición budista.
+
+  **Y un aviso de calendario que aquí importa mucho.** El 25 de septiembre es **el quince de la octava
+  luna**, y en Vietnam mucha gente **come vegetariano el 1 y el 15 de cada mes lunar**. O sea que ese día
+  concreto **todos los restaurantes chay de Saigón van a estar a reventar**: id pronto o reservad. Es un
+  dato que solo se descubre estando allí, y llegar sin saberlo cuesta una hora de espera.
+
+  *(Ojo también: la misma calle tiene otros dos Bib Gourmand —**Hồng Phát**, de phở, y **Nhà Tự**, de
+  comida casera— por si él prefiere carne mientras ella come aquí. Están a tres y cuatro manzanas.)*
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Chay+Garden+52+Vo+Van+Tan+Ho+Chi+Minh"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#pho'
+    label: El phở
+  - ref: '#dia-15-hanoi-trung-thu'
+    label: Día 15 · Saigón

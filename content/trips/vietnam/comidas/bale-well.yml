@@ -1,0 +1,41 @@
+slug: bale-well
+navLabel: "Bale Well"
+trip: vietnam
+part: vietnam
+city: "Hoi An"
+category: cena
+order: 99
+title: Bale Well
+tipo: callejón, un solo plato, sin carta
+area: "45-51 Trần Cao Vân · junto al pozo Bá Lễ"
+cuando: "Hoi An · alternativa de cena, cualquiera de las dos noches"
+precio: "45-85k ₫ (~1,7-3,2 €)"
+reserva: "No"
+colas: "Por la noche, sí"
+soloEl: true
+veg: >-
+  **No apto.** Es una casa de un solo plato y ese plato es cerdo a la brasa. No hay versión *chay* ni
+  tiene sentido pedirla — es una cena para él, con ella cenando en Minh Hiền o en Morning Glory.
+quePedir: >-
+  No hay que pedir nada: **sale solo**. Traen el cerdo a la brasa, un montón de hierbas, papel de arroz y
+  panqueques, y se lía uno mismo. Se paga por persona.
+body: >-
+  En un callejón, sin carta y con **un solo plato**: cerdo a la brasa al estilo *satay* que llega con
+  hierbas, papel de arroz y *bánh xèo*, y que os liáis vosotros en la mesa. Lonely Planet lo dice sin
+  rodeos — **«no es turístico, y por las noches hay mucho ambiente»**.
+
+  Y tiene un detalle que aquí importa: está **pegado al pozo Bá Lễ**, el pozo cham de mil años del que
+  sale el agua con la que —según la leyenda local— **solo aquí se puede hacer [cao lầu](#cao-lau)**. Es
+  el mismo pozo. Cenar a diez metros de él es lo más cerca que se está de entender por qué esta ciudad
+  tiene una cocina propia.
+
+  *(Para ella, la cena de esa noche es [**Minh Hiền**](#minh-hien-chay) o
+  [**Morning Glory**](#morning-glory), las dos a menos de diez minutos andando.)*
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Bale+Well+Tran+Cao+Van+Hoi+An"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#cao-lau'
+    label: El cao lầu
+  - ref: '#hoi-an'
+    label: Hoi An

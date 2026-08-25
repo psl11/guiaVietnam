@@ -1,0 +1,44 @@
+slug: anan-saigon
+navLabel: "Ănăn Saigon"
+trip: vietnam
+part: vietnam
+city: "Saigón"
+category: cena
+order: 116
+title: Ănăn Saigon
+tipo: estrella Michelin dentro de un mercado húmedo
+area: "89 Tôn Thất Đạm · Distrito 1, mercado de Chợ Cũ"
+cuando: "Saigón · el capricho, si se hace, es la noche del 14"
+precio: "Carta desde ~600k ₫; menú degustación bastante más (~90-150 €/persona)"
+reserva: "Imprescindible, con semanas"
+colas: "No"
+veg: >-
+  **Hacen menú vegetariano completo**, pero hay que pedirlo **al reservar**, no al llegar. Con cocina de
+  este tipo, avisar con antelación es la diferencia entre un menú pensado y un apaño.
+badge: "★ Michelin"
+quePedir: >-
+  Si se va a la carta, el ***bánh mì*** de la casa y el ***bánh xèo*** de tacos. Si se va al menú, dejarse
+  llevar. Y subir después a la azotea a tomar algo.
+body: >-
+  **Una estrella Michelin, y montada dentro de un mercado húmedo.** Ănăn ocupa un local del viejo mercado
+  de **Chợ Cũ**, en Tôn Thất Đạm — una calle de puestos de fruta y pescado a cuatrocientos metros de
+  Nguyễn Huệ—, y el chef es **Peter Cường Franklin**, vietnamita evacuado de niño en 1975, formado
+  después en la alta cocina y vuelto a Saigón para hacer esto.
+
+  Y «esto» es lo que hace que encaje en este viaje y no sea un capricho suelto: **coge recetas de comida
+  callejera y las rehace con técnica de restaurante de alta cocina**. Es literalmente la tesis de la
+  guía —que lo bueno de Vietnam está en la calle— defendida desde el otro lado. Michelin le dio la
+  estrella en **2023** y la mantiene desde entonces.
+
+  **Y aquí va el veredicto honesto, porque no es barato.** Si os apetece un capricho de despedida, este
+  es el que tiene argumento. Si no, hay una versión intermedia que sale mucho mejor de precio: su azotea,
+  el **Nhậu Nhậu**, sirve cócteles y platos sueltos de la misma cocina **sin menú degustación** — y desde
+  ahí se ve el mercado desde arriba.
+link:
+  url: "https://anansaigon.com/"
+  label: Reservar en Ănăn
+seenIn:
+  - ref: '#banh-mi'
+    label: El bánh mì
+  - ref: '#dia-14-angkor-vuelta'
+    label: Día 14 · la primera noche en el sur

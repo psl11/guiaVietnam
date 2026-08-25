@@ -1,0 +1,37 @@
+slug: tin-nghia
+navLabel: "Tín Nghĩa"
+trip: vietnam
+part: vietnam
+city: "Saigón"
+category: comida
+order: 115
+title: Tín Nghĩa
+tipo: comedor cao dai diminuto, desde 1963
+area: "9 Trần Hưng Đạo · Distrito 1"
+cuando: "Saigón · comida, cualquier día menos el 26"
+precio: "22-35k ₫ (~0,8-1,3 €)"
+reserva: "No"
+colas: "Sí, y es pequeñísimo"
+veg: >-
+  **100 % vegetariano, y del tipo bueno: sin carne falsa.** Nada de tofu disfrazado de pollo — verdura,
+  setas, arroz y legumbre, cocinados como lo que son. Es la casa *chay* más honesta de la ciudad.
+quePedir: >-
+  El **menú de bandeja** del día, que es lo que come todo el mundo: arroz, tres o cuatro guisos y sopa.
+body: >-
+  Un comedor **minúsculo** en Trần Hưng Đạo que lleva abierto desde los años sesenta, regentado por una
+  familia **cao dai** — la religión sincrética del sur de Vietnam, que junta budismo, taoísmo,
+  confucianismo y catolicismo, y cuyos fieles son vegetarianos varios días al mes.
+
+  Lo que lo distingue de los cincuenta vegetarianos de Saigón lo dice Lonely Planet en cinco palabras:
+  **«sin recurrir a la carne falsa»**. Aquí no hay *«pato» de gluten* ni *«gambas» de konjac*. Hay
+  verdura cocinada por gente que lleva sesenta años cocinándola.
+
+  **Y hay que mirar el calendario antes de ir, porque cierra por luna:** no abre **el día 2 ni el día 16
+  del mes lunar** — y el **16 cae el sábado 26**, que es justo vuestra última mañana. Para ese día, no
+  contéis con él.
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Tin+Nghia+9+Tran+Hung+Dao+Ho+Chi+Minh"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#dia-15-hanoi-trung-thu'
+    label: Día 15 · Saigón

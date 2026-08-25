@@ -1,0 +1,38 @@
+slug: pho-minh
+navLabel: "Phở Minh"
+trip: vietnam
+part: vietnam
+city: "Saigón"
+category: desayuno
+order: 114
+title: Phở Minh
+tipo: casa familiar en un callejón, desde los años cincuenta
+area: "63/6 Pasteur · Distrito 1, Bến Nghé"
+cuando: "Saigón · el desayuno del día 16, antes del paseo"
+precio: "60-90k ₫ (~2,2-3,3 €)"
+reserva: "No"
+colas: "Corta, y temprano"
+soloEl: true
+veg: "**No apto**: caldo de huesos. Para ella, desayuno en el hotel o café y *bánh mì chay* en Đồng Khởi."
+badge: "Bib Gourmand"
+quePedir: >-
+  Phở de ternera, sin más. Y sentarse dentro, no en la acera, para ver la casa.
+body: >-
+  **Hay que encontrarlo, y esa es media gracia.** No da a la calle: está metido en un **callejón que sale
+  del 63 de Pasteur**, y desde fuera no se ve nada. Lo lleva la misma familia desde los años cincuenta,
+  en el zaguán de su propia casa, y tiene **Bib Gourmand**.
+
+  Está a **unos quinientos metros del [Continental](#saigon-hotel)**, así que es exactamente el desayuno
+  del día 16: se sale del hotel, se desayuna aquí y se empieza el paseo de Đồng Khởi con el cuerpo
+  caliente. Abre temprano, que es lo que hace falta un día que termina en un avión.
+
+  Y es el último phở del viaje. El primero fue en Hanói el día que aterrizasteis — **conviene tener eso
+  presente al probarlo**, porque no es el mismo plato.
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Pho+Minh+63+Pasteur+Ho+Chi+Minh"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#pho'
+    label: El phở
+  - ref: '#dia-16-despedida'
+    label: Día 16 · la despedida

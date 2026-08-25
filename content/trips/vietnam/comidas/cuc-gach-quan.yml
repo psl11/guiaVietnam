@@ -1,0 +1,42 @@
+slug: cuc-gach-quan
+navLabel: "Cục Gạch Quán"
+trip: vietnam
+part: vietnam
+city: "Saigón"
+category: cena
+order: 112
+title: Cục Gạch Quán
+tipo: casa antigua restaurada por un arquitecto
+area: "10 Đặng Tất · Distrito 1, Tân Định"
+cuando: "Saigón · la cena del día 14, la primera noche"
+precio: "50-200k ₫ el plato (~1,8-7,5 €)"
+reserva: "Imprescindible"
+colas: "No, con reserva"
+veg: >-
+  **Buenas opciones veg, y muchas.** La carta está construida sobre verdura de mercado y hay secciones
+  enteras sin carne. Aun así, decid *«ăn chay»* al reservar para que no aparezca la salsa de pescado.
+badge: "Bib Gourmand"
+quePedir: >-
+  El **pescado en olla de barro** (*cá kho tộ*), que es lo que Michelin le señaló, y las **flores de
+  calabaza salteadas con ajo**. Se pide para compartir.
+body: >-
+  **La casa es la mitad del plato.** La montó un arquitecto en una vivienda de los años cuarenta y se
+  nota nada más entrar: ladrillo visto, muebles recuperados, vajilla desparejada a propósito, agua
+  servida en botellas de vidrio reutilizadas. Lonely Planet lo resume bien — «que el propietario sea un
+  arquitecto no resultará sorprendente al entrar».
+
+  Y lo que sale de la cocina es lo contrario de lo que uno esperaría de un sitio así: **comida de casa
+  vietnamita, rústica y sin florituras**, del tipo que se come en familia y que en un restaurante del
+  centro no se encuentra. Por eso tiene **Bib Gourmand** y no una estrella: es bueno, no es caro y no
+  pretende ser otra cosa.
+
+  Está en **Tân Định**, diez minutos en taxi al norte de Nguyễn Huệ — o sea, no se llega paseando, y ese
+  es justo el motivo de que no esté lleno de gente que pasaba por delante.
+
+  **Hay que reservar**, y no es una fórmula: se llena todas las noches.
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Cuc+Gach+Quan+10+Dang+Tat+Ho+Chi+Minh"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#dia-14-angkor-vuelta'
+    label: Día 14 · la primera noche en el sur

@@ -1,0 +1,43 @@
+slug: morning-glory
+navLabel: "Morning Glory"
+trip: vietnam
+part: vietnam
+city: "Hoi An"
+category: cena
+order: 98
+title: Morning Glory
+tipo: casa antigua, cocina de calle elevada
+area: "106 Nguyễn Thái Học · casco viejo"
+cuando: "Hoi An · la cena del día 10"
+precio: "45-130k ₫ el plato (~1,7-5 €)"
+reserva: "Recomendable de noche"
+colas: "Sí, a partir de las 19:00"
+veg: >-
+  **De las mejores opciones vegetarianas del viaje.** Lonely Planet destaca su selección *chay*: berenjena
+  ahumada, ensaladas de hierbas del huerto, verduras salteadas. Aun así hay que decir *«không nước mắm»*
+  para la salsa de pescado.
+badge: "Lonely Planet · top pick"
+quePedir: >-
+  Los **calamares rellenos de cerdo** y la **mousse de gamba a la brasa sobre caña de azúcar**, que son
+  los platos por los que existe la casa. Y la **berenjena ahumada**, que es lo que se pide para ella.
+body: >-
+  El sitio que **Lonely Planet pone el primero de todo Hoi An**, y con razón. Lo lleva **Trịnh Diễm Vy**,
+  que es a la cocina de esta ciudad lo que una matriarca: empezó con un puesto en el mercado, montó el
+  **Mermaid** en el número 2 de Trần Phú —eligió esa esquina por estar pegada al mercado, para tener el
+  género a mano— y de ahí salió esta casa.
+
+  Lo que hace, y es la diferencia con los cincuenta restaurantes de la misma calle, es **coger la cocina
+  de puesto callejero del centro de Vietnam y hacerla bien** en un edificio antiguo, sin convertirla en
+  fusión. Sale barato para lo que es.
+
+  Y da la casualidad de que **la cocina del centro es probablemente la más compleja del país**: siglos de
+  contacto con China, Japón y Europa, y hierbas de los huertos de [Trà Quế](#dia-11-hoi-an) que veréis al
+  día siguiente.
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Morning+Glory+106+Nguyen+Thai+Hoc+Hoi+An"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#cao-lau'
+    label: El cao lầu
+  - ref: '#hoi-an'
+    label: Hoi An

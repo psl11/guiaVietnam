@@ -23,5 +23,9 @@ veg: >-
   Solo como **phở chay** (caldo de verdura y setas con tofu) en un restaurante vegetariano — un phở
   «normal» que *parezca* de verdura casi siempre lleva caldo de carne. Hay que pedirlo explícito.
 seenIn:
+  - ref: '#pho-le'
+    label: Phở Lệ (Chợ Lớn)
+  - ref: '#pho-minh'
+    label: Phở Minh (Saigón)
   - ref: '#uu-dam-chay'
     label: phở chay → Ưu Đàm

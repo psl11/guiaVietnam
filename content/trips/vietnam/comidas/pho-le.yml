@@ -1,0 +1,42 @@
+slug: pho-le
+navLabel: "Phở Lệ"
+trip: vietnam
+part: vietnam
+city: "Saigón"
+category: cena
+order: 111
+title: Phở Lệ
+tipo: institución chino-vietnamita, abierta hasta tarde
+area: "415 Nguyễn Trãi · Distrito 5, Chợ Lớn"
+cuando: "Saigón · la noche del día 15, en Chợ Lớn"
+precio: "70-110k ₫ (~2,6-4 €)"
+reserva: "No"
+colas: "Van rápidas"
+soloEl: true
+veg: >-
+  **No apto.** Es una casa de phở de ternera con caldo de huesos y no hay versión *chay*. Para ella, la
+  noche de Chợ Lớn se resuelve con los puestos de dulces y *chè* de la propia calle de los farolillos, o
+  comiendo fuerte al mediodía en Chay Garden.
+badge: "Bib Gourmand"
+quePedir: >-
+  ***Phở tái nạm gầu***, con los tres cortes. Y **no le echéis salsa hoisin al caldo** hasta haberlo
+  probado solo — el del sur ya viene dulce.
+body: >-
+  **El único Bib Gourmand de todo Chợ Lớn**, y os cae de camino: Nguyễn Trãi es la arteria del barrio
+  chino y está a un paso de **Lương Nhữ Học**, la calle de los farolillos donde pasáis la noche de Trung
+  Thu.
+
+  Es phở del sur hecho por una familia chino-vietnamita y se nota en todo: el cuenco es enorme, el caldo
+  va más dulce que el del norte, y encima de la mesa aparecen el plato de hierbas, los brotes de soja, la
+  lima y la guindilla que en Hanói ni existen. **Después de dos semanas comiendo phở del norte, esta es
+  la comparación que cierra el viaje** — el mismo plato en las dos puntas del país, y no se parecen.
+
+  Y abre hasta tarde, que es lo que hace falta un día que termina a las once de la noche en la calle.
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Pho+Le+415+Nguyen+Trai+District+5+Ho+Chi+Minh"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#pho'
+    label: El phở
+  - ref: '#dia-15-hanoi-trung-thu'
+    label: Día 15 · Chợ Lớn

@@ -1,0 +1,40 @@
+slug: cafe-apartments
+navLabel: "The Cafe Apartments"
+trip: vietnam
+part: vietnam
+city: "Saigón"
+category: cafe
+order: 117
+title: The Cafe Apartments
+tipo: bloque de viviendas de los sesenta lleno de cafeterías
+area: "42 Nguyễn Huệ · Distrito 1"
+cuando: "Saigón · el atardecer del día 14, nada más llegar"
+precio: "50-90k ₫ el café (~1,8-3,3 €)"
+reserva: "No"
+colas: "Para el ascensor, sí"
+veg: "Cafeterías. Sin problema, y varias tienen carta *chay*."
+quePedir: >-
+  Un ***cà phê sữa đá*** en cualquiera de las plantas altas, en un balcón que dé a Nguyễn Huệ. Lo que se
+  paga es la vista, y son dos euros.
+body: >-
+  **No es una cafetería: es un edificio entero de cafeterías.** Un bloque de viviendas de los años
+  sesenta en plena avenida peatonal de Nguyễn Huệ donde **cada apartamento se ha convertido en un local
+  distinto** — café de especialidad, librerías, tiendas de ropa, heladerías— repartidos por nueve
+  plantas, con los balcones encendidos como un panal cuando cae la luz.
+
+  Es la primera imagen que vais a tener del sur y resume bien la diferencia con Hanói: **donde el norte
+  conserva, el sur recicla**. El mismo hormigón que en otra ciudad sería una ruina aquí es lo más
+  fotografiado del centro.
+
+  **Práctico:** hay **un ascensor y cobra 3.000 ₫** por subida; la escalera es gratis y son nueve pisos.
+  Y la hora buena es **entre las seis y las siete**, cuando se encienden los balcones y todavía queda
+  cielo. Los locales cambian cada temporada, así que **no vale la pena fijar uno**: se sube, se mira y se
+  elige balcón.
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=The+Cafe+Apartments+42+Nguyen+Hue+Ho+Chi+Minh"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#ca-phe-sua-da'
+    label: El cà phê sữa đá
+  - ref: '#dia-14-angkor-vuelta'
+    label: Día 14 · la primera tarde en el sur

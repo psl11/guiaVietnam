@@ -1,0 +1,38 @@
+slug: nha-hang-ngon
+navLabel: "Nhà Hàng Ngon"
+trip: vietnam
+part: vietnam
+city: "Saigón"
+category: comida
+order: 113
+title: Nhà Hàng Ngon
+tipo: villa colonial con puestos de comida callejera dentro
+area: "160 Pasteur · Distrito 1"
+cuando: "Saigón · la comida del día 15, si él quiere carne"
+precio: "35-205k ₫ el plato (~1,3-7,6 €)"
+reserva: "No"
+colas: "Sí a mediodía, van rápidas"
+veg: >-
+  **Hay opciones, pero hay que preguntar puesto por puesto.** Con veinte cocineros distintos, la salsa de
+  pescado está por todas partes. Ella come mucho mejor en Chay Garden, a cinco minutos.
+quePedir: >-
+  Dar una vuelta entera antes de sentarse **y pedir por lo que se ve**, no por la carta. El *bánh xèo* y
+  el *bún thịt nướng* son los que mejor salen.
+body: >-
+  La idea es sencilla y funciona: coger **una villa colonial con jardín** y meter dentro **una veintena de
+  puestos de comida callejera**, cada uno especializado en un solo plato. Cada cocinero hace lo que sabe
+  hacer, así que **no hay el bajón de calidad de las cartas de cien platos** — que es lo que suele pasar
+  cuando un restaurante intenta abarcar toda la cocina del país.
+
+  Es de los sitios más populares de la ciudad y está lleno de vietnamitas, no solo de extranjeros. Y está
+  **a seis minutos andando del Palacio de la Reunificación**, o sea justo donde acaba la mañana del día
+  15 — a la misma distancia que [**Chay Garden**](#chay-garden), que es donde come mejor ella.
+
+  *(Tiene un gemelo, **Quán Ăn Ngon**, en el 138 de Nam Kỳ Khởi Nghĩa — mismo formato, mismos dueños.
+  Vale el que caiga más cerca.)*
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Nha+Hang+Ngon+160+Pasteur+Ho+Chi+Minh"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#dia-15-hanoi-trung-thu'
+    label: Día 15 · Saigón

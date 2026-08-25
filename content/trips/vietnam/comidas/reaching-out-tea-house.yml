@@ -1,0 +1,39 @@
+slug: reaching-out-tea-house
+navLabel: "Reaching Out"
+trip: vietnam
+part: vietnam
+city: "Hoi An"
+category: cafe
+order: 100
+title: Reaching Out Tea House
+tipo: casa patrimonial, empresa social, en silencio
+area: "131 Trần Phú · casco viejo"
+cuando: "Hoi An · la tregua del mediodía, cualquiera de los tres días"
+precio: "60-120k ₫ (~2,2-4,5 €)"
+reserva: "No"
+colas: "No"
+veg: "Casa de té y café. Sin problema."
+quePedir: >-
+  El **set de cata de tés vietnamitas**, que llega en una bandeja con varias infusiones para comparar. O
+  café de Buôn Ma Thuột con la prensa metálica sobre el vaso.
+body: >-
+  **Aquí no se habla, y esa es toda la propuesta.** El personal es sordo o con discapacidad auditiva, así
+  que se pide **escribiendo en una libreta** o moviendo unas fichas de madera que hay en cada mesa: *agua
+  caliente*, *hielo*, *gracias*, *la cuenta*. No hay música. No hay conversación.
+
+  El efecto es difícil de explicar hasta que estás dentro: en mitad del casco viejo —con cuatro mil
+  personas al otro lado de la puerta, motos, altavoces y regateo— hay una casa antigua de Trần Phú donde
+  de golpe **solo se oye la porcelana**. Es la mejor tregua que da esta ciudad y va a caeros bien
+  justamente el día 11 o el 12, cuando ya llevéis dos jornadas de calle.
+
+  Es una **empresa social**: nació para dar formación y empleo estable a personas con discapacidad, y al
+  lado tiene un taller de artesanía donde trabajan los mismos artesanos. Lo que se compra allí no es un
+  souvenir.
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Reaching+Out+Tea+House+131+Tran+Phu+Hoi+An"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#hoi-an'
+    label: Hoi An
+  - ref: '#dia-11-hoi-an'
+    label: Día 11 · la siesta

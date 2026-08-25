@@ -22,6 +22,8 @@ veg: >-
   Vegetariano sí; **no vegano** (la leche condensada es lácteo). Para versión vegana, pedidlo negro
   (*cà phê đen đá*) o con coco.
 seenIn:
+  - ref: '#cafe-apartments'
+    label: The Cafe Apartments
   - ref: '#cafe-giang'
     label: cafés históricos → Giảng
   - ref: '#every-half'
