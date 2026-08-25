@@ -1,0 +1,46 @@
+slug: cafe-pho-co
+navLabel: "Café Phố Cổ"
+trip: vietnam
+part: vietnam
+city: "Hanói"
+category: cafe
+order: 75
+title: Café Phố Cổ
+tipo: azotea escondida al fondo de una tienda de seda
+area: "11 Hàng Gai · casco viejo, sobre el lago Hoàn Kiếm"
+cuando: "Hanói · el atardecer del día 2 o del 3"
+precio: "45-70k ₫ (~1,7-2,6 €)"
+reserva: "No"
+colas: "Para la mesa del balcón, sí"
+veg: "Café y té. Sin problema — el egg coffee lleva huevo y leche condensada, nada más."
+quePedir: >-
+  ***Cà phê trứng***, el egg coffee, que es de lo que vive la casa. Y pedirlo **abajo, al entrar**: se
+  paga en la planta baja y se sube con el vaso.
+body: >-
+  **La mejor vista de Hanói cuesta dos euros y hay que saber entrar.** No hay cartel a la calle: se entra
+  por una **tienda de seda** del número 11 de Hàng Gai, se cruza el pasillo hasta el fondo, se atraviesa
+  un patio de casa antigua y **se suben cuatro pisos a pie**. Arriba, una azotea con media docena de
+  mesas asomada al **lago Hoàn Kiếm**.
+
+  Es el contraste que define esta ciudad: abajo, Hàng Gai a las seis de la tarde es un río de motos y
+  regateo; cuatro plantas más arriba, se oyen los pájaros y se ve el agua entera con la torre de la
+  Tortuga en medio.
+
+  Y sirve **egg coffee**, que aquí no es un capricho de turista sino un invento de guerra: en los años
+  cuarenta faltaba leche, y a alguien se le ocurrió montar yema con leche condensada para sustituirla.
+  Lo tenéis contado en [la ficha del plato](#egg-coffee) y en su cuna,
+  [**Giảng**](#giang-cafe) — **este no es el original, pero es el que tiene la vista**.
+
+  *(Si lo que buscáis es un sky bar de verdad, el más alto es el **Top of Hanoi**, en la planta 65 de la
+  Torre Lotte. Pero está en Ba Đình, a tres kilómetros, cuesta diez veces más y la vista es de torres de
+  oficinas. Aquí se ve la ciudad que habéis venido a ver.)*
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Cafe+Pho+Co+11+Hang+Gai+Hanoi"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#egg-coffee'
+    label: El egg coffee
+  - ref: '#giang-cafe'
+    label: Café Giảng, la cuna
+  - ref: '#casco-viejo-hanoi'
+    label: El casco viejo

@@ -1,0 +1,41 @@
+slug: phi-banh-mi
+navLabel: "Phi Bánh Mì"
+trip: vietnam
+part: vietnam
+city: "Hoi An"
+category: street-food
+order: 101
+title: Phi Bánh Mì
+tipo: puesto diminuto, se ve la cola antes que el local
+area: "88 Thái Phiên · fuera del circuito turístico"
+cuando: "Hoi An · desayuno o merienda, cualquiera de los tres días"
+precio: "25-45k ₫ (~0,9-1,7 €)"
+reserva: "No"
+colas: "Sí, y es parte del sitio"
+veg: >-
+  **El mejor bánh mì vegetariano del viaje, y no es una concesión.** El Rough Guide lo dice sin rodeos —
+  *«los vegetarianos se deshacen en elogios por el de queso y tofu»*. Aquí ella come lo mismo que él y
+  no una versión recortada.
+badge: "Rough Guide"
+quePedir: >-
+  El de **queso y tofu** si es para ella; el mixto si es para él. Y **sin picante** si no queréis, porque
+  por defecto lleva.
+body: >-
+  Y aquí va una corrección honesta a lo que dice la mitad de internet. El bánh mì famoso de Hoi An es
+  [**Phượng**](#banh-mi-phuong), el que Bourdain coronó en 2009 — pero **el Rough Guide, que es la guía
+  que menos se deja llevar por la fama, señala este otro**: *«no busquéis más, el mejor bánh mì de Hoi
+  An; veréis la cola antes que el local»*.
+
+  Está en **Thái Phiên**, fuera del circuito de las tiendas de farolillos, y es un puesto de nada. La
+  diferencia con Phượng no es el pan ni el paté: es que **aquí la versión vegetariana está pensada**, con
+  queso fundido y tofu, en vez de ser el mismo bocadillo al que le quitan la carne.
+
+  **Lo razonable es probar los dos** —están a ocho minutos andando— y decidir. Son dos euros cada uno.
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Phi+Banh+Mi+88+Thai+Phien+Hoi+An"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#banh-mi'
+    label: El bánh mì
+  - ref: '#banh-mi-phuong'
+    label: Bánh Mì Phượng

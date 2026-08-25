@@ -1,0 +1,39 @@
+slug: m-bar-majestic
+navLabel: "M Bar (Majestic)"
+trip: vietnam
+part: vietnam
+city: "Saigón"
+category: cocteleria
+order: 119
+title: M Bar, en el Majestic
+tipo: azotea art déco de 1925, sobre el río Saigón
+area: "Planta 8 del Hotel Majestic · 1 Đồng Khởi, al final de la calle"
+cuando: "Saigón · el atardecer del día 14 o del 16"
+precio: "180-320k ₫ el cóctel (~6,5-12 €)"
+reserva: "No, salvo fin de semana al atardecer"
+colas: "No"
+veg: "Barra de hotel. Aperitivos con opciones veg."
+quePedir: >-
+  Cualquier cosa con hielo, en una mesa de la barandilla, mirando al río. Y llegar **antes de las seis**
+  para coger sitio en el lado del agua.
+body: >-
+  **La otra azotea histórica, y la que mira al agua.** El **Majestic** es de **1925**, art déco de
+  arriba abajo, y está plantado donde Đồng Khởi —la vieja **rue Catinat**— muere en el **río Saigón**.
+  Desde su octava planta se ve el río entero con los cargueros subiendo, que es una vista que el
+  [Caravelle](#saigon-saigon-bar) no tiene.
+
+  Durante la guerra fue el otro puesto de observación de la prensa: más discreto que el Caravelle, con
+  vistas al puerto y a los movimientos de barcos. Hoy es tranquilo y bastante más barato que su vecino.
+
+  **Cuál de los dos, si solo da tiempo a uno.** El **Caravelle** si queréis la ciudad, los neones y el
+  peso de la historia —y lo tenéis ya en el plan de la noche del 15—. El **Majestic** si queréis el río
+  y el atardecer, que cae mejor **la primera tarde, el día 14**, cuando llegáis a las cinco y no hay nada
+  programado. Está en el arranque del paseo del día 16, así que también sirve de última parada.
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=M+Bar+Hotel+Majestic+Saigon+Dong+Khoi"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#dia-14-angkor-vuelta'
+    label: Día 14 · la primera tarde
+  - ref: '#saigon-saigon-bar'
+    label: El Caravelle

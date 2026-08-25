@@ -1,0 +1,38 @@
+slug: soul-kitchen
+navLabel: "Soul Kitchen"
+trip: vietnam
+part: vietnam
+city: "Hoi An"
+category: comida
+order: 102
+title: Soul Kitchen
+tipo: chiringuito de madera con jardín, a pie de playa
+area: "Playa de An Bàng · 4 km al este del casco viejo"
+cuando: "Hoi An · la tarde del día 11, al final de la ruta en bici"
+precio: "90-200k ₫ (~3,3-7,5 €)"
+reserva: "Recomendable al atardecer, fin de semana"
+colas: "No"
+veg: >-
+  **Carta con sección vegetariana propia**, más ensaladas y pasta. Es de los pocos sitios de playa donde
+  no se resuelve con una guarnición.
+badge: "Rough Guide"
+quePedir: >-
+  Cualquier cosa a la brasa y una cerveza fría con los pies en la arena. No es un sitio para venir a
+  comer alta cocina: es para caer aquí después de pedalear.
+body: >-
+  **Es exactamente donde termina la ruta en bici del día 11**, y por eso está aquí. Después de Trà Quế y
+  cuatro kilómetros de camino entre arrozales, An Bàng aparece de golpe — y este es el sitio con más
+  fama de la playa, con mesas de madera bajo los árboles y el mar delante.
+
+  El Rough Guide lo describe como *«el centro de la escena de An Bàng: tranquilo, con una carta decente y
+  la vista perfecta para una cerveza fría»*. No hay más pretensión que esa, y a las seis de la tarde de
+  un día de septiembre es justo lo que se busca.
+
+  **La hora buena es de cinco y media a siete**: la marea de gente de la playa se va sobre las cinco, la
+  luz cae de lado sobre el agua y todavía da tiempo a volver pedaleando con claridad.
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Soul+Kitchen+An+Bang+Beach+Hoi+An"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#dia-11-hoi-an'
+    label: Día 11 · la tarde en bici

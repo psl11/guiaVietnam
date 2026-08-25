@@ -1,0 +1,41 @@
+slug: saigon-saigon-bar
+navLabel: "Saigon Saigon Bar"
+trip: vietnam
+part: vietnam
+city: "Saigón"
+category: cocteleria
+order: 118
+title: Saigon Saigon Bar
+tipo: azotea de 1959, la de los corresponsales de guerra
+area: "Planta 9 del Hotel Caravelle · plaza Lam Sơn, Distrito 1"
+cuando: "Saigón · el cierre de la noche del día 15"
+precio: "250-400k ₫ el cóctel (~9-15 €)"
+reserva: "Recomendable al atardecer"
+colas: "No"
+veg: "Es una barra. Los aperitivos tienen opciones veg."
+badge: "Time Out · 20 mejores azoteas del mundo"
+quePedir: >-
+  Un gin-tonic o el cóctel de la casa, y **mesa exterior en el ala original**, que es la de 1959 y la que
+  mira a la plaza. La ampliación nueva no tiene lo mismo.
+body: >-
+  **La azotea más cargada de historia de Vietnam, y en abril de 2025 Time Out la metió entre las veinte
+  mejores del mundo** — «una vista trepidante sobre una de las ciudades más vivas de Asia, con el sol
+  cayendo detrás de calles destartaladas salpicadas de edificios coloniales y torres de neón».
+
+  El **Caravelle** abrió en **1959** y su novena planta fue durante quince años **la oficina de la prensa
+  extranjera**: aquí tuvieron sede **NBC, ABC y CBS**, y desde esta terraza los corresponsales veían el
+  frente **con la copa en la mano** — en la ofensiva del Tet del 68 y en el asalto final de 1975. Apenas
+  ha cambiado.
+
+  Y está **a doscientos metros del [Continental](#saigon-hotel)**, o sea que es el remate natural de la
+  noche del día 15 al volver de Chợ Lớn. Es el otro extremo del hilo que se cierra a la mañana siguiente
+  en la terraza del Continental: **allí es el Saigón de Greene y los años cincuenta; aquí, el de los
+  reporteros de la guerra americana**. Dos barras y dos guerras, a cuatro manzanas.
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Saigon+Saigon+Rooftop+Bar+Caravelle+Ho+Chi+Minh"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#dia-15-hanoi-trung-thu'
+    label: Día 15 · el cierre de la noche
+  - ref: '#dia-16-despedida'
+    label: Día 16 · el Continental
