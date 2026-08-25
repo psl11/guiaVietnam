@@ -148,6 +148,10 @@ export const RecoSchema = z.object({
   // objeto → «[object Object]»). Igual que el hero usa `heroMeta`, aquí es `note`.
   note: z.string().optional(), // '3 noches · ~40 €/noche' / 'agosto · 30 USD/persona'
   body: Md, // el porqué + el cómo
+  // Banda del tablero de reservas (ReservasBoard). Es lo ÚNICO que el tablero no puede deducir solo:
+  // 'ya' (bloquea el viaje), 'semanas' (se agota), 'dias' (basta con avisar), 'vispera' (sobre la
+  // marcha). Si falta, el tablero aplica su regla por defecto — ver ReservasBoard.vue.
+  urgencia: z.enum(['ya', 'semanas', 'dias', 'vispera']).optional(),
   link: z.object({ url: z.string(), label: z.string() }).optional(), // reserva / Google Maps
 })
 
@@ -172,6 +176,10 @@ export const ComidaSchema = z.object({
   soloEl: z.boolean().optional(), // true = icono NO-veg → va al bloque «Los intocables · no aptos para vegetarianos», fuera del directorio veg-friendly
   precio: z.string().optional(), // '50–70k ₫ (~2–2,6 €)'
   reserva: z.string().optional(), // 'No' · 'Recomendable' · 'Imprescindible'
+  // Banda del tablero de reservas (ReservasBoard). Es lo ÚNICO que el tablero no puede deducir solo:
+  // 'ya' (bloquea el viaje), 'semanas' (se agota), 'dias' (basta con avisar), 'vispera' (sobre la
+  // marcha). Si falta, el tablero aplica su regla por defecto — ver ReservasBoard.vue.
+  urgencia: z.enum(['ya', 'semanas', 'dias', 'vispera']).optional(),
   colas: z.string().optional(), // 'Sí, van rápidas' · 'No'
   veg: z.string(), // OBLIGATORIO y explícito: '100% vegetariano' · 'buenas opciones veg' · 'no apto (solo él)'…
   badge: z.string().optional(), // sello: '★ Michelin' · 'Bib Gourmand' · "Asia's 50 Best" · 'Vietnam Coracle'…
@@ -216,6 +224,10 @@ export const SalirSchema = z.object({
   cuando: z.string().optional(),
   precio: z.string().optional(),
   reserva: z.string().optional(),
+  // Banda del tablero de reservas (ReservasBoard). Es lo ÚNICO que el tablero no puede deducir solo:
+  // 'ya' (bloquea el viaje), 'semanas' (se agota), 'dias' (basta con avisar), 'vispera' (sobre la
+  // marcha). Si falta, el tablero aplica su regla por defecto — ver ReservasBoard.vue.
+  urgencia: z.enum(['ya', 'semanas', 'dias', 'vispera']).optional(),
   body: Md,
   link: z.object({ url: z.string(), label: z.string() }).optional(),
   seenIn: z.array(Link).optional(),

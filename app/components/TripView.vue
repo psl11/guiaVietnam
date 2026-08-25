@@ -16,6 +16,7 @@ const camboyaFichas = computed(() => fichas.value.filter(f => f.part === 'camboy
 const hayCamboya = computed(() => camboyaActos.value.length + camboyaFichas.value.length > 0)
 const hayPlan = computed(() => dias.value.length + inversiones.value.length > 0)
 const hayLogistica = computed(() => tramos.value.length > 0)
+const hayReservas = computed(() => recos.value.some(r => r.status === 'pendiente'))
 
 // Recomendaciones (Parte I · prácticos): agrupadas por tipo, en orden fijo de grupo.
 // 'comer' ya no está: la comida vive en la sección Gastronomía. Quedan dormir · reservar · moverse.
@@ -85,7 +86,7 @@ const knownAnchors = computed(() => new Set<string>([
   ...comidas.value.map(c => c.slug),
   ...platos.value.map(p => p.slug),
   ...salir.value.map(s => s.slug),
-  'el-plan', 'logistica', 'gasto', 'reservas', 'gastronomia', 'salir', 'vietnam', 'camboya',
+  'el-plan', 'logistica', 'gasto', 'tablero-reservas', 'reservas', 'gastronomia', 'salir', 'vietnam', 'camboya',
 ]))
 
 // Índice flotante ─────────────────────────────────────────────────────────────
@@ -137,6 +138,14 @@ const nav = computed(() => {
       label: 'Dónde gastar',
       anchor: 'gasto',
       items: inversiones.value.map(i => ({ id: i.slug, label: i.navLabel ?? stripMd(i.title), kind: 'inversion' as const })),
+    })
+  }
+  if (hayReservas.value) {
+    groups.push({
+      key: 'tablero-reservas',
+      label: 'Reservas urgentes',
+      anchor: 'tablero-reservas',
+      items: [{ id: 'tablero-reservas', label: 'Qué reservar y cuándo', kind: 'reco' as const }],
     })
   }
   if (recos.value.length) {
@@ -288,6 +297,21 @@ const indexOpen = ref(false)
           :inversion="inv"
         />
       </template>
+    </template>
+
+    <!-- El tablero de reservas: se DERIVA de recos/comidas/salir, no se escribe a mano. -->
+    <template v-if="hayReservas">
+      <Threshold
+        id="tablero-reservas"
+        overline="Lo que hay que cerrar"
+        title="Reservas, por *urgencia*"
+        dek="Todo lo que sigue sin reservar, ordenado por cuándo hay que hacerlo y no por dónde está. Se genera solo a partir de las fichas: cuando algo pasa a *reservado*, desaparece de aquí."
+      />
+      <ReservasBoard
+        :recos="recos"
+        :comidas="comidas"
+        :salir="salir"
+      />
     </template>
 
     <!-- Los prácticos: el directorio de hoteles y reservas (agrupado por tipo). -->
