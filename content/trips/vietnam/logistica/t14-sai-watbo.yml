@@ -5,11 +5,11 @@ dia: 12
 fecha: mar 22 sep
 tipo: coche
 desde: Siem Reap (SAI)
-hasta: Wat Bo
+hasta: Prana Hotel · Svay Dangkum
 salida: "18:35"
 llegada: "~19:15"
 duracion: ~45 min
 medio: Transfer del hotel · 45 km
-status: pendiente
-nota: El aeropuerto nuevo está a 45 km del centro. Pedid el transfer al reservar el hotel.
+status: reservado
+nota: El aeropuerto nuevo está a casi 50 km. El Prana hace traslado — confirmadlo con la reserva.
 ref: '#siem-reap-hotel'

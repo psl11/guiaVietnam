@@ -67,7 +67,7 @@ blocks:
       [los deberes hechos](#camboya-cine-libros): las películas y los libros que la piedra de Angkor no os
       va a contar—. Se aterriza en **SAI**, el aeropuerto
       nuevo (inaugurado a finales de 2023, a unos 45 km al este de la ciudad): transfer del hotel, casi
-      una hora entre campos, y a la habitación de la zona de **Wat Bo** hacia las 19:15.
+      una hora entre campos, y a la habitación del [**Prana**](#siem-reap-hotel), en Svay Dangkum, hacia las 19:15.
     window:
       label: Por qué este vuelo
       body: >-
@@ -77,9 +77,9 @@ blocks:
         pierde nada irremplazable.
   - block: Noche
     time: "~20:00"
-    title: Cena en Wat Bo y el circo Phare
+    title: Cena rápida y el circo Phare
     body: >-
-      Cena rápida en la zona de **Wat Bo** y, a las **20:00**, [**Phare, el circo camboyano**](#phare-circo):
+      Cena rápida cerca del hotel —el Old Market queda a un paseo— y, a las **20:00**, [**Phare, el circo camboyano**](#phare-circo):
       teatro-circo narrativo, sin animales, unos setenta minutos bajo una carpa pequeña. No es solo un
       espectáculo. Phare nació de **Phare Ponleu Selpak**, la escuela de artes que nueve jóvenes
       ex-refugiados fundaron en Battambang en 1994 —habían aprendido a dibujar como terapia en un campo
@@ -98,5 +98,5 @@ blocks:
         esta noche —sin amanecer todavía que preparar— es la que sobra para sentarse bajo la carpa. Eso
         sí: el despertador suena a las **4:15**, así que a la cama pronto.
 dormir:
-  lugar: "Siem Reap · Wat Bo"
+  lugar: "Siem Reap · Prana Hotel"
   ref: '#siem-reap-hotel'
