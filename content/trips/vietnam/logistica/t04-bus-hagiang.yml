@@ -4,12 +4,12 @@ order: 4
 dia: 5
 fecha: mar 15 sep
 tipo: bus
-desde: Ninh Bình (Đồng Giừng)
+desde: Ninh Bình (Đồng Gừng)
 hasta: Hà Giang
 salida: "20:30"
 llegada: "~04:00 +1"
 duracion: ~7 h 30
 medio: Cabina VIP · BiBi
-status: pendiente
-nota: Directo, sin pasar por Hanói. La recogida es en Ninh Bình ciudad, no en Tam Cốc — confirmad el punto exacto.
+status: reservado
+nota: Directo, sin pasar por Hanói. La confirmación solo dice «Đồng Gừng» — pedidles la ubicación exacta.
 ref: '#traslado-ha-giang'

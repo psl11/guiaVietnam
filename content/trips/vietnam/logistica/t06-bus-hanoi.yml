@@ -10,6 +10,6 @@ salida: "22:00"
 llegada: "~05:00 +1"
 duracion: 7 h
 medio: Cabina VIP · BiBi
-status: pendiente
+status: reservado
 nota: Coged la variante al aeropuerto y no la del casco viejo, que mañana se vuela a las 7:30.
 ref: '#traslado-ha-giang'
