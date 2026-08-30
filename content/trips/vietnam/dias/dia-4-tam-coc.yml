@@ -46,9 +46,15 @@ blocks:
     time: "última hora de la tarde"
     title: En bici entre arrozales, hasta Bích Động
     body: >-
-      Al bajar de la barca, y con el sol ya declinando, la última hora es de **bicicleta**. El mejor terreno es el campo
-      **entre Tam Cốc y Bích Động**: arrozales de un verde jugoso —septiembre viene de lluvias— y
-      farallones kársticos que se levantan de la nada, a cinco o diez minutos de pedaleo del pueblo.
+      Al bajar de la barca, y con el sol ya declinando, la última hora es de **bicicleta**. El terreno
+      clásico es el campo **entre Tam Cốc y Bích Động**: arrozales de un verde jugoso —septiembre viene
+      de lluvias— y farallones kársticos que se levantan de la nada.
+
+      **Con una cuenta que hay que hacer, porque dormís en [Hang Múa](#tam-coc) y no en Tam Cốc:**
+      Bích Động queda a **unos cinco kilómetros**, o sea diez ida y vuelta. Es una salida, no un rodeo.
+      Las dos opciones son buenas y conviene elegir antes de arrancar: **o se hace entera** —es llano y
+      da tiempo de sobra saliendo a las cinco—, **o se pedalea por los arrozales de alrededor del propio
+      Hang Múa**, que son igual de buenos y dejan la tarde más suelta.
       La ruta muere en [**Bích Động**](#bich-dong), «la gruta de jade»: una **pagoda en cueva** de tres niveles
       escalonados en la pared de la montaña, con el templete del medio metido en la boca de una
       gruta. Es gratis, se ve en tres cuartos de hora y es el tam giáo hecho arquitectura —la montaña
@@ -74,5 +80,5 @@ blocks:
         el sol y los autobuses. Esta noche —sin nada que coger todavía— es la que sobra para dormir de
         un tirón antes del único gran madrugón de Ninh Bình.
 dormir:
-  lugar: "Tam Cốc, entre los arrozales"
+  lugar: "Ninh Bình · al pie de Hang Múa"
   ref: '#tam-coc'
