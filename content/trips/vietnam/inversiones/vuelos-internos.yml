@@ -13,8 +13,8 @@ lede: >-
 ledger:
   - label: Lo cerrado · el bloque de Camboya
     body: >-
-      **VJ913** — mar **22 sep**, Hanói **16:20 → Siem Reap 18:05** (1 h 45, directo). **K6 824** — jue
-      **24 sep**, Siem Reap **15:00 → Saigón 15:50** (Air Cambodia). **VJ142** — sáb **26 sep**, Saigón
+      **VJ913** — mar **22 sep**, Hanói **16:20 → Siem Reap 18:05** (1 h 45, directo). **K6 828** — jue
+      **24 sep**, Siem Reap **19:40 → Saigón 21:10** (Air Cambodia; reubicados tras cancelarse el 824). **VJ142** — sáb **26 sep**, Saigón
       **13:25 → Hanói 15:35**, enlazando con el vuelo largo a casa. Los tres, solo cabina. Ojo con el
       aeropuerto: **SAI** es el **nuevo** de Siem Reap (abierto en 2023), a unos 45 km del centro.
   - label: Lo cerrado · Hoi An
@@ -39,8 +39,9 @@ ledger:
       permite decidir rápido en un mostrador.
   - label: Por qué encajan
     body: >-
-      El **K6 824 del jueves 24** aterriza en Saigón a las 15:50 y deja **la primera tarde entera** en
-      el sur, con el Trung Thu del viernes 25 en la calle de los farolillos de Lương Nhữ Học. Y el
+      El **K6 828 del jueves 24** ya no deja tarde en Saigón —se aterriza a las 21:10— pero **devuelve
+      media jornada en Camboya**, y con ella el Tonlé Sap. El Trung Thu del viernes 25 en Lương Nhữ Học,
+      que era el motivo de volar ese día, no se toca. Y el
       **VJ142** llega a las 15:35 en **T1**, con más de cinco horas antes del vuelo largo desde **T2**
       — margen suficiente para los 38 minutos de retraso medio que acumula esa ruta.
   - label: El veredicto

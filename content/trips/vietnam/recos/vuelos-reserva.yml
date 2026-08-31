@@ -6,13 +6,14 @@ kind: reservar
 title: Los tres vuelos del final
 area: Hanói → Camboya → Saigón → Hanói
 status: reservado
-note: "Los tres del bloque Camboya, comprados · VJ913 (22) + K6 824 (24) + VJ142 (26)"
+note: "Los tres del bloque Camboya, comprados · VJ913 (22) + K6 828 (24, reubicado) + VJ142 (26)"
 body: >-
   **Cerrado.** El final del viaje se sostiene sobre tres vuelos y los tres están comprados.
 
 
   - **VJ913 · martes 22 sep** — HAN **16:20 → Siem Reap 18:05** (VietJet, 1 h 45, directo).
-  - **K6 824 · jueves 24 sep** — Siem Reap **15:00 → Saigón 15:50** (Air Cambodia).
+  - **K6 828 · jueves 24 sep** — Siem Reap **19:40 → Saigón 21:10** (Air Cambodia). *Era el K6 824 de
+    las 15:00; la compañía lo canceló «por motivos comerciales» el 30 de agosto y os reubicó en este.*
   - **VJ142 · sábado 26 sep** — Saigón **13:25 → Hanói 15:35** (VietJet, 2 h 10, diario).
 
 
