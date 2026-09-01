@@ -15,7 +15,14 @@ const MB = 1024 * 1024
 const BUDGET = {
   maxImage: 500 * KB, // una sola foto sin optimizar dispara esto (hoy la mayor ~333 KB)
   totalImg: 15 * MB, // descarga offline de fotos (hoy ~7,7 MB → holgura para ~doblar)
-  payloadGz: 550 * KB, // _payload.json comprimido (hoy ~339 KB → holgura de ~60%)
+  // _payload.json comprimido. Subido de 550 a 650 KB el 1-sep-2026, a conciencia y no por sorpresa:
+  // desde que se fijó el umbral el corpus ha crecido de verdad —entraron Hoi An y Saigón enteros, la
+  // colección `logistica` (21 tramos), el tablero de reservas y una treintena de comidas—, y el
+  // payload pasó de ~339 KB a ~567 KB. OJO: parte de ese peso NO es contenido. Una cadena que aparece
+  // 2 veces en los .yml sale 4 veces en el payload, o sea que cada documento se está serializando por
+  // duplicado. Si eso se arregla, el payload debería caer a la mitad y este umbral hay que volver a
+  // bajarlo.
+  payloadGz: 650 * KB,
 }
 
 const fails = []
