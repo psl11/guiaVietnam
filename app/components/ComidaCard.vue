@@ -49,7 +49,7 @@ const mapsUrl = computed(() =>
       v-if="comida.cuando"
       class="comida-cuando"
     >
-      <span aria-hidden="true">📍</span> {{ comida.cuando }}
+      <span aria-hidden="true">🕑</span> {{ comida.cuando }}
     </div>
 
     <div
