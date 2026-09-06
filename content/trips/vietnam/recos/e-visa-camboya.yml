@@ -1,32 +1,41 @@
 slug: e-visa-camboya
-navLabel: "Visados y entradas"
+navLabel: "Las tres tarjetas de llegada"
 trip: vietnam
 order: 12
 kind: reservar
 title: Visados y tarjetas de entrada
-area: Camboya en agosto · Vietnam 72 h antes
+area: Visado hecho · faltan tres QR, y el primero vence el 8
 status: pendiente
-note: "Camboya e-visa ~36 US$ · Vietnam: DOS tarjetas de llegada digitales (11 y 24 sep)"
+urgencia: ya
+note: "El e-visa de Camboya ya está · quedan TRES tarjetas digitales, la primera a partir del 8 de sep"
 body: >-
-  **Vietnam:** **sin e-visa** (exención de 45 días para España; pasaporte válido hasta marzo 2027).
-  **Pero desde el 15 de junio de 2026 es obligatoria la Tarjeta de Llegada Digital** —también para los
-  exentos de visado—: es **gratis**, en la web **oficial** prearrival.immigration.gov.vn, se rellena en
-  las **72 horas antes** de volar y genera un **QR** que se guarda para inmigración. Ojo con los clones
-  de pago; la oficial es gratuita.
+  **El e-visa de Camboya está hecho, y con eso se acaba lo que se compra.** Lo que queda no cuesta
+  dinero y por eso mismo se olvida: **tres tarjetas de llegada digitales, gratuitas, con ventana de
+  fecha**. Sin su QR no se pasa inmigración, y ninguna de las tres se puede rellenar todavía «por
+  adelantado y ya está» — cada una abre en su momento.
 
 
-  **Y ojo, que con Saigón dentro entráis dos veces en Vietnam**: salís el 22 hacia Camboya y volvéis el
-  24 aterrizando en Saigón. Está cubierto —la exención española es de **entradas múltiples y ya no
-  exige intervalo mínimo** entre estancias; la vieja regla de los 30 días se eliminó, y la exención
-  sigue vigente hasta **marzo de 2028**—, pero tiene dos consecuencias prácticas: hacen falta **dos
-  tarjetas de llegada digitales, no una** (antes del vuelo del 11 y antes del **K6 828 del 24**), y el
-  pasaporte necesita **dos páginas en blanco**.
+  **1 · Vietnam, la de la ida. Se rellena a partir del 8 de septiembre.** Es la única con prisa real.
+  Vietnam **no** os pide visado —exención de 45 días para España—, pero **desde el 15 de junio de 2026
+  la Tarjeta de Llegada Digital es obligatoria también para los exentos**. Es **gratis**, se hace en
+  las **72 horas antes** de volar y genera un QR que hay que guardar offline. La web oficial es
+  **prearrival.immigration.gov.vn**: hay clones que cobran por lo mismo.
 
 
-  **Camboya:** **e-visa en agosto**, solo en la web **oficial** (evisa.gov.kh) —hay clones que cobran el
-  doble—; cuesta **~36 US$** (30 de visado + ~6 de gestión). Y del **15 al 21 de septiembre**, la
-  **e-Arrival Card** de Camboya (gratis, en arrival.gov.kh; otro QR que guardar). Comprobad además que
-  los pasaportes valgan **6 meses** desde la entrada.
+  **2 · Camboya, la e-Arrival Card. Del 15 al 21 de septiembre.** Otra distinta del visado y también
+  gratuita, en **arrival.gov.kh**. Se abre en los siete días previos a entrar, y vosotros entráis el 22.
+
+
+  **3 · Vietnam otra vez, la de la vuelta. A partir del 21 de septiembre.** Y esta es la que nadie ve
+  venir: **con Saigón dentro, entráis en Vietnam dos veces** —salís el 22 hacia Camboya y volvéis el
+  **24 con el K6 828**—, así que hacen falta **dos tarjetas vietnamitas, no una**. La segunda se
+  rellena en las 72 horas previas al vuelo del 24.
+
+
+  **Está permitido, pero comprobad el pasaporte.** La exención española es de **entradas múltiples** y
+  ya **no exige intervalo mínimo** entre estancias (la vieja regla de los 30 días se eliminó), y sigue
+  vigente hasta **marzo de 2028**. Dos consecuencias físicas: el pasaporte necesita **dos páginas en
+  blanco** para los sellos, y para Camboya tiene que valer **seis meses desde la entrada**.
 link:
   url: "https://prearrival.immigration.gov.vn"
   label: prearrival.immigration.gov.vn
