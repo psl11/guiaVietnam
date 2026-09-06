@@ -1,0 +1,48 @@
+slug: co-dam
+trip: vietnam
+part: vietnam
+city: Hanói
+category: cena
+order: 27
+title: Cồ Đàm
+navLabel: "Cồ Đàm (chay)"
+tipo: Chay de alta cocina · solo menú degustación
+area: 68A Trần Hưng Đạo (vuestra propia calle, entre el hotel y Nàng Tấm)
+cuando: "Sin hueco propio — solo cabe renunciando a la función del sábado 12"
+precio: menú corto o largo · 680–880k ₫/persona (~25–31 €)
+reserva: "Imprescindible · tel. 024 3826 0222"
+colas: "No"
+veg: 100% vegetariano · sin platos sueltos, todo va dentro del menú cerrado
+badge: Selección Michelin
+quePedir: >-
+  No hay carta: se elige entre el **menú corto y el largo**. Clásicos vietnamitas reinterpretados y
+  emplatados con oficio de casa de estrella, servidos como un relato de principio a fin.
+body: >-
+  **Antes de reservar conviene saber que es hermano de [Ưu Đàm](#uu-dam-chay)**: los dos son de la
+  misma casa —Hà Đỗ, que además lleva el buffet Sadhu—, así que no son dos hallazgos sino uno con dos
+  formatos. Ưu Đàm es el **Bib Gourmand** y se come a la carta en una hora; **Cồ Đàm es la versión de
+  alta cocina y solo sirve menú cerrado**, en un edificio de ladrillo con arcos de inspiración chăm y
+  budista, cuatro plantas y un estanque con un Buda de terracota en la baja. Entró en la **selección**
+  de la Michelin en junio de 2023 —selección, no Bib ni estrella— y ahí sigue.
+
+
+  **El problema no es el restaurante: es el calendario.** Un menú degustación son dos horas largas, y
+  las dos noches de Hanói tienen función a las 20:00 — las [marionetas](#teatro-thang-long) el sábado
+  y el [ca trù](#ca-tru-hang-bac) el domingo. Cồ Đàm solo entra **sacrificando la del sábado**, que es
+  exactamente la renuncia que ya pide [Gia](#gia): **una estrella Michelin**, doce pases, y **menú
+  vegetariano completo avisando al reservar**.
+
+
+  Puesta así, la decisión se ordena sola: **si vais a gastar una de las dos noches de Hanói en una
+  cena larga, gastadla en la estrella**. Cồ Đàm es el plan B de esa misma jugada — y se convierte en
+  plan A solo si preferís una casa **100% chay**, sin carne en la sala, por la mitad de precio. Está
+  en el **68A de Trần Hưng Đạo**, o sea entre el [De Syloia](#de-syloia) (17A) y
+  [Nàng Tấm](#com-chay-nang-tam) (79A): los tres en la misma acera larga.
+link:
+  url: "https://www.google.com/maps/search/?api=1&query=Co+Dam+68A+Tran+Hung+Dao+Hanoi"
+  label: Ver en el mapa
+seenIn:
+  - ref: '#uu-dam-chay'
+    label: Ưu Đàm, el hermano Bib Gourmand
+  - ref: '#gia'
+    label: Gia, la estrella que pide la misma noche
