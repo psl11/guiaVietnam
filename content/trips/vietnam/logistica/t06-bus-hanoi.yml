@@ -7,9 +7,9 @@ tipo: bus
 desde: Hà Giang
 hasta: Nội Bài
 salida: "22:00"
-llegada: "~05:00 +1"
+llegada: "~03:00-04:00 +1"
 duracion: 7 h
 medio: Cabina VIP · BiBi
 status: reservado
-nota: Coged la variante al aeropuerto y no la del casco viejo, que mañana se vuela a las 7:30.
+nota: Coged la variante al aeropuerto y no la del casco viejo — el VJ501 sale a las 05:40 y la puerta cierra a las 05:25.
 ref: '#traslado-ha-giang'
